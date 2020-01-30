@@ -10,4 +10,8 @@
 [Tecnicas de extracción](https://www.linkedin.com/pulse/t%C3%A9cnicas-de-extracci%C3%B3n-datos-scraping-%C3%A1lvaro-gonz%C3%A1lez-gallardo)
 
 [Extracción para principiantes](https://bbvaopen4u.com/es/actualidad/herramientas-de-extraccion-de-datos-para-principiantes-y-profesionales)
+
+[Excel de Google en base de datos](https://www.jasoft.org/Blog/post/como-usar-una-hoja-de-calculo-de-google-como-backend-json.aspx)
+
+
  
