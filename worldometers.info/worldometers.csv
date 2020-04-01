@@ -1,5 +1,5 @@
 "Country,Other",TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,"Serious,Critical",Tot Cases/1M pop,Deaths/1M pop,Reported1st case,Primer caso
-USA,188881,+351,4066.0,+13,7251.0,177564,4576.0,571.0,12.0,Jan 20,Jan
+USA,189287,+757,4082.0,+29,7251.0,177954,4576.0,572.0,12.0,Jan 20,Jan
 Italy,105792,,12428.0,,15729.0,77635,4023.0,1750.0,206.0,Jan 29,Jan
 Spain,102136,"+6,213",9053.0,+589,22647.0,70436,5872.0,2185.0,194.0,Jan 30,Jan
 Germany,74508,"+2,700",821.0,+46,16100.0,57587,2675.0,889.0,10.0,Jan 26,Jan
@@ -204,4 +204,4 @@ St. Vincent Grenadines,1,,,,1.0,0,,9.0,,Mar 10,Mar
 Sierra Leone,1,,,,,1,,0.1,,Mar 30,Mar
 Timor-Leste,1,,,,,1,,0.8,,Mar 20,Mar
 China,81554,+36,3312.0,+7,76238.0,2004,466.0,57.0,2.0,Jan 10,Jan
-Total:,884190,"+25,871",44169.0,"+1,867",185180.0,654841,33756.0,113.4,5.7,,nan
+Total:,884596,"+26,277",44185.0,"+1,883",185180.0,655231,33756.0,113.5,5.7,,nan
