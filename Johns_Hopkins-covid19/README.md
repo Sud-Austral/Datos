@@ -23,18 +23,18 @@ Datos de serie confirmados
 [Confirmados](https://raw.githubusercontent.com/Sud-Austral/Datos/master/Johns_Hopkins-covid19/series/time_series_covid19_confirmed_global.csv)
 
 Datos de serie recuperados
-[Confirmados](https://raw.githubusercontent.com/Sud-Austral/Datos/master/Johns_Hopkins-covid19/series/time_series_covid19_recovered_global.csv)
+[Recuperados](https://raw.githubusercontent.com/Sud-Austral/Datos/master/Johns_Hopkins-covid19/series/time_series_covid19_recovered_global.csv)
 
 Datos de serie fallecidos
-[Confirmados](https://raw.githubusercontent.com/Sud-Austral/Datos/master/Johns_Hopkins-covid19/series/time_series_covid19_deaths_global.csv)
+[Fallecidos](https://raw.githubusercontent.com/Sud-Austral/Datos/master/Johns_Hopkins-covid19/series/time_series_covid19_deaths_global.csv)
 
 #### Datos de US
 
 Datos de serie confirmados
-[Confirmados](https://raw.githubusercontent.com/Sud-Austral/Datos/master/Johns_Hopkins-covid19/series/time_series_covid19_confirmed_US.csv)
+[ConfirmadosUS](https://raw.githubusercontent.com/Sud-Austral/Datos/master/Johns_Hopkins-covid19/series/time_series_covid19_confirmed_US.csv)
 
 Datos de serie fallecidos
-[Confirmados](https://raw.githubusercontent.com/Sud-Austral/Datos/master/Johns_Hopkins-covid19/series/time_series_covid19_deaths_US.csv)
+[FallecidosUS](https://raw.githubusercontent.com/Sud-Austral/Datos/master/Johns_Hopkins-covid19/series/time_series_covid19_deaths_US.csv)
 
 
 
