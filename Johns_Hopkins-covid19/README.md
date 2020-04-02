@@ -1,5 +1,5 @@
 ## Información del COVID 19 de la universidad de Johns Hopkins CSSE
-#### Considerada por muchas fuentes como una de las fuentes más importantes
+#### Considerada por muchos como una de las fuentes más importantes
 
 Repositorio oficial de Johns Hopkins
 [Repositorio](https://github.com/CSSEGISandData/COVID-19)
