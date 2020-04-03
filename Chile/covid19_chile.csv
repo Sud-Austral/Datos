@@ -1,209 +1,209 @@
 ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tipo_de_caso,lat_comuna,lon_comuna
-1,03-03-2020,9.0,Chile,Maule,Masculino,33,Hospital de Talca,Talca,-35.427058,-71.6461858,Confirmado,-35.423,-71.657
-2,03-03-2020,9.0,Chile,Maule,Femenino,33,Hospital de Talca,Talca,-35.427058,-71.6461858,Confirmado,-35.423,-71.657
-3,04-03-2020,7.0,Chile,Metropolitana,Femenino,56,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
-4,05-03-2020,7.0,Chile,Metropolitana,Femenino,40,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
-5,06-03-2020,7.0,Chile,Metropolitana,Masculino,58,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
-6,07-03-2020,7.0,Chile,Metropolitana,Masculino,17,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
-7,07-03-2020,14.0,Chile,Los Lagos,Femenino,20,Hospital de Puerto Montt,Puerto Montt,-41.4491766,-72.9572697,Confirmado,-41.45399999999999,-72.993
-8,08-03-2020,7.0,Chile,Metropolitana,Femenino,83,Clínica Las Condes,Las Condes,-33.3848002,-70.5302759,Confirmado,-33.4,-70.503
-9,08-03-2020,7.0,Chile,Metropolitana,Masculino,14,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
-10,08-03-2020,9.0,Chile,Maule,Masculino,39,Hospital de Talca,Talca,-35.427058,-71.6461858,Confirmado,-35.423,-71.657
-11,09-03-2020,7.0,Chile,Metropolitana,Masculino,42,Clínica U. de Los Andes,Las Condes,-33.4055828,-70.5034723,Confirmado,-33.4,-70.503
-12,09-03-2020,9.0,Chile,Maule,Femenino,2,Hospital de Talca,Talca,-35.427058,-71.6461858,Confirmado,-35.423,-71.657
-13,09-03-2020,11.0,Chile,Biobío,Masculino,38,Hospital de Los Ángeles,Los Ángeles,-37.4735237,-72.346625,Confirmado,-36.944,-72.351
-14,10-03-2020,7.0,Chile,Metropolitana,Masculino,40,Clínica U. de Los Andes,Las Condes,-33.4055828,-70.5034723,Confirmado,-33.4,-70.503
-15,10-03-2020,7.0,Chile,Metropolitana,Femenino,31,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
-16,10-03-2020,7.0,Chile,Metropolitana,Femenino,32,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
-17,10-03-2020,9.0,Chile,Maule,Masculino,21,Hospital de Talca,Talca,-35.427058,-71.6461858,Confirmado,-35.423,-71.657
-18,11-03-2020,7.0,Chile,Metropolitana,Femenino,58,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
-19,11-03-2020,7.0,Chile,Metropolitana,Femenino,48,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
-20,11-03-2020,7.0,Chile,Metropolitana,Femenino,23,Hospital de Carabineros,Ñuñoa,-33.4498066,-70.608953,Confirmado,-33.454,-70.604
-21,11-03-2020,7.0,Chile,Metropolitana,Masculino,26,Red de Salud UC-Christus San Carlos de Apoquindo,Las Condes,-33.40039539999999,-70.50964959999999,Confirmado,-33.4,-70.503
-22,11-03-2020,9.0,Chile,Maule,Femenino,24,Hospital de Talca,Talca,-35.427058,-71.6461858,Confirmado,-35.423,-71.657
-23,11-03-2020,9.0,Chile,Maule,Masculino,29,Hospital de Curicó,Curicó,-34.9899079,-71.2355018,Confirmado,-34.976,-71.22399999999999
-24,12-03-2020,7.0,Chile,Metropolitana,Femenino,46,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
-25,12-03-2020,7.0,Chile,Metropolitana,Masculino,67,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
-26,12-03-2020,7.0,Chile,Metropolitana,Femenino,31,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
-27,12-03-2020,7.0,Chile,Metropolitana,Femenino,46,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
-28,12-03-2020,7.0,Chile,Metropolitana,Masculino,23,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
-29,12-03-2020,7.0,Chile,Metropolitana,Femenino,34,Clínica Tabancura,Vitacura,-33.3823479,-70.53547859999999,Confirmado,-33.378,-70.562
-30,12-03-2020,7.0,Chile,Metropolitana,Femenino,29,Clínica Las Condes,Las Condes,-33.3848002,-70.5302759,Confirmado,-33.4,-70.503
-31,12-03-2020,7.0,Chile,Metropolitana,Femenino,28,Clínica Las Condes,Las Condes,-33.3848002,-70.5302759,Confirmado,-33.4,-70.503
-32,12-03-2020,7.0,Chile,Metropolitana,Femenino,21,Laboratorio Integramédica,Las Condes,-33.3909085,-70.5461553,Confirmado,-33.4,-70.503
-33,12-03-2020,10.0,Chile,Ñuble,Masculino,29,Clínica de Chillán,Chillán,-36.61509470000001,-72.10759540000001,Confirmado,-36.601,-72.109
-34,13-03-2020,7.0,Chile,Metropolitana,Masculino,35,Clínica Red Salud Santiago,Estación Central,-33.4574432,-70.70162320000001,Confirmado,-33.459,-70.699
-35,13-03-2020,7.0,Chile,Metropolitana,Femenino,50,Clínica Tabancura,Vitacura,-33.3823479,-70.53547859999999,Confirmado,-33.378,-70.562
+1,03-03-2020,9.0,Chile,Maule,Masculino,33.0,Hospital de Talca,Talca,-35.427058,-71.6461858,Confirmado,-35.423,-71.657
+2,03-03-2020,9.0,Chile,Maule,Femenino,33.0,Hospital de Talca,Talca,-35.427058,-71.6461858,Confirmado,-35.423,-71.657
+3,04-03-2020,7.0,Chile,Metropolitana,Femenino,56.0,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
+4,05-03-2020,7.0,Chile,Metropolitana,Femenino,40.0,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
+5,06-03-2020,7.0,Chile,Metropolitana,Masculino,58.0,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
+6,07-03-2020,7.0,Chile,Metropolitana,Masculino,17.0,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
+7,07-03-2020,14.0,Chile,Los Lagos,Femenino,20.0,Hospital de Puerto Montt,Puerto Montt,-41.4491766,-72.9572697,Confirmado,-41.45399999999999,-72.993
+8,08-03-2020,7.0,Chile,Metropolitana,Femenino,83.0,Clínica Las Condes,Las Condes,-33.3848002,-70.5302759,Confirmado,-33.4,-70.503
+9,08-03-2020,7.0,Chile,Metropolitana,Masculino,14.0,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
+10,08-03-2020,9.0,Chile,Maule,Masculino,39.0,Hospital de Talca,Talca,-35.427058,-71.6461858,Confirmado,-35.423,-71.657
+11,09-03-2020,7.0,Chile,Metropolitana,Masculino,42.0,Clínica U. de Los Andes,Las Condes,-33.4055828,-70.5034723,Confirmado,-33.4,-70.503
+12,09-03-2020,9.0,Chile,Maule,Femenino,2.0,Hospital de Talca,Talca,-35.427058,-71.6461858,Confirmado,-35.423,-71.657
+13,09-03-2020,11.0,Chile,Biobío,Masculino,38.0,Hospital de Los Ángeles,Los Ángeles,-37.4735237,-72.346625,Confirmado,-36.944,-72.351
+14,10-03-2020,7.0,Chile,Metropolitana,Masculino,40.0,Clínica U. de Los Andes,Las Condes,-33.4055828,-70.5034723,Confirmado,-33.4,-70.503
+15,10-03-2020,7.0,Chile,Metropolitana,Femenino,31.0,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
+16,10-03-2020,7.0,Chile,Metropolitana,Femenino,32.0,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
+17,10-03-2020,9.0,Chile,Maule,Masculino,21.0,Hospital de Talca,Talca,-35.427058,-71.6461858,Confirmado,-35.423,-71.657
+18,11-03-2020,7.0,Chile,Metropolitana,Femenino,58.0,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
+19,11-03-2020,7.0,Chile,Metropolitana,Femenino,48.0,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
+20,11-03-2020,7.0,Chile,Metropolitana,Femenino,23.0,Hospital de Carabineros,Ñuñoa,-33.4498066,-70.608953,Confirmado,-33.454,-70.604
+21,11-03-2020,7.0,Chile,Metropolitana,Masculino,26.0,Red de Salud UC-Christus San Carlos de Apoquindo,Las Condes,-33.40039539999999,-70.50964959999999,Confirmado,-33.4,-70.503
+22,11-03-2020,9.0,Chile,Maule,Femenino,24.0,Hospital de Talca,Talca,-35.427058,-71.6461858,Confirmado,-35.423,-71.657
+23,11-03-2020,9.0,Chile,Maule,Masculino,29.0,Hospital de Curicó,Curicó,-34.9899079,-71.2355018,Confirmado,-34.976,-71.22399999999999
+24,12-03-2020,7.0,Chile,Metropolitana,Femenino,46.0,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
+25,12-03-2020,7.0,Chile,Metropolitana,Masculino,67.0,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
+26,12-03-2020,7.0,Chile,Metropolitana,Femenino,31.0,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
+27,12-03-2020,7.0,Chile,Metropolitana,Femenino,46.0,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
+28,12-03-2020,7.0,Chile,Metropolitana,Masculino,23.0,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
+29,12-03-2020,7.0,Chile,Metropolitana,Femenino,34.0,Clínica Tabancura,Vitacura,-33.3823479,-70.53547859999999,Confirmado,-33.378,-70.562
+30,12-03-2020,7.0,Chile,Metropolitana,Femenino,29.0,Clínica Las Condes,Las Condes,-33.3848002,-70.5302759,Confirmado,-33.4,-70.503
+31,12-03-2020,7.0,Chile,Metropolitana,Femenino,28.0,Clínica Las Condes,Las Condes,-33.3848002,-70.5302759,Confirmado,-33.4,-70.503
+32,12-03-2020,7.0,Chile,Metropolitana,Femenino,21.0,Laboratorio Integramédica,Las Condes,-33.3909085,-70.5461553,Confirmado,-33.4,-70.503
+33,12-03-2020,10.0,Chile,Ñuble,Masculino,29.0,Clínica de Chillán,Chillán,-36.61509470000001,-72.10759540000001,Confirmado,-36.601,-72.109
+34,13-03-2020,7.0,Chile,Metropolitana,Masculino,35.0,Clínica Red Salud Santiago,Estación Central,-33.4574432,-70.70162320000001,Confirmado,-33.459,-70.699
+35,13-03-2020,7.0,Chile,Metropolitana,Femenino,50.0,Clínica Tabancura,Vitacura,-33.3823479,-70.53547859999999,Confirmado,-33.378,-70.562
 36,13-03-2020,7.0,Chile,Metropolitana,Masculino,,Red Salud Vitacura,Vitacura,-33.3823479,-70.53547859999999,Confirmado,-33.378,-70.562
-37,13-03-2020,7.0,Chile,Metropolitana,Masculino,31,Clínica U. de Los Andes,Las Condes,-33.4055828,-70.5034723,Confirmado,-33.4,-70.503
-38,13-03-2020,7.0,Chile,Metropolitana,Masculino,47,Clínica Indisa,Providencia,-33.4214099,-70.61847270000001,Confirmado,-33.435,-70.616
-39,13-03-2020,7.0,Chile,Metropolitana,Masculino,39,Red de Salud UC-Christus San Carlos de Apoquindo,Las Condes,-33.40039539999999,-70.50964959999999,Confirmado,-33.4,-70.503
-40,13-03-2020,9.0,Chile,Maule,Femenino,38,Hospital de Talca,Talca,-35.427058,-71.6461858,Confirmado,-35.423,-71.657
-41,13-03-2020,10.0,Chile,Ñuble,Masculino,16,Hospital de Chillán,Chillán,-36.6088176,-72.09214940000001,Confirmado,-36.601,-72.109
-42,13-03-2020,11.0,Chile,Biobío,Masculino,32,Clínica Universitaria,Concepción,-36.8004715,-73.0719198,Confirmado,-36.815,-73.029
-43,13-03-2020,11.0,Chile,Biobío,Masculino,34,Hospital G. Grant Benavente,Concepción,-36.82444539999999,-73.03859399999999,Confirmado,-36.815,-73.029
-44,14-03-2020,3.0,Chile,Antofagasta,Femenino,58,Hospital Carlos Cisternas Calama,Calama,-22.4452001,-68.9181939,Confirmado,-22.474,-68.92399999999999
-45,14-03-2020,3.0,Chile,Antofagasta,Masculino,63,Hospital Carlos Cisternas Calama,Calama,-22.4452001,-68.9181939,Confirmado,-22.474,-68.92399999999999
-46,14-03-2020,4.0,Chile,Atacama,Masculino,50,Hospital de Copiapó,Copiapó,-27.3728556,-70.32195949999999,Confirmado,-27.375,-70.329
-47,14-03-2020,7.0,Chile,Metropolitana,Femenino,37,Laboratorio Integramédica,Las Condes,-33.3909085,-70.5461553,Confirmado,-33.4,-70.503
-48,14-03-2020,7.0,Chile,Metropolitana,Masculino,28,Pontificia Universidad Católica,Santiago,-33.4423071,-70.6405828,Confirmado,-33.437,-70.657
-49,14-03-2020,7.0,Chile,Metropolitana,Masculino,29,Red de Salud UC-Christus San Carlos de Apoquindo,Las Condes,-33.40039539999999,-70.50964959999999,Confirmado,-33.4,-70.503
-50,14-03-2020,7.0,Chile,Metropolitana,Masculino,28,Clínica U. de Los Andes,Las Condes,-33.4055828,-70.5034723,Confirmado,-33.4,-70.503
-51,14-03-2020,7.0,Chile,Metropolitana,Masculino,53,Clínica Indisa,Providencia,-33.4214099,-70.61847270000001,Confirmado,-33.435,-70.616
-52,14-03-2020,7.0,Chile,Metropolitana,Masculino,38,Laboratorio Integramédica,Las Condes,-33.3909085,-70.5461553,Confirmado,-33.4,-70.503
-53,14-03-2020,7.0,Chile,Metropolitana,Femenino,55,Laboratorio Bionet,Las Condes,-33.4039136,-70.57991870000001,Confirmado,-33.4,-70.503
-54,14-03-2020,7.0,Chile,Metropolitana,Femenino,51,Laboratorio Integramédica,Las Condes,-33.3909085,-70.5461553,Confirmado,-33.4,-70.503
-55,14-03-2020,7.0,Chile,Metropolitana,Femenino,23,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
-56,14-03-2020,7.0,Chile,Metropolitana,Masculino,36,Clínica Las Condes,Las Condes,-33.3848002,-70.5302759,Confirmado,-33.4,-70.503
-57,14-03-2020,7.0,Chile,Metropolitana,Femenino,58,Clínica Las Condes,Las Condes,-33.3848002,-70.5302759,Confirmado,-33.4,-70.503
-58,14-03-2020,9.0,Chile,Maule,Masculino,53,Hospital de Talca,Talca,-35.427058,-71.6461858,Confirmado,-35.423,-71.657
-59,14-03-2020,10.0,Chile,Ñuble,Masculino,23,Hospital de Chillán,Chillán,-36.6088176,-72.09214940000001,Confirmado,-36.601,-72.109
-60,14-03-2020,10.0,Chile,Ñuble,Masculino,23,Clínica de Chillán,Chillán,-36.61509470000001,-72.10759540000001,Confirmado,-36.601,-72.109
-61,14-03-2020,15.0,Chile,Aysén,Masculino,83,Hospital de Aysén,Coyhaique,-45.568608,-72.0735278,Confirmado,-45.56399999999999,-72.065
-62,15-03-2020,7.0,Chile,Metropolitana,Masculino,42,Laboratorio Bionet,Las Condes,-33.4039136,-70.57991870000001,Confirmado,-33.4,-70.503
-63,15-03-2020,7.0,Chile,Metropolitana,Femenino,49,Hospital del Trabajador,Providencia,-33.4435918,-70.6325056,Confirmado,-33.435,-70.616
-64,15-03-2020,7.0,Chile,Metropolitana,Masculino,29,Clínica U. de Los Andes,Las Condes,-33.4055828,-70.5034723,Confirmado,-33.4,-70.503
-65,15-03-2020,7.0,Chile,Metropolitana,Masculino,61,Red de Salud UC-Christus San Carlos de Apoquindo,Las Condes,-33.40039539999999,-70.50964959999999,Confirmado,-33.4,-70.503
-66,15-03-2020,7.0,Chile,Metropolitana,Femenino,15,Red de Salud UC-Christus San Carlos de Apoquindo,Las Condes,-33.40039539999999,-70.50964959999999,Confirmado,-33.4,-70.503
+37,13-03-2020,7.0,Chile,Metropolitana,Masculino,31.0,Clínica U. de Los Andes,Las Condes,-33.4055828,-70.5034723,Confirmado,-33.4,-70.503
+38,13-03-2020,7.0,Chile,Metropolitana,Masculino,47.0,Clínica Indisa,Providencia,-33.4214099,-70.61847270000001,Confirmado,-33.435,-70.616
+39,13-03-2020,7.0,Chile,Metropolitana,Masculino,39.0,Red de Salud UC-Christus San Carlos de Apoquindo,Las Condes,-33.40039539999999,-70.50964959999999,Confirmado,-33.4,-70.503
+40,13-03-2020,9.0,Chile,Maule,Femenino,38.0,Hospital de Talca,Talca,-35.427058,-71.6461858,Confirmado,-35.423,-71.657
+41,13-03-2020,10.0,Chile,Ñuble,Masculino,16.0,Hospital de Chillán,Chillán,-36.6088176,-72.09214940000001,Confirmado,-36.601,-72.109
+42,13-03-2020,11.0,Chile,Biobío,Masculino,32.0,Clínica Universitaria,Concepción,-36.8004715,-73.0719198,Confirmado,-36.815,-73.029
+43,13-03-2020,11.0,Chile,Biobío,Masculino,34.0,Hospital G. Grant Benavente,Concepción,-36.82444539999999,-73.03859399999999,Confirmado,-36.815,-73.029
+44,14-03-2020,3.0,Chile,Antofagasta,Femenino,58.0,Hospital Carlos Cisternas Calama,Calama,-22.4452001,-68.9181939,Confirmado,-22.474,-68.92399999999999
+45,14-03-2020,3.0,Chile,Antofagasta,Masculino,63.0,Hospital Carlos Cisternas Calama,Calama,-22.4452001,-68.9181939,Confirmado,-22.474,-68.92399999999999
+46,14-03-2020,4.0,Chile,Atacama,Masculino,50.0,Hospital de Copiapó,Copiapó,-27.3728556,-70.32195949999999,Confirmado,-27.375,-70.329
+47,14-03-2020,7.0,Chile,Metropolitana,Femenino,37.0,Laboratorio Integramédica,Las Condes,-33.3909085,-70.5461553,Confirmado,-33.4,-70.503
+48,14-03-2020,7.0,Chile,Metropolitana,Masculino,28.0,Pontificia Universidad Católica,Santiago,-33.4423071,-70.6405828,Confirmado,-33.437,-70.657
+49,14-03-2020,7.0,Chile,Metropolitana,Masculino,29.0,Red de Salud UC-Christus San Carlos de Apoquindo,Las Condes,-33.40039539999999,-70.50964959999999,Confirmado,-33.4,-70.503
+50,14-03-2020,7.0,Chile,Metropolitana,Masculino,28.0,Clínica U. de Los Andes,Las Condes,-33.4055828,-70.5034723,Confirmado,-33.4,-70.503
+51,14-03-2020,7.0,Chile,Metropolitana,Masculino,53.0,Clínica Indisa,Providencia,-33.4214099,-70.61847270000001,Confirmado,-33.435,-70.616
+52,14-03-2020,7.0,Chile,Metropolitana,Masculino,38.0,Laboratorio Integramédica,Las Condes,-33.3909085,-70.5461553,Confirmado,-33.4,-70.503
+53,14-03-2020,7.0,Chile,Metropolitana,Femenino,55.0,Laboratorio Bionet,Las Condes,-33.4039136,-70.57991870000001,Confirmado,-33.4,-70.503
+54,14-03-2020,7.0,Chile,Metropolitana,Femenino,51.0,Laboratorio Integramédica,Las Condes,-33.3909085,-70.5461553,Confirmado,-33.4,-70.503
+55,14-03-2020,7.0,Chile,Metropolitana,Femenino,23.0,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
+56,14-03-2020,7.0,Chile,Metropolitana,Masculino,36.0,Clínica Las Condes,Las Condes,-33.3848002,-70.5302759,Confirmado,-33.4,-70.503
+57,14-03-2020,7.0,Chile,Metropolitana,Femenino,58.0,Clínica Las Condes,Las Condes,-33.3848002,-70.5302759,Confirmado,-33.4,-70.503
+58,14-03-2020,9.0,Chile,Maule,Masculino,53.0,Hospital de Talca,Talca,-35.427058,-71.6461858,Confirmado,-35.423,-71.657
+59,14-03-2020,10.0,Chile,Ñuble,Masculino,23.0,Hospital de Chillán,Chillán,-36.6088176,-72.09214940000001,Confirmado,-36.601,-72.109
+60,14-03-2020,10.0,Chile,Ñuble,Masculino,23.0,Clínica de Chillán,Chillán,-36.61509470000001,-72.10759540000001,Confirmado,-36.601,-72.109
+61,14-03-2020,15.0,Chile,Aysén,Masculino,83.0,Hospital de Aysén,Coyhaique,-45.568608,-72.0735278,Confirmado,-45.56399999999999,-72.065
+62,15-03-2020,7.0,Chile,Metropolitana,Masculino,42.0,Laboratorio Bionet,Las Condes,-33.4039136,-70.57991870000001,Confirmado,-33.4,-70.503
+63,15-03-2020,7.0,Chile,Metropolitana,Femenino,49.0,Hospital del Trabajador,Providencia,-33.4435918,-70.6325056,Confirmado,-33.435,-70.616
+64,15-03-2020,7.0,Chile,Metropolitana,Masculino,29.0,Clínica U. de Los Andes,Las Condes,-33.4055828,-70.5034723,Confirmado,-33.4,-70.503
+65,15-03-2020,7.0,Chile,Metropolitana,Masculino,61.0,Red de Salud UC-Christus San Carlos de Apoquindo,Las Condes,-33.40039539999999,-70.50964959999999,Confirmado,-33.4,-70.503
+66,15-03-2020,7.0,Chile,Metropolitana,Femenino,15.0,Red de Salud UC-Christus San Carlos de Apoquindo,Las Condes,-33.40039539999999,-70.50964959999999,Confirmado,-33.4,-70.503
 67,15-03-2020,7.0,Chile,Metropolitana,Masculino,,Megasalud S.A.,Vitacura,-33.3827612,-70.53514820000001,Confirmado,-33.378,-70.562
-68,15-03-2020,7.0,Chile,Metropolitana,Masculino,42,Mutual de Seguridad,Estación Central,-33.4565408,-70.7007898,Confirmado,-33.459,-70.699
-69,15-03-2020,7.0,Chile,Metropolitana,Femenino,48,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
-70,15-03-2020,7.0,Chile,Metropolitana,Masculino,45,Red de Salud UC-Christus San Carlos de Apoquindo,Las Condes,-33.40039539999999,-70.50964959999999,Confirmado,-33.4,-70.503
-71,15-03-2020,7.0,Chile,Metropolitana,Masculino,29,Clínica Vespucio,La Florida,-33.51905,-70.5970545,Confirmado,-33.525,-70.538
-72,15-03-2020,7.0,Chile,Metropolitana,Masculino,24,Red de Salud UC-Christus San Carlos de Apoquindo,Las Condes,-33.40039539999999,-70.50964959999999,Confirmado,-33.4,-70.503
-73,15-03-2020,7.0,Chile,Metropolitana,Masculino,45,Red de Salud UC-Christus San Carlos de Apoquindo,Las Condes,-33.40039539999999,-70.50964959999999,Confirmado,-33.4,-70.503
-74,15-03-2020,7.0,Chile,Metropolitana,Masculino,70,Clínica U. de Los Andes,Las Condes,-33.4055828,-70.5034723,Confirmado,-33.4,-70.503
-75,15-03-2020,7.0,Chile,Metropolitana,Femenino,58,Clínica Las Condes,Las Condes,-33.3848002,-70.5302759,Confirmado,-33.4,-70.503
-76,16-03-2020,6.0,Chile,Valparaíso,Masculino,34,Clínica Cuidad del Mar,Viña del Mar,-33.0097887,-71.54957759999999,Confirmado,-33.025,-71.515
-77,16-03-2020,7.0,Chile,Metropolitana,Masculino,43,Hospital San juan de Dios,Santiago,-33.4430753,-70.6797152,Confirmado,-33.437,-70.657
-78,16-03-2020,7.0,Chile,Metropolitana,Femenino,45,Hospital San juan de Dios,Santiago,-33.4430753,-70.6797152,Confirmado,-33.437,-70.657
-79,16-03-2020,7.0,Chile,Metropolitana,Femenino,38,Hospital del Trabajador,Providencia,-33.4435918,-70.6325056,Confirmado,-33.435,-70.616
-80,16-03-2020,7.0,Chile,Metropolitana,Femenino,53,Hospital del Profesor,Estación Central,-33.457618,-70.7027078,Confirmado,-33.459,-70.699
-81,16-03-2020,7.0,Chile,Metropolitana,Femenino,38,Bioxell Laboratorio Clinico Ltda.,Las Condes,-33.4254855,-70.55049040000002,Confirmado,-33.4,-70.503
-82,16-03-2020,7.0,Chile,Metropolitana,Femenino,32,Megasalud S.A.,Vitacura,-33.3827612,-70.53514820000001,Confirmado,-33.378,-70.562
-83,16-03-2020,7.0,Chile,Metropolitana,Femenino,39,Clínica Las Condes,Las Condes,-33.3848002,-70.5302759,Confirmado,-33.4,-70.503
-84,16-03-2020,7.0,Chile,Metropolitana,Masculino,35,Mutual de Seguridad,Estación Central,-33.4565408,-70.7007898,Confirmado,-33.459,-70.699
-85,16-03-2020,7.0,Chile,Metropolitana,Femenino,32,Clinica UC San Carlos de Apoquindo,Las Condes,-33.40039539999999,-70.50964959999999,Confirmado,-33.4,-70.503
-86,16-03-2020,7.0,Chile,Metropolitana,Masculino,31,Clinica UC San Carlos de Apoquindo,Las Condes,-33.40039539999999,-70.50964959999999,Confirmado,-33.4,-70.503
-87,16-03-2020,7.0,Chile,Metropolitana,Masculino,46,Clinica UC San Carlos de Apoquindo,Las Condes,-33.40039539999999,-70.50964959999999,Confirmado,-33.4,-70.503
-88,16-03-2020,7.0,Chile,Metropolitana,Femenino,35,Clinica UC San Carlos de Apoquindo,Las Condes,-33.40039539999999,-70.50964959999999,Confirmado,-33.4,-70.503
-89,16-03-2020,7.0,Chile,Metropolitana,Femenino,63,Integramédica,Santiago,-33.4396268,-70.6528618,Confirmado,-33.437,-70.657
-90,16-03-2020,7.0,Chile,Metropolitana,Femenino,62,Integramédica,Santiago,-33.4396268,-70.6528618,Confirmado,-33.437,-70.657
-91,16-03-2020,7.0,Chile,Metropolitana,Femenino,62,Integramédica,Santiago,-33.4396268,-70.6528618,Confirmado,-33.437,-70.657
-92,16-03-2020,7.0,Chile,Metropolitana,Masculino,52,Laboratorio Bionet,Las Condes,-33.4039136,-70.57991870000001,Confirmado,-33.4,-70.503
-93,16-03-2020,7.0,Chile,Metropolitana,Femenino,34,Laboratorio Bionet,Las Condes,-33.4039136,-70.57991870000001,Confirmado,-33.4,-70.503
-94,16-03-2020,7.0,Chile,Metropolitana,Femenino,33,Clinica Dávila,Recoleta,-33.42752460000001,-70.6468095,Confirmado,-33.406,-70.64
-95,16-03-2020,7.0,Chile,Metropolitana,Masculino,42,Clinica Dávila,Recoleta,-33.42752460000001,-70.6468095,Confirmado,-33.406,-70.64
-96,16-03-2020,7.0,Chile,Metropolitana,Femenino,29,Clinica Dávila,Recoleta,-33.42752460000001,-70.6468095,Confirmado,-33.406,-70.64
-97,16-03-2020,7.0,Chile,Metropolitana,Masculino,28,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
-98,16-03-2020,7.0,Chile,Metropolitana,Femenino,27,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
-99,16-03-2020,7.0,Chile,Metropolitana,Masculino,40,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
-100,16-03-2020,7.0,Chile,Metropolitana,Femenino,24,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
-101,16-03-2020,7.0,Chile,Metropolitana,Femenino,49,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
+68,15-03-2020,7.0,Chile,Metropolitana,Masculino,42.0,Mutual de Seguridad,Estación Central,-33.4565408,-70.7007898,Confirmado,-33.459,-70.699
+69,15-03-2020,7.0,Chile,Metropolitana,Femenino,48.0,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
+70,15-03-2020,7.0,Chile,Metropolitana,Masculino,45.0,Red de Salud UC-Christus San Carlos de Apoquindo,Las Condes,-33.40039539999999,-70.50964959999999,Confirmado,-33.4,-70.503
+71,15-03-2020,7.0,Chile,Metropolitana,Masculino,29.0,Clínica Vespucio,La Florida,-33.51905,-70.5970545,Confirmado,-33.525,-70.538
+72,15-03-2020,7.0,Chile,Metropolitana,Masculino,24.0,Red de Salud UC-Christus San Carlos de Apoquindo,Las Condes,-33.40039539999999,-70.50964959999999,Confirmado,-33.4,-70.503
+73,15-03-2020,7.0,Chile,Metropolitana,Masculino,45.0,Red de Salud UC-Christus San Carlos de Apoquindo,Las Condes,-33.40039539999999,-70.50964959999999,Confirmado,-33.4,-70.503
+74,15-03-2020,7.0,Chile,Metropolitana,Masculino,70.0,Clínica U. de Los Andes,Las Condes,-33.4055828,-70.5034723,Confirmado,-33.4,-70.503
+75,15-03-2020,7.0,Chile,Metropolitana,Femenino,58.0,Clínica Las Condes,Las Condes,-33.3848002,-70.5302759,Confirmado,-33.4,-70.503
+76,16-03-2020,6.0,Chile,Valparaíso,Masculino,34.0,Clínica Cuidad del Mar,Viña del Mar,-33.0097887,-71.54957759999999,Confirmado,-33.025,-71.515
+77,16-03-2020,7.0,Chile,Metropolitana,Masculino,43.0,Hospital San juan de Dios,Santiago,-33.4430753,-70.6797152,Confirmado,-33.437,-70.657
+78,16-03-2020,7.0,Chile,Metropolitana,Femenino,45.0,Hospital San juan de Dios,Santiago,-33.4430753,-70.6797152,Confirmado,-33.437,-70.657
+79,16-03-2020,7.0,Chile,Metropolitana,Femenino,38.0,Hospital del Trabajador,Providencia,-33.4435918,-70.6325056,Confirmado,-33.435,-70.616
+80,16-03-2020,7.0,Chile,Metropolitana,Femenino,53.0,Hospital del Profesor,Estación Central,-33.457618,-70.7027078,Confirmado,-33.459,-70.699
+81,16-03-2020,7.0,Chile,Metropolitana,Femenino,38.0,Bioxell Laboratorio Clinico Ltda.,Las Condes,-33.4254855,-70.55049040000002,Confirmado,-33.4,-70.503
+82,16-03-2020,7.0,Chile,Metropolitana,Femenino,32.0,Megasalud S.A.,Vitacura,-33.3827612,-70.53514820000001,Confirmado,-33.378,-70.562
+83,16-03-2020,7.0,Chile,Metropolitana,Femenino,39.0,Clínica Las Condes,Las Condes,-33.3848002,-70.5302759,Confirmado,-33.4,-70.503
+84,16-03-2020,7.0,Chile,Metropolitana,Masculino,35.0,Mutual de Seguridad,Estación Central,-33.4565408,-70.7007898,Confirmado,-33.459,-70.699
+85,16-03-2020,7.0,Chile,Metropolitana,Femenino,32.0,Clinica UC San Carlos de Apoquindo,Las Condes,-33.40039539999999,-70.50964959999999,Confirmado,-33.4,-70.503
+86,16-03-2020,7.0,Chile,Metropolitana,Masculino,31.0,Clinica UC San Carlos de Apoquindo,Las Condes,-33.40039539999999,-70.50964959999999,Confirmado,-33.4,-70.503
+87,16-03-2020,7.0,Chile,Metropolitana,Masculino,46.0,Clinica UC San Carlos de Apoquindo,Las Condes,-33.40039539999999,-70.50964959999999,Confirmado,-33.4,-70.503
+88,16-03-2020,7.0,Chile,Metropolitana,Femenino,35.0,Clinica UC San Carlos de Apoquindo,Las Condes,-33.40039539999999,-70.50964959999999,Confirmado,-33.4,-70.503
+89,16-03-2020,7.0,Chile,Metropolitana,Femenino,63.0,Integramédica,Santiago,-33.4396268,-70.6528618,Confirmado,-33.437,-70.657
+90,16-03-2020,7.0,Chile,Metropolitana,Femenino,62.0,Integramédica,Santiago,-33.4396268,-70.6528618,Confirmado,-33.437,-70.657
+91,16-03-2020,7.0,Chile,Metropolitana,Femenino,62.0,Integramédica,Santiago,-33.4396268,-70.6528618,Confirmado,-33.437,-70.657
+92,16-03-2020,7.0,Chile,Metropolitana,Masculino,52.0,Laboratorio Bionet,Las Condes,-33.4039136,-70.57991870000001,Confirmado,-33.4,-70.503
+93,16-03-2020,7.0,Chile,Metropolitana,Femenino,34.0,Laboratorio Bionet,Las Condes,-33.4039136,-70.57991870000001,Confirmado,-33.4,-70.503
+94,16-03-2020,7.0,Chile,Metropolitana,Femenino,33.0,Clinica Dávila,Recoleta,-33.42752460000001,-70.6468095,Confirmado,-33.406,-70.64
+95,16-03-2020,7.0,Chile,Metropolitana,Masculino,42.0,Clinica Dávila,Recoleta,-33.42752460000001,-70.6468095,Confirmado,-33.406,-70.64
+96,16-03-2020,7.0,Chile,Metropolitana,Femenino,29.0,Clinica Dávila,Recoleta,-33.42752460000001,-70.6468095,Confirmado,-33.406,-70.64
+97,16-03-2020,7.0,Chile,Metropolitana,Masculino,28.0,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
+98,16-03-2020,7.0,Chile,Metropolitana,Femenino,27.0,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
+99,16-03-2020,7.0,Chile,Metropolitana,Masculino,40.0,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
+100,16-03-2020,7.0,Chile,Metropolitana,Femenino,24.0,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
+101,16-03-2020,7.0,Chile,Metropolitana,Femenino,49.0,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
 102,16-03-2020,7.0,Chile,Metropolitana,Femenino,,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
-103,16-03-2020,7.0,Chile,Metropolitana,Masculino,33,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
-104,16-03-2020,7.0,Chile,Metropolitana,Femenino,29,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
-105,16-03-2020,7.0,Chile,Metropolitana,Masculino,59,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
-106,16-03-2020,7.0,Chile,Metropolitana,Masculino,13,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
-107,16-03-2020,7.0,Chile,Metropolitana,Masculino,33,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
-108,16-03-2020,7.0,Chile,Metropolitana,Masculino,33,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
-109,16-03-2020,7.0,Chile,Metropolitana,Masculino,45,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
-110,16-03-2020,7.0,Chile,Metropolitana,Masculino,41,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
-111,16-03-2020,7.0,Chile,Metropolitana,Femenino,29,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
-112,16-03-2020,7.0,Chile,Metropolitana,Masculino,37,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
-113,16-03-2020,7.0,Chile,Metropolitana,Femenino,40,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
-114,16-03-2020,7.0,Chile,Metropolitana,Masculino,58,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
-115,16-03-2020,7.0,Chile,Metropolitana,Femenino,31,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
-116,16-03-2020,7.0,Chile,Metropolitana,Masculino,48,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
-117,16-03-2020,7.0,Chile,Metropolitana,Masculino,41,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
-118,16-03-2020,7.0,Chile,Metropolitana,Femenino,45,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
-119,16-03-2020,7.0,Chile,Metropolitana,Femenino,33,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
-120,16-03-2020,7.0,Chile,Metropolitana,Femenino,54,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
-121,16-03-2020,7.0,Chile,Metropolitana,Femenino,40,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
-122,16-03-2020,7.0,Chile,Metropolitana,Femenino,27,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
-123,16-03-2020,7.0,Chile,Metropolitana,Femenino,23,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
-124,16-03-2020,7.0,Chile,Metropolitana,Femenino,39,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
-125,16-03-2020,7.0,Chile,Metropolitana,Femenino,41,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
-126,16-03-2020,7.0,Chile,Metropolitana,Masculino,43,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
-127,16-03-2020,7.0,Chile,Metropolitana,Femenino,49,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
-128,16-03-2020,7.0,Chile,Metropolitana,Femenino,30,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
-129,16-03-2020,7.0,Chile,Metropolitana,Femenino,35,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
-130,16-03-2020,7.0,Chile,Metropolitana,Femenino,46,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
-131,16-03-2020,7.0,Chile,Metropolitana,Femenino,31,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
-132,16-03-2020,7.0,Chile,Metropolitana,Masculino,40,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
-133,16-03-2020,7.0,Chile,Metropolitana,Femenino,44,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
-134,16-03-2020,7.0,Chile,Metropolitana,Femenino,42,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
-135,16-03-2020,7.0,Chile,Metropolitana,Femenino,43,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
-136,16-03-2020,7.0,Chile,Metropolitana,Femenino,39,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
-137,16-03-2020,7.0,Chile,Metropolitana,Femenino,26,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
-138,16-03-2020,7.0,Chile,Metropolitana,Masculino,46,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
-139,16-03-2020,7.0,Chile,Metropolitana,Femenino,41,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
-140,16-03-2020,7.0,Chile,Metropolitana,Masculino,51,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
-141,16-03-2020,7.0,Chile,Metropolitana,Femenino,31,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
-142,16-03-2020,7.0,Chile,Metropolitana,Femenino,1,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
-143,16-03-2020,7.0,Chile,Metropolitana,Femenino,5,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
-144,16-03-2020,7.0,Chile,Metropolitana,Masculino,45,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
-145,16-03-2020,7.0,Chile,Metropolitana,Femenino,29,Clínica Las Condes,Las Condes,-33.3848002,-70.5302759,Confirmado,-33.4,-70.503
-146,16-03-2020,10.0,Chile,Ñuble,Masculino,38,Clínica de Chillán,Chillán,-36.61509470000001,-72.10759540000001,Confirmado,-36.601,-72.109
-147,16-03-2020,10.0,Chile,Ñuble,Femenino,26,Clínica de Chillán,Chillán,-36.61509470000001,-72.10759540000001,Confirmado,-36.601,-72.109
-148,16-03-2020,10.0,Chile,Ñuble,Femenino,42,Clínica de Chillán,Chillán,-36.61509470000001,-72.10759540000001,Confirmado,-36.601,-72.109
-149,16-03-2020,10.0,Chile,Ñuble,Femenino,38,Hospital de Chillán,Chillán,-36.6088176,-72.09214940000001,Confirmado,-36.601,-72.109
-150,16-03-2020,10.0,Chile,Ñuble,Masculino,32,Clínica de Chillán,Chillán,-36.61509470000001,-72.10759540000001,Confirmado,-36.601,-72.109
-151,16-03-2020,10.0,Chile,Ñuble,Masculino,31,Hospital de Chillán,Chillán,-36.6088176,-72.09214940000001,Confirmado,-36.601,-72.109
-152,16-03-2020,10.0,Chile,Ñuble,Masculino,24,Hospital de Chillán,Chillán,-36.6088176,-72.09214940000001,Confirmado,-36.601,-72.109
-153,16-03-2020,10.0,Chile,Ñuble,Masculino,39,Clínica de Chillán,Chillán,-36.61509470000001,-72.10759540000001,Confirmado,-36.601,-72.109
-154,16-03-2020,11.0,Chile,Biobío,Femenino,47,Clinica Biobío,Talcahuano,-36.789227,-73.06348100000001,Confirmado,-36.736,-73.105
-155,16-03-2020,12.0,Chile,Araucanía,Femenino,1,Hospital Hernán Henríquez Aravena,Temuco,-38.7370008,-72.599664,Confirmado,-38.727,-72.59899999999999
-156,16-03-2020,13.0,Chile,Los Ríos,Femenino,20,Clinica Alemana Valdivia,Valdivia,-39.818554,-73.2395179,Confirmado,-39.8,-73.233
-157,17-03-2020,6.0,Chile,Valparaiso,Masculino,34,-,Santiago,,,Confirmado,,
-158,17-03-2020,7.0,Chile,Metropolitana,Femenino,61,Mutual de Seguridad,Estación Central,-33.4565408,-70.7007898,Confirmado,-33.459,-70.699
-159,17-03-2020,7.0,Chile,Metropolitana,Masculino,33,Mutual de Seguridad,Estación Central,-33.4565408,-70.7007898,Confirmado,-33.459,-70.699
-160,17-03-2020,7.0,Chile,Metropolitana,Femenino,48,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
-161,17-03-2020,7.0,Chile,Metropolitana,Masculino,31,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
-162,17-03-2020,7.0,Chile,Metropolitana,Masculino,32,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
-163,17-03-2020,7.0,Chile,Metropolitana,Femenino,56,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
-164,17-03-2020,7.0,Chile,Metropolitana,Masculino,56,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
-165,17-03-2020,7.0,Chile,Metropolitana,Femenino,75,Hospital La Florida,La Florida,-33.5140438,-70.59990340000002,Confirmado,-33.525,-70.538
-166,17-03-2020,7.0,Chile,Metropolitana,Femenino,47,Hospital del Salvador,Providencia,-33.43695200000001,-70.624884,Confirmado,-33.435,-70.616
-167,17-03-2020,7.0,Chile,Metropolitana,Masculino,36,Laboratorio Bionet,Las Condes,-33.4039136,-70.57991870000001,Confirmado,-33.4,-70.503
-168,17-03-2020,7.0,Chile,Metropolitana,Masculino,45,Clínica Las Condes,Las Condes,-33.3848002,-70.5302759,Confirmado,-33.4,-70.503
-169,17-03-2020,7.0,Chile,Metropolitana,Femenino,38,Clínica Las Condes,Las Condes,-33.3848002,-70.5302759,Confirmado,-33.4,-70.503
-170,17-03-2020,7.0,Chile,Metropolitana,Femenino,41,Clínica Las Condes,Las Condes,-33.3848002,-70.5302759,Confirmado,-33.4,-70.503
-171,17-03-2020,7.0,Chile,Metropolitana,Masculino,29,Clínica Las Condes,Las Condes,-33.3848002,-70.5302759,Confirmado,-33.4,-70.503
-172,17-03-2020,7.0,Chile,Metropolitana,Masculino,57,Clinica Dávila,Recoleta,-33.42752460000001,-70.6468095,Confirmado,-33.406,-70.64
-173,17-03-2020,7.0,Chile,Metropolitana,Femenino,43,Hospital del Trabajador,Providencia,-33.4435918,-70.6325056,Confirmado,-33.435,-70.616
-174,17-03-2020,7.0,Chile,Metropolitana,Femenino,44,Clínica U. de Los Andes,Las Condes,-33.4055828,-70.5034723,Confirmado,-33.4,-70.503
-175,17-03-2020,7.0,Chile,Metropolitana,Femenino,50,Hospital Lucio Córdova,San Miguel,-33.4856474,-70.6453608,Confirmado,-33.486,-70.649
-176,17-03-2020,7.0,Chile,Metropolitana,Femenino,22,Hospital San juan de Dios,Santiago,-33.4430753,-70.6797152,Confirmado,-33.437,-70.657
-177,17-03-2020,7.0,Chile,Metropolitana,Masculino,39,Hospital San juan de Dios,Santiago,-33.4430753,-70.6797152,Confirmado,-33.437,-70.657
-178,17-03-2020,7.0,Chile,Metropolitana,Masculino,43,Clinica San Carlos de Apoquindo,Las Condes,-33.40039539999999,-70.50964959999999,Confirmado,-33.4,-70.503
-179,17-03-2020,7.0,Chile,Metropolitana,Masculino,35,Clínica Vespucio,La Florida,-33.51905,-70.5970545,Confirmado,-33.525,-70.538
-180,17-03-2020,7.0,Chile,Metropolitana,Femenino,16,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
-181,17-03-2020,7.0,Chile,Metropolitana,Femenino,50,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
-182,17-03-2020,7.0,Chile,Metropolitana,Masculino,56,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
-183,17-03-2020,7.0,Chile,Metropolitana,Masculino,49,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
-184,17-03-2020,7.0,Chile,Metropolitana,Masculino,28,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
-185,17-03-2020,7.0,Chile,Metropolitana,Femenino,34,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
-186,17-03-2020,7.0,Chile,Metropolitana,Masculino,73,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
-187,17-03-2020,10.0,Chile,Ñuble,Femenino,33,Hospital de Chillán,Chillán,-36.6088176,-72.09214940000001,Confirmado,-36.601,-72.109
-188,17-03-2020,10.0,Chile,Ñuble,Femenino,29,Hospital de Chillán,Chillán,-36.6088176,-72.09214940000001,Confirmado,-36.601,-72.109
-189,17-03-2020,10.0,Chile,Ñuble,Masculino,43,Hospital de Chillán,Chillán,-36.6088176,-72.09214940000001,Confirmado,-36.601,-72.109
-190,17-03-2020,10.0,Chile,Ñuble,Femenino,27,Hospital de Chillán,Chillán,-36.6088176,-72.09214940000001,Confirmado,-36.601,-72.109
-191,17-03-2020,10.0,Chile,Ñuble,Femenino,37,Clínica de Chillán,Chillán,-36.61509470000001,-72.10759540000001,Confirmado,-36.601,-72.109
-192,17-03-2020,10.0,Chile,Ñuble,Masculino,40,Hospital de Chillán,Chillán,-36.6088176,-72.09214940000001,Confirmado,-36.601,-72.109
-193,17-03-2020,10.0,Chile,Ñuble,Femenino,27,Hospital de Chillán,Chillán,-36.6088176,-72.09214940000001,Confirmado,-36.601,-72.109
-194,17-03-2020,10.0,Chile,Ñuble,Masculino,36,Clínica de Chillán,Chillán,-36.61509470000001,-72.10759540000001,Confirmado,-36.601,-72.109
-195,17-03-2020,10.0,Chile,Ñuble,Femenino,30,Hospital de Chillán,Chillán,-36.6088176,-72.09214940000001,Confirmado,-36.601,-72.109
-196,17-03-2020,10.0,Chile,Ñuble,Femenino,26,Hospital de Chillán,Chillán,-36.6088176,-72.09214940000001,Confirmado,-36.601,-72.109
-197,17-03-2020,10.0,Chile,Ñuble,Masculino,29,Hospital de Chillán,Chillán,-36.6088176,-72.09214940000001,Confirmado,-36.601,-72.109
-198,17-03-2020,10.0,Chile,Ñuble,Masculino,32,Hospital de Chillán,Chillán,-36.6088176,-72.09214940000001,Confirmado,-36.601,-72.109
-199,17-03-2020,10.0,Chile,Ñuble,Masculino,48,Hospital de Chillán,Chillán,-36.6088176,-72.09214940000001,Confirmado,-36.601,-72.109
-200,17-03-2020,10.0,Chile,Ñuble,Femenino,31,Clínica de Chillán,Chillán,-36.61509470000001,-72.10759540000001,Confirmado,-36.601,-72.109
-201,17-03-2020,16.0,Chile,Magallanes,Masculino,70,Clínica Magallanes,Punta Arenas,-53.13726329999999,-70.8866272,Confirmado,-53.148,-70.907
-202,17-03-2020,16.0,Chile,Magallanes,Masculino,23,Hospital de Punta Arenas,Punta Arenas,-53.12242029999999,-70.8966561,Confirmado,-53.148,-70.907
-203,18-03-2020,6.0,Chile,Valparaiso,Femenino,52,-,-,,,Confirmado,,
-204,18-03-2020,6.0,Chile,Valparaiso,Masculino,56,-,-,,,Confirmado,,
-205,18-03-2020,6.0,Chile,Valparaiso,Masculino,35,-,-,,,Confirmado,,
+103,16-03-2020,7.0,Chile,Metropolitana,Masculino,33.0,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
+104,16-03-2020,7.0,Chile,Metropolitana,Femenino,29.0,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
+105,16-03-2020,7.0,Chile,Metropolitana,Masculino,59.0,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
+106,16-03-2020,7.0,Chile,Metropolitana,Masculino,13.0,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
+107,16-03-2020,7.0,Chile,Metropolitana,Masculino,33.0,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
+108,16-03-2020,7.0,Chile,Metropolitana,Masculino,33.0,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
+109,16-03-2020,7.0,Chile,Metropolitana,Masculino,45.0,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
+110,16-03-2020,7.0,Chile,Metropolitana,Masculino,41.0,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
+111,16-03-2020,7.0,Chile,Metropolitana,Femenino,29.0,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
+112,16-03-2020,7.0,Chile,Metropolitana,Masculino,37.0,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
+113,16-03-2020,7.0,Chile,Metropolitana,Femenino,40.0,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
+114,16-03-2020,7.0,Chile,Metropolitana,Masculino,58.0,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
+115,16-03-2020,7.0,Chile,Metropolitana,Femenino,31.0,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
+116,16-03-2020,7.0,Chile,Metropolitana,Masculino,48.0,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
+117,16-03-2020,7.0,Chile,Metropolitana,Masculino,41.0,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
+118,16-03-2020,7.0,Chile,Metropolitana,Femenino,45.0,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
+119,16-03-2020,7.0,Chile,Metropolitana,Femenino,33.0,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
+120,16-03-2020,7.0,Chile,Metropolitana,Femenino,54.0,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
+121,16-03-2020,7.0,Chile,Metropolitana,Femenino,40.0,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
+122,16-03-2020,7.0,Chile,Metropolitana,Femenino,27.0,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
+123,16-03-2020,7.0,Chile,Metropolitana,Femenino,23.0,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
+124,16-03-2020,7.0,Chile,Metropolitana,Femenino,39.0,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
+125,16-03-2020,7.0,Chile,Metropolitana,Femenino,41.0,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
+126,16-03-2020,7.0,Chile,Metropolitana,Masculino,43.0,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
+127,16-03-2020,7.0,Chile,Metropolitana,Femenino,49.0,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
+128,16-03-2020,7.0,Chile,Metropolitana,Femenino,30.0,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
+129,16-03-2020,7.0,Chile,Metropolitana,Femenino,35.0,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
+130,16-03-2020,7.0,Chile,Metropolitana,Femenino,46.0,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
+131,16-03-2020,7.0,Chile,Metropolitana,Femenino,31.0,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
+132,16-03-2020,7.0,Chile,Metropolitana,Masculino,40.0,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
+133,16-03-2020,7.0,Chile,Metropolitana,Femenino,44.0,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
+134,16-03-2020,7.0,Chile,Metropolitana,Femenino,42.0,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
+135,16-03-2020,7.0,Chile,Metropolitana,Femenino,43.0,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
+136,16-03-2020,7.0,Chile,Metropolitana,Femenino,39.0,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
+137,16-03-2020,7.0,Chile,Metropolitana,Femenino,26.0,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
+138,16-03-2020,7.0,Chile,Metropolitana,Masculino,46.0,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
+139,16-03-2020,7.0,Chile,Metropolitana,Femenino,41.0,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
+140,16-03-2020,7.0,Chile,Metropolitana,Masculino,51.0,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
+141,16-03-2020,7.0,Chile,Metropolitana,Femenino,31.0,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
+142,16-03-2020,7.0,Chile,Metropolitana,Femenino,1.0,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
+143,16-03-2020,7.0,Chile,Metropolitana,Femenino,5.0,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
+144,16-03-2020,7.0,Chile,Metropolitana,Masculino,45.0,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
+145,16-03-2020,7.0,Chile,Metropolitana,Femenino,29.0,Clínica Las Condes,Las Condes,-33.3848002,-70.5302759,Confirmado,-33.4,-70.503
+146,16-03-2020,10.0,Chile,Ñuble,Masculino,38.0,Clínica de Chillán,Chillán,-36.61509470000001,-72.10759540000001,Confirmado,-36.601,-72.109
+147,16-03-2020,10.0,Chile,Ñuble,Femenino,26.0,Clínica de Chillán,Chillán,-36.61509470000001,-72.10759540000001,Confirmado,-36.601,-72.109
+148,16-03-2020,10.0,Chile,Ñuble,Femenino,42.0,Clínica de Chillán,Chillán,-36.61509470000001,-72.10759540000001,Confirmado,-36.601,-72.109
+149,16-03-2020,10.0,Chile,Ñuble,Femenino,38.0,Hospital de Chillán,Chillán,-36.6088176,-72.09214940000001,Confirmado,-36.601,-72.109
+150,16-03-2020,10.0,Chile,Ñuble,Masculino,32.0,Clínica de Chillán,Chillán,-36.61509470000001,-72.10759540000001,Confirmado,-36.601,-72.109
+151,16-03-2020,10.0,Chile,Ñuble,Masculino,31.0,Hospital de Chillán,Chillán,-36.6088176,-72.09214940000001,Confirmado,-36.601,-72.109
+152,16-03-2020,10.0,Chile,Ñuble,Masculino,24.0,Hospital de Chillán,Chillán,-36.6088176,-72.09214940000001,Confirmado,-36.601,-72.109
+153,16-03-2020,10.0,Chile,Ñuble,Masculino,39.0,Clínica de Chillán,Chillán,-36.61509470000001,-72.10759540000001,Confirmado,-36.601,-72.109
+154,16-03-2020,11.0,Chile,Biobío,Femenino,47.0,Clinica Biobío,Talcahuano,-36.789227,-73.06348100000001,Confirmado,-36.736,-73.105
+155,16-03-2020,12.0,Chile,Araucanía,Femenino,1.0,Hospital Hernán Henríquez Aravena,Temuco,-38.7370008,-72.599664,Confirmado,-38.727,-72.59899999999999
+156,16-03-2020,13.0,Chile,Los Ríos,Femenino,20.0,Clinica Alemana Valdivia,Valdivia,-39.818554,-73.2395179,Confirmado,-39.8,-73.233
+157,17-03-2020,6.0,Chile,Valparaiso,Masculino,34.0,,Santiago,,,Confirmado,,
+158,17-03-2020,7.0,Chile,Metropolitana,Femenino,61.0,Mutual de Seguridad,Estación Central,-33.4565408,-70.7007898,Confirmado,-33.459,-70.699
+159,17-03-2020,7.0,Chile,Metropolitana,Masculino,33.0,Mutual de Seguridad,Estación Central,-33.4565408,-70.7007898,Confirmado,-33.459,-70.699
+160,17-03-2020,7.0,Chile,Metropolitana,Femenino,48.0,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
+161,17-03-2020,7.0,Chile,Metropolitana,Masculino,31.0,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
+162,17-03-2020,7.0,Chile,Metropolitana,Masculino,32.0,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
+163,17-03-2020,7.0,Chile,Metropolitana,Femenino,56.0,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
+164,17-03-2020,7.0,Chile,Metropolitana,Masculino,56.0,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
+165,17-03-2020,7.0,Chile,Metropolitana,Femenino,75.0,Hospital La Florida,La Florida,-33.5140438,-70.59990340000002,Confirmado,-33.525,-70.538
+166,17-03-2020,7.0,Chile,Metropolitana,Femenino,47.0,Hospital del Salvador,Providencia,-33.43695200000001,-70.624884,Confirmado,-33.435,-70.616
+167,17-03-2020,7.0,Chile,Metropolitana,Masculino,36.0,Laboratorio Bionet,Las Condes,-33.4039136,-70.57991870000001,Confirmado,-33.4,-70.503
+168,17-03-2020,7.0,Chile,Metropolitana,Masculino,45.0,Clínica Las Condes,Las Condes,-33.3848002,-70.5302759,Confirmado,-33.4,-70.503
+169,17-03-2020,7.0,Chile,Metropolitana,Femenino,38.0,Clínica Las Condes,Las Condes,-33.3848002,-70.5302759,Confirmado,-33.4,-70.503
+170,17-03-2020,7.0,Chile,Metropolitana,Femenino,41.0,Clínica Las Condes,Las Condes,-33.3848002,-70.5302759,Confirmado,-33.4,-70.503
+171,17-03-2020,7.0,Chile,Metropolitana,Masculino,29.0,Clínica Las Condes,Las Condes,-33.3848002,-70.5302759,Confirmado,-33.4,-70.503
+172,17-03-2020,7.0,Chile,Metropolitana,Masculino,57.0,Clinica Dávila,Recoleta,-33.42752460000001,-70.6468095,Confirmado,-33.406,-70.64
+173,17-03-2020,7.0,Chile,Metropolitana,Femenino,43.0,Hospital del Trabajador,Providencia,-33.4435918,-70.6325056,Confirmado,-33.435,-70.616
+174,17-03-2020,7.0,Chile,Metropolitana,Femenino,44.0,Clínica U. de Los Andes,Las Condes,-33.4055828,-70.5034723,Confirmado,-33.4,-70.503
+175,17-03-2020,7.0,Chile,Metropolitana,Femenino,50.0,Hospital Lucio Córdova,San Miguel,-33.4856474,-70.6453608,Confirmado,-33.486,-70.649
+176,17-03-2020,7.0,Chile,Metropolitana,Femenino,22.0,Hospital San juan de Dios,Santiago,-33.4430753,-70.6797152,Confirmado,-33.437,-70.657
+177,17-03-2020,7.0,Chile,Metropolitana,Masculino,39.0,Hospital San juan de Dios,Santiago,-33.4430753,-70.6797152,Confirmado,-33.437,-70.657
+178,17-03-2020,7.0,Chile,Metropolitana,Masculino,43.0,Clinica San Carlos de Apoquindo,Las Condes,-33.40039539999999,-70.50964959999999,Confirmado,-33.4,-70.503
+179,17-03-2020,7.0,Chile,Metropolitana,Masculino,35.0,Clínica Vespucio,La Florida,-33.51905,-70.5970545,Confirmado,-33.525,-70.538
+180,17-03-2020,7.0,Chile,Metropolitana,Femenino,16.0,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
+181,17-03-2020,7.0,Chile,Metropolitana,Femenino,50.0,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
+182,17-03-2020,7.0,Chile,Metropolitana,Masculino,56.0,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
+183,17-03-2020,7.0,Chile,Metropolitana,Masculino,49.0,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
+184,17-03-2020,7.0,Chile,Metropolitana,Masculino,28.0,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
+185,17-03-2020,7.0,Chile,Metropolitana,Femenino,34.0,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
+186,17-03-2020,7.0,Chile,Metropolitana,Masculino,73.0,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
+187,17-03-2020,10.0,Chile,Ñuble,Femenino,33.0,Hospital de Chillán,Chillán,-36.6088176,-72.09214940000001,Confirmado,-36.601,-72.109
+188,17-03-2020,10.0,Chile,Ñuble,Femenino,29.0,Hospital de Chillán,Chillán,-36.6088176,-72.09214940000001,Confirmado,-36.601,-72.109
+189,17-03-2020,10.0,Chile,Ñuble,Masculino,43.0,Hospital de Chillán,Chillán,-36.6088176,-72.09214940000001,Confirmado,-36.601,-72.109
+190,17-03-2020,10.0,Chile,Ñuble,Femenino,27.0,Hospital de Chillán,Chillán,-36.6088176,-72.09214940000001,Confirmado,-36.601,-72.109
+191,17-03-2020,10.0,Chile,Ñuble,Femenino,37.0,Clínica de Chillán,Chillán,-36.61509470000001,-72.10759540000001,Confirmado,-36.601,-72.109
+192,17-03-2020,10.0,Chile,Ñuble,Masculino,40.0,Hospital de Chillán,Chillán,-36.6088176,-72.09214940000001,Confirmado,-36.601,-72.109
+193,17-03-2020,10.0,Chile,Ñuble,Femenino,27.0,Hospital de Chillán,Chillán,-36.6088176,-72.09214940000001,Confirmado,-36.601,-72.109
+194,17-03-2020,10.0,Chile,Ñuble,Masculino,36.0,Clínica de Chillán,Chillán,-36.61509470000001,-72.10759540000001,Confirmado,-36.601,-72.109
+195,17-03-2020,10.0,Chile,Ñuble,Femenino,30.0,Hospital de Chillán,Chillán,-36.6088176,-72.09214940000001,Confirmado,-36.601,-72.109
+196,17-03-2020,10.0,Chile,Ñuble,Femenino,26.0,Hospital de Chillán,Chillán,-36.6088176,-72.09214940000001,Confirmado,-36.601,-72.109
+197,17-03-2020,10.0,Chile,Ñuble,Masculino,29.0,Hospital de Chillán,Chillán,-36.6088176,-72.09214940000001,Confirmado,-36.601,-72.109
+198,17-03-2020,10.0,Chile,Ñuble,Masculino,32.0,Hospital de Chillán,Chillán,-36.6088176,-72.09214940000001,Confirmado,-36.601,-72.109
+199,17-03-2020,10.0,Chile,Ñuble,Masculino,48.0,Hospital de Chillán,Chillán,-36.6088176,-72.09214940000001,Confirmado,-36.601,-72.109
+200,17-03-2020,10.0,Chile,Ñuble,Femenino,31.0,Clínica de Chillán,Chillán,-36.61509470000001,-72.10759540000001,Confirmado,-36.601,-72.109
+201,17-03-2020,16.0,Chile,Magallanes,Masculino,70.0,Clínica Magallanes,Punta Arenas,-53.13726329999999,-70.8866272,Confirmado,-53.148,-70.907
+202,17-03-2020,16.0,Chile,Magallanes,Masculino,23.0,Hospital de Punta Arenas,Punta Arenas,-53.12242029999999,-70.8966561,Confirmado,-53.148,-70.907
+203,18-03-2020,6.0,Chile,Valparaiso,Femenino,52.0,,,,,Confirmado,,
+204,18-03-2020,6.0,Chile,Valparaiso,Masculino,56.0,,,,,Confirmado,,
+205,18-03-2020,6.0,Chile,Valparaiso,Masculino,35.0,,,,,Confirmado,,
 206,18-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 207,18-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 208,18-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
@@ -226,8 +226,8 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 225,18-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 226,18-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 227,18-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
-228,18-03-2020,8.0,Chile,O’Higgins,Masculino,40,Clínica Isamédica de Rancagua,Machalí,,,Confirmado,,
-229,18-03-2020,8.0,Chile,O’Higgins,Femenino,39,Clínica Isamédica de Rancagua,Requínoa,,,Confirmado,,
+228,18-03-2020,8.0,Chile,O’Higgins,Masculino,40.0,Clínica Isamédica de Rancagua,Machalí,,,Confirmado,,
+229,18-03-2020,8.0,Chile,O’Higgins,Femenino,39.0,Clínica Isamédica de Rancagua,Requínoa,,,Confirmado,,
 230,18-03-2020,9.0,Chile,Maule,,,,,,,Confirmado,,
 231,18-03-2020,9.0,Chile,Maule,,,,,,,Confirmado,,
 232,18-03-2020,11.0,Chile,Biobío,,,,,,,Confirmado,,
@@ -236,18 +236,18 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 235,18-03-2020,12.0,Chile,Araucanía,,,,,,,Confirmado,,
 236,18-03-2020,12.0,Chile,Araucanía,,,,,,,Confirmado,,
 237,18-03-2020,12.0,Chile,Araucanía,,,,,,,Confirmado,,
-238,18-03-2020,14.0,Chile,Los Lagos,Masculino,43,Hospital de Puerto Montt ,Puerto Varas ,,,Confirmado,,
-239,18-03-2020,14.0,Chile,Los Lagos,Masculino,53,Hospital Base de Osorno ,Osorno ,,,Confirmado,,
+238,18-03-2020,14.0,Chile,Los Lagos,Masculino,43.0,Hospital de Puerto Montt ,Puerto Varas ,,,Confirmado,,
+239,18-03-2020,14.0,Chile,Los Lagos,Masculino,53.0,Hospital Base de Osorno ,Osorno ,,,Confirmado,,
 240,18-03-2020,14.0,Chile,Los Lagos,,,,,,,Confirmado,,
 241,18-03-2020,14.0,Chile,Los Lagos,,,,,,,Confirmado,,
 242,18-03-2020,14.0,Chile,Los Lagos,,,,,,,Confirmado,,
 243,18-03-2020,14.0,Chile,Los Lagos,,,,,,,Confirmado,,
 244,18-03-2020,14.0,Chile,Los Lagos,,,,,,,Confirmado,,
 245,19-03-2020,1.0,Chile,Arica y Parinacota,,,,,,,Confirmado,,
-246,19-03-2020,3.0,Chile,Antofagasta,Femenino,61,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
-247,19-03-2020,3.0,Chile,Antofagasta,Masculino,34,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
-248,19-03-2020,3.0,Chile,Antofagasta,Masculino,60,Hospital Marcos Macuada,Tocopilla,,,Confirmado,,
-249,19-03-2020,3.0,Chile,Antofagasta,Femenino,57,Hospital Marcos Macuada,Tocopilla,,,Confirmado,,
+246,19-03-2020,3.0,Chile,Antofagasta,Femenino,61.0,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
+247,19-03-2020,3.0,Chile,Antofagasta,Masculino,34.0,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
+248,19-03-2020,3.0,Chile,Antofagasta,Masculino,60.0,Hospital Marcos Macuada,Tocopilla,,,Confirmado,,
+249,19-03-2020,3.0,Chile,Antofagasta,Femenino,57.0,Hospital Marcos Macuada,Tocopilla,,,Confirmado,,
 250,19-03-2020,5.0,Chile,Coquimbo,,,,,,,Confirmado,,
 251,19-03-2020,5.0,Chile,Coquimbo,,,,,,,Confirmado,,
 252,19-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
@@ -323,8 +323,8 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 322,19-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 323,19-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 324,19-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
-325,19-03-2020,8.0,Chile,O’Higgins,Femenino,37,Hospital Clínico FUSAT,San Fernando,,,Confirmado,,
-326,19-03-2020,8.0,Chile,O’Higgins,Femenino,39,Hospital Clínico FUSAT,San Fernando,,,Confirmado,,
+325,19-03-2020,8.0,Chile,O’Higgins,Femenino,37.0,Hospital Clínico FUSAT,San Fernando,,,Confirmado,,
+326,19-03-2020,8.0,Chile,O’Higgins,Femenino,39.0,Hospital Clínico FUSAT,San Fernando,,,Confirmado,,
 327,19-03-2020,9.0,Chile,Maule,,,,,,,Confirmado,,
 328,19-03-2020,9.0,Chile,Maule,,,,,,,Confirmado,,
 329,19-03-2020,9.0,Chile,Maule,,,,,,,Confirmado,,
@@ -356,12 +356,12 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 355,20-03-2020,3.0,Chile,Antofagasta,,,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
 356,20-03-2020,3.0,Chile,Antofagasta,,,Clínica Bupa,Antofagasta,,,Confirmado,,
 357,20-03-2020,3.0,Chile,Antofagasta,,,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
-358,20-03-2020,3.0,Chile,Antofagasta,Masculino,18,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
+358,20-03-2020,3.0,Chile,Antofagasta,Masculino,18.0,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
 359,20-03-2020,5.0,Chile,Coquimbo,,,,,,,Confirmado,,
-360,20-03-2020,6.0,Chile,Valparaíso,Femenino,31,,,,,Confirmado,,
-361,20-03-2020,6.0,Chile,Valparaíso,Masculino,41,,,,,Confirmado,,
-362,20-03-2020,6.0,Chile,Valparaíso,Masculino,34,,,,,Confirmado,,
-363,20-03-2020,6.0,Chile,Valparaíso,Femenino,37,,,,,Confirmado,,
+360,20-03-2020,6.0,Chile,Valparaíso,Femenino,31.0,,,,,Confirmado,,
+361,20-03-2020,6.0,Chile,Valparaíso,Masculino,41.0,,,,,Confirmado,,
+362,20-03-2020,6.0,Chile,Valparaíso,Masculino,34.0,,,,,Confirmado,,
+363,20-03-2020,6.0,Chile,Valparaíso,Femenino,37.0,,,,,Confirmado,,
 364,20-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 365,20-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 366,20-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
@@ -419,8 +419,8 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 418,20-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 419,20-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 420,20-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
-421,20-03-2020,8.0,Chile,O’Higgins,Femenino,34,Hospital Clínico FUSAT,Placilla,,,Confirmado,,
-422,20-03-2020,8.0,Chile,O’Higgins,Masculino,55,Clínica Isamédica de Rancagua,Rancagua,,,Confirmado,,
+421,20-03-2020,8.0,Chile,O’Higgins,Femenino,34.0,Hospital Clínico FUSAT,Placilla,,,Confirmado,,
+422,20-03-2020,8.0,Chile,O’Higgins,Masculino,55.0,Clínica Isamédica de Rancagua,Rancagua,,,Confirmado,,
 423,20-03-2020,10.0,Chile,Ñuble,,,,,,,Confirmado,,
 424,20-03-2020,10.0,Chile,Ñuble,,,,,,,Confirmado,,
 425,20-03-2020,10.0,Chile,Ñuble,,,,,,,Confirmado,,
@@ -447,12 +447,12 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 446,20-03-2020,14.0,Chile,Los Lagos,,,,,,,Confirmado,,
 447,20-03-2020,14.0,Chile,Los Lagos,,,,,,,Confirmado,,
 448,20-03-2020,,Chile,,,,,,,,Recuperado,,
-449,21-03-2020,3.0,Chile,Antofagasta,Femenino,47,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
-450,21-03-2020,6.0,Chile,Valparaíso,Masculino,27,Hospital de Quilpue,Quilpue,,,Confirmado,,
-451,21-03-2020,6.0,Chile,Valparaíso,Femenino,37,Hospital de Quilpue,Quilpue,,,Confirmado,,
-452,21-03-2020,6.0,Chile,Valparaíso,Femenino,22,,Viña del mar ,,,Confirmado,,
-453,21-03-2020,6.0,Chile,Valparaíso,Masculino,74,,Viña del mar ,,,Confirmado,,
-454,21-03-2020,6.0,Chile,Valparaíso,Masculino,73,,Viña del mar ,,,Confirmado,,
+449,21-03-2020,3.0,Chile,Antofagasta,Femenino,47.0,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
+450,21-03-2020,6.0,Chile,Valparaíso,Masculino,27.0,Hospital de Quilpue,Quilpue,,,Confirmado,,
+451,21-03-2020,6.0,Chile,Valparaíso,Femenino,37.0,Hospital de Quilpue,Quilpue,,,Confirmado,,
+452,21-03-2020,6.0,Chile,Valparaíso,Femenino,22.0,,Viña del mar ,,,Confirmado,,
+453,21-03-2020,6.0,Chile,Valparaíso,Masculino,74.0,,Viña del mar ,,,Confirmado,,
+454,21-03-2020,6.0,Chile,Valparaíso,Masculino,73.0,,Viña del mar ,,,Confirmado,,
 455,21-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 456,21-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 457,21-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
@@ -508,8 +508,8 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 507,21-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 508,21-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 509,21-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
-510,21-03-2020,8.0,Chile,O’Higgins,Masculino,34,Clínica Alemana de la Región Metropolitana,Quinta de Tilcoco,,,Confirmado,,
-511,21-03-2020,8.0,Chile,O’Higgins,Masculino,62,,San Fernando,,,Confirmado,,
+510,21-03-2020,8.0,Chile,O’Higgins,Masculino,34.0,Clínica Alemana de la Región Metropolitana,Quinta de Tilcoco,,,Confirmado,,
+511,21-03-2020,8.0,Chile,O’Higgins,Masculino,62.0,,San Fernando,,,Confirmado,,
 512,21-03-2020,9.0,Chile,Maule,,,,,,,Confirmado,,
 513,21-03-2020,10.0,Chile,Ñuble,,,,,,,Confirmado,,
 514,21-03-2020,10.0,Chile,Ñuble,,,,,,,Confirmado,,
@@ -544,20 +544,20 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 543,21-03-2020,12.0,Chile,Araucanía,,,,,,,Confirmado,,
 544,21-03-2020,14.0,Chile,Los Lagos,,,,,,,Confirmado,,
 545,21-03-2020,14.0,Chile,Los Lagos,,,,,,,Confirmado,,
-546,18-03-2020,16.0,Chile,Magallanes,Masculino,41,,,,,Confirmado,,
-547,20-03-2020,16.0,Chile,Magallanes,Femenino,29,,,,,Confirmado,,
-548,21-03-2020,16.0,Chile,Magallanes,Femenino,68,,,,,Confirmado,,
+546,18-03-2020,16.0,Chile,Magallanes,Masculino,41.0,,,,,Confirmado,,
+547,20-03-2020,16.0,Chile,Magallanes,Femenino,29.0,,,,,Confirmado,,
+548,21-03-2020,16.0,Chile,Magallanes,Femenino,68.0,,,,,Confirmado,,
 549,21-03-2020,,Chile,,,,,,,,Recuperado,,
 550,21-03-2020,,Chile,,,,,,,,Recuperado,,
-551,21-03-2020,7.0,Chile,Metropolitana,Femenino,82,,Renca,,,Muerte,-33.398,-70.723
+551,21-03-2020,7.0,Chile,Metropolitana,Femenino,82.0,,Renca,,,Muerte,-33.398,-70.723
 552,22-03-2020,1.0,Chile,Arica y Parinacota,,,,,,,Confirmado,,
-553,22-03-2020,2.0,Chile,Tarapaca,Masculino,47,,,,,,,
+553,22-03-2020,2.0,Chile,Tarapaca,Masculino,47.0,,,,,,,
 554,22-03-2020,5.0,Chile,Coquimbo,,,,,,,Confirmado,,
 555,22-03-2020,5.0,Chile,Coquimbo,,,,,,,Confirmado,,
-556,22-03-2020,6.0,Chile,Valparaíso,Femenino,43,,Viña del mar ,,,,,
-557,22-03-2020,6.0,Chile,Valparaíso,Femenino,61,,Viña del mar ,,,Confirmado,,
-558,22-03-2020,6.0,Chile,Valparaíso,Masculino,77,,Viña del mar ,,,Confirmado,,
-559,22-03-2020,6.0,Chile,Valparaíso,Femenino,31,Hospital San Camilo,San Felipe ,,,Confirmado,,
+556,22-03-2020,6.0,Chile,Valparaíso,Femenino,43.0,,Viña del mar ,,,,,
+557,22-03-2020,6.0,Chile,Valparaíso,Femenino,61.0,,Viña del mar ,,,Confirmado,,
+558,22-03-2020,6.0,Chile,Valparaíso,Masculino,77.0,,Viña del mar ,,,Confirmado,,
+559,22-03-2020,6.0,Chile,Valparaíso,Femenino,31.0,Hospital San Camilo,San Felipe ,,,Confirmado,,
 560,22-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 561,22-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 562,22-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
@@ -624,7 +624,7 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 623,22-03-2020,10.0,Chile,Ñuble,,,,,,,Confirmado,,
 624,22-03-2020,10.0,Chile,Ñuble,,,,,,,Confirmado,,
 625,22-03-2020,10.0,Chile,Ñuble,,,,,,,Confirmado,,
-626,22-03-2020,11.0,Chile,Biobío,Femenino,82,Hospital Traumatológico de Concepción,Concepción,,,Muerte,,
+626,22-03-2020,11.0,Chile,Biobío,Femenino,82.0,Hospital Traumatológico de Concepción,Concepción,,,Muerte,,
 627,22-03-2020,11.0,Chile,Biobío,,,,,,,Confirmado,,
 628,22-03-2020,11.0,Chile,Biobío,,,,,,,Confirmado,,
 629,22-03-2020,11.0,Chile,Biobío,,,,,,,Confirmado,,
@@ -641,19 +641,19 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 640,22-03-2020,12.0,Chile,Araucanía,,,,,,,Confirmado,,
 641,22-03-2020,12.0,Chile,Araucanía,,,,,,,Confirmado,,
 642,22-03-2020,12.0,Chile,Araucanía,,,,,,,Confirmado,,
-643,22-03-2020,14.0,Chile,Los Lagos,Masculino,31,Hospital Base de Osorno ,Puyehue,,,Confirmado,,
+643,22-03-2020,14.0,Chile,Los Lagos,Masculino,31.0,Hospital Base de Osorno ,Puyehue,,,Confirmado,,
 644,22-03-2020,14.0,Chile,Los Lagos,,,,,,,Confirmado,,
 645,22-03-2020,14.0,Chile,Los Lagos,,,,,,,Confirmado,,
 646,22-03-2020,16.0,Chile,Magallanes,,,,,,,Confirmado,,
-647,23-03-2020,2.0,Chile,Tarapacá,Masculino,31,,,,,Confirmado,,
-648,23-03-2020,3.0,Chile,Antofagasta,Masculino,19,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
-649,23-03-2020,3.0,Chile,Antofagasta,Femenino,41,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
+647,23-03-2020,2.0,Chile,Tarapacá,Masculino,31.0,,,,,Confirmado,,
+648,23-03-2020,3.0,Chile,Antofagasta,Masculino,19.0,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
+649,23-03-2020,3.0,Chile,Antofagasta,Femenino,41.0,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
 650,23-03-2020,5.0,Chile,Coquimbo,,,,,,,Confirmado,,
-651,23-03-2020,6.0,Chile,Valparaíso,Masculino,45,, Santiago,,,,,
-652,23-03-2020,6.0,Chile,Valparaíso,Masculino,67,Hospital de Quilpue,Quilpue ,,,,,
-653,23-03-2020,6.0,Chile,Valparaíso,Masculino,62,,Viña del mar ,,,Confirmado,,
-654,23-03-2020,6.0,Chile,Valparaíso,Masculino,39,, Viña del mar ,,,Confirmado,,
-655,23-03-2020,6.0,Chile,Valparaíso,Masculino,35,Hospital Carlos van Buren,Valparaiso ,,,Confirmado,,
+651,23-03-2020,6.0,Chile,Valparaíso,Masculino,45.0,, Santiago,,,,,
+652,23-03-2020,6.0,Chile,Valparaíso,Masculino,67.0,Hospital de Quilpue,Quilpue ,,,,,
+653,23-03-2020,6.0,Chile,Valparaíso,Masculino,62.0,,Viña del mar ,,,Confirmado,,
+654,23-03-2020,6.0,Chile,Valparaíso,Masculino,39.0,, Viña del mar ,,,Confirmado,,
+655,23-03-2020,6.0,Chile,Valparaíso,Masculino,35.0,Hospital Carlos van Buren,Valparaiso ,,,Confirmado,,
 656,23-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 657,23-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 658,23-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
@@ -704,7 +704,7 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 703,23-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 704,23-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 705,23-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
-706,23-03-2020,8.0,Chile,O’Higgins,Masculino,32,,Machalí,,,Confirmado,,
+706,23-03-2020,8.0,Chile,O’Higgins,Masculino,32.0,,Machalí,,,Confirmado,,
 707,23-03-2020,9.0,Chile,Maule,,,,,,,Confirmado,,
 708,23-03-2020,9.0,Chile,Maule,,,,,,,Confirmado,,
 709,23-03-2020,9.0,Chile,Maule,,,,,,,Confirmado,,
@@ -729,9 +729,9 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 728,23-03-2020,11.0,Chile,Biobío,Femenino,,,,,,Confirmado,,
 729,23-03-2020,11.0,Chile,Biobío,Femenino,,,,,,Confirmado,,
 730,23-03-2020,11.0,Chile,Biobío,Femenino,,,,,,Confirmado,,
-730,23-03-2020,11.0,Chile,Biobío,Femenino,,,,,,Confirmado,,
-730,23-03-2020,11.0,Chile,Biobío,Femenino,,,,,,Confirmado,,
-730,23-03-2020,11.0,Chile,Biobío,Femenino,,,,,,Confirmado,,
+731,23-03-2020,11.0,Chile,Biobío,Femenino,,,,,,Confirmado,,
+732,23-03-2020,11.0,Chile,Biobío,Femenino,,,,,,Confirmado,,
+733,23-03-2020,11.0,Chile,Biobío,Femenino,,,,,,Confirmado,,
 734,23-03-2020,11.0,Chile,Biobío,Femenino,,,,,,Confirmado,,
 735,23-03-2020,11.0,Chile,Biobío,Femenino,,,,,,Confirmado,,
 736,23-03-2020,11.0,Chile,Biobío,Femenino,,,,,,Confirmado,,
@@ -766,8 +766,8 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 765,23-03-2020,12.0,Chile,Araucanía,,,,,,,Confirmado,,
 766,23-03-2020,12.0,Chile,Araucanía,,,,,,,Confirmado,,
 767,23-03-2020,13.0,Chile,Los Ríos,Femenino,,,,,,Confirmado,,
-768,23-03-2020,13.0,Chile,Los Ríos,,16,,,,,Confirmado,,
-769,23-03-2020,13.0,Chile,Los Ríos,,23,,,,,Confirmado,,
+768,23-03-2020,13.0,Chile,Los Ríos,,16.0,,,,,Confirmado,,
+769,23-03-2020,13.0,Chile,Los Ríos,,23.0,,,,,Confirmado,,
 770,23-03-2020,14.0,Chile,Los Lagos,,,,,,,Confirmado,,
 771,23-03-2020,14.0,Chile,Los Lagos,,,,,,,Confirmado,,
 772,23-03-2020,14.0,Chile,Los Lagos,,,,,,,Confirmado,,
@@ -783,28 +783,28 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 782,23-03-2020,,Chile,,,,,,,,Recuperado,,
 783,23-03-2020,,Chile,,,,,,,,Recuperado,,
 784,23-03-2020,,Chile,,,,,,,,Recuperado,,
-785,24-03-2020,7.0,Chile,Metropolitana,Femenino,78,,Maipú,,,Muerte,-33.49,-70.788
-786,24-03-2020,2.0,Chile,Tarapacá,Femenino ,66,,,,,Confirmado,,
+785,24-03-2020,7.0,Chile,Metropolitana,Femenino,78.0,,Maipú,,,Muerte,-33.49,-70.788
+786,24-03-2020,2.0,Chile,Tarapacá,Femenino ,66.0,,,,,Confirmado,,
 787,24-03-2020,2.0,Chile,Tarapacá,Masculino,,,,,,Confirmado,,
 788,24-03-2020,2.0,Chile,Tarapacá,,,,,,,Confirmado,,
-789,24-03-2020,3.0,Chile,Antofagasta,Femenino,21,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
-790,24-03-2020,3.0,Chile,Antofagasta,Femenino,44,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
-791,24-03-2020,3.0,Chile,Antofagasta,Femenino,37,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
-792,24-03-2020,3.0,Chile,Antofagasta,Femenino,75,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
-793,24-03-2020,3.0,Chile,Antofagasta,Femenino,66,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
-794,24-03-2020,3.0,Chile,Antofagasta,Masculino,33,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
+789,24-03-2020,3.0,Chile,Antofagasta,Femenino,21.0,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
+790,24-03-2020,3.0,Chile,Antofagasta,Femenino,44.0,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
+791,24-03-2020,3.0,Chile,Antofagasta,Femenino,37.0,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
+792,24-03-2020,3.0,Chile,Antofagasta,Femenino,75.0,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
+793,24-03-2020,3.0,Chile,Antofagasta,Femenino,66.0,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
+794,24-03-2020,3.0,Chile,Antofagasta,Masculino,33.0,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
 795,24-03-2020,5.0,Chile,Coquimbo,,,,,,,Confirmado,,
 796,24-03-2020,5.0,Chile,Coquimbo,,,,,,,Confirmado,,
 797,24-03-2020,5.0,Chile,Coquimbo,,,,,,,Confirmado,,
 798,24-03-2020,5.0,Chile,Coquimbo,,,,,,,Confirmado,,
 799,24-03-2020,5.0,Chile,Coquimbo,,,,,,,Confirmado,,
-800,24-03-2020,6.0,Chile,Valparaíso,Femenino ,51,,Viña del mar,,,Confirmado,,
-801,24-03-2020,6.0,Chile,Valparaíso,Femenino ,31,Hospital Carlos Van Buren,Valparaiso  ,,,Confirmado,,
-802,24-03-2020,6.0,Chile,Valparaíso,Masculino,58,Hospital Carlos Van Buren,Valparaiso  ,,,Confirmado,,
-803,24-03-2020,6.0,Chile,Valparaíso,Masculino,34,Hospital Carlos Van Buren, Vaparaiso,,,Confirmado,,
-804,24-03-2020,6.0,Chile,Valparaíso,Masculino,68,Hospital San Juan de Dios de Los Andes,Los andes,,,Confirmado,,
-805,24-03-2020,6.0,Chile,Valparaíso,Femenino ,37,Hospital Hanga Roa,Isla de pascua ,,,,,
-806,24-03-2020,6.0,Chile,Valparaíso,Femenino ,53,Hospital de Quillota,Quillota ,,,Confirmado,,
+800,24-03-2020,6.0,Chile,Valparaíso,Femenino ,51.0,,Viña del mar,,,Confirmado,,
+801,24-03-2020,6.0,Chile,Valparaíso,Femenino ,31.0,Hospital Carlos Van Buren,Valparaiso  ,,,Confirmado,,
+802,24-03-2020,6.0,Chile,Valparaíso,Masculino,58.0,Hospital Carlos Van Buren,Valparaiso  ,,,Confirmado,,
+803,24-03-2020,6.0,Chile,Valparaíso,Masculino,34.0,Hospital Carlos Van Buren, Vaparaiso,,,Confirmado,,
+804,24-03-2020,6.0,Chile,Valparaíso,Masculino,68.0,Hospital San Juan de Dios de Los Andes,Los andes,,,Confirmado,,
+805,24-03-2020,6.0,Chile,Valparaíso,Femenino ,37.0,Hospital Hanga Roa,Isla de pascua ,,,,,
+806,24-03-2020,6.0,Chile,Valparaíso,Femenino ,53.0,Hospital de Quillota,Quillota ,,,Confirmado,,
 807,24-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 808,24-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 809,24-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
@@ -886,7 +886,7 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 885,24-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 886,24-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 887,24-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
-888,24-03-2020,8.0,Chile,O’Higgins,Masculino,33,Hospital Clínico FUSAT,Rancagua,,,Confirmado,,
+888,24-03-2020,8.0,Chile,O’Higgins,Masculino,33.0,Hospital Clínico FUSAT,Rancagua,,,Confirmado,,
 889,24-03-2020,9.0,Chile,Maule,,,,,,,Confirmado,,
 890,24-03-2020,10.0,Chile,Ñuble,,,,,,,Confirmado,,
 891,24-03-2020,10.0,Chile,Ñuble,,,,,,,Confirmado,,
@@ -958,34 +958,34 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 957,24-03-2020,12.0,Chile,Araucanía,,,,,,,Confirmado,,
 958,24-03-2020,12.0,Chile,Araucanía,,,,,,,Confirmado,,
 959,24-03-2020,12.0,Chile,Araucanía,,,,,,,Confirmado,,
-960,24-03-2020,13.0,Chile,Los Ríos,Femenino ,3,,,,,Confirmado,,
-961,24-03-2020,13.0,Chile,Los Ríos,Femenino ,34,,,,,Confirmado,,
+960,24-03-2020,13.0,Chile,Los Ríos,Femenino ,3.0,,,,,Confirmado,,
+961,24-03-2020,13.0,Chile,Los Ríos,Femenino ,34.0,,,,,Confirmado,,
 962,24-03-2020,14.0,Chile,Los Lagos,,,,,,,Confirmado,,
 963,24-03-2020,14.0,Chile,Los Lagos,,,,,,,Confirmado,,
 964,24-03-2020,14.0,Chile,Los Lagos,,,,,,,Confirmado,,
-965,24-03-2020,16.0,Chile,Magallanes,Masculino,31,,,,,Confirmado,,
-966,24-03-2020,16.0,Chile,Magallanes,Masculino,28,,,,,Confirmado,,
+965,24-03-2020,16.0,Chile,Magallanes,Masculino,31.0,,,,,Confirmado,,
+966,24-03-2020,16.0,Chile,Magallanes,Masculino,28.0,,,,,Confirmado,,
 967,24-03-2020,,Chile,,,,,,,,Recuperado,,
 968,24-03-2020,,Chile,,,,,,,,Recuperado,,
 969,24-03-2020,,Chile,,,,,,,,Recuperado,,
 970,24-03-2020,,Chile,,,,,,,,Recuperado,,
 971,24-03-2020,,Chile,,,,,,,,Recuperado,,
 972,24-03-2020,,Chile,,,,,,,,Recuperado,,
-973,25-03-2020,2.0,Chile,Tarapacá,Masculino,36,,,,,Confirmado,,
+973,25-03-2020,2.0,Chile,Tarapacá,Masculino,36.0,,,,,Confirmado,,
 974,25-03-2020,2.0,Chile,Tarapacá,,,,,,,Confirmado,,
 975,25-03-2020,2.0,Chile,Tarapacá,,,,,,,Confirmado,,
-976,25-03-2020,3.0,Chile,Antofagasta,Masculino,23,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
+976,25-03-2020,3.0,Chile,Antofagasta,Masculino,23.0,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
 977,25-03-2020,5.0,Chile,Coquimbo,,,,,,,Confirmado,,
-978,25-03-2020,6.0,Chile,Valparaíso,Masculino,38,, Viña del mar,,,Confirmado,,
-979,25-03-2020,6.0,Chile,Valparaíso,Masculino,52,Hospital Naval,Viña del mar,,,Confirmado,,
-980,25-03-2020,6.0,Chile,Valparaíso,Masculino,41,,Viña del mar,,,Confirmado,,
-981,25-03-2020,6.0,Chile,Valparaíso,Femenino ,56,Hospital de Quillota, Quillota ,,,Confirmado,,
-982,25-03-2020,6.0,Chile,Valparaíso,Masculino,33,,Viña del mar,,,Confirmado,,
-983,25-03-2020,6.0,Chile,Valparaíso,Masculino,29,Hospital Dr Gustavo Fricke,Viña del mar,,,Confirmado,,
-984,25-03-2020,6.0,Chile,Valparaíso,Femenino ,21,Hospital Dr Gustavo Fricke,Viña del mar,,,Confirmado,,
-985,25-03-2020,6.0,Chile,Valparaíso,Femenino ,54,Hospital de Quillota,Quilota,,,Confirmado,,
-986,25-03-2020,6.0,Chile,Valparaíso,Femenino ,40,Hospital de Quilpue, Quilpue,,,Confirmado,,
-987,25-03-2020,6.0,Chile,Valparaíso,Femenino ,36,,Viña del mar,,,Confirmado,,
+978,25-03-2020,6.0,Chile,Valparaíso,Masculino,38.0,, Viña del mar,,,Confirmado,,
+979,25-03-2020,6.0,Chile,Valparaíso,Masculino,52.0,Hospital Naval,Viña del mar,,,Confirmado,,
+980,25-03-2020,6.0,Chile,Valparaíso,Masculino,41.0,,Viña del mar,,,Confirmado,,
+981,25-03-2020,6.0,Chile,Valparaíso,Femenino ,56.0,Hospital de Quillota, Quillota ,,,Confirmado,,
+982,25-03-2020,6.0,Chile,Valparaíso,Masculino,33.0,,Viña del mar,,,Confirmado,,
+983,25-03-2020,6.0,Chile,Valparaíso,Masculino,29.0,Hospital Dr Gustavo Fricke,Viña del mar,,,Confirmado,,
+984,25-03-2020,6.0,Chile,Valparaíso,Femenino ,21.0,Hospital Dr Gustavo Fricke,Viña del mar,,,Confirmado,,
+985,25-03-2020,6.0,Chile,Valparaíso,Femenino ,54.0,Hospital de Quillota,Quilota,,,Confirmado,,
+986,25-03-2020,6.0,Chile,Valparaíso,Femenino ,40.0,Hospital de Quilpue, Quilpue,,,Confirmado,,
+987,25-03-2020,6.0,Chile,Valparaíso,Femenino ,36.0,,Viña del mar,,,Confirmado,,
 988,25-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 989,25-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 990,25-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
@@ -1128,9 +1128,9 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 1127,25-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 1128,25-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 1129,25-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
-1130,25-03-2020,8.0,Chile,O’Higgins,Masculino,26,Clínica Isamédica de Rancagua,Rancagua,,,Confirmado,,
-1131,25-03-2020,8.0,Chile,O’Higgins,Femenino,32,Clínica San Carlos de Apoquindo de la Región Metropolitana,Quinta de Tilcoco,,,Confirmado,,
-1132,,8.0,Chile,O’Higgins,Masculino,73,Clínica Red Salud de Rancagua,Chimbarongo,,,Confirmado,,
+1130,25-03-2020,8.0,Chile,O’Higgins,Masculino,26.0,Clínica Isamédica de Rancagua,Rancagua,,,Confirmado,,
+1131,25-03-2020,8.0,Chile,O’Higgins,Femenino,32.0,Clínica San Carlos de Apoquindo de la Región Metropolitana,Quinta de Tilcoco,,,Confirmado,,
+1132,,8.0,Chile,O’Higgins,Masculino,73.0,Clínica Red Salud de Rancagua,Chimbarongo,,,Confirmado,,
 1133,25-03-2020,9.0,Chile,Maule,,,,,,,Confirmado,,
 1134,25-03-2020,10.0,Chile,Ñuble,,,,,,,Confirmado,,
 1135,25-03-2020,10.0,Chile,Ñuble,,,,,,,Confirmado,,
@@ -1138,7 +1138,7 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 1137,25-03-2020,10.0,Chile,Ñuble,,,,,,,Confirmado,,
 1138,25-03-2020,10.0,Chile,Ñuble,,,,,,,Confirmado,,
 1139,25-03-2020,10.0,Chile,Ñuble,,,,,,,Confirmado,,
-1140,25-03-2020,11.0,Chile,Biobío,Masculino,79,Hospital Las Higueras,Hualpén,,,Muerte,,
+1140,25-03-2020,11.0,Chile,Biobío,Masculino,79.0,Hospital Las Higueras,Hualpén,,,Muerte,,
 1141,25-03-2020,11.0,Chile,Biobío,,,,,,,Confirmado,,
 1142,25-03-2020,11.0,Chile,Biobío,,,,,,,Confirmado,,
 1143,25-03-2020,11.0,Chile,Biobío,,,,,,,Confirmado,,
@@ -1175,43 +1175,43 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 1174,25-03-2020,12.0,Chile,Araucanía,,,,,,,Confirmado,,
 1175,25-03-2020,12.0,Chile,Araucanía,,,,,,,Confirmado,,
 1176,25-03-2020,12.0,Chile,Araucanía,,,,,,,Confirmado,,
-1177,25-03-2020,13.0,Chile,Los Ríos,Femenino,34,,,,,Confirmado,,
-1178,25-03-2020,13.0,Chile,Los Ríos,Masculino,31,,,,,Confirmado,,
-1179,25-03-2020,13.0,Chile,Los Ríos,Masculino,36,,,,,Confirmado,,
-1180,25-03-2020,13.0,Chile,Los Ríos,Masculino,38,,,,,Confirmado,,
-1181,25-03-2020,13.0,Chile,Los Ríos,Masculino,36,,,,,Confirmado,,
+1177,25-03-2020,13.0,Chile,Los Ríos,Femenino,34.0,,,,,Confirmado,,
+1178,25-03-2020,13.0,Chile,Los Ríos,Masculino,31.0,,,,,Confirmado,,
+1179,25-03-2020,13.0,Chile,Los Ríos,Masculino,36.0,,,,,Confirmado,,
+1180,25-03-2020,13.0,Chile,Los Ríos,Masculino,38.0,,,,,Confirmado,,
+1181,25-03-2020,13.0,Chile,Los Ríos,Masculino,36.0,,,,,Confirmado,,
 1182,25-03-2020,14.0,Chile,Los Lagos,,,,,,,Confirmado,,
-1183,25-03-2020,14.0,Chile,Los Lagos,Femenino,7,Hospital de Achao,Quinchao,,,Confirmado,,
-1184,25-03-2020,14.0,Chile,Los Lagos,Masculino,49,Hostipal de Castro,Castro,,,Confirmado,,
+1183,25-03-2020,14.0,Chile,Los Lagos,Femenino,7.0,Hospital de Achao,Quinchao,,,Confirmado,,
+1184,25-03-2020,14.0,Chile,Los Lagos,Masculino,49.0,Hostipal de Castro,Castro,,,Confirmado,,
 1185,25-03-2020,14.0,Chile,Los Lagos,,,,,,,Confirmado,,
 1186,25-03-2020,14.0,Chile,Los Lagos,,,,,,,Confirmado,,
 1187,25-03-2020,14.0,Chile,Los Lagos,,,,,,,Confirmado,,
 1188,25-03-2020,14.0,Chile,Los Lagos,,,,,,,Confirmado,,
 1189,25-03-2020,14.0,Chile,Los Lagos,,,,,,,Confirmado,,
-1190,25-03-2020,16.0,Chile,Magallanes,Femenino,31,,,,,Confirmado,,
-1191,25-03-2020,16.0,Chile,Magallanes,Masculino,33,,,,,Confirmado,,
-1192,25-03-2020,16.0,Chile,Magallanes,Femenino,14,,,,,Confirmado,,
-1193,25-03-2020,16.0,Chile,Magallanes,Femenino,32,,,,,Confirmado,,
-1194,25-03-2020,16.0,Chile,Magallanes,Masculino,45,,,,,Confirmado,,
+1190,25-03-2020,16.0,Chile,Magallanes,Femenino,31.0,,,,,Confirmado,,
+1191,25-03-2020,16.0,Chile,Magallanes,Masculino,33.0,,,,,Confirmado,,
+1192,25-03-2020,16.0,Chile,Magallanes,Femenino,14.0,,,,,Confirmado,,
+1193,25-03-2020,16.0,Chile,Magallanes,Femenino,32.0,,,,,Confirmado,,
+1194,25-03-2020,16.0,Chile,Magallanes,Masculino,45.0,,,,,Confirmado,,
 1195,25-03-2020,,Chile,,,,,,,,Recuperado,,
 1196,25-03-2020,,Chile,,,,,,,,Recuperado,,
 1197,25-03-2020,,Chile,,,,,,,,Recuperado,,
 1198,25-03-2020,,Chile,,,,,,,,Recuperado,,
 1199,25-03-2020,,Chile,,,,,,,,Recuperado,,
-1200,25-03-2020,11.0,Chile,Biobío,Masculino,82,Hospital G. Grant Benavente,Concepción,-36.82444539999999,-73.03859399999999,Muerte,-36.815,-73.029
+1200,25-03-2020,11.0,Chile,Biobío,Masculino,82.0,Hospital G. Grant Benavente,Concepción,-36.82444539999999,-73.03859399999999,Muerte,-36.815,-73.029
 1201,26-03-2020,1.0,Chile,Arica y Parinacota,,,,,,,Confirmado,,
-1202,26-03-2020,3.0,Chile,Antofagasta,Masculino,39,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
+1202,26-03-2020,3.0,Chile,Antofagasta,Masculino,39.0,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
 1203,26-03-2020,5.0,Chile,Coquimbo,,,,,,,Confirmado,,
-1204,26-03-2020,6.0,Chile,Valparaíso,Femenino,36,Hospital San Antonio de Puteaendo,Putaendo,,,Confirmado,,
-1205,26-03-2020,6.0,Chile,Valparaíso,Femenino,32,Hospital Carlos Van Buren,Valparaiso,,,Confirmado,,
-1206,26-03-2020,6.0,Chile,Valparaíso,Femenino,23,Hospital Carlos Van Buren,Valparaiso,,,Confirmado,,
-1207,26-03-2020,6.0,Chile,Valparaíso,Femenino,55,Hospital Carlos Van Buren,Valparaiso,,,Confirmado,,
-1208,26-03-2020,6.0,Chile,Valparaíso,Femenino,64,Hospital San Juan de Dios de Los Andes,Los andes,,,Confirmado,,
-1209,26-03-2020,6.0,Chile,Valparaíso,Femenino,76,Hospital Claudio Vicuña,Algarrobo,,,Confirmado,,
-1210,26-03-2020,6.0,Chile,Valparaíso,Femenino,76,Hospital Claudio Vicuña,Algarrobo,,,Confirmado,,
-1211,26-03-2020,6.0,Chile,Valparaíso,Masculino,29,,Valparaiso,,,Confirmado,,
-1212,26-03-2020,6.0,Chile,Valparaíso,Masculino,58,Hospital de Quilpue, Quilpue,,,Confirmado,,
-1213,26-03-2020,6.0,Chile,Valparaíso,Masculino,37,,Viña del mar,,,Confirmado,,
+1204,26-03-2020,6.0,Chile,Valparaíso,Femenino,36.0,Hospital San Antonio de Puteaendo,Putaendo,,,Confirmado,,
+1205,26-03-2020,6.0,Chile,Valparaíso,Femenino,32.0,Hospital Carlos Van Buren,Valparaiso,,,Confirmado,,
+1206,26-03-2020,6.0,Chile,Valparaíso,Femenino,23.0,Hospital Carlos Van Buren,Valparaiso,,,Confirmado,,
+1207,26-03-2020,6.0,Chile,Valparaíso,Femenino,55.0,Hospital Carlos Van Buren,Valparaiso,,,Confirmado,,
+1208,26-03-2020,6.0,Chile,Valparaíso,Femenino,64.0,Hospital San Juan de Dios de Los Andes,Los andes,,,Confirmado,,
+1209,26-03-2020,6.0,Chile,Valparaíso,Femenino,76.0,Hospital Claudio Vicuña,Algarrobo,,,Confirmado,,
+1210,26-03-2020,6.0,Chile,Valparaíso,Femenino,76.0,Hospital Claudio Vicuña,Algarrobo,,,Confirmado,,
+1211,26-03-2020,6.0,Chile,Valparaíso,Masculino,29.0,,Valparaiso,,,Confirmado,,
+1212,26-03-2020,6.0,Chile,Valparaíso,Masculino,58.0,Hospital de Quilpue, Quilpue,,,Confirmado,,
+1213,26-03-2020,6.0,Chile,Valparaíso,Masculino,37.0,,Viña del mar,,,Confirmado,,
 1214,26-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 1215,26-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 1216,26-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
@@ -1276,7 +1276,7 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 1275,26-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 1276,26-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 1277,26-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
-1278,26-03-2020,8.0,Chile,O’Higgins,Femenino,58,Hospital San Juan de Dios de San Fernando,San Fernando,,,Confirmado,,
+1278,26-03-2020,8.0,Chile,O’Higgins,Femenino,58.0,Hospital San Juan de Dios de San Fernando,San Fernando,,,Confirmado,,
 1279,26-03-2020,9.0,Chile,Maule,,,,,,,Confirmado,,
 1280,26-03-2020,10.0,Chile,Ñuble,,,,,,,Confirmado,,
 1281,26-03-2020,10.0,Chile,Ñuble,,,,,,,Confirmado,,
@@ -1332,9 +1332,9 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 1331,26-03-2020,12.0,Chile,Araucanía,,,,,,,Confirmado,,
 1332,26-03-2020,12.0,Chile,Araucanía,,,,,,,Confirmado,,
 1333,26-03-2020,12.0,Chile,Araucanía,,,,,,,Confirmado,,
-1334,26-03-2020,13.0,Chile,Los Ríos,Femenino,52,,,,,Confirmado,,
-1335,26-03-2020,13.0,Chile,Los Ríos,Masculino,25,,,,,Confirmado,,
-1336,26-03-2020,13.0,Chile,Los Ríos,Masculino,67,,,,,Confirmado,,
+1334,26-03-2020,13.0,Chile,Los Ríos,Femenino,52.0,,,,,Confirmado,,
+1335,26-03-2020,13.0,Chile,Los Ríos,Masculino,25.0,,,,,Confirmado,,
+1336,26-03-2020,13.0,Chile,Los Ríos,Masculino,67.0,,,,,Confirmado,,
 1337,26-03-2020,14.0,Chile,Los Lagos,,,,,,,Confirmado,,
 1338,26-03-2020,14.0,Chile,Los Lagos,,,,,,,Confirmado,,
 1339,26-03-2020,14.0,Chile,Los Lagos,,,,,,,Confirmado,,
@@ -1352,15 +1352,15 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 1351,26-03-2020,14.0,Chile,Los Lagos,,,,,,,Confirmado,,
 1352,26-03-2020,14.0,Chile,Los Lagos,,,,,,,Confirmado,,
 1353,26-03-2020,15.0,Chile,Aysén,,,,,,,Confirmado,,
-1354,26-03-2020,16.0,Chile,Magallanes,Femenino,45,,,,,Confirmado,,
-1355,26-03-2020,16.0,Chile,Magallanes,Femenino,33,,,,,Confirmado,,
-1356,26-03-2020,16.0,Chile,Magallanes,Masculino,35,,,,,Confirmado,,
-1357,26-03-2020,16.0,Chile,Magallanes,Masculino,36,,,,,Confirmado,,
-1358,26-03-2020,16.0,Chile,Magallanes,Masculino,46,,,,,Confirmado,,
-1359,26-03-2020,16.0,Chile,Magallanes,Masculino,52,,,,,Confirmado,,
-1360,26-03-2020,16.0,Chile,Magallanes,Masculino,54,,,,,Confirmado,,
-1361,26-03-2020,16.0,Chile,Magallanes,Femenino,30,,,,,Confirmado,,
-1362,26-03-2020,11.0,Chile,Biobío,Hombre,80,Hospital Las Higueras,Talcahuano,-36.7406123,-73.1088746,Muerte,-36.736,-73.105
+1354,26-03-2020,16.0,Chile,Magallanes,Femenino,45.0,,,,,Confirmado,,
+1355,26-03-2020,16.0,Chile,Magallanes,Femenino,33.0,,,,,Confirmado,,
+1356,26-03-2020,16.0,Chile,Magallanes,Masculino,35.0,,,,,Confirmado,,
+1357,26-03-2020,16.0,Chile,Magallanes,Masculino,36.0,,,,,Confirmado,,
+1358,26-03-2020,16.0,Chile,Magallanes,Masculino,46.0,,,,,Confirmado,,
+1359,26-03-2020,16.0,Chile,Magallanes,Masculino,52.0,,,,,Confirmado,,
+1360,26-03-2020,16.0,Chile,Magallanes,Masculino,54.0,,,,,Confirmado,,
+1361,26-03-2020,16.0,Chile,Magallanes,Femenino,30.0,,,,,Confirmado,,
+1362,26-03-2020,11.0,Chile,Biobío,Hombre,80.0,Hospital Las Higueras,Talcahuano,-36.7406123,-73.1088746,Muerte,-36.736,-73.105
 1363,26-03-2020,,Chile,,,,,,,,Recuperado,,
 1364,26-03-2020,,Chile,,,,,,,,Recuperado,,
 1365,26-03-2020,,Chile,,,,,,,,Recuperado,,
@@ -1372,24 +1372,24 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 1371,26-03-2020,,Chile,,,,,,,,Recuperado,,
 1372,26-03-2020,,Chile,,,,,,,,Recuperado,,
 1373,26-03-2020,,Chile,,,,,,,,Recuperado,,
-1374,27-03-2020,2.0,Chile,Tarapaca,Masculino,38,,,,,,,
-1375,27-03-2020,3.0,Chile,Antofagasta,Masculino,67,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
-1376,27-03-2020,3.0,Chile,Antofagasta,Masculino,36,Hospital Dr. Carlos Cisternas,Calama,,,Confirmado,,
+1374,27-03-2020,2.0,Chile,Tarapaca,Masculino,38.0,,,,,,,
+1375,27-03-2020,3.0,Chile,Antofagasta,Masculino,67.0,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
+1376,27-03-2020,3.0,Chile,Antofagasta,Masculino,36.0,Hospital Dr. Carlos Cisternas,Calama,,,Confirmado,,
 1377,27-03-2020,5.0,Chile,Coquimbo,,,,,,,Confirmado,,
-1378,27-03-2020,6.0,Chile,Valparaíso,Masculino,49,Hospital de La Calera,La calera,,,Confirmado,,
-1379,27-03-2020,6.0,Chile,Valparaíso,Masculino,52,Hospital San Camilo,San Felipe,,,Confirmado,,
-1380,27-03-2020,6.0,Chile,Valparaíso,Masculino,19,Hospital de Quilpue, Quilpue,,,Confirmado,,
-1381,27-03-2020,6.0,Chile,Valparaíso,Masculino,52,Hospital Naval,Viña del mar,,,Confirmado,,
-1382,27-03-2020,6.0,Chile,Valparaíso,Femenino,23,,Viña del mar,,,Confirmado,,
-1383,27-03-2020,6.0,Chile,Valparaíso,Masculino,42,,Viña del mar,,,Confirmado,,
-1384,27-03-2020,6.0,Chile,Valparaíso,Masculino,54,,Quilpue,,,Confirmado,,
-1385,27-03-2020,6.0,Chile,Valparaíso,Femenino,46,,Quilpue,,,Confirmado,,
-1386,27-03-2020,6.0,Chile,Valparaíso,Masculino,46,Hospital Hanga Roa,Isla de pascua,,,Confirmado,,
-1387,27-03-2020,6.0,Chile,Valparaíso,Masculino,17,Hospital San Camilo,San felipe,,,Confirmado,,
-1388,27-03-2020,6.0,Chile,Valparaíso,Masculino,20,Hospital de La Calera,La calera,,,Confirmado,,
-1389,27-03-2020,6.0,Chile,Valparaíso,Femenino,45,Hospital de La Calera,La calera,,,Confirmado,,
-1390,27-03-2020,6.0,Chile,Valparaíso,Femenino,17,Hospital de La Calera,La calera,,,Confirmado,,
-1391,27-03-2020,6.0,Chile,Valparaíso,Femenino,22,Hospital de La Calera,La calera,,,Confirmado,,
+1378,27-03-2020,6.0,Chile,Valparaíso,Masculino,49.0,Hospital de La Calera,La calera,,,Confirmado,,
+1379,27-03-2020,6.0,Chile,Valparaíso,Masculino,52.0,Hospital San Camilo,San Felipe,,,Confirmado,,
+1380,27-03-2020,6.0,Chile,Valparaíso,Masculino,19.0,Hospital de Quilpue, Quilpue,,,Confirmado,,
+1381,27-03-2020,6.0,Chile,Valparaíso,Masculino,52.0,Hospital Naval,Viña del mar,,,Confirmado,,
+1382,27-03-2020,6.0,Chile,Valparaíso,Femenino,23.0,,Viña del mar,,,Confirmado,,
+1383,27-03-2020,6.0,Chile,Valparaíso,Masculino,42.0,,Viña del mar,,,Confirmado,,
+1384,27-03-2020,6.0,Chile,Valparaíso,Masculino,54.0,,Quilpue,,,Confirmado,,
+1385,27-03-2020,6.0,Chile,Valparaíso,Femenino,46.0,,Quilpue,,,Confirmado,,
+1386,27-03-2020,6.0,Chile,Valparaíso,Masculino,46.0,Hospital Hanga Roa,Isla de pascua,,,Confirmado,,
+1387,27-03-2020,6.0,Chile,Valparaíso,Masculino,17.0,Hospital San Camilo,San felipe,,,Confirmado,,
+1388,27-03-2020,6.0,Chile,Valparaíso,Masculino,20.0,Hospital de La Calera,La calera,,,Confirmado,,
+1389,27-03-2020,6.0,Chile,Valparaíso,Femenino,45.0,Hospital de La Calera,La calera,,,Confirmado,,
+1390,27-03-2020,6.0,Chile,Valparaíso,Femenino,17.0,Hospital de La Calera,La calera,,,Confirmado,,
+1391,27-03-2020,6.0,Chile,Valparaíso,Femenino,22.0,Hospital de La Calera,La calera,,,Confirmado,,
 1392,27-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 1393,27-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 1394,27-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
@@ -1582,9 +1582,9 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 1581,27-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 1582,27-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 1583,27-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
-1584,27-03-2020,8.0,Chile,O’Higgins,Femenino,37,Hospital Regional de Rancagua,Rancagua,,,Confirmado,,
-1585,27-03-2020,8.0,Chile,O’Higgins,Masculino,32,Hospital Regional de Rancagua,Machalí,,,Confirmado,,
-1586,27-03-2020,8.0,Chile,O’Higgins,Masculino,37,Hospital Clínico FUSAT,Machalí,,,Confirmado,,
+1584,27-03-2020,8.0,Chile,O’Higgins,Femenino,37.0,Hospital Regional de Rancagua,Rancagua,,,Confirmado,,
+1585,27-03-2020,8.0,Chile,O’Higgins,Masculino,32.0,Hospital Regional de Rancagua,Machalí,,,Confirmado,,
+1586,27-03-2020,8.0,Chile,O’Higgins,Masculino,37.0,Hospital Clínico FUSAT,Machalí,,,Confirmado,,
 1587,27-03-2020,9.0,Chile,Maule,,,,,,,Confirmado,,
 1588,27-03-2020,10.0,Chile,Ñuble,,,,,,,Confirmado,,
 1589,27-03-2020,10.0,Chile,Ñuble,,,,,,,Confirmado,,
@@ -1674,23 +1674,23 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 1673,27-03-2020,12.0,Chile,Araucanía,,,,,,,Confirmado,,
 1674,27-03-2020,12.0,Chile,Araucanía,,,,,,,Confirmado,,
 1675,27-03-2020,12.0,Chile,Araucanía,,,,,,,Confirmado,,
-1676,27-03-2020,13.0,Chile,Los Ríos,Femenino,32,,,,,Confirmado,,
-1677,27-03-2020,13.0,Chile,Los Ríos,Femenino,36,,,,,Confirmado,,
-1678,27-03-2020,13.0,Chile,Los Ríos,Femenino,37,,,,,Confirmado,,
-1679,27-03-2020,13.0,Chile,Los Ríos,Femenino,38,,,,,Confirmado,,
-1680,27-03-2020,13.0,Chile,Los Ríos,Masculino,53,,,,,Confirmado,,
-1681,27-03-2020,13.0,Chile,Los Ríos,Masculino,63,,,,,Confirmado,,
-1682,27-03-2020,13.0,Chile,Los Ríos,Masculino,22,,,,,Confirmado,,
-1683,27-03-2020,13.0,Chile,Los Ríos,Masculino,43,,,,,Confirmado,,
+1676,27-03-2020,13.0,Chile,Los Ríos,Femenino,32.0,,,,,Confirmado,,
+1677,27-03-2020,13.0,Chile,Los Ríos,Femenino,36.0,,,,,Confirmado,,
+1678,27-03-2020,13.0,Chile,Los Ríos,Femenino,37.0,,,,,Confirmado,,
+1679,27-03-2020,13.0,Chile,Los Ríos,Femenino,38.0,,,,,Confirmado,,
+1680,27-03-2020,13.0,Chile,Los Ríos,Masculino,53.0,,,,,Confirmado,,
+1681,27-03-2020,13.0,Chile,Los Ríos,Masculino,63.0,,,,,Confirmado,,
+1682,27-03-2020,13.0,Chile,Los Ríos,Masculino,22.0,,,,,Confirmado,,
+1683,27-03-2020,13.0,Chile,Los Ríos,Masculino,43.0,,,,,Confirmado,,
 1684,27-03-2020,14.0,Chile,Los Lagos,,,,,,,Confirmado,,
 1685,27-03-2020,14.0,Chile,Los Lagos,,,,,,,Confirmado,,
 1686,27-03-2020,14.0,Chile,Los Lagos,,,,,,,Confirmado,,
-1687,27-03-2020,16.0,Chile,Magallanes,Masculino,60,,Punta Arenas,,,Confirmado,,
-1688,27-03-2020,16.0,Chile,Magallanes,Femenino,25,,Punta Arenas,,,Confirmado,,
+1687,27-03-2020,16.0,Chile,Magallanes,Masculino,60.0,,Punta Arenas,,,Confirmado,,
+1688,27-03-2020,16.0,Chile,Magallanes,Femenino,25.0,,Punta Arenas,,,Confirmado,,
 1689,27-03-2020,16.0,Chile,Magallanes,,,,,,,Confirmado,,
-1690,27-03-2020,7.0,Chile,Metropolitana,,64,,,,,Muerte,,
+1690,27-03-2020,7.0,Chile,Metropolitana,,64.0,,,,,Muerte,,
 1691,27-03-2020,14.0,Chile,Los Lagos,Masculino,,Centro de Salud Familiar Marcelo Lopetegui,Río Negro,,,Recuperado,,
-1692,27-03-2020,14.0,Chile,Los Lagos,Masculino,27,Hospital San José de Osorno,Puerto Octay,,,Confirmado,,
+1692,27-03-2020,14.0,Chile,Los Lagos,Masculino,27.0,Hospital San José de Osorno,Puerto Octay,,,Confirmado,,
 1693,27-03-2020,,Chile,,,,,,,,Recuperado,,
 1694,27-03-2020,,Chile,,,,,,,,Recuperado,,
 1695,27-03-2020,,Chile,,,,,,,,Recuperado,,
@@ -1699,28 +1699,28 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 1698,27-03-2020,,Chile,,,,,,,,Recuperado,,
 1699,27-03-2020,,Chile,,,,,,,,Recuperado,,
 1700,27-03-2020,,Chile,,,,,,,,Recuperado,,
-1701,28-03-2020,3.0,Chile,Antofagasta,Femenino,65,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
-1702,28-03-2020,3.0,Chile,Antofagasta,Femenino,45,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
-1703,28-03-2020,3.0,Chile,Antofagasta,Femenino,30,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
-1704,28-03-2020,3.0,Chile,Antofagasta,Masculino,43,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
+1701,28-03-2020,3.0,Chile,Antofagasta,Femenino,65.0,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
+1702,28-03-2020,3.0,Chile,Antofagasta,Femenino,45.0,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
+1703,28-03-2020,3.0,Chile,Antofagasta,Femenino,30.0,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
+1704,28-03-2020,3.0,Chile,Antofagasta,Masculino,43.0,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
 1705,28-03-2020,5.0,Chile,Coquimbo,,,,,,,Confirmado,,
-1706,28-03-2020,6.0,Chile,Valparaíso,Masculino,35,,Viña del mar,,,Confirmado,,
-1707,28-03-2020,6.0,Chile,Valparaíso,Femenino,42,,Viña del mar,,,Confirmado,,
-1708,28-03-2020,6.0,Chile,Valparaíso,Femenino,29,,Viña del mar,,,Confirmado,,
-1709,28-03-2020,6.0,Chile,Valparaíso,Masculino,42,,Viña del mar,,,Confirmado,,
-1710,28-03-2020,6.0,Chile,Valparaíso,Femenino,56,,viña del mar,,,Confirmado,,
-1711,28-03-2020,6.0,Chile,Valparaíso,Masculino,43,,viña del mar,,,Confirmado,,
-1712,28-03-2020,6.0,Chile,Valparaíso,Masculino,46,,viña del mar,,,Confirmado,,
-1713,28-03-2020,6.0,Chile,Valparaíso,Masculino,22,,viña del mar,,,Confirmado,,
-1714,28-03-2020,6.0,Chile,Valparaíso,Femenino,46,CESFAM Algarrobo,algarrobo,,,Confirmado,,
-1715,28-03-2020,6.0,Chile,Valparaíso,Femenino,52,CESFAM Algarrobo,algarrobo,,,Confirmado,,
-1716,28-03-2020,6.0,Chile,Valparaíso,Masculino,58,CESFAM de Pompeya,quilpue,,,Confirmado,,
-1717,28-03-2020,6.0,Chile,Valparaíso,Femenino,95,CESFAM Algarrobo,algarrobo,,,Confirmado,,
-1718,28-03-2020,6.0,Chile,Valparaíso,Masculino,30,Hospital de Quilpue,quilpue,,,Confirmado,,
-1719,28-03-2020,6.0,Chile,Valparaíso,Femenino,59,,valparaiso,,,Confirmado,,
-1720,28-03-2020,6.0,Chile,Valparaíso,Femenino,27,,valparaiso,,,Confirmado,,
-1721,28-03-2020,6.0,Chile,Valparaíso,Masculino,24,,Embarcacion Isabel Iceland,,,Confirmado,,
-1722,28-03-2020,6.0,Chile,Valparaíso,Masculino,33,,Embarcacion ISabel Iceland,,,Confirmado,,
+1706,28-03-2020,6.0,Chile,Valparaíso,Masculino,35.0,,Viña del mar,,,Confirmado,,
+1707,28-03-2020,6.0,Chile,Valparaíso,Femenino,42.0,,Viña del mar,,,Confirmado,,
+1708,28-03-2020,6.0,Chile,Valparaíso,Femenino,29.0,,Viña del mar,,,Confirmado,,
+1709,28-03-2020,6.0,Chile,Valparaíso,Masculino,42.0,,Viña del mar,,,Confirmado,,
+1710,28-03-2020,6.0,Chile,Valparaíso,Femenino,56.0,,viña del mar,,,Confirmado,,
+1711,28-03-2020,6.0,Chile,Valparaíso,Masculino,43.0,,viña del mar,,,Confirmado,,
+1712,28-03-2020,6.0,Chile,Valparaíso,Masculino,46.0,,viña del mar,,,Confirmado,,
+1713,28-03-2020,6.0,Chile,Valparaíso,Masculino,22.0,,viña del mar,,,Confirmado,,
+1714,28-03-2020,6.0,Chile,Valparaíso,Femenino,46.0,CESFAM Algarrobo,algarrobo,,,Confirmado,,
+1715,28-03-2020,6.0,Chile,Valparaíso,Femenino,52.0,CESFAM Algarrobo,algarrobo,,,Confirmado,,
+1716,28-03-2020,6.0,Chile,Valparaíso,Masculino,58.0,CESFAM de Pompeya,quilpue,,,Confirmado,,
+1717,28-03-2020,6.0,Chile,Valparaíso,Femenino,95.0,CESFAM Algarrobo,algarrobo,,,Confirmado,,
+1718,28-03-2020,6.0,Chile,Valparaíso,Masculino,30.0,Hospital de Quilpue,quilpue,,,Confirmado,,
+1719,28-03-2020,6.0,Chile,Valparaíso,Femenino,59.0,,valparaiso,,,Confirmado,,
+1720,28-03-2020,6.0,Chile,Valparaíso,Femenino,27.0,,valparaiso,,,Confirmado,,
+1721,28-03-2020,6.0,Chile,Valparaíso,Masculino,24.0,,Embarcacion Isabel Iceland,,,Confirmado,,
+1722,28-03-2020,6.0,Chile,Valparaíso,Masculino,33.0,,Embarcacion ISabel Iceland,,,Confirmado,,
 1723,28-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 1724,28-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 1725,28-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
@@ -1867,9 +1867,9 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 1866,28-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 1867,28-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 1868,28-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
-1869,28-03-2020,8.0,Chile,O’Higgins,Femenino,32,Hospital Regional de Rancagua,Machalí,,,Confirmado,,
-1870,28-03-2020,8.0,Chile,O’Higgins,Masculino,42,Hospital San Juan de Dios de San Fernando,Chimbarongo,,,Confirmado,,
-1871,28-03-2020,8.0,Chile,O’Higgins,Masculino,30,Clínica Isamédica de Rancagua,Machalí,,,Confirmado,,
+1869,28-03-2020,8.0,Chile,O’Higgins,Femenino,32.0,Hospital Regional de Rancagua,Machalí,,,Confirmado,,
+1870,28-03-2020,8.0,Chile,O’Higgins,Masculino,42.0,Hospital San Juan de Dios de San Fernando,Chimbarongo,,,Confirmado,,
+1871,28-03-2020,8.0,Chile,O’Higgins,Masculino,30.0,Clínica Isamédica de Rancagua,Machalí,,,Confirmado,,
 1872,28-03-2020,9.0,Chile,Maule,,,,,,,Confirmado,,
 1873,28-03-2020,9.0,Chile,Maule,,,,,,,Confirmado,,
 1874,28-03-2020,9.0,Chile,Maule,,,,,,,Confirmado,,
@@ -1958,7 +1958,7 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 1957,28-03-2020,13.0,Chile,Los Ríos,,,,,,,Confirmado,,
 1958,28-03-2020,13.0,Chile,Los Ríos,,,,,,,Confirmado,,
 1959,28-03-2020,13.0,Chile,Los Ríos,,,,,,,Confirmado,,
-1960,28-03-2020,14.0,Chile,Los Lagos,Masculino,52,Hospital de Puerto Montt ,Huilahue,,,Confirmado,,
+1960,28-03-2020,14.0,Chile,Los Lagos,Masculino,52.0,Hospital de Puerto Montt ,Huilahue,,,Confirmado,,
 1961,28-03-2020,14.0,Chile,Los Lagos,,,,,,,Confirmado,,
 1962,28-03-2020,14.0,Chile,Los Lagos,,,,,,,Confirmado,,
 1963,28-03-2020,14.0,Chile,Los Lagos,,,,,,,Confirmado,,
@@ -1992,7 +1992,7 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 1991,28-03-2020,16.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,,
 1992,28-03-2020,16.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,,
 1993,28-03-2020,16.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,,
-1994,28-03-2020,12.0,Chile,Araucanía,Femenino,87,Hospital Hernán Henríquez Aravena,Temuco,-38.7370008,-72.599664,Muerte,-38.727,-72.59899999999999
+1994,28-03-2020,12.0,Chile,Araucanía,Femenino,87.0,Hospital Hernán Henríquez Aravena,Temuco,-38.7370008,-72.599664,Muerte,-38.727,-72.59899999999999
 1995,28-03-2020,,Chile,,,,,,,,Recuperado,,
 1996,28-03-2020,,Chile,,,,,,,,Recuperado,,
 1997,28-03-2020,,Chile,,,,,,,,Recuperado,,
@@ -2012,38 +2012,38 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 2011,28-03-2020,,Chile,,,,,,,,Recuperado,,
 2012,28-03-2020,,Chile,,,,,,,,Recuperado,,
 2013,29-03-2020,1.0,Chile,Arica y Parinacota,,,,,,,Confirmado,,
-2014,29-03-2020,2.0,Chile,Tarapacá,Femenino,31,,,,,Confirmado,,
-2015,29-03-2020,3.0,Chile,Antofagasta,Femenino,14,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
-2016,29-03-2020,3.0,Chile,Antofagasta,Femenino,27,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
-2017,29-03-2020,3.0,Chile,Antofagasta,Femenino,75,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
-2018,29-03-2020,3.0,Chile,Antofagasta,Femenino,52,Hospital del Cobre,San Pedro de Atacama,,,Confirmado,,
-2019,29-03-2020,3.0,Chile,Antofagasta,Masculino,31,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
-2020,29-03-2020,3.0,Chile,Antofagasta,Masculino,31,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
-2021,29-03-2020,3.0,Chile,Antofagasta,Femenino,27,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
-2022,29-03-2020,3.0,Chile,Antofagasta,Femenino,31,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
-2023,30-03-2020,4.0,Chile,Atacama,Masculino,40,,Copiapó,,,Confirmado,,
-2024,29-03-2020,4.0,Chile,Atacama,Masculino,59,,Diego de Almagro,,,Confirmado,,
+2014,29-03-2020,2.0,Chile,Tarapacá,Femenino,31.0,,,,,Confirmado,,
+2015,29-03-2020,3.0,Chile,Antofagasta,Femenino,14.0,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
+2016,29-03-2020,3.0,Chile,Antofagasta,Femenino,27.0,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
+2017,29-03-2020,3.0,Chile,Antofagasta,Femenino,75.0,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
+2018,29-03-2020,3.0,Chile,Antofagasta,Femenino,52.0,Hospital del Cobre,San Pedro de Atacama,,,Confirmado,,
+2019,29-03-2020,3.0,Chile,Antofagasta,Masculino,31.0,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
+2020,29-03-2020,3.0,Chile,Antofagasta,Masculino,31.0,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
+2021,29-03-2020,3.0,Chile,Antofagasta,Femenino,27.0,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
+2022,29-03-2020,3.0,Chile,Antofagasta,Femenino,31.0,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
+2023,30-03-2020,4.0,Chile,Atacama,Masculino,40.0,,Copiapó,,,Confirmado,,
+2024,29-03-2020,4.0,Chile,Atacama,Masculino,59.0,,Diego de Almagro,,,Confirmado,,
 2025,29-03-2020,5.0,Chile,Coquimbo,,,,,,,Confirmado,,
 2026,29-03-2020,5.0,Chile,Coquimbo,,,,,,,Confirmado,,
 2027,29-03-2020,5.0,Chile,Coquimbo,,,,,,,Confirmado,,
-2028,29-03-2020,6.0,Chile,Valparaíso,Masculino,31,,Viña del mar,,,Confirmado,,
-2029,29-03-2020,6.0,Chile,Valparaíso,Femenino,66,,Viña del mar,,,Confirmado,,
-2030,29-03-2020,6.0,Chile,Valparaíso,Masculino,26,,Viña del mar,,,Confirmado,,
-2031,29-03-2020,6.0,Chile,Valparaíso,Femenino,71,,Viña del mar,,,Confirmado,,
-2032,29-03-2020,6.0,Chile,Valparaíso,Femenino,34,,Valparaiso,,,Confirmado,,
-2033,29-03-2020,6.0,Chile,Valparaíso,Femenino,32,,Valparaiso,,,Confirmado,,
-2034,29-03-2020,6.0,Chile,Valparaíso,Masculino,44,Hospital Naval,Viña del mar,,,Confirmado,,
-2035,29-03-2020,6.0,Chile,Valparaíso,Femenino,46,Hospital Naval,Viña del mar,,,Confirmado,,
-2036,29-03-2020,6.0,Chile,Valparaíso,Masculino,48,Hospital Naval,Viña del mar,,,Confirmado,,
-2037,29-03-2020,6.0,Chile,Valparaíso,Masculino,38,Hospital Naval,Viña del mar,,,Confirmado,,
-2038,29-03-2020,6.0,Chile,Valparaíso,Femenino,46,,Quilpue,,,Confirmado,,
-2039,29-03-2020,6.0,Chile,Valparaíso,Femenino,27,,Viña del mar,,,Confirmado,,
-2040,29-03-2020,6.0,Chile,Valparaíso,Femenino,49,,La calera,,,Confirmado,,
-2041,29-03-2020,6.0,Chile,Valparaíso,Femenino,39,,Viña del mar,,,Confirmado,,
-2042,29-03-2020,6.0,Chile,Valparaíso,Masculino,66,Hospital Gustavo Fricke,Valparaiso,,,Confirmado,,
-2043,29-03-2020,6.0,Chile,Valparaíso,Femenino,53,Hospital San Camilo,San Felipe ,,,Confirmado,,
-2044,29-03-2020,6.0,Chile,Valparaíso,Femenino,37,Hospital San Camilo,San Felipe ,,,Confirmado,,
-2045,29-03-2020,6.0,Chile,Valparaíso,Masculino,8,Hospital San Camilo,San Felipe ,,,Confirmado,,
+2028,29-03-2020,6.0,Chile,Valparaíso,Masculino,31.0,,Viña del mar,,,Confirmado,,
+2029,29-03-2020,6.0,Chile,Valparaíso,Femenino,66.0,,Viña del mar,,,Confirmado,,
+2030,29-03-2020,6.0,Chile,Valparaíso,Masculino,26.0,,Viña del mar,,,Confirmado,,
+2031,29-03-2020,6.0,Chile,Valparaíso,Femenino,71.0,,Viña del mar,,,Confirmado,,
+2032,29-03-2020,6.0,Chile,Valparaíso,Femenino,34.0,,Valparaiso,,,Confirmado,,
+2033,29-03-2020,6.0,Chile,Valparaíso,Femenino,32.0,,Valparaiso,,,Confirmado,,
+2034,29-03-2020,6.0,Chile,Valparaíso,Masculino,44.0,Hospital Naval,Viña del mar,,,Confirmado,,
+2035,29-03-2020,6.0,Chile,Valparaíso,Femenino,46.0,Hospital Naval,Viña del mar,,,Confirmado,,
+2036,29-03-2020,6.0,Chile,Valparaíso,Masculino,48.0,Hospital Naval,Viña del mar,,,Confirmado,,
+2037,29-03-2020,6.0,Chile,Valparaíso,Masculino,38.0,Hospital Naval,Viña del mar,,,Confirmado,,
+2038,29-03-2020,6.0,Chile,Valparaíso,Femenino,46.0,,Quilpue,,,Confirmado,,
+2039,29-03-2020,6.0,Chile,Valparaíso,Femenino,27.0,,Viña del mar,,,Confirmado,,
+2040,29-03-2020,6.0,Chile,Valparaíso,Femenino,49.0,,La calera,,,Confirmado,,
+2041,29-03-2020,6.0,Chile,Valparaíso,Femenino,39.0,,Viña del mar,,,Confirmado,,
+2042,29-03-2020,6.0,Chile,Valparaíso,Masculino,66.0,Hospital Gustavo Fricke,Valparaiso,,,Confirmado,,
+2043,29-03-2020,6.0,Chile,Valparaíso,Femenino,53.0,Hospital San Camilo,San Felipe ,,,Confirmado,,
+2044,29-03-2020,6.0,Chile,Valparaíso,Femenino,37.0,Hospital San Camilo,San Felipe ,,,Confirmado,,
+2045,29-03-2020,6.0,Chile,Valparaíso,Masculino,8.0,Hospital San Camilo,San Felipe ,,,Confirmado,,
 2046,29-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 2047,29-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 2048,29-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
@@ -2127,7 +2127,7 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 2126,29-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 2127,29-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 2128,29-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
-2129,29-03-2020,8.0,Chile,O’Higgins,Masculino,61,Hospital Regional de Rancagua,Rancagua,,,Confirmado,,
+2129,29-03-2020,8.0,Chile,O’Higgins,Masculino,61.0,Hospital Regional de Rancagua,Rancagua,,,Confirmado,,
 2130,29-03-2020,9.0,Chile,Maule,,,,,,,Confirmado,,
 2131,29-03-2020,9.0,Chile,Maule,,,,,,,Confirmado,,
 2132,29-03-2020,9.0,Chile,Maule,,,,,,,Confirmado,,
@@ -2233,8 +2233,8 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 2232,29-03-2020,13.0,Chile,Los Ríos,,,,,,,Confirmado,,
 2233,29-03-2020,13.0,Chile,Los Ríos,,,,,,,Confirmado,,
 2234,29-03-2020,13.0,Chile,Los Ríos,,,,,,,Confirmado,,
-2235,29-03-2020,14.0,Chile,Los Lagos,Masculino,48,Hospital Base de Puerto Montt,Huilahue,,,Confirmado,,
-2236,29-03-2020,14.0,Chile,Los Lagos,femenino,51,Hospital Base de Puerto Montt,Huilahue,,,Confirmado,,
+2235,29-03-2020,14.0,Chile,Los Lagos,Masculino,48.0,Hospital Base de Puerto Montt,Huilahue,,,Confirmado,,
+2236,29-03-2020,14.0,Chile,Los Lagos,femenino,51.0,Hospital Base de Puerto Montt,Huilahue,,,Confirmado,,
 2237,29-03-2020,14.0,Chile,Los Lagos,,,,,,,Confirmado,,
 2238,29-03-2020,14.0,Chile,Los Lagos,,,,,,,Confirmado,,
 2239,29-03-2020,14.0,Chile,Los Lagos,,,,,,,Confirmado,,
@@ -2244,8 +2244,8 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 2243,29-03-2020,14.0,Chile,Los Lagos,,,,,,,Confirmado,,
 2244,29-03-2020,14.0,Chile,Los Lagos,,,,,,,Confirmado,,
 2245,29-03-2020,14.0,Chile,Los Lagos,,,,,,,Confirmado,,
-2246,29-03-2020,16.0,Chile,Magallanes,Masculino,60,Hospital Clinico de Magallanes,Punta Arenas,,,Confirmado,,
-2247,29-03-2020,16.0,Chile,Magallanes,Femenino,45,Hospital Clinico de Magallanes,Punta Arenas,,,Confirmado,,
+2246,29-03-2020,16.0,Chile,Magallanes,Masculino,60.0,Hospital Clinico de Magallanes,Punta Arenas,,,Confirmado,,
+2247,29-03-2020,16.0,Chile,Magallanes,Femenino,45.0,Hospital Clinico de Magallanes,Punta Arenas,,,Confirmado,,
 2248,29-03-2020,16.0,Chile,Magallanes,Masculino,,Hospital Comunitario de Puerto Williams,Puerto Williams,,,Confirmado,,
 2249,29-03-2020,16.0,Chile,Magallanes,Masculino,,Hospital Comunitario de Puerto Williams,Puerto Williams,,,Confirmado,,
 2250,29-03-2020,16.0,Chile,Magallanes,Masculino,,,Puerto Williams,,,Confirmado,,
@@ -2285,16 +2285,16 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 2284,30-03-2020,5.0,Chile,Coquimbo,,,,,,,Confirmado,,
 2285,30-03-2020,5.0,Chile,Coquimbo,,,,,,,Confirmado,,
 2286,30-03-2020,5.0,Chile,Coquimbo,,,,,,,Confirmado,,
-2287,30-03-2020,6.0,Chile,Valparaiso,Masculino,51,,Viña del Mar,,,Confirmado,,
-2288,30-03-2020,6.0,Chile,Valparaiso,Masculino,48,,Viña del Mar,,,Confirmado,,
-2289,30-03-2020,6.0,Chile,Valparaiso,Masculino,52,,Viña del Mar,,,Confirmado,,
-2290,30-03-2020,6.0,Chile,Valparaiso,Femenino,46,CESFAM de Algarrobo,Algarrobo,,,Confirmado,,
-2291,30-03-2020,6.0,Chile,Valparaiso,Femenino,45,CESFAM de El Tabo,El Tabo,,,Confirmado,,
-2292,30-03-2020,6.0,Chile,Valparaiso,Masculino,44,Hospital Naval,Viña del Mar,,,Confirmado,,
-2293,30-03-2020,6.0,Chile,Valparaiso,Masculino,58,CESFAM DE Algarrobo,Algarrobo,,,Confirmado,,
-2294,30-03-2020,6.0,Chile,Valparaiso,Masculino,25,CESFAM de San Antonio ,San Antonio,,,Confirmado,,
-2295,30-03-2020,6.0,Chile,Valparaiso,Masculino,56,Hospital de quillota,Quillota,,,Confirmado,,
-2296,30-03-2020,6.0,Chile,Valparaiso,Femenino,54,,Petorca,,,Confirmado,,
+2287,30-03-2020,6.0,Chile,Valparaiso,Masculino,51.0,,Viña del Mar,,,Confirmado,,
+2288,30-03-2020,6.0,Chile,Valparaiso,Masculino,48.0,,Viña del Mar,,,Confirmado,,
+2289,30-03-2020,6.0,Chile,Valparaiso,Masculino,52.0,,Viña del Mar,,,Confirmado,,
+2290,30-03-2020,6.0,Chile,Valparaiso,Femenino,46.0,CESFAM de Algarrobo,Algarrobo,,,Confirmado,,
+2291,30-03-2020,6.0,Chile,Valparaiso,Femenino,45.0,CESFAM de El Tabo,El Tabo,,,Confirmado,,
+2292,30-03-2020,6.0,Chile,Valparaiso,Masculino,44.0,Hospital Naval,Viña del Mar,,,Confirmado,,
+2293,30-03-2020,6.0,Chile,Valparaiso,Masculino,58.0,CESFAM DE Algarrobo,Algarrobo,,,Confirmado,,
+2294,30-03-2020,6.0,Chile,Valparaiso,Masculino,25.0,CESFAM de San Antonio ,San Antonio,,,Confirmado,,
+2295,30-03-2020,6.0,Chile,Valparaiso,Masculino,56.0,Hospital de quillota,Quillota,,,Confirmado,,
+2296,30-03-2020,6.0,Chile,Valparaiso,Femenino,54.0,,Petorca,,,Confirmado,,
 2297,30-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 2298,30-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 2299,30-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
@@ -2637,17 +2637,17 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 2636,30-03-2020,,Chile,,,,,,,,Recuperado,,
 2637,30-03-2020,,Chile,,,,,,,,Recuperado,,
 2638,30-03-2020,,Chile,,,,,,,,Recuperado,,
-2639,30-03-2020,9.0,Chile,Maule,,44,Hospital de Curicó,Molina,,,Muerte,,
+2639,30-03-2020,9.0,Chile,Maule,,44.0,Hospital de Curicó,Molina,,,Muerte,,
 2640,,2.0,Chile,Tarapacá,,,,,,,Confirmado,,
 2641,,2.0,Chile,Tarapacá,,,,,,,Confirmado,,
 2642,,5.0,Chile,Coquimbo,,,,,,,Confirmado,,
-2643,31-03-2020,6.0,Chile,Valparaiso,Masculino,29,,Viña del Mar,,,Confirmado,,
-2644,31-03-2020,6.0,Chile,Valparaiso,Masculino,36,,Viña del Mar,,,Confirmado,,
-2645,31-03-2020,6.0,Chile,Valparaiso,Femenino,68,,Viña del Mar,,,Confirmado,,
-2646,31-03-2020,6.0,Chile,Valparaiso,Masculino,24,Hospital de Peñablanca,,,,Confirmado,,
-2647,31-03-2020,6.0,Chile,Valparaiso,Masculino,69,Hospital de Quillota,Quillota,,,Confirmado,,
-2648,31-03-2020,6.0,Chile,Valparaiso,Masculino,29,Hospital Carlos Van Buren,Valparaiso,,,Confirmado,,
-2649,31-03-2020,6.0,Chile,Valparaiso,Masculino,66,,Viña del Mar,,,Confirmado,,
+2643,31-03-2020,6.0,Chile,Valparaiso,Masculino,29.0,,Viña del Mar,,,Confirmado,,
+2644,31-03-2020,6.0,Chile,Valparaiso,Masculino,36.0,,Viña del Mar,,,Confirmado,,
+2645,31-03-2020,6.0,Chile,Valparaiso,Femenino,68.0,,Viña del Mar,,,Confirmado,,
+2646,31-03-2020,6.0,Chile,Valparaiso,Masculino,24.0,Hospital de Peñablanca,,,,Confirmado,,
+2647,31-03-2020,6.0,Chile,Valparaiso,Masculino,69.0,Hospital de Quillota,Quillota,,,Confirmado,,
+2648,31-03-2020,6.0,Chile,Valparaiso,Masculino,29.0,Hospital Carlos Van Buren,Valparaiso,,,Confirmado,,
+2649,31-03-2020,6.0,Chile,Valparaiso,Masculino,66.0,,Viña del Mar,,,Confirmado,,
 2650,31-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 2651,31-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 2652,31-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
@@ -2773,8 +2773,8 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 2772,31-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 2773,31-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 2774,31-03-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
-2775,31-03-2020,8.0,Chile,O’Higgins,Masculino,32,Clínica Red Salud de Rancagua,Rengo,,,Confirmado,,
-2776,31-03-2020,8.0,Chile,O’Higgins,Masculino,36,Clínica Red Salud de Rancagua,Rancagua,,,Confirmado,,
+2775,31-03-2020,8.0,Chile,O’Higgins,Masculino,32.0,Clínica Red Salud de Rancagua,Rengo,,,Confirmado,,
+2776,31-03-2020,8.0,Chile,O’Higgins,Masculino,36.0,Clínica Red Salud de Rancagua,Rancagua,,,Confirmado,,
 2777,31-03-2020,9.0,Chile,Maule,,,,,,,Confirmado,,
 2778,31-03-2020,9.0,Chile,Maule,,,,,,,Confirmado,,
 2779,31-03-2020,9.0,Chile,Maule,,,,,,,Confirmado,,
@@ -2880,7 +2880,7 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 2879,31-03-2020,13.0,Chile,Los Ríos,,,,,,,Confirmado,,
 2880,31-03-2020,13.0,Chile,Los Ríos,,,,,,,Confirmado,,
 2881,31-03-2020,13.0,Chile,Los Ríos,,,,,,,Confirmado,,
-2882,31-03-2020,14.0,Chile,Los Lagos,Masculino,41,Hospital de Puerto Montt ,Chaitén ,,,Confirmado,,
+2882,31-03-2020,14.0,Chile,Los Lagos,Masculino,41.0,Hospital de Puerto Montt ,Chaitén ,,,Confirmado,,
 2883,31-03-2020,14.0,Chile,Los Lagos,,,,,,,Confirmado,,
 2884,31-03-2020,14.0,Chile,Los Lagos,,,,,,,Confirmado,,
 2885,31-03-2020,14.0,Chile,Los Lagos,,,,,,,Confirmado,,
@@ -2903,7 +2903,7 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 2902,31-03-2020,14.0,Chile,Los Lagos,,,,,,,Confirmado,,
 2903,31-03-2020,14.0,Chile,Los Lagos,,,,,,,Confirmado,,
 2904,31-03-2020,14.0,Chile,Los Lagos,,,,,,,Confirmado,,
-2905,30-03-2020,16.0,Chile,Magallanes,Femenino,31,,,,,Confirmado,,
+2905,30-03-2020,16.0,Chile,Magallanes,Femenino,31.0,,,,,Confirmado,,
 2906,31-03-2020,16.0,Chile,Magallanes,Femenino,,,Punta Arenas,,,Confirmado,,
 2907,31-03-2020,16.0,Chile,Magallanes,Femenino,,,Punta Arenas,,,Confirmado,,
 2908,31-03-2020,16.0,Chile,Magallanes,Femenino,,,Punta Arenas,,,Confirmado,,
@@ -2925,35 +2925,35 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 2924,31-03-2020,16.0,Chile,Magallanes,Masculino,,,Punta Arenas,,,Confirmado,,
 2925,31-03-2020,16.0,Chile,Magallanes,Masculino,,,Punta Arenas,,,Confirmado,,
 2926,31-03-2020,16.0,Chile,Magallanes,Masculino,,,Porvenir,,,Confirmado,,
-2927,30-03-2020,16.0,Chile,Magallanes,Femenino,44,Hospital Clinico de Magallanes,Punta Arenas,,,Confirmado,,
-2928,30-03-2020,16.0,Chile,Magallanes,Masculino,55, Hospital Augusto Essmann,Punta Arenas,,,Confirmado,,
-2929,30-03-2020,16.0,Chile,Magallanes,Masculino,31,,Puerto Natales,,,Confirmado,,
+2927,30-03-2020,16.0,Chile,Magallanes,Femenino,44.0,Hospital Clinico de Magallanes,Punta Arenas,,,Confirmado,,
+2928,30-03-2020,16.0,Chile,Magallanes,Masculino,55.0, Hospital Augusto Essmann,Punta Arenas,,,Confirmado,,
+2929,30-03-2020,16.0,Chile,Magallanes,Masculino,31.0,,Puerto Natales,,,Confirmado,,
 2930,31-03-2020,6.0,Chile,Valparaiso,,,,,,,Muerte,,
 2931,31-03-2020,7.0,Chile,Metropolitana,,,,,,,Muerte,,
 2932,31-03-2020,7.0,Chile,Metropolitana,,,,,,,Muerte,,
 2933,31-03-2020,12.0,Chile,Araucanía,,,,,,,Muerte,,
-2934,01-04-2020,3.0,Chile,Antofagasta,Masculino,70,Hospital del Cobre,San Pedro de Atacama,,,Confirmado,,
-2935,01-04-2020,3.0,Chile,Antofagasta,Masculino,78,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
-2936,01-04-2020,3.0,Chile,Antofagasta,Masculino,56,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
-2937,01-04-2020,3.0,Chile,Antofagasta,Femenino,48,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
-2938,01-04-2020,4.0,Chile,Atacama,Masculino,26,,Copiapó,,,Confirmado,,
+2934,01-04-2020,3.0,Chile,Antofagasta,Masculino,70.0,Hospital del Cobre,San Pedro de Atacama,,,Confirmado,,
+2935,01-04-2020,3.0,Chile,Antofagasta,Masculino,78.0,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
+2936,01-04-2020,3.0,Chile,Antofagasta,Masculino,56.0,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
+2937,01-04-2020,3.0,Chile,Antofagasta,Femenino,48.0,Hospital Regional de Antofagasta,Antofagasta,,,Confirmado,,
+2938,01-04-2020,4.0,Chile,Atacama,Masculino,26.0,,Copiapó,,,Confirmado,,
 2939,01-04-2020,5.0,Chile,Coquimbo,,,,,,,Confirmado,,
 2940,01-04-2020,5.0,Chile,Coquimbo,,,,,,,Confirmado,,
-2941,01-04-2020,6.0,Chile,Valparaiso,Masculino,42,,Valparaiso,,,Confirmado,,
-2942,01-04-2020,6.0,Chile,Valparaiso,Masculino,20,,Valparaiso,,,Confirmado,,
-2943,01-04-2020,6.0,Chile,Valparaiso,Masculino,31,,Valparaiso,,,Confirmado,,
+2941,01-04-2020,6.0,Chile,Valparaiso,Masculino,42.0,,Valparaiso,,,Confirmado,,
+2942,01-04-2020,6.0,Chile,Valparaiso,Masculino,20.0,,Valparaiso,,,Confirmado,,
+2943,01-04-2020,6.0,Chile,Valparaiso,Masculino,31.0,,Valparaiso,,,Confirmado,,
 2944,01-04-2020,6.0,Chile,Valparaiso,-,,,,,,Confirmado,,
-2945,01-04-2020,6.0,Chile,Valparaiso,Masculino,18,,Isla de Pascua,,,Confirmado,,
-2946,01-04-2020,6.0,Chile,Valparaiso,Masculino,36,,Isla de Pascua,,,Confirmado,,
-2947,01-04-2020,6.0,Chile,Valparaiso,Femenino,37,,Isla de Pascua,,,Confirmado,,
+2945,01-04-2020,6.0,Chile,Valparaiso,Masculino,18.0,,Isla de Pascua,,,Confirmado,,
+2946,01-04-2020,6.0,Chile,Valparaiso,Masculino,36.0,,Isla de Pascua,,,Confirmado,,
+2947,01-04-2020,6.0,Chile,Valparaiso,Femenino,37.0,,Isla de Pascua,,,Confirmado,,
 2948,01-04-2020,6.0,Chile,Valparaiso,-,,,,,,Confirmado,,
 2949,01-04-2020,6.0,Chile,Valparaiso,-,,,,,,Confirmado,,
 2950,01-04-2020,6.0,Chile,Valparaiso,-,,,,,,Confirmado,,
-2951,01-04-2020,6.0,Chile,Valparaiso,Femenino,33,Hospital Claudio Vicuña,San Antonio,,,Confirmado,,
+2951,01-04-2020,6.0,Chile,Valparaiso,Femenino,33.0,Hospital Claudio Vicuña,San Antonio,,,Confirmado,,
 2952,01-04-2020,6.0,Chile,Valparaiso,-,,,,,,Confirmado,,
 2953,01-04-2020,6.0,Chile,Valparaiso,-,,,,,,Confirmado,,
 2954,01-04-2020,6.0,Chile,Valparaiso,-,,,,,,Confirmado,,
-2955,01-04-2020,6.0,Chile,Valparaiso,Femenino,40,,Viña del mar,,,Confirmado,,
+2955,01-04-2020,6.0,Chile,Valparaiso,Femenino,40.0,,Viña del mar,,,Confirmado,,
 2956,01-04-2020,6.0,Chile,Valparaiso,-,,,,,,Confirmado,,
 2957,01-04-2020,6.0,Chile,Valparaiso,-,,,,,,Confirmado,,
 2958,01-04-2020,6.0,Chile,Valparaiso,-,,,,,,Confirmado,,
@@ -3061,9 +3061,9 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 3060,01-04-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 3061,01-04-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 3062,01-04-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
-3063,01-04-2020,8.0,Chile,O’Higgins,Masculino,48,Hospital de San Vicente,San Vicente de Tagua Tagua,,,Confirmado,,
-3064,01-04-2020,8.0,Chile,O’Higgins,Masculino,43,Clínica Red Salud de Rancagua,Rancagua,,,Confirmado,,
-3065,01-04-2020,8.0,Chile,O’Higgins,Femenino,41,Hospital Regional de Rancagua,Olivar,,,Confirmado,,
+3063,01-04-2020,8.0,Chile,O’Higgins,Masculino,48.0,Hospital de San Vicente,San Vicente de Tagua Tagua,,,Confirmado,,
+3064,01-04-2020,8.0,Chile,O’Higgins,Masculino,43.0,Clínica Red Salud de Rancagua,Rancagua,,,Confirmado,,
+3065,01-04-2020,8.0,Chile,O’Higgins,Femenino,41.0,Hospital Regional de Rancagua,Olivar,,,Confirmado,,
 3066,01-04-2020,9.0,Chile,Maule,,,,,,,Confirmado,,
 3067,01-04-2020,9.0,Chile,Maule,,,,,,,Confirmado,,
 3068,01-04-2020,9.0,Chile,Maule,,,,,,,Confirmado,,
@@ -3310,14 +3310,14 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 3309,02-04-2020,1.0,Chile,Arica Y Parinacota,,,,,,,Confirmado,,
 3310,02-04-2020,2.0,Chile,Tarapacá,,,,,,,Confirmado,,
 3311,02-04-2020,2.0,Chile,Tarapacá,,,,,,,Confirmado,,
-3312,02-04-2020,3.0,Chile,Antofagasta,18,Femenino,,Antofagasta,,,Confirmado,,
-3313,02-04-2020,3.0,Chile,Antofagasta,34,Femenino,,Antofagasta,,,Confirmado,,
-3314,02-04-2020,3.0,Chile,Antofagasta,35,Femenino,,Antofagasta,,,Confirmado,,
-3315,02-04-2020,3.0,Chile,Antofagasta,23,Masculino,,Antofagasta,,,Confirmado,,
-3316,02-04-2020,3.0,Chile,Antofagasta,32,Masculino,,Antofagasta,,,Confirmado,,
-3317,02-04-2020,3.0,Chile,Antofagasta,47,Masculino,,Antofagasta,,,Confirmado,,
-3318,02-04-2020,3.0,Chile,Antofagasta,59,Femenino,,Calama,,,Confirmado,,
-3319,02-04-2020,3.0,Chile,Antofagasta,24,Masculino,,Calama,,,Confirmado,,
+3312,02-04-2020,3.0,Chile,Antofagasta,Femenino,18.0,,Antofagasta,,,Confirmado,,
+3313,02-04-2020,3.0,Chile,Antofagasta,Femenino,34.0,,Antofagasta,,,Confirmado,,
+3314,02-04-2020,3.0,Chile,Antofagasta,Femenino,35.0,,Antofagasta,,,Confirmado,,
+3315,02-04-2020,3.0,Chile,Antofagasta,Masculino,23.0,,Antofagasta,,,Confirmado,,
+3316,02-04-2020,3.0,Chile,Antofagasta,Masculino,32.0,,Antofagasta,,,Confirmado,,
+3317,02-04-2020,3.0,Chile,Antofagasta,Masculino,47.0,,Antofagasta,,,Confirmado,,
+3318,02-04-2020,3.0,Chile,Antofagasta,Femenino,59.0,,Calama,,,Confirmado,,
+3319,02-04-2020,3.0,Chile,Antofagasta,Masculino,24.0,,Calama,,,Confirmado,,
 3320,02-04-2020,5.0,Chile,Coquimbo,,,,,,,Confirmado,,
 3321,02-04-2020,5.0,Chile,Coquimbo,,,,,,,Confirmado,,
 3322,02-04-2020,5.0,Chile,Coquimbo,,,,,,,Confirmado,,
@@ -3457,12 +3457,12 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 3456,02-04-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 3457,02-04-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 3458,02-04-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
-3459,02-04-2020,8.0,Chile,O’Higgins,Femenino,17,,San Vicente de Tagua Tagua,,,Confirmado,,
-3460,02-04-2020,8.0,Chile,O’Higgins,Masculino,48,,San Vicente de Tagua Tagua,,,Confirmado,,
-3461,02-04-2020,8.0,Chile,O’Higgins,Femenino,46,,San Vicente de Tagua Tagua,,,Confirmado,,
-3462,02-04-2020,8.0,Chile,O’Higgins,Masculino,38,Clínica Red Salud de Rancagua,Rancagua,,,Confirmado,,
-3463,02-04-2020,8.0,Chile,O’Higgins,Femenino,24,Hospital Clínico FUSAT,Machalí,,,Confirmado,,
-3464,02-04-2020,8.0,Chile,O’Higgins,Femenino,24,Hospital de Coínco,Olivar,,,Confirmado,,
+3459,02-04-2020,8.0,Chile,O’Higgins,Femenino,17.0,,San Vicente de Tagua Tagua,,,Confirmado,,
+3460,02-04-2020,8.0,Chile,O’Higgins,Masculino,48.0,,San Vicente de Tagua Tagua,,,Confirmado,,
+3461,02-04-2020,8.0,Chile,O’Higgins,Femenino,46.0,,San Vicente de Tagua Tagua,,,Confirmado,,
+3462,02-04-2020,8.0,Chile,O’Higgins,Masculino,38.0,Clínica Red Salud de Rancagua,Rancagua,,,Confirmado,,
+3463,02-04-2020,8.0,Chile,O’Higgins,Femenino,24.0,Hospital Clínico FUSAT,Machalí,,,Confirmado,,
+3464,02-04-2020,8.0,Chile,O’Higgins,Femenino,24.0,Hospital de Coínco,Olivar,,,Confirmado,,
 3465,02-04-2020,9.0,Chile,Maule,,,,,,,Confirmado,,
 3466,02-04-2020,9.0,Chile,Maule,,,,,,,Confirmado,,
 3467,02-04-2020,9.0,Chile,Maule,,,,,,,Confirmado,,
@@ -3686,13 +3686,13 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 3685,03-04-2020,1.0,Chile,Arica y Parinacota,,,,,,,Confirmado,,
 3686,03-04-2020,1.0,Chile,Arica y Parinacota,,,,,,,Confirmado,,
 3687,03-04-2020,2.0,Chile,Tarapacá,,,,,,,Confirmado,,
-3688,03-04-2020,3.0,Chile,Antofagasta,Masculino,39,,Antofagasta,,,Confirmado,,
-3689,03-04-2020,3.0,Chile,Antofagasta,Masculino,43,,Antofagasta,,,Confirmado,,
-3690,03-04-2020,3.0,Chile,Antofagasta,Masculino,54,,Antofagasta,,,Confirmado,,
-3691,03-04-2020,3.0,Chile,Antofagasta,Masculino,57,,Antofagasta,,,Confirmado,,
-3692,03-04-2020,3.0,Chile,Antofagasta,Femenino,31,,Antofagasta,,,Confirmado,,
-3693,03-04-2020,3.0,Chile,Antofagasta,Femenino,49,,Antofagasta,,,Confirmado,,
-3694,03-04-2020,3.0,Chile,Antofagasta,Femenino,15,,San Pedro de Atacama,,,Confirmado,,
+3688,03-04-2020,3.0,Chile,Antofagasta,Masculino,39.0,,Antofagasta,,,Confirmado,,
+3689,03-04-2020,3.0,Chile,Antofagasta,Masculino,43.0,,Antofagasta,,,Confirmado,,
+3690,03-04-2020,3.0,Chile,Antofagasta,Masculino,54.0,,Antofagasta,,,Confirmado,,
+3691,03-04-2020,3.0,Chile,Antofagasta,Masculino,57.0,,Antofagasta,,,Confirmado,,
+3692,03-04-2020,3.0,Chile,Antofagasta,Femenino,31.0,,Antofagasta,,,Confirmado,,
+3693,03-04-2020,3.0,Chile,Antofagasta,Femenino,49.0,,Antofagasta,,,Confirmado,,
+3694,03-04-2020,3.0,Chile,Antofagasta,Femenino,15.0,,San Pedro de Atacama,,,Confirmado,,
 3695,03-04-2020,4.0,Chile,Atacama,,,,,,,Confirmado,,
 3696,03-04-2020,4.0,Chile,Atacama,,,,,,,Confirmado,,
 3697,03-04-2020,5.0,Chile,Coquimbo,,,,,,,Confirmado,,
@@ -3822,7 +3822,7 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 3821,03-04-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 3822,03-04-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
 3823,03-04-2020,7.0,Chile,Metropolitana,,,,,,,Confirmado,,
-3824,03-04-2020,8.0,Chile,O’Higgins,Masculino,31,Hospital Clínico FUSAT,Rancagua,,,Confirmado,,
+3824,03-04-2020,8.0,Chile,O’Higgins,Masculino,31.0,Hospital Clínico FUSAT,Rancagua,,,Confirmado,,
 3825,03-04-2020,9.0,Chile,Maule,,,,,,,Confirmado,,
 3826,03-04-2020,9.0,Chile,Maule,,,,,,,Confirmado,,
 3827,03-04-2020,9.0,Chile,Maule,,,,,,,Confirmado,,
@@ -4013,10 +4013,10 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 4012,03-04-2020,16.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,,
 4013,03-04-2020,16.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,,
 4014,03-04-2020,16.0,Chile,Magallanes,,,,Puerto Natales,,,Confirmado,,
-4015,03-04-2020,7.0,Chile,Metropolitana,,87,,,,,Muerte,,
-4016,03-04-2020,7.0,Chile,Metropolitana,,70,,,,,Muerte,,
-4017,03-04-2020,16.0,Chile,Magallanes,,86,,,,,Muerte,,
-4018,03-04-2020,10.0,Chile,Ñuble,,70,,,,,Muerte,,
+4015,03-04-2020,7.0,Chile,Metropolitana,,87.0,,,,,Muerte,,
+4016,03-04-2020,7.0,Chile,Metropolitana,,70.0,,,,,Muerte,,
+4017,03-04-2020,16.0,Chile,Magallanes,,86.0,,,,,Muerte,,
+4018,03-04-2020,10.0,Chile,Ñuble,,70.0,,,,,Muerte,,
 4019,03-04-2020,,Chile,,,,,,,,Recuperado,,
 4020,03-04-2020,,Chile,,,,,,,,Recuperado,,
 4021,03-04-2020,,Chile,,,,,,,,Recuperado,,
