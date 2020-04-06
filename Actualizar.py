@@ -35,12 +35,13 @@ def guardarRepositorio():
     try:
         repoLocal.git.add(".")
         repoLocal.git.commit(m='Update automatico via Actualizar ' + datetime.datetime.now().strftime("%m-%d-%Y"))
+        origin = repoLocal.remote(name='origin')
+        origin.push()
     except:
         print("Error de GITHUB")
         pass
-    origin = repoLocal.remote(name='origin')
-    origin.push()
-    return True
+    
+    return
 #************************************Actualizar repositorio***********************************************
 
 #************************************Actualizar Chile*****************************************************
