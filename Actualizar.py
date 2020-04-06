@@ -126,9 +126,9 @@ def johnsHopkinsCovid19Series():
     pd.read_csv("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv").to_csv("Johns_Hopkins-covid19/series/time_series_covid19_deaths_global.csv", index=False)
     pd.read_csv("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_global.csv").to_csv("Johns_Hopkins-covid19/series/time_series_covid19_recovered_global.csv", index=False)
     
-    data_confirmed = pd.read_csv("time_series_covid19_confirmed_global.csv")
-    data_recovered = pd.read_csv("time_series_covid19_recovered_global.csv")
-    data_death     = pd.read_csv("time_series_covid19_deaths_global.csv")
+    data_confirmed = pd.read_csv("Johns_Hopkins-covid19/series/time_series_covid19_confirmed_global.csv")
+    data_recovered = pd.read_csv("Johns_Hopkins-covid19/series/time_series_covid19_recovered_global.csv")
+    data_death     = pd.read_csv("Johns_Hopkins-covid19/series/time_series_covid19_deaths_global.csv")
 
     data_salida_confirmed = pd.DataFrame() 
     data_salida_recovered = pd.DataFrame()
