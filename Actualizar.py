@@ -36,6 +36,7 @@ def guardarRepositorio():
         repoLocal.git.add(".")
         repoLocal.git.commit(m='Update automatico via Actualizar ' + datetime.datetime.now().strftime("%m-%d-%Y"))
     except:
+        print("Error de GITHUB")
         pass
     origin = repoLocal.remote(name='origin')
     origin.push()
