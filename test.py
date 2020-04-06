@@ -116,4 +116,113 @@ def johnsHopkinsCovid19Diario():
     ultimo.to_csv("Johns_Hopkins-covid19/diario/ultimoRegistro.csv", index=False)
     guardarRepositorio()
     return
+#DATO SERIE
+def johnsHopkinsCovid19Series():
+    
+    #Carpeta Series
+    
+    pd.read_csv("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_US.csv").to_csv("Johns_Hopkins-covid19/series/time_series_covid19_confirmed_US.csv", index=False)
+    pd.read_csv("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv").to_csv("Johns_Hopkins-covid19/series/time_series_covid19_confirmed_global.csv", index=False)
+    pd.read_csv("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_US.csv").to_csv("Johns_Hopkins-covid19/series/time_series_covid19_deaths_US.csv", index=False)
+    pd.read_csv("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv").to_csv("Johns_Hopkins-covid19/series/time_series_covid19_deaths_global.csv", index=False)
+    pd.read_csv("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_global.csv").to_csv("Johns_Hopkins-covid19/series/time_series_covid19_recovered_global.csv", index=False)
+    
+    data_confirmed = pd.read_csv("time_series_covid19_confirmed_global.csv")
+    data_recovered = pd.read_csv("time_series_covid19_recovered_global.csv")
+    data_death     = pd.read_csv("time_series_covid19_deaths_global.csv")
+
+    data_salida_confirmed = pd.DataFrame() 
+    data_salida_recovered = pd.DataFrame()
+    data_salida_death = pd.DataFrame()
+    data_salida_confirmed["Province/State"] = data_confirmed["Province/State"] 
+    data_salida_confirmed["Country/Region"] = data_confirmed["Country/Region"] 
+    data_salida_confirmed["Lat"] = data_confirmed["Lat"]
+    data_salida_confirmed["Long"] = data_confirmed["Long"]
+
+    data_salida_recovered["Country/Region"] = data_recovered["Country/Region"] 
+    data_salida_recovered["Province/State"] = data_recovered["Province/State"] 
+    data_salida_death["Country/Region"] = data_death["Country/Region"]
+
+    columna_anterior = ""
+    for columna in data_confirmed.columns[4:len(data_confirmed)]:
+        if(columna_anterior == ""):
+            #print("no se hace nada")
+            pass
+        else:
+            #print(columna + " y " + columna_anterior)
+
+            data_salida_confirmed[columna] = data_confirmed[columna] - data_confirmed[columna_anterior]
+            data_salida_recovered[columna] = data_recovered[columna] - data_recovered[columna_anterior]
+            data_salida_death[columna]     = data_death[columna]     - data_death[columna_anterior]
+
+        columna_anterior = columna
+
+    entrada = {"Province/State":""}   #,"Country/Region":"","Lat":"","Long":""}
+    salida = []
+
+    data_salida = pd.DataFrame(columns=data_salida_confirmed.columns[:4])
+
+    lista_confirmed = list(data_salida_confirmed.iterrows())
+    lista_recovered = list(data_salida_recovered.iterrows())
+    lista_death = list(data_salida_death.iterrows())
+
+    n = 0
+    for i in range(len(lista_confirmed)):
+        dias_correlativo = 0
+        flag = True
+        for columna in data_salida_confirmed.columns[4:]:         
+            #print(columna)
+            #print(i[1][columna])
+            entrada["Province/State"] = lista_confirmed[i][1]["Province/State"]
+            entrada["Country/Region"] = lista_confirmed[i][1]["Country/Region"]
+
+            entrada["Lat"] = lista_confirmed[i][1]["Lat"]
+            entrada["Long"] = lista_confirmed[i][1]["Long"]
+            formato = columna.split("/")
+            entrada["fecha"] = datetime.date(int(formato[2]+"20"),int(formato[0]),int(formato[1])).strftime("%d-%m-%Y")
+            #print(lista_confirmed[i][1][columna]) 
+            #print(entrada["Country/Region"])
+            entrada["confirmados"] = lista_confirmed[i][1][columna]
+            entrada["fallecidos"] = lista_death[i][1][columna]
+            entrada["codigo"] = entrada["Country/Region"] + str(entrada["Province/State"]) + entrada["fecha"]
+
+            if(flag):
+                if(entrada["confirmados"] != 0):
+                    flag = False;
+                    dias_correlativo += 1
+            else:
+                dias_correlativo += 1
+            entrada["dias correlativo"] = dias_correlativo
+            salida.append(data_salida.append(entrada,ignore_index=True))
+    data_salida = pd.concat(salida)
+
+    entrada = {"Province/State":""}
+    salida = []
+    data_salida_aux = pd.DataFrame(columns=data_salida_confirmed.columns[:4])
+    for i in range(len(lista_recovered)):
+        for columna in data_salida_recovered.columns[4:]:
+            entrada["Province/State"] = lista_recovered[i][1]["Province/State"]
+            entrada["Country/Region"] = lista_recovered[i][1]["Country/Region"]
+            formato = columna.split("/")
+            entrada["fecha"] = datetime.date(int(formato[2]+"20"),int(formato[0]),int(formato[1])).strftime("%d-%m-%Y")
+            entrada["recuperado"] = lista_recovered[i][1][columna]
+            entrada["codigo"] = entrada["Country/Region"] + str(entrada["Province/State"]) + entrada["fecha"]
+            #print(entrada)
+            #print("*****************************************************************")
+            salida.append(data_salida_aux.append(entrada, ignore_index=True))
+    data_salida_aux = pd.concat(salida)
+    del data_salida_aux["Province/State"]
+    del data_salida_aux["Country/Region"]
+    del data_salida_aux["fecha"]
+    del data_salida_aux["Lat"]
+    del data_salida_aux["Long"]
+
+    merged_left = pd.merge(left=data_salida, right=data_salida_aux, how='left', left_on='codigo', right_on='codigo')
+   
+    merged_left.to_csv("Johns_Hopkins-covid19/series/acumulado.csv", index=False)
+
+
+    guardarRepositorio()
+    return
+#************************************Actualizar johnsHopkins*********************************************
 
