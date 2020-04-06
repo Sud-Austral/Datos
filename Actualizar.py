@@ -12,7 +12,8 @@ from selenium.webdriver.firefox.firefox_profile import FirefoxProfile
 from selenium.webdriver.firefox.options import Options
 from os import remove
 import git
-from datetime import datetime
+import datetime
+#from datetime import datetime
 
 #************************************Actualizar repositorio***********************************************
 def guardarRepositorio():
