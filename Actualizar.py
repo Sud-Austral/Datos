@@ -291,7 +291,7 @@ def KoBoToolbox():
 
 #************************************Actualizar ourWorldInData*******************************************
 def ourWorldInData():
-    now = datetime.now()
+    now = datetime.datetime.now()
     try:
         remove("C:/Users/limc_/Downloads/tests-vs-confirmed-cases-covid-19.csv")
         remove("C:/Users/limc_/Downloads/total-deaths-covid-19.csv")
@@ -317,7 +317,7 @@ def ourWorldInData():
     driver.set_page_load_timeout("60")
 
     driver.get("https://ourworldindata.org/grapher/tests-vs-confirmed-cases-covid-19")
-    time.sleep(2)   
+    time.sleep(5)   
     driver.find_element_by_xpath("/html/body/div[3]/div/div/div/div[2]/button").click()
     driver.find_element_by_xpath("/html/body/main/figure/div/div[3]/div/nav/ul/li[2]/a").click()
     time.sleep(1)
