@@ -114,8 +114,8 @@ def ecdcEuropa():
 def johnsHopkinsCovid19Diario(): 
     #Carpeta Diario
     url = "https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/" 
-    inicio = datetime(2020,1,22)
-    fin    = datetime.now()
+    inicio = datetime.datetime(2020,1,22)
+    fin    = datetime.datetime.now()
     lista_fechas = [inicio + timedelta(days=d) for d in range((fin - inicio).days + 1)] 
     for i in lista_fechas:
         nombre = i.strftime("%m-%d-%Y.csv")
