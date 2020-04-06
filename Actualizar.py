@@ -178,7 +178,7 @@ def johnsHopkinsCovid19Series():
             entrada["Lat"] = lista_confirmed[i][1]["Lat"]
             entrada["Long"] = lista_confirmed[i][1]["Long"]
             formato = columna.split("/")
-            entrada["fecha"] = datetime.date(int(formato[2]+"20"),int(formato[0]),int(formato[1])).strftime("%d-%m-%Y")
+            entrada["fecha"] = datetime.datetime(int(formato[2]+"20"),int(formato[0]),int(formato[1])).strftime("%d-%m-%Y")
             #print(lista_confirmed[i][1][columna]) 
             #print(entrada["Country/Region"])
             entrada["confirmados"] = lista_confirmed[i][1][columna]
