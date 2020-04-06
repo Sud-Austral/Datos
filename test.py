@@ -86,3 +86,15 @@ def EarlyAlert():
     return
 #************************************Actualizar EarlyAlert************************************************
 
+#************************************Actualizar ecdcEuropa************************************************
+def ecdcEuropa():
+    now = datetime.now()
+    url= "https://opendata.ecdc.europa.eu/covid19/casedistribution/csv/"
+    data = pd.read_csv(url)
+    data.to_csv("ecdc.europa/Current_Coronavirus_Cases_and_Deaths.csv", index=False)
+    data.to_csv("ecdc.europa/ecCurrent_Coronavirus_Cases_and_Deaths." + now.strftime("%d-%m-%Y_%H-%M-%S") + "csv", index=False)
+    guardarRepositorio()
+    return
+#************************************Actualizar ecdcEuropa************************************************
+
+
