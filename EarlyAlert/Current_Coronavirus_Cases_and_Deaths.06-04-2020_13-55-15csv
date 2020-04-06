@@ -1,0 +1,465 @@
+NAME,COUNTRY,ISO_CODE,ISO_CC,ADMINTYPE,COUNTRYAFF,CONTINENT,LAND_TYPE,Confirmed,Deaths,x,y,ObjectId
+Skane,Sweden,https://www.svd.se/tre-nya-fall-i-orebro--en-smittad-i-usa,SE,L?n,Sweden,Europe,Primary land,343,14.0,13.59698594,55.9558786,1
+New York,United States,https://www.worldometers.info/coronavirus/country/us/,United States,NY,United States,North America,Primary land,123018,4159.0,-75.694636,43.01675695,2
+Harjumaa,Estonia,https://koroonakaart.ee/en,EE,County,Estonia,Europe,Primary land,339,4.0,24.92743863,59.30642636,3
+Unknown Locations,France,https://www.bfmtv.com/sante/en-direct-coronavirus-test-stade-3-epidemie-ecoles-gel-masques-oise-haut-rhin-morts-contaminations/,FR,Metropolitan Region,France,Europe,Primary land,67919,5477.0,2.502781689,48.71103164,4
+Grand Casablanca,Morocco,http://www.mapexpress.ma/ar/actualite/%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D9%8A%D8%B9%D9%84%D9%86-%D8%B9%D9%86-%D8%AA%D8%B3%D8%AC%D9%8A%D9%84-%D8%A3%D9%88%D9%84-%D8%AD%D8%A7%D9%84%D8%A9-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%A8%D9%81%D9%8A/%D9%85%D8%AC%D8%AA%D9%85%D8%B9-%D9%88%D8%AC%D9%87%D8%A7%D8%AA/,MA,Region,Morocco,Africa,Primary land,339,28.0,-7.566657785,33.53228602,5
+Hubei,China,https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=singlemessage&isappinstalled=0,CN,Province,China,Asia,Primary land,67803,3212.0,112.2736941,30.98050703,6
+Sakarya,Turkey,TR54,TR,Province,Turkey,Asia,Primary land,337,3.0,30.50387102,40.71942091,7
+Lombardia,Italy,https://twitter.com/RvanderDonk1/status/1237108536011882498,IT,Region,Italy,Europe,Primary land,50455,8905.0,9.769320435,45.62513874,8
+Hebei,China,https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=singlemessage&isappinstalled=0,CN,Province,China,Asia,Primary land,327,6.0,116.1196963,39.59490883,9
+England,United Kingdom,https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public,GB,Country,United Kingdom,Europe,Primary land,39814,4494.0,-1.46502298,52.65974006,10
+West Virginia,United States,https://www.worldometers.info/coronavirus/country/us/,United States,WV,United States,North America,Primary land,324,3.0,-80.60873257,38.65186748,11
+Unknown Locations,Iran,https://twitter.com/AbasAslani/status/1237689626279776256,IR,Province,Iran,Asia,Primary land,38862,3444.0,51.82060189,35.59615277,12
+Pichincha,Ecuador,https://www.salud.gob.ec/actualizacion-de-casos-de-coronavirus-en-ecuador/,EC,Province,Ecuador,South America,Primary land,321,6.0,-78.58951436,-0.105802586,13
+Madrid,Spain,https://www.rtve.es/noticias/20200304/mapa-del-coronavirus-espana/2004681.shtml,ES,Autonomous Community,Spain,Europe,Primary land,37584,4947.0,-3.715171823,40.49622965,14
+Telangana,India,https://pib.gov.in/PressReleseDetail.aspx?PRID=1605744,IN,State,India,Asia,Primary land,321,7.0,79.07440308,17.80383706,15
+New Jersey,United States,https://www.worldometers.info/coronavirus/country/us/,United States,NJ,United States,North America,Primary land,37505,917.0,-74.66956342,40.21276915,16
+Karnten,Austria,https://www.sozialministerium.at/Informationen-zum-Coronavirus/Neuartiges-Coronavirus-(2019-nCov).html,AT,State,Austria,Europe,Primary land,319,4.0,13.91826867,46.77392982,17
+Catalonia,Spain,https://www.rtve.es/noticias/20200304/mapa-del-coronavirus-espana/2004681.shtml,ES,Autonomous Community,Spain,Europe,Primary land,26032,2637.0,1.531778125,41.80435155,18
+Budapest,Hungary,https://koronavirus.gov.hu/terkepek/fertozottek,HU,Capital City,Hungary,Europe,Primary land,317,25.0,19.1092458,47.48451926,19
+Bayern,Germany,https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/?fbclid=IwAR04HlqzakGaNssQzbz4d8o8R3gz0C910U8tvfYlBT6P0lVJJvHfk9uS2rc,DE,State,Germany,Europe,Primary land,25355,444.0,11.41587036,48.9682316,20
+Chisinau,Moldova,MDCH,MD,District,Moldova,Europe,Primary land,316,11.0,28.91191638,47.06493603,21
+Kerala,India,https://pib.gov.in/PressReleseDetail.aspx?PRID=1605744,IN,State,India,Asia,Primary land,314,2.0,76.40681656,10.4623498,22
+North-Holland,Netherlands,https://www.rivm.nl/nieuws/actuele-informatie-over-coronavirus,NL,Province,Netherlands,Europe,Primary land,22891,0.0,4.874793433,52.55801353,23
+Ulster (north),Ireland,IEU,IE,Province,Ireland,Europe,Primary land,314,44.0,-7.620171231,54.5904811,24
+Ljubljana,Slovenia,https://www.gov.si/en/news/2020-03-12-slovenia-declares-coronavirus-epidemic/,SI,Municipality,Slovenia,Europe,Primary land,314,22.0,14.56889276,46.05254993,25
+Yerushalayim,Israel,https://www.jpost.com//Breaking-News/Breaking-28-Israelis-diagnosed-with-coronavirus-Health-Ministry-620244,IL,District,Israel,Asia,Primary land,310,0.0,34.9,32.0,26
+Jersey,Jersey,JE,JE,Crown Dependency,United Kingdom,Europe,Small island,309,6.0,-2.132803928,49.21375741,27
+Sofija,Bulgaria,https://www.novinite.com/articles/203543/2+More+Cases+of+Coronavirus+in+Sofia+-+Total+of+6+in+Bulgaria,BG,Region,Bulgaria,Europe,Primary land,308,16.0,23.60544192,42.71132189,28
+Malopolskie,Poland,https://twitter.com/MZ_GOV_PL/status/1236731347571478531,PL,Province,Poland,Europe,Primary land,308,5.0,20.25645373,49.85758271,29
+Ustecky,Czech Republic,https://onemocneni-aktualne.mzcr.cz/covid-19,CZ,Region,Czech Republic,Europe,Primary land,306,3.0,13.84945186,50.53277615,30
+Uttar Pradesh,India,https://pib.gov.in/PressReleseDetail.aspx?PRID=1605744,IN,State,India,Asia,Primary land,305,3.0,80.55061584,26.94372463,31
+Republika Srpska,Bosnia and Herzegovina,https://avaz.ba/vijesti/bih/552474/ministar-seranic-zarazeno-i-dijete-skola-zatvorena,BA,Autonomous Entity,Bosnia and Herzegovina,Europe,Primary land,304,7.0,18.04069986,44.24594527,32
+Quaratine,South Korea,http://ncov.mohw.go.kr/index_main.jsp,KR,Metropolitan City,South Korea,Asia,Primary land,303,0.0,128.5692355,35.83474138,33
+Montana,United States,https://www.worldometers.info/coronavirus/country/us/,United States,MT,United States,North America,Primary land,299,6.0,-109.6512865,47.07288477,34
+Atl?ntida,Honduras,HNAT,HN,Department,Honduras,North America,Very small island,2752,,-86.77215713,15.79738805,35
+Uppsala,Sweden,https://www.svd.se/tre-nya-fall-i-orebro--en-smittad-i-usa,SE,L?n,Sweden,Europe,Primary land,293,9.0,17.67073503,60.04683528,36
+Ardabil,Iran,https://en.irna.ir/,IR,Province,Iran,Asia,Primary land,289,3.0,48.01261857,38.46451457,37
+Isparta,Turkey,TR32,TR,Province,Turkey,Asia,Primary land,289,1.0,30.89952628,37.93813981,38
+Jihomoravsk_,Czech Republic,https://onemocneni-aktualne.mzcr.cz/covid-19,CZ,Region,Czech Republic,Europe,Primary land,279,3.0,16.63598645,49.08280521,39
+Zeeland,Netherlands,https://www.rivm.nl/nieuws/actuele-informatie-over-coronavirus,NL,Province,Netherlands,Europe,Primary land,279,0.0,3.83583051,51.45629953,40
+Basilicata,Italy,https://twitter.com/RvanderDonk1/status/1237108536011882498,IT,Region,Italy,Europe,Primary land,278,13.0,16.07997923,40.50186239,41
+Masqat,Oman,https://twitter.com/OmaniMOH/status/1234858414897082369,OM,Governorate,Oman,Asia,Primary land,277,1.0,58.5954118,23.351088,42
+Los Lagos,Chile,CLLL,CL,Region,Chile,South America,Primary land,276,1.0,-72.665715,-41.91947712,43
+Unknown Locations,Armenia,AMSU,AM,Province,Armenia,Asia,Primary land,274,1.0,46.0,39.0,44
+Rajasthan,India,https://pib.gov.in/PressReleseDetail.aspx?PRID=1605744,IN,State,India,Asia,Primary land,274,0.0,73.85042913,26.60439869,45
+Sarawak,Malaysia,https://kpkesihatan.com/2020/03/01/kenyataan-akhbar-kpk-1-mac-2020-situasi-semasa-jangkitan-penyakit-coronavirus-2019-covid-19-di-malaysia/,MY,State,Malaysia,Asia,Primary land,273,12.0,113.4058541,2.607562378,46
+Flevoland,Netherlands,https://www.rivm.nl/nieuws/actuele-informatie-over-coronavirus,NL,Province,Netherlands,Europe,Primary land,264,0.0,5.597914604,52.52331833,47
+Jawa Barat (west),Indonesia,IDJB,ID,Province,Indonesia,Asia,Primary land,263,29.0,107.595669,-6.915998092,48
+Kanagawa,Japan,https://www3.nhk.or.jp/news/html/20200304/k10012312901000.html,JP,Prefecture,Japan,Asia,Primary land,263,7.0,139.3329088,35.41657584,49
+Chiba,Japan,https://www3.nhk.or.jp/news/html/20200304/k10012312901000.html,JP,Prefecture,Japan,Asia,Primary land,263,1.0,140.2000916,35.51737717,50
+Nova Scotia,Canada,CANS,CA,Province,Canada,North America,Primary land,262,0.0,-63.95408561,44.91080308,51
+Agn?bi,C?te d'Ivoire,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Ivory_Coast,CI,Region,Cote d'Ivoire,Africa,Primary land,261,3.0,-3.993646687,6.075819198,52
+Moskovskaya,Russian Federation,RUMOS,RU,Oblast,Russian Federation,Europe,Primary land,260,2.0,37.6391109,55.67319882,53
+L?dzkie,Poland,https://twitter.com/MZ_GOV_PL/status/1236731347571478531,PL,Province,Poland,Europe,Primary land,259,3.0,19.41065066,51.59107728,54
+Bursa,Turkey,TR16,TR,Province,Turkey,Asia,Small island,259,2.0,28.53343553,40.53938638,55
+Solothurn,Switzerland,https://www.swissinfo.ch/eng/covid-19_switzerland-confirms-second-coronavirus-case/45582788?utm_content=o&utm_campaign=own-posts&utm_medium=socialflow&utm_source=twitter,CH,Canton,Switzerland,Europe,Primary land,258,3.0,7.639298587,47.31781544,56
+Santo Domingo,Dominican Republic,DO32,DO,Province,Dominican Republic,North America,Primary land,257,13.0,-69.84916321,18.56739605,57
+Shaanxi,China,https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=singlemessage&isappinstalled=0,CN,Province,China,Asia,Primary land,256,3.0,108.8877839,35.28089341,58
+Guangxi,China,https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=singlemessage&isappinstalled=0,CN,Autonomous Region,China,Asia,Primary land,254,2.0,108.7933324,23.84184617,59
+Plzensky,Czech Republic,https://onemocneni-aktualne.mzcr.cz/covid-19,CZ,Region,Czech Republic,Europe,Primary land,253,2.0,13.22183344,49.59862063,60
+San Marino,San Marino,https://www.sanmarinortv.sm/news/attualita-c4/coronavirus-e-morto-il-sammarinese-ricoverato-a-rimini-a184415,SM,Undifferentiated Country,San Marino,Europe,Primary land,251,32.0,12.46291297,43.93870406,61
+Centre-Ouest,Burkina Faso,BF06,BF,Province,Burkina Faso,Africa,Primary land,249,12.0,-2.217144234,11.81412148,62
+Saskatchewan,Canada,CASK,CA,Province,Canada,North America,Primary land,249,3.0,-105.9002356,54.79284582,63
+Kermanshah,Iran,https://en.irna.ir/,IR,Province,Iran,Asia,Primary land,243,2.0,46.64911428,34.46874881,64
+Rio Grande do Norte,Brazil,https://veja.abril.com.br/saude/brasil-passa-de-121-para-176-casos-de-coronavirus-confirmados/,BR,State,Brazil,South America,Primary land,242,7.0,-36.67430419,-5.843123782,65
+Hefa,Israel,https://www.jpost.com//Breaking-News/Breaking-28-Israelis-diagnosed-with-coronavirus-Health-Ministry-620244,IL,District,Israel,Asia,Primary land,242,0.0,35.01678574,32.61370444,66
+Malta,Malta,https://timesofmalta.com/articles/view/first-coronavirus-case-reported-in-malta.776288,MT,Undifferentiated Country,Malta,Europe,Small island,241,0.0,14.43994272,35.88822379,67
+Adana,Turkey,TR01,TR,Province,Turkey,Asia,Primary land,241,3.0,35.59176713,37.4697224,68
+Sabah,Malaysia,MY12,MY,State,Malaysia,Asia,Primary land,240,1.0,117.1158967,5.333837912,69
+South Dakota,United States,https://www.worldometers.info/coronavirus/country/us/,United States,SD,United States,North America,Primary land,240,4.0,-100.2320558,44.45533839,70
+Negeri Sembilan,Malaysia,https://www.straitstimes.com/asia/se-asia/coronavirus-malaysia-confirms-2-new-cases-to-bring-total-to-12-a-suspected-case-at-klcc,MY,State,Malaysia,Asia,Primary land,239,0.0,102.2063727,2.775847721,71
+Kordestan,Iran,https://en.irna.ir/,IR,Province,Iran,Asia,Primary land,238,3.0,47.02421944,35.74270449,72
+Wielkopolskie,Poland,https://twitter.com/MZ_GOV_PL/status/1236731347571478531,PL,Province,Poland,Europe,Primary land,234,13.0,17.24584809,52.31424745,73
+Orebro,Sweden,https://www.svd.se/tre-nya-fall-i-orebro--en-smittad-i-usa,SE,L?n,Sweden,Europe,Primary land,234,2.0,14.97160336,59.36297168,74
+Herat,Afghanistan,https://ariananews.af/two-new-covid-19-cases-tested-positive-afghanistan/,AF,Province,Afghanistan,Asia,Primary land,232,4.0,62.13083785,34.18741559,75
+Agder,Norway,https://www.vg.no/spesial/2020/corona-viruset/,NO,County,Norway,Europe,Primary land,231,1.0,7.959184101,58.87559241,76
+Burgenland,Austria,https://www.sozialministerium.at/Informationen-zum-Coronavirus/Neuartiges-Coronavirus-(2019-nCov).html,AT,State,Austria,Europe,Primary land,228,3.0,16.52512162,47.54634332,77
+Aichi,Japan,https://www3.nhk.or.jp/news/html/20200304/k10012312901000.html,JP,Prefecture,Japan,Asia,Primary land,227,20.0,137.2116918,35.03814766,78
+Mauritius,Mauritius,MU,MU,Undifferentiated Area,Mauritius,Africa,Medium island,227,7.0,57.57283094,-20.28203758,79
+Andhra Pradesh,India,INAP,IN,State,India,Asia,Primary land,226,3.0,79.94046302,15.75262831,80
+Corse,France,https://www.bfmtv.com/sante/en-direct-coronavirus-test-stade-3-epidemie-ecoles-gel-masques-oise-haut-rhin-morts-contaminations/,FR,Metropolitan Region,France,Europe,Large island,225,19.0,9.105867665,42.15462631,81
+Molise,Italy,https://twitter.com/RvanderDonk1/status/1237108536011882498,IT,Region,Italy,Europe,Primary land,224,13.0,14.58156729,41.67616566,82
+Kujawsko-pomorskie,Poland,https://twitter.com/MZ_GOV_PL/status/1236731347571478531,PL,Province,Poland,Europe,Primary land,224,1.0,18.48547282,53.06390403,83
+Montenegro,Montenegro,ME,ME,Undifferentiated Country,Montenegro,Europe,Primary land,223,2.0,19.25252832,42.7897745,84
+Vestfold and Telemark,Norway,https://www.vg.no/spesial/2020/corona-viruset/,NO,County,Norway,Europe,Primary land,223,0.0,10.12756261,59.33030822,85
+Jonkopings,Sweden,https://www.svd.se/tre-nya-fall-i-orebro--en-smittad-i-usa,SE,Lan,Sweden,Europe,Primary land,223,15.0,14.43507971,57.50945536,86
+Friesland,Netherlands,https://www.rivm.nl/nieuws/actuele-informatie-over-coronavirus,NL,Province,Netherlands,Europe,Primary land,222,0.0,5.867388637,53.09002501,87
+Alger,Algeria,http://covid19.sante.gov.dz/carte/,DZ,Province,Algeria,Africa,Primary land,220,26.0,3.196735992,36.71058872,88
+Littoral,Cameroon,CMLT,CM,Region,Cameroon,Africa,Primary land,220,1.0,10.12079645,4.265317503,89
+Erevan,Armenia,http://arka.am/en/news/society/armenian_health_authorities_to_isolate_30_persons_because_of_the_threat_of_coronavirus_spread_/,AM,City,Armenia,Asia,Primary land,219,7.0,44.55008386,40.14919295,90
+Perak,Malaysia,MY08,MY,State,Malaysia,Asia,Primary land,219,4.0,101.1163221,4.778254171,91
+Dakar,Senegal,https://www.lequotidien.sn/coronavirus-le-senegal-enregistre-son-premier-cas/,SN,Region,Senegal,Africa,Primary land,219,2.0,-17.27391721,14.7560319,92
+Newfoundland and Labrador,Canada,CANL,CA,Province,Canada,North America,Primary land,217,1.0,-60.69561648,53.16481689,93
+Baghdad,Iraq,https://www.facebook.com/MOH.GOV.IQ/photos/a.860171854037214/2786981578022889/,IQ,Governorate,Iraq,Asia,Primary land,217,19.0,44.37949954,33.33269853,94
+Bishkek,Kyrgyzstan,https://www.aa.com.tr/en/asia-pacific/kyrgyzstan-reports-1st-coronavirus-cases/1769954,KG,City,Kyrgyzstan,Asia,Primary land,216,4.0,74.59598124,42.86604422,95
+Drenthe,Netherlands,https://www.rivm.nl/nieuws/actuele-informatie-over-coronavirus,NL,Province,Netherlands,Europe,Primary land,215,0.0,6.621025311,52.86505407,96
+Kwazulu-Natal,South Africa,http://www.nicd.ac.za/third-confirmed-case-of-covid-19-in-south-africa/,ZA,Province,South Africa,Africa,Primary land,215,2.0,30.72167365,-28.7418327,97
+Greater Accra,Ghana,https://www.bloomberg.com/news/articles/2020-03-15/ghana-closes-borders-for-arrivals-from-coronavirus-hit-countries,GH,Region,Ghana,Africa,Primary land,214,5.0,0.030900265,5.781612984,98
+Thurgau,Switzerland,https://www.swissinfo.ch/eng/covid-19_switzerland-confirms-second-coronavirus-case/45582788?utm_content=o&utm_campaign=own-posts&utm_medium=socialflow&utm_source=twitter,CH,Canton,Switzerland,Europe,Primary land,213,7.0,9.087633201,47.56999678,99
+Marrakech-Tensift-Al Haouz,Morocco,https://www.medias24.com/coronavirus-3e-cas-au-maroc-un-touriste-francais-arrive-le-7-mars-8185.html,MA,Region,Morocco,Africa,Primary land,212,5.0,-8.344167882,31.60410354,100
+Sopiste,North Macedonia,MK70,MK,Municipality,North Macedonia,Europe,Primary land,212,5.0,21.33451794,41.86749334,101
+Canelones,Uruguay,UYCA,UY,Department,Uruguay,South America,Primary land,212,4.0,-55.93191852,-34.54233934,102
+Groningen,Netherlands,NLGR,NL,Province,Netherlands,Europe,Primary land,207,0.0,6.74226542,53.21801034,103
+North Dakota,United States,https://www.worldometers.info/coronavirus/country/us/,United States,ND,United States,North America,Primary land,207,3.0,-100.4710404,47.46852955,104
+Novo Mesto,Slovenia,https://www.gov.si/en/news/2020-03-12-slovenia-declares-coronavirus-epidemic/,SI,Municipality,Slovenia,Europe,Primary land,205,0.0,15.1997975,45.77463813,105
+San Jose,Costa Rica,CRSJ,CR,Province,Costa Rica,North America,Primary land,204,0.0,-83.99384942,9.605411134,106
+Distrito Federal,Mexico,https://www.excelsior.com.mx/nacional/confirman-septimo-contagiado-de-coronavirus-en-mexico/1368486,MX,Federal District,Mexico,North America,Primary land,204,3.0,-99.13766297,19.27684645,107
+Ky?v,Ukraine,UA30,UA,City,Ukraine,Europe,Primary land,204,1.0,30.54642449,50.44890149,108
+Manitoba,Canada,CAMB,CA,Province,Canada,North America,Primary land,203,2.0,-97.41136949,55.25213029,109
+Hyogo,Japan,https://www3.nhk.or.jp/news/html/20200304/k10012312901000.html,JP,Prefecture,Japan,Asia,Primary land,203,11.0,134.8237601,35.09545587,110
+Soroca,Moldova,MDSO,MD,District,Moldova,Europe,Primary land,202,3.0,28.19732362,48.03609374,111
+North Rhine-Westphalia,Germany,https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/?fbclid=IwAR04HlqzakGaNssQzbz4d8o8R3gz0C910U8tvfYlBT6P0lVJJvHfk9uS2rc,DE,State,Germany,Europe,Primary land,20721,302.0,7.568105467,51.4888939,112
+Baden-Wurttemberg,Germany,https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/?fbclid=IwAR04HlqzakGaNssQzbz4d8o8R3gz0C910U8tvfYlBT6P0lVJJvHfk9uS2rc,DE,State,Germany,Europe,Primary land,19287,387.0,9.051430812,48.54925584,113
+Emilia-Romagna,Italy,https://twitter.com/RvanderDonk1/status/1237108536011882498,IT,Region,Italy,Europe,Primary land,17089,2051.0,11.01602242,44.53775903,114
+Michigan,United States,https://www.worldometers.info/coronavirus/country/us/,United States,MI,United States,North America,Primary land,15718,617.0,-85.76504084,44.95427893,115
+California,United States,https://www.worldometers.info/coronavirus/country/us/,United States,CA,United States,North America,Primary land,15201,350.0,-119.6771753,37.38655147,116
+Louisiana,United States,https://www.worldometers.info/coronavirus/country/us/,United States,LA,United States,North America,Primary land,13010,477.0,-92.20374773,31.26773945,117
+Vlaamse Gewest,Belgium,https://www.info-coronavirus.be/nl/2020/03/08/31-nieuwe-besmettingen-met-het-coronavirus-covid-19/,BE,Region,Belgium,Europe,Primary land,12653,780.0,4.235900196,51.03786719,118
+Massachusetts,United States,https://www.worldometers.info/coronavirus/country/us/,United States,MA,United States,North America,Primary land,12500,231.0,-71.9238274,42.30692506,119
+Piemonte,Italy,https://twitter.com/RvanderDonk1/status/1237108536011882498,IT,Region,Italy,Europe,Primary land,12362,1168.0,7.92341344,45.06778954,120
+Florida,United States,https://www.worldometers.info/coronavirus/country/us/,United States,FL,United States,North America,Primary land,12350,221.0,-81.444936,27.92,121
+Istanbul,Turkey,TR34,TR,Province,Turkey,Asia,Primary land,12231,117.0,29.40153514,41.05711275,122
+Pennsylvania,United States,https://www.worldometers.info/coronavirus/country/us/,United States,PA,United States,North America,Primary land,11510,150.0,-77.84325512,40.90844972,123
+Illinois,United States,https://www.worldometers.info/coronavirus/country/us/,United States,IL,United States,North America,Primary land,11256,274.0,-89.14784153,40.16609435,124
+Veneto,Italy,https://twitter.com/RvanderDonk1/status/1237108536011882498,IT,Region,Italy,Europe,Primary land,11226,631.0,11.8395023,45.67259809,125
+Castilla-La Mancha,Spain,https://www.rtve.es/noticias/20200304/mapa-del-coronavirus-espana/2004681.shtml,ES,Autonomous Community,Spain,Europe,Primary land,10031,1055.0,-3.003776738,39.59365086,126
+Castilla y Leon,Spain,https://www.rtve.es/noticias/20200304/mapa-del-coronavirus-espana/2004681.shtml,ES,Autonomous Community,Spain,Europe,Primary land,8749,847.0,-4.779718158,41.76805701,127
+Basque Country,Spain,https://www.rtve.es/noticias/20200304/mapa-del-coronavirus-espana/2004681.shtml,ES,Autonomous Community,Spain,Europe,Primary land,8682,515.0,-2.616197965,43.04338322,128
+Andalucia,Spain,https://www.rtve.es/noticias/20200304/mapa-del-coronavirus-espana/2004681.shtml,ES,Autonomous Community,Spain,Europe,Primary land,8031,470.0,-4.571509753,37.46921885,129
+Washington,United States,https://www.worldometers.info/coronavirus/country/us/,United States,WA,United States,North America,Primary land,7984,338.0,-120.4171301,47.39759534,130
+Quebec,Canada,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,CA,Province,Canada,North America,Primary land,7944,94.0,-71.83707229,54.10693509,131
+Ile-de-France,France,https://www.bfmtv.com/sante/en-direct-coronavirus-test-stade-3-epidemie-ecoles-gel-masques-oise-haut-rhin-morts-contaminations/,FR,Metropolitan Region,France,Europe,Primary land,7660,807.0,2.502781689,48.71103164,132
+Valenciana,Spain,https://www.rtve.es/noticias/20200304/mapa-del-coronavirus-espana/2004681.shtml,ES,Autonomous Community,Spain,Europe,Primary land,7184,613.0,-0.553450964,39.41266159,133
+Texas,United States,https://www.worldometers.info/coronavirus/country/us/,United States,TX,United States,North America,Primary land,7094,137.0,-99.37686501,31.57511639,134
+Daegu,South Korea,http://ncov.mohw.go.kr/index_main.jsp,KR,Metropolitan City,South Korea,Asia,Primary land,6768,127.0,128.5692355,35.83474138,135
+Georgia,United States,https://www.worldometers.info/coronavirus/country/us/,United States,GA,United States,North America,Primary land,6742,219.0,-83.46673518,32.68226652,136
+Porto (North),Portugal,https://www.jn.pt/nacional/dois-casos-positivos-de-coronavirus-no-porto-11876530.html,PT,District,Portugal,Europe,Primary land,6530,159.0,-8.348623121,41.22350744,137
+Niedersachsen,Germany,https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/?fbclid=IwAR04HlqzakGaNssQzbz4d8o8R3gz0C910U8tvfYlBT6P0lVJJvHfk9uS2rc,DE,State,Germany,Europe,Primary land,6218,108.0,9.152303475,52.77107456,138
+Galicia,Spain,https://www.rtve.es/noticias/20200304/mapa-del-coronavirus-espana/2004681.shtml,ES,Autonomous Community,Spain,Europe,Primary land,5944,174.0,-7.910531576,42.76268834,139
+Tuscany,Italy,https://twitter.com/RvanderDonk1/status/1237108536011882498,IT,Region,Italy,Europe,Primary land,5847,325.0,11.13559646,43.46459139,140
+Wallonne,Belgium,https://www.info-coronavirus.be/nl/2020/03/08/31-nieuwe-besmettingen-met-het-coronavirus-covid-19/,BE,Region,Belgium,Europe,Primary land,5809,574.0,5.01033651,50.31767929,141
+Connecticut,United States,https://www.worldometers.info/coronavirus/country/us/,United States,CT,United States,North America,Primary land,5675,189.0,-72.72645216,41.62394305,142
+Grand Est,France,https://www.bfmtv.com/sante/en-direct-coronavirus-test-stade-3-epidemie-ecoles-gel-masques-oise-haut-rhin-morts-contaminations/,FR,Metropolitan Region,France,Europe,Primary land,5479,815.0,6.136959554,48.7671918,143
+Tehran,Iran,https://en.irna.ir/,IR,Province,Iran,Asia,Primary land,5098,76.0,51.82060189,35.59615277,144
+Colorado,United States,https://www.worldometers.info/coronavirus/country/us/,United States,CO,United States,North America,Primary land,4950,140.0,-105.5479732,39.02688423,145
+Indiana,United States,https://www.worldometers.info/coronavirus/country/us/,United States,IN,United States,North America,Primary land,4944,139.0,-86.27918314,39.94512423,146
+Sao Paulo,Brazil,https://twitter.com/minsaude/status/1236423393362264065,BR,State,Brazil,South America,Primary land,4788,279.0,-48.73238062,-22.27036239,147
+Hessen,Germany,https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/?fbclid=IwAR04HlqzakGaNssQzbz4d8o8R3gz0C910U8tvfYlBT6P0lVJJvHfk9uS2rc,DE,State,Germany,Europe,Primary land,4668,64.0,9.034552095,50.61250753,148
+Unknown Locations,Denmark,https://www.thelocal.dk/20200310/denmark-bans-flights-from-northern-italy-coronavirus-infections-rises-to-156,DK,Region,Denmark,Europe,Very small island,4644,184.0,10.45275513,56.01615098,149
+Tel-Aviv,Israel,https://www.jpost.com/Breaking-News/Israel-confirms-three-m-more-cases-of-coronavirus-619446,IL,District,Israel,Asia,Primary land,4499,35.0,34.80896847,32.08449339,150
+Marche,Italy,https://twitter.com/RvanderDonk1/status/1237108536011882498,IT,Region,Italy,Europe,Primary land,4464,599.0,13.10572811,43.36781057,151
+Noord-Brabant,Netherlands,https://www.rivm.nl/nieuws/actuele-informatie-over-coronavirus,NL,Province,Netherlands,Europe,Primary land,4456,22.0,5.205443165,51.54932819,152
+Liguria,Italy,https://twitter.com/RvanderDonk1/status/1237108536011882498,IT,Region,Italy,Europe,Primary land,4449,556.0,8.855,44.479,153
+Maryland,United States,https://www.worldometers.info/coronavirus/country/us/,United States,MD,United States,North America,Primary land,4045,91.0,-76.80957751,39.06216274,154
+Ohio,United States,https://www.worldometers.info/coronavirus/country/us/,United States,OH,United States,North America,Primary land,4043,119.0,-82.70557769,40.43348178,155
+Ontario,Canada,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,CA,Province,Canada,North America,Primary land,4038,146.0,-86.014189,50.41643847,156
+Vaud,Switzerland,https://www.swissinfo.ch/eng/covid-19_switzerland-confirms-second-coronavirus-case/45582788?utm_content=o&utm_campaign=own-posts&utm_medium=socialflow&utm_source=twitter,CH,Canton,Switzerland,Europe,Primary land,4035,138.0,6.659354376,46.57239198,157
+Trento & Bolzano,Italy,https://twitter.com/RvanderDonk1/status/1237108536011882498,IT,Autonomous Region,Italy,Europe,Primary land,3929,375.0,11.28447556,46.44513655,158
+Rheinland-Pfalz,Germany,https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/?fbclid=IwAR04HlqzakGaNssQzbz4d8o8R3gz0C910U8tvfYlBT6P0lVJJvHfk9uS2rc,DE,State,Germany,Europe,Primary land,3917,33.0,7.447909716,49.92059596,159
+Lazio,Italy,https://twitter.com/RvanderDonk1/status/1237108536011882498,IT,Region,Italy,Europe,Primary land,3880,219.0,12.76533094,41.98391615,160
+Scotland,United Kingdom,https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public,GB,Country,United Kingdom,Europe,Primary land,3706,218.0,-4.021895718,56.72495216,161
+Berlin,Germany,https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/?fbclid=IwAR04HlqzakGaNssQzbz4d8o8R3gz0C910U8tvfYlBT6P0lVJJvHfk9uS2rc,DE,State,Germany,Europe,Primary land,3687,26.0,13.39853005,52.50061305,162
+Tennessee,United States,https://www.worldometers.info/coronavirus/country/us/,United States,TN,United States,North America,Primary land,3633,44.0,-86.33952838,35.84709266,163
+Geneva,Switzerland,https://www.swissinfo.ch/eng/covid-19_switzerland-confirms-second-coronavirus-case/45582788?utm_content=o&utm_campaign=own-posts&utm_medium=socialflow&utm_source=twitter,CH,Canton,Switzerland,Europe,Primary land,3384,83.0,6.130282379,46.22129718,164
+Leinster (east),Ireland,https://www.gov.ie/en/publications/,IE,Province,Ireland,Europe,Primary land,3382,73.0,-6.969450943,53.14410429,165
+South-Holland,Netherlands,https://www.rivm.nl/nieuws/actuele-informatie-over-coronavirus,NL,Province,Netherlands,Europe,Primary land,3361,1.0,4.543654683,51.98852852,166
+Moskva,Russian Federation,https://ria.ru/20200302/1566843474.html,RU,Federal City,Russian Federation,Europe,Primary land,3357,27.0,37.5822701,55.75167733,167
+Aragon,Spain,https://www.rtve.es/noticias/20200304/mapa-del-coronavirus-espana/2004681.shtml,ES,Autonomous Community,Spain,Europe,Primary land,3232,270.0,-0.657097165,41.53171331,168
+Wales,United Kingdom,https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public,GB,Principality,United Kingdom,Europe,Primary land,3197,166.0,-3.742033774,52.31037317,169
+Saxony,Germany,https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/?fbclid=IwAR04HlqzakGaNssQzbz4d8o8R3gz0C910U8tvfYlBT6P0lVJJvHfk9uS2rc,DE,State,Germany,Europe,Primary land,3097,35.0,13.34952919,51.05397159,170
+Hamburg,Germany,https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/?fbclid=IwAR04HlqzakGaNssQzbz4d8o8R3gz0C910U8tvfYlBT6P0lVJJvHfk9uS2rc,DE,State,Germany,Europe,Primary land,3088,19.0,10.02957961,53.54860261,171
+Navarra,Spain,https://www.rtve.es/noticias/20200304/mapa-del-coronavirus-espana/2004681.shtml,ES,Autonomous Community,Spain,Europe,Primary land,3073,178.0,-1.644277004,42.66991486,172
+Stockholms,Sweden,https://www.svd.se/tre-nya-fall-i-orebro--en-smittad-i-usa,SE,L?n,Sweden,Europe,Primary land,3016,251.0,18.117565,59.48122278,173
+Campania,Italy,https://twitter.com/RvanderDonk1/status/1237108536011882498,IT,Region,Italy,Europe,Primary land,2960,189.0,14.85362208,40.85823235,174
+Lisboa (Libson & Tagus Valley),Portugal,https://tvi24.iol.pt/sociedade/coronavirus/primeira-mulher-infetada-com-covid-19-em-portugal,PT,District,Portugal,Europe,Primary land,2904,51.0,-9.170066907,39.00174104,175
+Luxembourg,Luxembourg,https://www.sudinfo.be/id170416/article/2020-02-29/un-premier-cas-de-coronavirus-confirme-au-luxembourg-il-transite-charleroi,LU,District,Luxembourg,Europe,Primary land,2804,36.0,6.100486726,49.6221961,176
+Tyrol,Austria,https://www.sozialministerium.at/Informationen-zum-Coronavirus/Neuartiges-Coronavirus-(2019-nCov).html,AT,State,Austria,Europe,Primary land,2739,35.0,11.50231656,47.19654779,177
+North Carolina,United States,https://www.worldometers.info/coronavirus/country/us/,United States,NC,United States,North America,Primary land,2677,39.0,-79.41662569,35.5564283,178
+New South Wales,Australia,https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert,AU,State,Australia,Australia,Primary land,2637,19.0,146.9996757,-32.23804363,179
+Virginia,United States,https://www.worldometers.info/coronavirus/country/us/,United States,VA,United States,North America,Primary land,2637,51.0,-78.84423614,37.52599266,180
+La Rioja,Spain,https://www.rtve.es/noticias/20200304/mapa-del-coronavirus-espana/2004681.shtml,ES,Autonomous Community,Spain,Europe,Primary land,2592,134.0,-2.516356273,42.27565392,181
+Zurich,Switzerland,https://www.swissinfo.ch/eng/covid-19_switzerland-confirms-second-coronavirus-case/45582788?utm_content=o&utm_campaign=own-posts&utm_medium=socialflow&utm_source=twitter,CH,Canton,Switzerland,Europe,Primary land,2522,45.0,8.65525944,47.41480444,182
+Ticino,Switzerland,https://www.swissinfo.ch/eng/covid-19_switzerland-confirms-second-coronavirus-case/45582788?utm_content=o&utm_campaign=own-posts&utm_medium=socialflow&utm_source=twitter,CH,Canton,Switzerland,Europe,Primary land,2508,177.0,8.809119599,46.29726994,183
+Guayas,Ecuador,https://www.salud.gob.ec/actualizacion-de-casos-de-coronavirus-en-ecuador/,EC,Province,Ecuador,South America,Primary land,2402,122.0,-79.89740505,-2.018165081,184
+Unknown Locations,Germany,DESH,DE,State,Germany,Europe,Primary land,2370,62.0,11.0,52.0,185
+Missouri,United States,https://www.worldometers.info/coronavirus/country/us/,United States,MO,United States,North America,Primary land,2367,49.0,-92.48732088,38.39811523,186
+Bruxelles-Capitale,Belgium,https://www.info-coronavirus.be/nl/2020/03/08/31-nieuwe-besmettingen-met-het-coronavirus-covid-19/,BE,Capital Region,Belgium,Europe,Primary land,2352,278.0,4.370416607,50.83578502,187
+Puglia,Italy,https://twitter.com/RvanderDonk1/status/1237108536011882498,IT,Region,Italy,Europe,Primary land,2317,182.0,16.61674434,40.99032196,188
+Arizona,United States,https://www.worldometers.info/coronavirus/country/us/,United States,AZ,United States,North America,Primary land,2269,64.0,-111.6666252,34.33595025,189
+Wisconsin,United States,https://www.worldometers.info/coronavirus/country/us/,United States,WI,United States,North America,Primary land,2267,68.0,-89.7446789,44.67495699,190
+Gelderland,Netherlands,https://www.rivm.nl/nieuws/actuele-informatie-over-coronavirus,NL,Province,Netherlands,Europe,Primary land,2210,0.0,5.943601597,52.06530733,191
+Unknown Locations,Saudi Arabia,https://twitter.com/SaudiMOH/status/1236579629420380161,SA,Emirate,Saudi Arabia,Asia,Very small island,2172,29.0,38.30178044,23.84045671,192
+Regi?n Metropolitana de Santiago,Chile,CLRM,CL,Region,Chile,South America,Primary land,2102,10.0,-70.745062,-33.63145861,193
+Rhone-Alpes,France,https://www.bfmtv.com/sante/en-direct-coronavirus-test-stade-3-epidemie-ecoles-gel-masques-oise-haut-rhin-morts-contaminations/,FR,Metropolitan Region,France,Europe,Primary land,2093,227.0,5.34279344,45.44452786,194
+South Carolina,United States,https://www.worldometers.info/coronavirus/country/us/,United States,SC,United States,North America,Primary land,2049,44.0,-80.91344752,33.95150025,195
+Friuli-Venezia Giulia,Italy,https://twitter.com/RvanderDonk1/status/1237108536011882498,IT,Autonomous Region,Italy,Europe,Primary land,2048,154.0,13.05192689,46.16045443,196
+Extremadura,Spain,https://www.rtve.es/noticias/20200304/mapa-del-coronavirus-espana/2004681.shtml,ES,Autonomous Community,Spain,Europe,Primary land,2047,218.0,-6.149241516,39.19933258,197
+Limburg,Netherlands,https://www.rivm.nl/nieuws/actuele-informatie-over-coronavirus,NL,Province,Netherlands,Europe,Primary land,2011,1.0,5.935030355,51.2108495,198
+Sicily,Italy,https://twitter.com/RvanderDonk1/status/1237108536011882498,IT,Autonomous Region,Italy,Europe,Primary land,1994,116.0,14.15454888,37.59013754,199
+Esfahan,Iran,https://en.irna.ir/,IR,Province,Iran,Asia,Primary land,1979,22.0,52.53385567,33.22320317,200
+Vilniaus,Lithuania,https://www.lrt.lt/naujienos/lietuvoje/2/1152303/lietuvoje-nustatyti-dar-trys-koronaviruso-atvejai-du-is-ju-klaipedoje,LT,County,Lithuania,Europe,Primary land,725,9.0,25.25889375,54.84185069,201
+Al Manamah,Bahrain,https://www.moh.gov.bh/COVID19,BH,Governorate,Bahrain,Asia,Primary land,723,4.0,50.56738519,26.22260123,202
+Diamond Princess Cases,Japan,https://www3.nhk.or.jp/news/html/20200304/k10012312901000.html,JP,Prefecture,Japan,Asia,Primary land,712,7.0,139.3329088,35.41657584,203
+Ostergotlands,Sweden,https://www.svd.se/tre-nya-fall-i-orebro--en-smittad-i-usa,SE,L?n,Sweden,Europe,Primary land,695,20.0,15.65816436,58.3651498,204
+Normandie,France,https://www.bfmtv.com/sante/en-direct-coronavirus-test-stade-3-epidemie-ecoles-gel-masques-oise-haut-rhin-morts-contaminations/,FR,Metropolitan Region,France,Europe,Primary land,688,32.0,-0.527736138,48.93283561,205
+Minsk,Belarus,https://www.sb.by/articles/chislo-zarazivshikhsya-novym-koronovirusom-vyroslo-v-belarusi-do-shesti.html,BY,Oblast,Belarus,Europe,Primary land,685,13.0,27.59115026,53.89026785,206
+Delaware,United States,https://www.worldometers.info/coronavirus/country/us/,United States,DE,United States,North America,Primary land,673,14.0,-75.50666805,38.99474557,207
+Basel Country,Switzerland,https://www.swissinfo.ch/eng/covid-19_switzerland-confirms-second-coronavirus-case/45582788?utm_content=o&utm_campaign=own-posts&utm_medium=socialflow&utm_source=twitter,CH,Canton,Switzerland,Europe,Primary land,670,19.0,7.71609922,47.45301371,208
+Qazvin,Iran,https://en.irna.ir/,IR,Province,Iran,Asia,Primary land,669,9.0,49.78346578,36.12151769,209
+Fribourg,Switzerland,https://www.swissinfo.ch/eng/covid-19_switzerland-confirms-second-coronavirus-case/45582788?utm_content=o&utm_campaign=own-posts&utm_medium=socialflow&utm_source=twitter,CH,Canton,Switzerland,Europe,Primary land,669,40.0,7.074700782,46.71764195,210
+New Hampshire,United States,https://www.worldometers.info/coronavirus/country/us/,United States,NH,United States,North America,Primary land,669,9.0,-71.57736216,43.697189,211
+Distrito Nacional,Dominican Republic,DO01,DO,District,Dominican Republic,North America,Primary land,665,13.0,-69.94560892,18.48607902,212
+Al Ahmadi,Kuwait,https://twitter.com/KUWAIT_MOH/status/1234382671687639040,KW,Governorate,Kuwait,Asia,Primary land,665,1.0,47.97227181,28.80996123,213
+Beograd,Serbia,https://www.rts.rs/page/stories/sr/story/125/drustvo/3882122/kroonavirus-srbija-cetvoro.html,RS,City,Serbia,Europe,Primary land,657,44.0,20.40705802,44.64405093,214
+Jiangsu,China,https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=singlemessage&isappinstalled=0,CN,Province,China,Asia,Primary land,651,0.0,119.4427295,33.00829086,215
+Semnan,Iran,https://en.irna.ir/,IR,Province,Iran,Asia,Primary land,645,8.0,54.7024998,35.44614385,216
+Wilayah Persekutuan Kuala Lumpur,Malaysia,https://kpkesihatan.com/2020/03/01/kenyataan-akhbar-kpk-1-mac-2020-situasi-semasa-jangkitan-penyakit-coronavirus-2019-covid-19-di-malaysia/,MY,Federal Territory,Malaysia,Asia,Primary land,640,10.0,101.6874253,3.153221039,217
+Azerbaijan,Azerbaijan,https://www.azerbaycan24.com/en/confirmed-coronavirus-cases-reach-six-in-azerbaijan/,AZ,Autonomous Republic,Azerbaijan,Asia,Primary land,629,7.0,47.68856349,40.31047487,218
+Astana,Kazakhstan,KZAST,KZ,City,Kazakhstan,Asia,Primary land,629,6.0,71.45904459,51.1729416,219
+Aargau,Switzerland,https://www.swissinfo.ch/eng/covid-19_switzerland-confirms-second-coronavirus-case/45582788?utm_content=o&utm_campaign=own-posts&utm_medium=socialflow&utm_source=twitter,CH,Canton,Switzerland,Europe,Primary land,626,12.0,8.160486179,47.41100095,220
+New Mexico,United States,https://www.worldometers.info/coronavirus/country/us/,United States,NM,United States,North America,Primary land,624,12.0,-106.106438,34.46146308,221
+Bretagne,France,https://www.bfmtv.com/sante/en-direct-coronavirus-test-stade-3-epidemie-ecoles-gel-masques-oise-haut-rhin-morts-contaminations/,FR,Metropolitan Region,France,Europe,Primary land,603,41.0,-2.840119847,48.18451934,222
+Konya,Turkey,TR42,TR,Province,Turkey,Asia,Primary land,601,7.0,32.56433465,38.1272998,223
+Graubunden,Switzerland,https://www.swissinfo.ch/eng/covid-19_switzerland-confirms-second-coronavirus-case/45582788?utm_content=o&utm_campaign=own-posts&utm_medium=socialflow&utm_source=twitter,CH,Canton,Switzerland,Europe,Primary land,598,27.0,9.628098814,46.65847419,224
+Beijing,China,https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=singlemessage&isappinstalled=0,CN,Municipality,China,Asia,Primary land,587,8.0,116.408001,40.20121548,225
+Chongqing,China,https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=singlemessage&isappinstalled=0,CN,Municipality,China,Asia,Primary land,579,6.0,107.873183,30.0881186,226
+Trondelag,Norway,https://www.vg.no/spesial/2020/corona-viruset/,NO,County,Norway,Europe,Primary land,572,6.0,12.29178711,64.2854522,227
+Gyeonggido,South Korea,http://ncov.mohw.go.kr/index_main.jsp,KR,Province,South Korea,Asia,Primary land,572,7.0,127.1802853,37.53764183,228
+Tamil Nadu,India,https://pib.gov.in/PressReleseDetail.aspx?PRID=1605744,IN,State,India,Asia,Primary land,571,5.0,78.4039331,11.03310066,229
+Vestland,Norway,https://www.vg.no/spesial/2020/corona-viruset/,NO,County,Norway,Europe,Primary land,567,2.0,6.384057001,60.35060431,230
+Stredocesky,Czech Republic,https://onemocneni-aktualne.mzcr.cz/covid-19,CZ,Region,Czech Republic,Europe,Primary land,562,7.0,14.547456,50.00056155,231
+Centre,France,https://www.bfmtv.com/sante/en-direct-coronavirus-test-stade-3-epidemie-ecoles-gel-masques-oise-haut-rhin-morts-contaminations/,FR,Metropolitan Region,France,Europe,Primary land,561,39.0,1.68429821,47.49489114,232
+Vastra Gotalands,Sweden,https://www.svd.se/tre-nya-fall-i-orebro--en-smittad-i-usa,SE,L?n,Sweden,Europe,Primary land,561,18.0,12.88556481,58.31599278,233
+Mexico,Mexico,http://salud.edomex.gob.mx/isem/ac_boletines_informativos&idbol=414#barrabol414,MX,State,Mexico,North America,Primary land,560,19.0,-99.64867317,19.35114232,234
+Sichuan,China,https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=singlemessage&isappinstalled=0,CN,Province,China,Asia,Primary land,559,3.0,102.7342203,30.6598919,235
+Seoul,South Korea,http://ncov.mohw.go.kr/index_main.jsp,KR,Capital City,South Korea,Asia,Primary land,552,0.0,126.990519,37.55433705,236
+Bucuresti,Romania,http://www.ms.ro/2020/03/07/2-noi-cazuri-de-persoane-care-sunt-infectate-cu-noul-coronavirus/,RO,City,Romania,Europe,Primary land,550,4.0,26.09545199,44.43970275,237
+Riga,Latvia,http://www.leta.lv/home/important/B38ABA0D-11DC-4602-8932-81FFBC3902E5/,LV,City,Latvia,Europe,Primary land,542,1.0,24.13222462,56.97435017,238
+Shanghai,China,https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=singlemessage&isappinstalled=0,CN,Municipality,China,Asia,Primary land,536,6.0,121.421875,31.08805404,239
+Maule,Chile,https://www.biobiochile.cl/noticias/nacional/region-del-maule/2020/03/03/confirman-primer-caso-de-coronavirus-en-chile.shtml,CL,Region,Chile,South America,Primary land,528,4.0,-71.44524266,-35.62443085,240
+Mecklenburg-Vorpommern,Germany,https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/?fbclid=IwAR04HlqzakGaNssQzbz4d8o8R3gz0C910U8tvfYlBT6P0lVJJvHfk9uS2rc,DE,State,Germany,Europe,Primary land,528,6.0,12.47847511,53.72205385,241
+Unknown Locations,Lebanon,LBJA,LB,Governorate,Lebanon,Asia,Very small island,525,19.0,35.36737395,33.57313623,242
+Heilongjiang,China,https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=singlemessage&isappinstalled=0,CN,Province,China,Asia,Primary land,524,13.0,127.6579959,48.04457916,243
+Delhi,India,https://pib.gov.in/PressReleseDetail.aspx?PRID=1605744,IN,Union Territory,India,Asia,Primary land,523,7.0,77.11584291,28.64376163,244
+Sankt Gallen,Switzerland,https://www.swissinfo.ch/eng/covid-19_switzerland-confirms-second-coronavirus-case/45582788?utm_content=o&utm_campaign=own-posts&utm_medium=socialflow&utm_source=twitter,CH,Canton,Switzerland,Europe,Primary land,515,9.0,9.273982338,47.23868998,245
+Puerto Rico,Puerto Rico,https://www.worldometers.info/coronavirus/country/us/,United States,PR,United States,North America,Primary land,513,21.0,-66.47954707,18.2242209,246
+Vermont,United States,https://www.worldometers.info/coronavirus/country/us/,United States,VT,United States,North America,Primary land,512,22.0,-72.66083838,44.08550942,247
+Araucan?a,Chile,CLAR,CL,Region,Chile,South America,Primary land,509,7.0,-72.2543211,-38.63372029,248
+Fars,Iran,https://en.irna.ir/,IR,Province,Iran,Asia,Primary land,505,5.0,53.2148436,29.34736873,249
+Kocaeli,Turkey,TR41,TR,Province,Turkey,Asia,Primary land,500,8.0,29.91427982,40.86373288,250
+Minas Gerais,Brazil,https://veja.abril.com.br/saude/brasil-passa-de-121-para-176-casos-de-coronavirus-confirmados/,BR,State,Brazil,South America,Primary land,498,6.0,-44.67940391,-18.49020858,251
+Slaskie,Poland,https://twitter.com/MZ_GOV_PL/status/1236731347571478531,PL,Province,Poland,Europe,Primary land,496,22.0,19.01288453,50.33568058,252
+Andorra la Vella,Andorra,https://www.andorradifusio.ad/noticies/primer-cas-coronavirus-andorra,AD,Parish,Andorra,Europe,Primary land,495,18.0,1.510454702,42.49631088,253
+Luzern,Switzerland,https://www.swissinfo.ch/eng/covid-19_switzerland-confirms-second-coronavirus-case/45582788?utm_content=o&utm_campaign=own-posts&utm_medium=socialflow&utm_source=twitter,CH,Canton,Switzerland,Europe,Primary land,478,9.0,8.107892289,47.06827729,254
+Lorestan,Iran,https://en.irna.ir/,IR,Province,Iran,Asia,Primary land,476,6.0,48.4599423,33.52366903,255
+Maine,United States,https://www.worldometers.info/coronavirus/country/us/,United States,ME,United States,North America,Primary land,470,10.0,-69.22603669,45.41560166,256
+Distrito Federal,Brazil,https://veja.abril.com.br/saude/brasil-passa-de-121-para-176-casos-de-coronavirus-confirmados/,BR,Federal District,Brazil,South America,Primary land,468,7.0,-47.79671193,-15.77959635,257
+Johor,Malaysia,https://twitter.com/KKMPutrajaya/status/1226414443187200000,MY,State,Malaysia,Asia,Primary land,468,23.0,103.3803727,2.045274162,258
+Western Australia,Australia,https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert,AU,State,Australia,Australia,Primary land,460,4.0,122.1327274,-25.77257118,259
+Moravskoslexsk_,Czech Republic,https://onemocneni-aktualne.mzcr.cz/covid-19,CZ,Region,Czech Republic,Europe,Primary land,459,7.0,17.97762765,49.82156011,260
+Blida,Algeria,http://covid19.sante.gov.dz/carte/,DZ,Province,Algeria,Africa,Primary land,456,25.0,3.002534045,36.48438153,261
+Larnaka,Cyprus,CY03,CY,District,Cyprus,Asia,Primary land,446,9.0,33.48723329,34.91220455,262
+Khuzestan,Iran,https://en.irna.ir/,IR,Province,Iran,Asia,Primary land,444,4.0,48.97740895,31.52944345,263
+Capital Federal,Argentina,ARC,AR,Federal District,Argentina,South America,Primary land,439,17.0,-58.45349612,-34.60143093,264
+Paran?,Brazil,https://veja.abril.com.br/saude/brasil-passa-de-121-para-176-casos-de-coronavirus-confirmados/,BR,State,Brazil,South America,Primary land,438,9.0,-51.62733973,-24.63935648,265
+Neuchatel,Switzerland,https://www.swissinfo.ch/eng/covid-19_switzerland-confirms-second-coronavirus-case/45582788?utm_content=o&utm_campaign=own-posts&utm_medium=socialflow&utm_source=twitter,CH,Canton,Switzerland,Europe,Primary land,433,24.0,6.783549746,46.99774173,266
+Saaremaa,Estonia,https://koroonakaart.ee/en,EE,County,Estonia,Europe,Medium island,431,9.0,22.54876722,58.39517845,267
+Centre,Cameroon,https://fr-fr.facebook.com/MINSANTE.PageOfficielle/photos/a.1480278031987670/3360924203923034/,CM,Region,Cameroon,Africa,Primary land,426,8.0,11.82320821,4.667342663,268
+Sodermanlands,Sweden,https://www.svd.se/tre-nya-fall-i-orebro--en-smittad-i-usa,SE,L?n,Sweden,Europe,Primary land,424,51.0,16.68643792,59.08477534,269
+Olomoucky,Czech Republic,https://onemocneni-aktualne.mzcr.cz/covid-19,CZ,Region,Czech Republic,Europe,Primary land,422,6.0,17.19008233,49.78166807,270
+Rio Grande do Sul,Brazil,https://veja.abril.com.br/saude/brasil-passa-de-121-para-176-casos-de-coronavirus-confirmados/,BR,State,Brazil,South America,Primary land,418,7.0,-53.32122128,-29.76495316,271
+Amazonas,Brazil,BRAM,BR,State,Brazil,South America,Primary land,417,14.0,-64.70304166,-4.201832029,272
+South Australia,Australia,https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert,AU,State,Australia,Australia,Primary land,411,0.0,135.861581,-30.18800017,273
+Osaka,Japan,https://www3.nhk.or.jp/news/html/20200304/k10012312901000.html,JP,Prefecture,Japan,Asia,Primary land,408,4.0,135.5088733,34.6279244,274
+Dolnoslaskie,Poland,https://twitter.com/MZ_GOV_PL/status/1236731347571478531,PL,Province,Poland,Europe,Primary land,407,6.0,16.39987843,51.07793352,275
+Bahia,Brazil,https://veja.abril.com.br/saude/brasil-passa-de-121-para-176-casos-de-coronavirus-confirmados/,BR,State,Brazil,South America,Primary land,401,9.0,-41.70320102,-12.49463724,276
+HaDarom,Israel,https://www.jpost.com/Breaking-News/Israel-confirms-three-m-more-cases-of-coronavirus-619446,IL,District,Israel,Asia,Primary land,400,0.0,34.86920794,30.84064797,277
+Buenos Aires,Argentina,https://www.minutouno.com/notas/5087309-argentina-tiene-su-primera-muerte-coronavirus,AR,Province,Argentina,South America,Primary land,397,15.0,-60.58037376,-36.74405258,278
+Bremen,Germany,https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/?fbclid=IwAR04HlqzakGaNssQzbz4d8o8R3gz0C910U8tvfYlBT6P0lVJJvHfk9uS2rc,DE,State,Germany,Europe,Primary land,397,8.0,8.755432028,53.19400481,279
+Azarbayjan-e-Gharbi (west),Iran,https://en.irna.ir/,IR,Province,Iran,Asia,Primary land,395,3.0,45.29343815,37.72740377,280
+Zanjan,Iran,https://en.irna.ir/,IR,Province,Iran,Asia,Primary land,394,3.0,48.40890993,36.5136053,281
+Golestan,Iran,https://en.irna.ir/,IR,Province,Iran,Asia,Primary land,391,6.0,55.1367178,37.29316906,282
+Auckland,New Zealand,https://www.health.govt.nz/news-media/media-releases/second-case-covid-19-confirmed-nz,NZ,Region,New Zealand,Oceania,Primary land,385,1.0,174.6660465,-36.72223012,283
+Rogaland,Norway,https://www.vg.no/spesial/2020/corona-viruset/,NO,County,Norway,Europe,Primary land,378,7.0,6.256283062,59.1068739,284
+Connaught (West),Ireland,https://www.gov.ie/en/publications/,IE,Province,Ireland,Europe,Primary land,377,20.0,-8.864845273,53.75386959,285
+Western Cape,South Africa,https://twitter.com/DrZweliMkhize/status/1235534020215074816,ZA,Province,South Africa,Africa,Primary land,374,1.0,20.61771117,-33.02828507,286
+Taiwan,China,https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=singlemessage&isappinstalled=0,CN,Province,China,Asia,Primary land,373,5.0,120.9751764,23.75756573,287
+Hawaii,United States,https://www.worldometers.info/coronavirus/country/us/,United States,HI,United States,North America,Primary land,371,4.0,-155.5183945,19.59879396,288
+HaZafon,Israel,https://www.jpost.com/Breaking-News/Israel-confirms-three-m-more-cases-of-coronavirus-619446,IL,District,Israel,Asia,Primary land,369,0.0,35.3800021,32.81698601,289
+Innlandet,Norway,https://www.vg.no/spesial/2020/corona-viruset/,NO,County,Norway,Europe,Primary land,369,0.0,9.345503545,61.42362128,290
+Federacija Bosna i Hercegovina,Bosnia and Herzegovina,BABIH,BA,Autonomous Entity,Bosnia and Herzegovina,Europe,Primary land,368,17.0,17.53605856,44.10809736,291
+Pays de la Loire,France,https://www.bfmtv.com/sante/en-direct-coronavirus-test-stade-3-epidemie-ecoles-gel-masques-oise-haut-rhin-morts-contaminations/,FR,Metropolitan Region,France,Europe,Primary land,368,47.0,-0.807094323,47.48783634,292
+B?o-B?o,Chile,CLBI,CL,Region,Chile,South America,Primary land,365,2.0,-72.2591359,-37.18446334,293
+Nebraska,United States,https://www.worldometers.info/coronavirus/country/us/,United States,NE,United States,North America,Primary land,363,8.0,-99.81863746,41.5432888,294
+Santa Catarina,Brazil,https://veja.abril.com.br/saude/brasil-passa-de-121-para-176-casos-de-coronavirus-confirmados/,BR,State,Brazil,South America,Primary land,357,10.0,-50.50117855,-27.24877205,295
+Fujian,China,https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=singlemessage&isappinstalled=0,CN,Province,China,Asia,Primary land,350,1.0,117.9782158,26.09658524,296
+Grad Zagreb,Croatia,https://www.koronavirus.hr/en,HR,City,Croatia,Europe,Primary land,346,5.0,15.99989797,45.7948841,297
+Ma'an,Jordan,http://petra.gov.jo/Include/InnerPage.jsp?ID=129086&lang=ar&name=news#.Xl0EgHHY5-M.twitter,JO,Governorate,Jordan,Asia,Primary land,345,5.0,36.55591398,30.33881767,298
+R?union,R?union,FRRE,FR,Overseas Department/Region,France,Africa,Medium island,344,0.0,55.53268909,-21.13352244,299
+North-West Frontier,Pakistan,PKNW,PK,Province,Pakistan,Asia,Primary land,343,12.0,72.09530663,34.51119812,300
+Kyoto,Japan,https://www3.nhk.or.jp/news/html/20200304/k10012312901000.html,JP,Prefecture,Japan,Asia,Primary land,125,0.0,135.4396879,35.25781474,301
+Dhaka,Bangladesh,https://www.dhakatribune.com/bangladesh/dhaka/2020/03/08/iedcr-3-affected-with-coronavirus-in-bangladesh,BD,Division,Bangladesh,Asia,Primary land,123,12.0,90.32320512,24.27656497,302
+Jalisco,Mexico,MXJAL,MX,State,Mexico,North America,Primary land,123,6.0,-103.6115593,20.58765347,303
+Hunedoara,Romania,http://www.ms.ro/2020/03/07/2-noi-cazuri-de-persoane-care-sunt-infectate-cu-noul-coronavirus/,RO,Department,Romania,Europe,Primary land,123,9.0,22.93983258,45.73943344,304
+Busan,South Korea,http://ncov.mohw.go.kr/index_main.jsp,KR,Metropolitan City,South Korea,Asia,Primary land,122,3.0,129.1458904,35.26326556,305
+Conakry,Guinea,https://www.reuters.com/article/us-health-coronavirus-guinea/eu-employee-tests-positive-for-coronavirus-in-guineas-first-case-idUSKBN2101YW,GN,Region,Guinea,Africa,Primary land,121,0.0,-13.64339883,9.577444694,306
+Cluj,Romania,ROCJ,RO,Department,Romania,Europe,Primary land,121,1.0,23.5187337,46.78773813,307
+Tekirda_,Turkey,TR59,TR,Province,Turkey,Europe,Primary land,121,0.0,27.39766356,41.0936437,308
+Jihocesk_,Czech Republic,https://onemocneni-aktualne.mzcr.cz/covid-19,CZ,Region,Czech Republic,Europe,Primary land,120,0.0,14.43203032,49.09500141,309
+Lagos,Nigeria,https://www.africanews.com/2020/03/17/nigeria-confirms-third-coronavirus-case-index-patient-fully-recovers//,NG,State,Nigeria,Africa,Primary land,120,2.0,3.599834694,6.530607623,310
+Nei Mongol,China,https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=singlemessage&isappinstalled=0,CN,Autonomous Region,China,Asia,Primary land,118,1.0,114.2275683,44.45573378,311
+More and Romsdal,Norway,https://www.vg.no/spesial/2020/corona-viruset/,NO,County,Norway,Europe,Primary land,118,0.0,7.747665636,62.57281782,312
+Eski_ehir,Turkey,TR26,TR,Province,Turkey,Asia,Primary land,118,1.0,31.10078355,39.59959586,313
+V?sterbottens,Sweden,https://www.svd.se/tre-nya-fall-i-orebro--en-smittad-i-usa,SE,L?n,Sweden,Europe,Primary land,117,0.0,17.80387519,64.88703715,314
+Chaco,Argentina,ARH,AR,Province,Argentina,South America,Primary land,115,3.0,-60.75967662,-26.39947117,315
+Goi?s,Brazil,https://veja.abril.com.br/saude/brasil-passa-de-121-para-176-casos-de-coronavirus-confirmados/,BR,State,Brazil,South America,Primary land,115,3.0,-49.60464641,-16.02838097,316
+Nonthaburi,Thailand,https://www.bbc.com/thai/thailand-51624125,TH,Province,Thailand,Asia,Primary land,114,6.0,100.3913387,13.92552595,317
+Ternopil's'ka,Ukraine,UA61,UA,Province,Ukraine,Europe,Primary land,114,1.0,25.64805815,49.40727826,318
+Sulawesi Selatan (south),Indonesia,IDSN,ID,Province,Indonesia,Asia,Primary land,113,6.0,120.1863737,-3.605170321,319
+As Sulaymaniyah,Iraq,https://www.facebook.com/MOH.GOV.IQ/photos/a.860171854037214/2786981578022889/,IQ,Governorate,Iraq,Asia,Primary land,113,3.0,45.2899479,35.55245871,320
+Guam,Guam,https://www.worldometers.info/coronavirus/country/us/,United States,GU,United States,Oceania,Small island,112,4.0,144.7770466,13.44352004,321
+Pirkanmaa,Finland,https://thl.fi/fi/-/suomessa-on-todettu-viisi-uutta-koronavirustartuntaa?redirect=%2Ffi%2F,FI,Region,Finland,Europe,Primary land,111,1.0,23.72435529,61.70943654,322
+Constanta,Romania,ROCT,RO,Department,Romania,Europe,Primary land,110,1.0,28.24732059,44.24402211,323
+La Vega,Dominican Republic,DO13,DO,Province,Dominican Republic,North America,Primary land,109,5.0,-70.62783492,19.04219977,324
+Jammu and Kashmir,India,https://pib.gov.in/PressReleseDetail.aspx?PRID=1605744,IN,State,India,Asia,Primary land,109,2.0,76.59586909,33.82198032,325
+Celje,Slovenia,https://www.gov.si/en/news/2020-03-12-slovenia-declares-coronavirus-epidemic/,SI,Municipality,Slovenia,Europe,Primary land,109,0.0,15.26506907,46.24481915,326
+Gyeongnam,South Korea,http://ncov.mohw.go.kr/index_main.jsp,KR,Province,South Korea,Asia,Primary land,108,0.0,128.2828062,35.36710781,327
+Wellington,New Zealand,NZWGN,NZ,Region,New Zealand,Oceania,Primary land,107,0.0,175.495768,-41.05921939,328
+Balikesir,Turkey,TR10,TR,Province,Turkey,Asia,Primary land,106,5.0,27.89207101,39.66601153,329
+Ha Noi,Vietnam,http://news.chinhphu.vn/Home/One-more-tested-positive-for-COVID19-total-rises-to-30/20203/39092.vgp,VN,Province,Vietnam,Asia,Primary land,106,0.0,105.6930223,20.99520072,330
+Pomorskie,Poland,https://twitter.com/MZ_GOV_PL/status/1236731347571478531,PL,Province,Poland,Europe,Primary land,104,2.0,17.9747512,54.14987185,331
+Gibraltar,Gibraltar,https://twitter.com/GBCNewsroom/status/1234774651601063937,GI,Autonomous Territory,United Kingdom,Europe,Primary land,103,0.0,-5.348661925,36.13565283,332
+Antalya,Turkey,TR07,TR,Province,Turkey,Asia,Primary land,102,2.0,30.95063346,36.82086541,333
+New Brunswick,Canada,CANB,CA,Province,Canada,North America,Primary land,101,0.0,-66.39207489,46.64057315,334
+Pulau Pinang,Malaysia,MY07,MY,State,Malaysia,Asia,Primary land,101,1.0,100.4609646,5.360969711,335
+Galati,Romania,https://en.wikipedia.org/wiki/2020_coronavirus_outbreak_in_Romania,RO,Department,Romania,Europe,Primary land,101,0.0,27.75548966,45.79302127,336
+Rize,Turkey,TR53,TR,Province,Turkey,Asia,Primary land,101,3.0,40.86398154,40.94052761,337
+Phuket,Thailand,TH83,TH,Province,Thailand,Asia,Small island,100,0.0,98.34580899,7.963428365,338
+Trinidad,Trinidad and Tobago,TT,TT,Undifferentiated Country,Trinidad and Tobago,South America,Medium island,100,6.0,-61.29638524,10.42407672,339
+Manisa,Turkey,TR45,TR,Province,Turkey,Asia,Primary land,100,1.0,28.13114196,38.75934654,340
+Los R?os,Chile,CLLR,CL,Region,Chile,South America,Primary land,99,1.0,-72.56779006,-40.00132211,341
+Azuay,Ecuador,https://www.salud.gob.ec/actualizacion-de-casos-de-coronavirus-en-ecuador/,EC,Province,Ecuador,South America,Primary land,99,5.0,-79.18228414,-3.00695544,342
+Melaka,Malaysia,MY04,MY,State,Malaysia,Asia,Primary land,99,1.0,102.3055144,2.324517063,343
+Opolskie,Poland,https://twitter.com/MZ_GOV_PL/status/1236731347571478531,PL,Province,Poland,Europe,Primary land,99,1.0,17.89767901,50.64770393,344
+Jilin,China,https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=singlemessage&isappinstalled=0,CN,Province,China,Asia,Primary land,98,1.0,126.1848176,43.68734361,345
+Santa Cruz,Bolivia,https://eldeber.com.bo/169041_confirman-dos-casos-de-coronavirus-en-bolivia,BO,Department,Bolivia,South America,Primary land,97,6.0,-61.51052791,-17.24356941,346
+Tabasco,Mexico,MXTAB,MX,State,Mexico,North America,Primary land,97,4.0,-92.58639384,17.93019888,347
+Jarvis Bay Territory,Australia,AUACT,AU,Territory,Australia,Australia,Primary land,96,2.0,150.6900422,-35.15290391,348
+Maranh?o,Brazil,BRMA,BR,State,Brazil,South America,Primary land,96,2.0,-45.29756767,-5.106980195,349
+Asunci?n,Paraguay,https://www.reuters.com/article/us-health-coronavirus-paraguay/paraguay-confirms-its-first-case-of-coronavirus-idUSKBN20U0TC,PY,Capital District,Paraguay,South America,Primary land,96,3.0,-57.60343201,-25.30586707,350
+La Habana,Cuba,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Cuba,CU,Province,Cuba,North America,Primary land,95,5.0,-82.30728771,23.06795867,351
+Jamtlands,Sweden,https://www.svd.se/tre-nya-fall-i-orebro--en-smittad-i-usa,SE,L?n,Sweden,Europe,Primary land,95,0.0,14.31888925,63.28844983,352
+Zagrebacka,Croatia,https://www.koronavirus.hr/en,HR,County,Croatia,Europe,Primary land,93,1.0,16.00301406,45.75439943,353
+Kumanovo,North Macedonia,MK47,MK,Municipality,North Macedonia,Europe,Primary land,93,2.0,21.72226157,42.09199834,354
+Arbil,Iraq,https://www.facebook.com/156490947738645/posts/2789237301130650/,IQ,Governorate,Iraq,Asia,Primary land,92,0.0,44.20314827,36.34680583,355
+Canterbury,New Zealand,NZCAN,NZ,Region,New Zealand,Oceania,Primary land,92,0.0,171.5284641,-43.58846147,356
+Nuevo Le?n,Mexico,MXNLE,MX,State,Mexico,North America,Primary land,91,2.0,-99.97400351,25.57739956,357
+Edirne,Turkey,TR22,TR,Province,Turkey,Europe,Primary land,91,2.0,26.59761757,41.24880051,358
+Terengganu,Malaysia,MY11,MY,State,Malaysia,Asia,Primary land,90,1.0,102.9497528,4.92630702,359
+Sinaloa,Mexico,https://news.trust.org/item/20200228134645-auoh9,MX,State,Mexico,North America,Primary land,90,12.0,-107.4934879,25.04748003,360
+Tokat,Turkey,TR60,TR,Province,Turkey,Asia,Primary land,90,3.0,36.54540527,40.3468621,361
+Tasmania,Australia,https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert,AU,State,Australia,Australia,Primary land,89,2.0,146.5920696,-42.0330937,362
+Centre,Burkina Faso,BF03,BF,Province,Burkina Faso,Africa,Primary land,89,4.0,-1.475105224,12.33637529,363
+Ville de Kigali,Rwanda,https://www.theeastafrican.co.ke/scienceandhealth/Rwanda-coronavirus-cases/3073694-5493772-156tke0/index.html,RW,Town Council,Rwanda,Africa,Primary land,89,0.0,30.11919435,-1.979749234,364
+Kotayk',Armenia,AMKT,AM,Province,Armenia,Asia,Primary land,88,0.0,44.69423838,40.37748447,365
+Zachodniopomorskie,Poland,https://twitter.com/MZ_GOV_PL/status/1236731347571478531,PL,Province,Poland,Europe,Primary land,88,2.0,15.59507239,53.57327962,366
+Samut Prakan,Thailand,TH11,TH,Province,Thailand,Asia,Primary land,88,1.0,100.7161542,13.59715851,367
+Ordu,Turkey,TR52,TR,Province,Turkey,Asia,Primary land,88,0.0,37.55629843,40.7722896,368
+Trabzon,Turkey,TR61,TR,Province,Turkey,Asia,Primary land,87,5.0,39.81420405,40.797626,369
+Par?,Brazil,BRPA,BR,State,Brazil,South America,Primary land,86,1.0,-53.16149845,-4.105540633,370
+Quintana Roo,Mexico,MXROO,MX,State,Mexico,North America,Primary land,86,4.0,-88.2217641,19.55787241,371
+Denizli,Turkey,TR20,TR,Province,Turkey,Asia,Primary land,86,2.0,29.26430577,37.73618955,372
+Kedah,Malaysia,https://twitter.com/KKMPutrajaya/status/1228544121029050368,MY,State,Malaysia,Asia,Primary land,85,0.0,100.6588012,5.92736026,373
+Haryana,India,https://pib.gov.in/PressReleseDetail.aspx?PRID=1605744,IN,State,India,Asia,Primary land,84,1.0,76.34043839,29.21208701,374
+Free State,South Africa,ZAFS,ZA,Province,South Africa,Africa,Primary land,84,1.0,26.86072538,-28.62824465,375
+Melilla,Spain,ESML,ES,Autonomous City,Spain,Africa,Primary land,83,2.0,-2.950584874,35.29088603,376
+Ceuta,Spain,ES,ES,Autonomous City,Spain,Africa,Primary land,83,2.0,-5.341639859,35.8935708,377
+Coahuila,Mexico,https://news.trust.org/item/20200229183045-cwxpj,MX,State,Mexico,North America,Primary land,82,4.0,-102.0427921,27.32474201,378
+Podlaskie,Poland,https://twitter.com/MZ_GOV_PL/status/1236731347571478531,PL,Province,Poland,Europe,Primary land,82,0.0,22.92928936,53.27297089,379
+Faro,Portugal,PT08,PT,District,Portugal,Europe,Primary land,82,2.0,-8.136393953,37.24689287,380
+Swietokrzyskie,Poland,https://twitter.com/MZ_GOV_PL/status/1236731347571478531,PL,Province,Poland,Europe,Primary land,81,1.0,20.77511189,50.75004782,381
+Iasi,Romania,https://www.digi24.ro/stiri/actualitate/30-de-cazuri-confirmate-de-coronavirus-in-romania-1273533,RO,Department,Romania,Europe,Primary land,81,1.0,27.2778209,47.20349208,382
+Ivano-Frankivs'ka,Ukraine,UA26,UA,Province,Ukraine,Europe,Primary land,81,3.0,24.61776516,48.70308152,383
+Krapinsko-zagorska,Croatia,https://www.koronavirus.hr/en,HR,County,Croatia,Europe,Primary land,80,0.0,15.9513392,46.07155199,384
+Varsinais-Suomi,Finland,https://thl.fi/fi/-/suomessa-on-todettu-viisi-uutta-koronavirustartuntaa?redirect=%2Ffi%2F,FI,Region,Finland,Europe,Primary land,80,1.0,22.64732952,60.62677659,385
+West Bengal,India,INWB,IN,State,India,Asia,Primary land,80,3.0,87.95569247,23.93757892,386
+Norrbottens,Sweden,https://www.svd.se/tre-nya-fall-i-orebro--en-smittad-i-usa,SE,L?n,Sweden,Europe,Primary land,80,4.0,20.08324642,67.00576722,387
+Nidwalden,Switzerland,CHNW,CH,Canton,Switzerland,Europe,Primary land,80,0.0,8.403903257,46.92949622,388
+Sivas,Turkey,TR58,TR,Province,Turkey,Asia,Primary land,80,1.0,37.29519271,39.53769298,389
+Tanger-T?touan,Morocco,MA01,MA,Region,Morocco,Africa,Primary land,79,1.0,-5.431926038,35.2475178,390
+Incheon,South Korea,http://ncov.mohw.go.kr/index_main.jsp,KR,Metropolitan City,South Korea,Asia,Primary land,79,0.0,126.6167442,37.44598706,391
+Jerusalem,Palestinian Territory,PSJEM,PS,Territory,Palestinian Territory,Asia,Primary land,78,1.0,35.28657239,31.7985737,392
+Warminsko-mazurskie,Poland,https://twitter.com/MZ_GOV_PL/status/1236731347571478531,PL,Province,Poland,Europe,Primary land,78,0.0,20.82777618,53.84504776,393
+Erzurum,Turkey,TR25,TR,Province,Turkey,Asia,Primary land,78,0.0,41.5289892,40.05723634,394
+Osjecko-baranjska,Croatia,https://www.koronavirus.hr/en,HR,County,Croatia,Europe,Primary land,77,5.0,18.4683209,45.55843128,395
+Triesenberg,Liechtenstein,https://www.volksblatt.li/nachrichten/Liechtenstein/Vermischtes%20highlighted/vb/247067/in-der-schweiz-angesteckt-erster-positiver-fall-in-liechtenstein,LI,Commune,Liechtenstein,Europe,Primary land,77,1.0,9.574631667,47.11980899,396
+Xinjiang,China,https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=singlemessage&isappinstalled=0,CN,Autonomous Region,China,Asia,Primary land,76,3.0,85.34038302,41.35419938,397
+Punjab,India,https://pib.gov.in/PressReleseDetail.aspx?PRID=1605744,IN,State,India,Asia,Primary land,76,6.0,75.40522191,30.84332767,398
+Nordland,Norway,https://www.vg.no/spesial/2020/corona-viruset/,NO,County,Norway,Europe,Primary land,76,0.0,14.85038868,66.83369721,399
+Koper,Slovenia,https://www.gov.si/en/news/2020-03-12-slovenia-declares-coronavirus-epidemic/,SI,Municipality,Slovenia,Europe,Primary land,76,0.0,13.84306115,45.5182316,400
+San Crist?bal,Dominican Republic,DO21,DO,Province,Dominican Republic,North America,Primary land,32,1.0,-70.20573283,18.5215667,401
+Saint Martin,Saint Martin,FRMF,FR,Overseas Territorial Collectivity,France,North America,Primary land,32,2.0,-63.06237276,18.07828003,402
+Csongr?d,Hungary,https://koronavirus.gov.hu/terkepek/fertozottek,HU,County,Hungary,Europe,Primary land,32,1.0,20.2359575,46.42815055,403
+Pernambuco,Brazil,https://veja.abril.com.br/saude/brasil-passa-de-121-para-176-casos-de-coronavirus-confirmados/,BR,State,Brazil,South America,Primary land,201,21.0,-38.00913668,-8.322085932,404
+Bihar,India,https://pib.gov.in/PressReleseDetail.aspx?PRID=1605744,IN,State,India,Asia,Primary land,32,1.0,85.60779544,25.69119638,405
+Al Muthanna,Iraq,https://www.facebook.com/MOH.GOV.IQ/photos/a.860171854037214/2786981578022889/,IQ,Governorate,Iraq,Asia,Primary land,32,1.0,45.36792456,30.18908045,406
+Oita,Japan,https://www3.nhk.or.jp/news/html/20200304/k10012312901000.html,JP,Prefecture,Japan,Asia,Primary land,32,0.0,131.4295379,33.20382574,407
+Kauno,Lithuania,LTKU,LT,County,Lithuania,Europe,Primary land,32,1.0,23.87510576,55.08267748,408
+Bay of Plenty,New Zealand,NZBOP,NZ,Region,New Zealand,Oceania,Primary land,32,0.0,176.8056635,-38.1565246,409
+Nitriansky kraj,Slovakia,SKNI,SK,Region,Slovakia,Europe,Primary land,32,0.0,18.31056771,48.14333679,410
+Chiang Mai,Thailand,TH50,TH,Province,Thailand,Asia,Primary land,32,0.0,98.73264258,18.79576368,411
+Adiyaman,Turkey,TR02,TR,Province,Turkey,Asia,Primary land,32,0.0,38.28075191,37.79366757,412
+Hatay,Turkey,TR31,TR,Province,Turkey,Asia,Primary land,32,0.0,36.26423273,36.45869716,413
+D?zce,Turkey,TR81,TR,Province,Turkey,Asia,Primary land,32,0.0,31.21745479,40.87887703,414
+Santo Domingo de los Ts?chilas,Ecuador,https://www.salud.gob.ec/actualizacion-de-casos-de-coronavirus-en-ecuador/,EC,Province,Ecuador,South America,Primary land,31,2.0,-79.17175743,-0.303345522,415
+Chimborazo,Ecuador,https://www.salud.gob.ec/actualizacion-de-casos-de-coronavirus-en-ecuador/,EC,Province,Ecuador,South America,Primary land,31,1.0,-78.72330377,-1.935857301,416
+Kalimantan Timur (east),Indonesia,IDKI,ID,Province,Indonesia,Asia,Primary land,31,1.0,116.4582161,0.508709753,417
+Klaipedos,Lithuania,LTKL,LT,County,Lithuania,Europe,Primary land,31,1.0,21.55519362,55.70370185,418
+Laguna,Philippines,PHLAG,PH,Province,Philippines,Asia,Primary land,31,2.0,121.3395812,14.24397701,419
+Blekinge,Sweden,https://sverigesradio.se/artikel/7425886,SE,L?n,Sweden,Europe,Primary land,31,1.0,15.19168566,56.28343004,420
+A_r?,Turkey,TR04,TR,Province,Turkey,Asia,Primary land,31,0.0,43.26296536,39.5757353,421
+Fier,Albania,AL4,AL,County,Albania,Europe,Primary land,30,2.0,19.62068279,40.77547234,422
+Cartago,Costa Rica,CRC,CR,Province,Costa Rica,North America,Primary land,30,0.0,-83.6858212,9.815264304,423
+Monse?or Nouel,Dominican Republic,DO28,DO,Province,Dominican Republic,North America,Primary land,30,2.0,-70.41028297,18.90334996,424
+P?ij?t-H?me,Finland,https://korona.kans.io/,FI,Region,Finland,Europe,Primary land,30,0.0,25.72171533,61.22267672,425
+Michoac?n,Mexico,MXMIC,MX,State,Mexico,North America,Primary land,30,3.0,-101.8821122,19.20767301,426
+Guerrero,Mexico,MXGRO,MX,State,Mexico,North America,Primary land,30,2.0,-99.92510774,17.67461659,427
+Kebili,Tunisia,TN73,TN,Governorate,Tunisia,Africa,Primary land,30,0.0,8.88911396,33.28405487,428
+?anakkale,Turkey,TR17,TR,Province,Turkey,Asia,Primary land,30,2.0,26.82815884,39.97497672,429
+Sums'ka,Ukraine,UA59,UA,Province,Ukraine,Europe,Primary land,30,1.0,34.11960988,51.1172455,430
+Mendoza,Argentina,ARM,AR,Province,Argentina,South America,Primary land,29,1.0,-68.59706051,-34.63122031,431
+Amap?,Brazil,BRAP,BR,State,Brazil,South America,Primary land,29,1.0,-51.99187565,1.453370028,432
+Plovdiv,Bulgaria,BG16,BG,Region,Bulgaria,Europe,Primary land,29,0.0,24.80646387,42.29045216,433
+Anseba,Eritrea,ERAN,ER,Region,Eritrea,Africa,Primary land,29,0.0,37.80771862,16.44581291,434
+Etela-Savo,Finland,https://korona.kans.io/,FI,Region,Finland,Europe,Primary land,29,0.0,27.85940003,61.90065923,435
+Cuyuni-Mazaruni,Guyana,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Guyana,GY,Region,Guyana,South America,Primary land,29,4.0,-59.94569945,6.156101566,436
+Austurland,Iceland,IS7,IS,Region,Iceland,Europe,Primary land,29,0.0,-15.36941409,64.93715453,437
+Calarasi,Romania,ROCL,RO,Department,Romania,Europe,Primary land,29,0.0,27.04802397,44.30917357,438
+Sumadija,Serbia,RS12,RS,District,Serbia,Europe,Primary land,29,0.0,20.72624493,44.10088452,439
+Kosicky kraj,Slovakia,SKKI,SK,Region,Slovakia,Europe,Primary land,29,0.0,21.26603932,48.69765007,440
+Postojna,Slovenia,https://www.nijz.si/sl/pojav-novega-koronavirusa-2019-ncov,SI,Municipality,Slovenia,Europe,Primary land,29,0.0,14.17907255,45.78669513,441
+Sfax,Tunisia,TN61,TN,Governorate,Tunisia,Africa,Primary land,29,3.0,10.35133171,34.76744928,442
+Andijon,Uzbekistan,UZAN,UZ,Province,Uzbekistan,Asia,Primary land,29,0.0,72.2984636,40.75203322,443
+Ain Defla,Algeria,http://covid19.sante.gov.dz/carte/,DZ,Province,Algeria,Africa,Primary land,28,3.0,2.153845513,36.14902936,444
+Northern Territory,Australia,http://mediareleases.nt.gov.au/mediaRelease/32050,AU,Territory,Australia,Australia,Primary land,28,0.0,133.3705753,-19.62575248,445
+Alagoas,Brazil,https://veja.abril.com.br/saude/brasil-passa-de-121-para-176-casos-de-coronavirus-confirmados/,BR,State,Brazil,South America,Primary land,28,2.0,-36.62684365,-9.511814979,446
+Szabolcs-Szatm?r-Bereg,Hungary,https://koronavirus.gov.hu/terkepek/fertozottek,HU,County,Hungary,Europe,Primary land,28,1.0,22.08227257,47.99382174,447
+Sonora,Mexico,MXSON,MX,State,Mexico,North America,Primary land,28,1.0,-110.7914862,29.7247022,448
+Gharb-Chrarda-Beni Hssen,Morocco,MA02,MA,Region,Morocco,Africa,Primary land,28,1.0,-5.950827655,34.50940568,449
+Bistrita-Nasaud,Romania,ROBN,RO,Department,Romania,Europe,Primary land,28,0.0,24.51864612,47.24278732,450
+Rasina,Serbia,RS19,RS,District,Serbia,Europe,Primary land,28,0.0,21.10469388,43.48368929,451
+Kahramanmara_,Turkey,TR46,TR,Province,Turkey,Asia,Primary land,28,1.0,36.98224737,37.89106728,452
+Namangan,Uzbekistan,UZNG,UZ,Province,Uzbekistan,Asia,Primary land,28,1.0,71.25918537,41.04867956,453
+Bordj Bou Arr?ridj,Algeria,http://covid19.sante.gov.dz/carte/,DZ,Province,Algeria,Africa,Primary land,27,3.0,4.790754347,36.05345259,454
+S?nchez Ram?rez,Dominican Republic,DO24,DO,Province,Dominican Republic,North America,Primary land,27,2.0,-70.14453735,19.01787565,455
+Sucumb?os,Ecuador,https://www.salud.gob.ec/actualizacion-de-casos-de-coronavirus-en-ecuador/,EC,Province,Ecuador,South America,Primary land,27,1.0,-76.46582654,-0.092842003,456
+Loja,Ecuador,https://www.salud.gob.ec/actualizacion-de-casos-de-coronavirus-en-ecuador/,EC,Province,Ecuador,South America,Primary land,27,0.0,-79.65931834,-4.092197078,457
+Utenos,Lithuania,LTUT,LT,County,Lithuania,Europe,Primary land,27,0.0,25.67040057,55.48969833,458
+Dolj,Romania,RODJ,RO,Department,Romania,Europe,Primary land,27,2.0,23.61593415,44.14194068,459
+Sibiu,Romania,https://en.wikipedia.org/wiki/2020_coronavirus_outbreak_in_Romania,RO,Department,Romania,Europe,Primary land,27,1.0,24.25047891,45.85983772,460
+Bacau,Romania,ROBC,RO,Department,Romania,Europe,Primary land,27,2.0,26.76639528,46.42596315,461
+D?mbovita,Romania,RODB,RO,Department,Romania,Europe,Primary land,27,1.0,25.48554129,44.86582326,462
+Penzenskaya,Russian Federation,RUPNZ,RU,Oblast,Russian Federation,Europe,Primary land,27,1.0,44.63411709,53.18787185,463
+Banskobystricky kraj,Slovakia,SKBC,SK,Region,Slovakia,Europe,Primary land,27,0.0,19.50409252,48.51685624,464
