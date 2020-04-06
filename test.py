@@ -53,3 +53,36 @@ def cambiaFecha(texto):
     else:
         return texto
 #************************************Actualizar Chile*****************************************************
+
+#************************************Actualizar EarlyAlert************************************************
+def EarlyAlert():
+    url  = 'https://services9.arcgis.com/Rha9bYQCF0JEy8bJ/ArcGIS/rest/services/Current_Coronavirus_Cases_and_Deaths/FeatureServer/0/1?f=pjson'
+    response = requests.get(url)
+    decoded_data=codecs.decode(response.content, 'utf-8-sig')
+    d = json.loads(decoded_data)
+    #print(d["feature"]["attributes"])
+    flag = True
+    n = 1
+    salida = []
+    while flag:
+        try:
+            url  = 'https://services9.arcgis.com/Rha9bYQCF0JEy8bJ/ArcGIS/rest/services/Current_Coronavirus_Cases_and_Deaths/FeatureServer/0/'+str(n)+'?f=pjson'
+            response = requests.get(url)
+            decoded_data=codecs.decode(response.content, 'utf-8-sig')
+            d = json.loads(decoded_data)
+            #print(d["feature"]["attributes"])
+            salida.append(d["feature"]["attributes"])
+            n += 1
+        except:
+            flag = False
+    data = pd.DataFrame.from_dict(salida)
+    #data.head()
+    now = datetime.now()
+
+    data.to_csv("EarlyAlert/Current_Coronavirus_Cases_and_Deaths.csv", index=False)
+    data.to_csv("EarlyAlert/Current_Coronavirus_Cases_and_Deaths." + now.strftime("%d-%m-%Y_%H-%M-%S") + "csv", index=False)
+    
+    guardarRepositorio()
+    return
+#************************************Actualizar EarlyAlert************************************************
+
