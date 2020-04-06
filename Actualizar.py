@@ -16,14 +16,23 @@ import datetime
 #from datetime import datetime
 #************************************Actualizar Database**************************************************
 def UpdateDatabase():
-    Chile()
-    EarlyAlert()
+    print("Comenzo...")
+    Chile()    
+    print("Chile completo...")
     johnsHopkinsCovid19Diario()
-    ecdcEuropa()
+    print("Hopkins diario completo...")
     johnsHopkinsCovid19Series()
+    print("Hopkins serie (acumulado) completo...")
+    ecdcEuropa()
+    print("ECDC Europa completo...")
     worldometersInfo()
-    KoBoToolbox()
+    print("WORLDMETER completo...")
     ourWorldInData()
+    print("OurWorldInData completo...")
+    EarlyAlert()
+    print("EarlyAlert completo...")
+    KoBoToolbox()
+    print("KoBoToolbox completo...")
     return
 #************************************Actualizar Database**************************************************
 
@@ -34,7 +43,7 @@ def guardarRepositorio():
     
     try:
         repoLocal.git.add(".")
-        repoLocal.git.commit(m='Update automatico via Actualizar ' + datetime.datetime.now().strftime("%m-%d-%Y"))
+        repoLocal.git.commit(m='Update automatico via Actualizar ' + datetime.datetime.now().strftime("%m-%d-%Y %H-%M-%S"))
         origin = repoLocal.remote(name='origin')
         origin.push()
     except:
