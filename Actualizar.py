@@ -281,7 +281,8 @@ def KoBoToolbox():
     archivo = open("data_aux.txt", "w") 
     archivo.write(decoded_data) 
     archivo.close() 
-    data = pd.read_csv("data_aux.txt")
+    #data = pd.read_csv("data_aux.txt")
+    data = pd.read_csv("data_aux.txt",encoding='latin-1')
     data.to_csv("KoBoToolbox/COVID-19DataIntelligenceCHILE.csv",index=False)
     guardarRepositorio()
     return
