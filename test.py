@@ -97,4 +97,23 @@ def ecdcEuropa():
     return
 #************************************Actualizar ecdcEuropa************************************************
 
+#************************************Actualizar johnsHopkins**********************************************
+#DATO DIARIO
+def johnsHopkinsCovid19Diario(): 
+    #Carpeta Diario
+    url = "https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/" 
+    inicio = datetime(2020,1,22)
+    fin    = datetime.now()
+    lista_fechas = [inicio + timedelta(days=d) for d in range((fin - inicio).days + 1)] 
+    for i in lista_fechas:
+        nombre = i.strftime("%m-%d-%Y.csv")
+        nombre2 = "Johns_Hopkins-covid19/diario/"+ str(nombre)
+        try:
+            ultimo = pd.read_csv(url + nombre)
+            ultimo.to_csv(nombre2,index=False)
+        except:
+            pass
+    ultimo.to_csv("Johns_Hopkins-covid19/diario/ultimoRegistro.csv", index=False)
+    guardarRepositorio()
+    return
 
