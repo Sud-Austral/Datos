@@ -14,6 +14,18 @@ from os import remove
 import git
 import datetime
 #from datetime import datetime
+#************************************Actualizar Database**************************************************
+def UpdateDatabase():
+    Chile()
+    EarlyAlert()
+    johnsHopkinsCovid19Diario()
+    ecdcEuropa()
+    johnsHopkinsCovid19Series()
+    worldometersInfo()
+    KoBoToolbox()
+    ourWorldInData()
+    return
+#************************************Actualizar Database**************************************************
 
 #************************************Actualizar repositorio***********************************************
 def guardarRepositorio():
@@ -77,7 +89,7 @@ def EarlyAlert():
             flag = False
     data = pd.DataFrame.from_dict(salida)
     #data.head()
-    now = datetime.now()
+    now = datetime.datetime.now()
 
     data.to_csv("EarlyAlert/Current_Coronavirus_Cases_and_Deaths.csv", index=False)
     data.to_csv("EarlyAlert/Current_Coronavirus_Cases_and_Deaths." + now.strftime("%d-%m-%Y_%H-%M-%S") + "csv", index=False)
@@ -88,7 +100,7 @@ def EarlyAlert():
 
 #************************************Actualizar ecdcEuropa************************************************
 def ecdcEuropa():
-    now = datetime.now()
+    now = datetime.datetime.now()
     url= "https://opendata.ecdc.europa.eu/covid19/casedistribution/csv/"
     data = pd.read_csv(url)
     data.to_csv("ecdc.europa/Current_Coronavirus_Cases_and_Deaths.csv", index=False)
