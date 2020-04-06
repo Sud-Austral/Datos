@@ -31,9 +31,10 @@ def UpdateDatabase():
 def guardarRepositorio():
     repoLocal = git.Repo( 'C:/Users/limc_/Documents/GitHub/Datos' )
     print(repoLocal.git.status())
-    repoLocal.git.add(".")
+    
     try:
-        repoLocal.git.commit(m='Update automatico via python')
+        repoLocal.git.add(".")
+        repoLocal.git.commit(m='Update automatico via Actualizar ' + datetime.datetime.now().strftime("%m-%d-%Y"))
     except:
         pass
     origin = repoLocal.remote(name='origin')
