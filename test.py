@@ -37,7 +37,7 @@ def Chile():
     pd.read_csv(url_chile).to_csv("Chile/covid19_comunas.csv", index=False)
     url_old = "https://raw.githubusercontent.com/ivanMSC/COVID19_Chile/master/old/covid19_chile.csv"
     pd.read_csv(url_chile).to_csv("Chile/covid19_chile_old.csv", index=False)    
-    data = pd.read_excel("covid19_chile.xlsx")
+    data = pd.read_excel("Chile/covid19_chile.xlsx")
     del data["Unnamed: 14"]
     del data["Unnamed: 15"]
     del data["Unnamed: 16"]
