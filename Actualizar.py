@@ -514,6 +514,7 @@ def ourWorldInData():
     for i in archivos:
         shutil.copy(ruta + i, folder + now.strftime("%d-%m-%Y_%H-%M-%S") + i)
         shutil.copy(ruta + i, folder  + i)
+        verificarColumnas(pd.read_csv(folder  + i),i)
         
     """
     shutil.copy('C:/Users/limc_/Downloads/full-list-total-tests-for-covid-19.csv', 'C:/Users/limc_/Documents/GitHub/Datos/ourworldindata.org/full-list-total-tests-for-covid-19' + now.strftime("%d-%m-%Y_%H-%M-%S") + ".csv")
