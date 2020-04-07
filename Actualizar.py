@@ -307,7 +307,8 @@ def worldometersInfo():
     #print(response.content)
     data = pd.read_html(response.content)
     data_hoy = data[0]     #.to_csv("worldometers.csv", index=False)
-
+    getWorld(data_hoy)
+    
     data_aux = pd.read_csv("worldometers.info/Historico/worldometers.csv")
     for i in data_aux.columns[1:10]:
         del data_aux[i]
@@ -323,6 +324,11 @@ def worldometersInfo():
     data.to_csv("worldometers.info/Poblacion/worldometersPoblacion.csv", index=False)
     
     guardarRepositorio()
+    return
+def getWorld(data):
+    total = (data[data["Country,Other"] == "World"])["TotalCases"][0]
+    archivo = open("Total/total.txt", "w")
+    archivo.write(str(total))
     return
 #************************************Actualizar worldmeter***********************************************
 #************************************KoBoToolbox*********************************************************
