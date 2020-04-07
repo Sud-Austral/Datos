@@ -17,22 +17,46 @@ import datetime
 #************************************Actualizar Database**************************************************
 def UpdateDatabase():
     print("Comenzo...")
-    Chile()    
-    print("Chile completo...")
-    johnsHopkinsCovid19Diario()
-    print("Hopkins diario completo...")
-    johnsHopkinsCovid19Series()
-    print("Hopkins serie (acumulado) completo...")
-    ecdcEuropa()
-    print("ECDC Europa completo...")
-    worldometersInfo()
-    print("WORLDMETER completo...")
-    ourWorldInData()
-    print("OurWorldInData completo...")
-    EarlyAlert()
-    print("EarlyAlert completo...")
-    KoBoToolbox()
-    print("KoBoToolbox completo...")
+    try:
+        Chile()    
+        print("Chile completo...")
+    except:
+        print("Error a cargar a Chile")
+    try:
+        johnsHopkinsCovid19Diario()
+        print("Hopkins diario completo...")
+    except:
+        print("Error a cargar a Hopkins diario")
+    try:
+        johnsHopkinsCovid19Series()
+        print("Hopkins serie (acumulado) completo...")
+    except:
+        print("Error a cargar a Hopkins Serie")
+    try:
+        ecdcEuropa()
+        print("ECDC Europa completo...")
+    except:
+        print("Error a cargar a Hopkins Serie")
+    try:
+        worldometersInfo()
+        print("WORLDMETER completo...")
+    except:
+        print("Error a cargar a Hopkins Worldmeter")
+    try:
+        ourWorldInData()
+        print("OurWorldInData completo...")
+    except:
+        print("Error a cargar a Hopkins OurWorldInData")
+    try:
+        EarlyAlert()
+        print("EarlyAlert completo...")
+    except:
+        print("Error a cargar a Hopkins EarlyAlert")
+    try:
+        KoBoToolbox()
+        print("KoBoToolbox completo...")
+    except:
+        print("Error a cargar a KoBoToolbox") 
     return
 #************************************Actualizar Database**************************************************
 
