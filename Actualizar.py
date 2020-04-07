@@ -130,10 +130,10 @@ def Chile():
     
     data["Fecha"] = data["Fecha"].apply(cambiaFecha)
     data = verificarColumnas(data, "covid19_chile.csv")
-    data.to_csv("covid19_chile.csv", index=False)
+    data.to_csv("Chile/covid19_chile.csv", index=False)
     
     guardarRepositorio()    
-    return
+    return data
 
 def cambiaFecha(texto):
     if(type(texto) == datetime):
