@@ -345,8 +345,22 @@ def KoBoToolbox():
 #************************************Actualizar ourWorldInData*******************************************
 def ourWorldInData():
     now = datetime.datetime.now()
+    archivos = ["covid-19-total-confirmed-cases-vs-total-tests-conducted(8).csv",
+                "full-list-total-tests-for-covid-19.csv",
+                "total-deaths-covid-19.csv",
+                "total-daily-covid-deaths-per-million.csv",
+                "total-cases-covid-19.csv",
+                "daily-cases-covid-19.csv",
+                "physicians-per-1000-people.csv",
+                "hospital-beds-per-1000-people.csv",
+                "share-of-the-population-that-is-70-years-and-older.csv"      
+                ]
+    ruta = "C:/Users/limc_/Downloads/"
     try:
-        remove("C:/Users/limc_/Downloads/full-list-total-tests-for-covid-19.csv")
+        for i in archivos:
+            remove(ruta + i)
+        """
+        remove("C:/Users/limc_/Downloads/covid-19-total-confirmed-cases-vs-total-tests-conducted.csv")
         remove("C:/Users/limc_/Downloads/total-deaths-covid-19.csv")
         remove("C:/Users/limc_/Downloads/covid-19-tests-country.csv")
         remove("C:/Users/limc_/Downloads/total-daily-covid-deaths-per-million.csv")
@@ -356,6 +370,7 @@ def ourWorldInData():
         remove("C:/Users/limc_/Downloads/physicians-per-1000-people.csv")
         remove("C:/Users/limc_/Downloads/hospital-beds-per-1000-people.csv")
         remove("C:/Users/limc_/Downloads/share-of-the-population-that-is-70-years-and-older.csv")
+        """
     except:
         pass
     download_folder = "C:/Users/limc_/Documents/GitHub/Datos"
@@ -448,15 +463,20 @@ def ourWorldInData():
     time.sleep(1)
     driver.find_element_by_xpath("/html/body/main/figure/div/div[4]/div/a").click()
     time.sleep(1)  
-
-
-
     driver.close()
-
+    #ruta = "C:/Users/limc_/Downloads/"
+    folder = "C:/Users/limc_/Documents/GitHub/Datos/ourworldindata.org/"
+    for i in archivos:
+        shutil.copy(ruta + i, folder + now.strftime("%d-%m-%Y_%H-%M-%S") + i)
+        shutil.copy(ruta + i, folder  + i)
+        
+    """
     shutil.copy('C:/Users/limc_/Downloads/full-list-total-tests-for-covid-19.csv', 'C:/Users/limc_/Documents/GitHub/Datos/ourworldindata.org/full-list-total-tests-for-covid-19' + now.strftime("%d-%m-%Y_%H-%M-%S") + ".csv")
     shutil.copy('C:/Users/limc_/Downloads/full-list-total-tests-for-covid-19.csv', 'C:/Users/limc_/Documents/GitHub/Datos/ourworldindata.org/full-list-total-tests-for-covid-19.csv')
+    
     shutil.copy('C:/Users/limc_/Downloads/total-deaths-covid-19.csv', 'C:/Users/limc_/Documents/GitHub/Datos/ourworldindata.org/total-deaths-covid-19' + now.strftime("%d-%m-%Y_%H-%M-%S") + ".csv")
     shutil.copy('C:/Users/limc_/Downloads/total-deaths-covid-19.csv', 'C:/Users/limc_/Documents/GitHub/Datos/ourworldindata.org/total-deaths-covid-19.csv')
+    
     shutil.copy('C:/Users/limc_/Downloads/covid-19-tests-country.csv', 'C:/Users/limc_/Documents/GitHub/Datos/ourworldindata.org/covid-19-tests-country' + now.strftime("%d-%m-%Y_%H-%M-%S") + ".csv")
     shutil.copy('C:/Users/limc_/Downloads/covid-19-tests-country.csv', 'C:/Users/limc_/Documents/GitHub/Datos/ourworldindata.org/covid-19-tests-country.csv')
 
@@ -482,7 +502,7 @@ def ourWorldInData():
 
     shutil.copy('C:/Users/limc_/Downloads/share-of-the-population-that-is-70-years-and-older.csv', 'C:/Users/limc_/Documents/GitHub/Datos/ourworldindata.org/share-of-the-population-that-is-70-years-and-older' + now.strftime("%d-%m-%Y_%H-%M-%S") + ".csv")
     shutil.copy('C:/Users/limc_/Downloads/share-of-the-population-that-is-70-years-and-older.csv', 'C:/Users/limc_/Documents/GitHub/Datos/ourworldindata.org/share-of-the-population-that-is-70-years-and-older.csv')
-
+    """
     guardarRepositorio()
     return
 #************************************Actualizar ourWorldInData*******************************************
