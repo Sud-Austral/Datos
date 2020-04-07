@@ -62,7 +62,8 @@ def UpdateDatabase():
 
 #************************************Actualizar repositorio***********************************************
 def guardarRepositorio():
-    repoLocal = git.Repo( 'C:/Users/mario1/Documents/GitHub/Python/Datos' )
+    #repoLocal = git.Repo( 'C:/Users/mario1/Documents/GitHub/Python/Datos' )
+    repoLocal = git.Repo('C:/Users/limc_/Documents/GitHub/Datos')
     print(repoLocal.git.status())
     
     try:
@@ -72,7 +73,6 @@ def guardarRepositorio():
         origin.push()
     except:
         print("Error de GITHUB")
-        pass
     
     return
 #************************************Actualizar repositorio***********************************************
@@ -85,10 +85,15 @@ def Chile():
     pd.read_csv(url_chile).to_csv("Chile/covid19_comunas.csv", index=False)
     url_old = "https://raw.githubusercontent.com/ivanMSC/COVID19_Chile/master/old/covid19_chile.csv"
     pd.read_csv(url_chile).to_csv("Chile/covid19_chile_old.csv", index=False)    
-    data = pd.read_excel("Chile/covid19_chile.xlsx")
-    del data["Unnamed: 14"]
-    del data["Unnamed: 15"]
-    del data["Unnamed: 16"]
+    #data = pd.read_excel("Chile/covid19_chile.xlsx")
+    data = pd.read_excel("Chile/covid19_chile.xlsx", sheet_name="Sheet1")
+    try:
+        del data["Unnamed: 14"]
+        del data["Unnamed: 15"]
+        del data["Unnamed: 16"]
+    except:
+        pass
+    
     data["Fecha"] = data["Fecha"].apply(cambiaFecha)
     data.to_csv("covid19_chile.csv", index=False)
     
