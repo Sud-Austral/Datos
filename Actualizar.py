@@ -202,6 +202,7 @@ def johnsHopkinsCovid19Diario():
             ultimo.to_csv(nombre2,index=False)
         except:
             pass
+    ultimo = verificarColumnas(ultimo,"ultimoRegistro.csv")
     ultimo.to_csv("Johns_Hopkins-covid19/diario/ultimoRegistro.csv", index=False)
     guardarRepositorio()
     return
