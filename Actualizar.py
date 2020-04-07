@@ -346,7 +346,7 @@ def KoBoToolbox():
 def ourWorldInData():
     now = datetime.datetime.now()
     try:
-        remove("C:/Users/limc_/Downloads/tests-vs-confirmed-cases-covid-19.csv")
+        remove("C:/Users/limc_/Downloads/full-list-total-tests-for-covid-19.csv")
         remove("C:/Users/limc_/Downloads/total-deaths-covid-19.csv")
         remove("C:/Users/limc_/Downloads/covid-19-tests-country.csv")
         remove("C:/Users/limc_/Downloads/total-daily-covid-deaths-per-million.csv")
@@ -376,14 +376,23 @@ def ourWorldInData():
     time.sleep(1)
     driver.find_element_by_xpath("/html/body/main/figure/div/div[4]/div/a").click()
     time.sleep(1)
-
+    """
     driver.get("https://ourworldindata.org/grapher/covid-19-tests-country")
     time.sleep(2)
     driver.find_element_by_xpath("/html/body/main/figure/div/div[3]/div/nav/ul/li[2]/a").click()
     time.sleep(1)
     driver.find_element_by_xpath("/html/body/main/figure/div/div[4]/div/a").click()
     time.sleep(1)
+    """
     #*********************************************Con mapa sin mapa***********************************************
+    driver.get("https://ourworldindata.org/grapher/covid-19-tests-country")
+    time.sleep(2)
+    driver.find_element_by_xpath("/html/body/main/figure/div/div[3]/div[2]/nav/ul/li[3]/a").click()
+    time.sleep(1)
+    driver.find_element_by_xpath("/html/body/main/figure/div/div[4]/div/a").click()
+    time.sleep(1)
+    
+    
     driver.get("https://ourworldindata.org/grapher/total-deaths-covid-19")
     time.sleep(2)
     driver.find_element_by_xpath("/html/body/main/figure/div/div[3]/div[2]/nav/ul/li[3]/a").click()
@@ -444,8 +453,8 @@ def ourWorldInData():
 
     driver.close()
 
-    shutil.copy('C:/Users/limc_/Downloads/tests-vs-confirmed-cases-covid-19.csv', 'C:/Users/limc_/Documents/GitHub/Datos/ourworldindata.org/tests-vs-confirmed-cases-covid-19' + now.strftime("%d-%m-%Y_%H-%M-%S") + ".csv")
-    shutil.copy('C:/Users/limc_/Downloads/tests-vs-confirmed-cases-covid-19.csv', 'C:/Users/limc_/Documents/GitHub/Datos/ourworldindata.org/tests-vs-confirmed-cases-covid-19.csv')
+    shutil.copy('C:/Users/limc_/Downloads/full-list-total-tests-for-covid-19.csv', 'C:/Users/limc_/Documents/GitHub/Datos/ourworldindata.org/full-list-total-tests-for-covid-19' + now.strftime("%d-%m-%Y_%H-%M-%S") + ".csv")
+    shutil.copy('C:/Users/limc_/Downloads/full-list-total-tests-for-covid-19.csv', 'C:/Users/limc_/Documents/GitHub/Datos/ourworldindata.org/full-list-total-tests-for-covid-19.csv')
     shutil.copy('C:/Users/limc_/Downloads/total-deaths-covid-19.csv', 'C:/Users/limc_/Documents/GitHub/Datos/ourworldindata.org/total-deaths-covid-19' + now.strftime("%d-%m-%Y_%H-%M-%S") + ".csv")
     shutil.copy('C:/Users/limc_/Downloads/total-deaths-covid-19.csv', 'C:/Users/limc_/Documents/GitHub/Datos/ourworldindata.org/total-deaths-covid-19.csv')
     shutil.copy('C:/Users/limc_/Downloads/covid-19-tests-country.csv', 'C:/Users/limc_/Documents/GitHub/Datos/ourworldindata.org/covid-19-tests-country' + now.strftime("%d-%m-%Y_%H-%M-%S") + ".csv")
