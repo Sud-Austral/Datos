@@ -133,7 +133,7 @@ def Chile():
     data.to_csv("Chile/covid19_chile.csv", index=False)
     
     guardarRepositorio()    
-    return data
+    return
 
 def cambiaFecha(texto):
     if(type(texto) == datetime):
