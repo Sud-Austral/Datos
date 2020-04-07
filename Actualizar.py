@@ -351,6 +351,7 @@ def worldometersInfo():
         del data_aux[i]
 
     merged_left = pd.merge(left=data_hoy, right=data_aux, how='left', left_on='Country,Other', right_on='Country,Other')
+    merged_left = verificarColumnas(merged_left,"worldometers.csv")
     merged_left.to_csv("worldometers.info/worldometers.csv", index=False)
 
     url  = 'https://www.worldometers.info/world-population/population-by-country/'
@@ -362,6 +363,7 @@ def worldometersInfo():
     
     guardarRepositorio()
     return
+
 def getWorld(data):
     total = (data[data["Country,Other"] == "World"])["TotalCases"][0]
     archivo = open("Total/total.txt", "w")
