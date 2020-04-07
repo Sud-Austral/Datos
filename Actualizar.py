@@ -62,7 +62,7 @@ def UpdateDatabase():
 
 #************************************Actualizar repositorio***********************************************
 def guardarRepositorio():
-    repoLocal = git.Repo( 'C:/Users/limc_/Documents/GitHub/Datos' )
+    repoLocal = git.Repo( 'C:/Users/mario1/Documents/GitHub/Python/Datos' )
     print(repoLocal.git.status())
     
     try:
