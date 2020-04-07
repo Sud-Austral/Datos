@@ -308,7 +308,7 @@ def johnsHopkinsCovid19Series():
     del data_salida_aux["Long"]
 
     merged_left = pd.merge(left=data_salida, right=data_salida_aux, how='left', left_on='codigo', right_on='codigo')
-   
+    merged_left = verificarColumnas(merged_left,"acumulado.csv")
     merged_left.to_csv("Johns_Hopkins-covid19/series/acumulado.csv", index=False)
 
 
