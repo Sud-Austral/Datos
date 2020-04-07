@@ -13,6 +13,7 @@ from selenium.webdriver.firefox.options import Options
 from os import remove
 import git
 import datetime
+import numpy as np
 #from datetime import datetime
 #************************************Actualizar Database**************************************************
 def UpdateDatabase():
