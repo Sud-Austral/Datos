@@ -345,7 +345,7 @@ def KoBoToolbox():
 #************************************Actualizar ourWorldInData*******************************************
 def ourWorldInData():
     now = datetime.datetime.now()
-    archivos = ["covid-19-total-confirmed-cases-vs-total-tests-conducted(8).csv",
+    archivos = ["covid-19-total-confirmed-cases-vs-total-tests-conducted.csv",
                 "full-list-total-tests-for-covid-19.csv",
                 "total-deaths-covid-19.csv",
                 "total-daily-covid-deaths-per-million.csv",
