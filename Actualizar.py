@@ -61,6 +61,39 @@ def UpdateDatabase():
     return
 #************************************Actualizar Database**************************************************
 
+#************************************Actualizar Verifica Columnas*****************************************
+def verificarColumnas(data, referencia):
+    ruta = "GrupoControl/"
+    df = data
+    ref = pd.read_csv(ruta + referencia)
+    existe = False
+    columna = 0    
+    #Eliminar Columnas que sobran    
+    for col in df.columns:        
+        for colRef in ref.columns:
+            if col == colRef:
+                #print("existe la columna" + col)
+                existe = True
+        if existe == False:
+            del df[col]
+            #df.to_csv(csvPorVerificar, index = False)
+            print("se Eliminó la columna " + col)
+        existe = False   
+    #Agregar columnas faltantes    
+    for colRef in ref.columns:        
+        for col in df.columns:
+            if col == colRef:
+                #print("existe la columna" + col)
+                existe = True
+        if existe == False:
+            df.insert(columna,colRef,'')
+            #df.to_csv(csvPorVerificar, index = False)
+            print("se agregó la columna " + colRef)
+        columna+=1
+        existe = False
+    return df
+#************************************Actualizar Verifica Columnas*****************************************
+
 #************************************Actualizar repositorio***********************************************
 def guardarRepositorio():
     #repoLocal = git.Repo( 'C:/Users/mario1/Documents/GitHub/Python/Datos' )
@@ -96,6 +129,7 @@ def Chile():
         pass
     
     data["Fecha"] = data["Fecha"].apply(cambiaFecha)
+    data = verificarColumnas(data, "covid19_chile.csv")
     data.to_csv("covid19_chile.csv", index=False)
     
     guardarRepositorio()    
