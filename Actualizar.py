@@ -14,6 +14,7 @@ from os import remove
 import git
 import datetime
 import numpy as np
+import wget
 #from datetime import datetime
 #************************************Actualizar Database**************************************************
 def UpdateDatabase():
@@ -113,6 +114,8 @@ def guardarRepositorio():
 
 #************************************Actualizar Chile*****************************************************
 def Chile():
+    os.remove('Chile/covid19_chile.xlsx')
+    wget.download("https://onedrive.live.com/download?resid=9F999E057AD8C646!62083&authkey=!AHatwZn5tIFkoZE", "Chile/covid19_chile.xlsx")
     url_chile = "https://raw.githubusercontent.com/ivanMSC/COVID19_Chile/master/covid19_chile.csv"
     pd.read_csv(url_chile).to_csv("Chile/covid19_chile.csv", index=False)
     url_comunas = "https://raw.githubusercontent.com/ivanMSC/COVID19_Chile/master/covid19_comunas.csv"
