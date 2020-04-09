@@ -1,5 +1,5 @@
 ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tipo_de_caso,lat_comuna,lon_comuna
-1,03-03-2020,7.0,Chile,Maule,Masculino,33.0,Hospital de Talca,Talca,-35.427058,-71.6461858,Confirmado,-35.423,-71.657
+1,03-03-2020,7.0,Chile,Maule,Masculino,33.0,Hospital de Talca,Talca,-35.427058,-71.6461858,Confirmado,-35.4278227385,-71.6021975979
 2,03-03-2020,7.0,Chile,Maule,Femenino,33.0,Hospital de Talca,Talca,-35.427058,-71.6461858,Confirmado,-35.423,-71.657
 3,04-03-2020,13.0,Chile,Metropolitana,Femenino,56.0,Clínica Alemana,Vitacura,-33.3924402,-70.57301650000001,Confirmado,-33.378,-70.562
 4,05-03-2020,13.0,Chile,Metropolitana,Femenino,40.0,Clínica Santa María,Providencia,-33.4323177,-70.6279673,Confirmado,-33.435,-70.616
@@ -232,7 +232,7 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 231,18-03-2020,8.0,Chile,Biobío,Masculino,64.0,,Concepción,,,Confirmado,,
 232,18-03-2020,8.0,Chile,Biobío,Femenino,40.0,,Talcahuano,,,Confirmado,,
 233,18-03-2020,8.0,Chile,Biobío,Masculino,58.0,,No Informado,,,Confirmado,,
-234,18-03-2020,9.0,Chile,Araucanía,Masculino,32.0,,No Informado,,,Confirmado,,
+234,18-03-2020,9.0,Chile,Araucanía,Masculino,32.0,,Temuco,,,Confirmado,,
 235,18-03-2020,9.0,Chile,Araucanía,,,,No Informado,,,Confirmado,,
 236,18-03-2020,9.0,Chile,Araucanía,,,,No Informado,,,Confirmado,,
 237,18-03-2020,10.0,Chile,Los Lagos,Masculino,43.0,Hospital de Puerto Montt ,Puerto Varas ,,,Confirmado,,
