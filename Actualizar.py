@@ -557,7 +557,19 @@ def ourWorldInData():
 #************************************Actualizar ourWorldInData*******************************************
 
 #************************************Actualizar Farmacias************************************************
-
+def Farmacias():
+    url  = "https://farmanet.minsal.cl/index.php/ws/getLocales"
+    response = requests.get(url)
+    #decoded_data=codecs.decode(response.content, 'utf-8-sig')
+    d = json.loads(response.content)
+    data = pd.DataFrame.from_dict(d)
+    data.to_csv("Farmacias.csv", index=False)
+    url  = "https://farmanet.minsal.cl/index.php/ws/getLocalesTurnos"
+    response = requests.get(url)
+    #decoded_data=codecs.decode(response.content, 'utf-8-sig')
+    d = json.loads(response.content)
+    data = pd.DataFrame.from_dict(d)
+    data.to_csv("FarmaciasTurno.csv", index=False)
 #************************************Actualizar Farmacias*******************************************
 
 
