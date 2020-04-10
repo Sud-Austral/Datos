@@ -6066,9 +6066,9 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 6065,08-04-2020,15.0,Chile,Arica y Parinacota,,,,Arica,,,Confirmado,-18.5321930844,-69.9714910871
 6066,08-04-2020,15.0,Chile,Arica y Parinacota,,,,Arica,,,Confirmado,-18.5321930844,-69.9714910871
 6067,08-04-2020,15.0,Chile,Arica y Parinacota,,,,Arica,,,Confirmado,-18.5321930844,-69.9714910871
-6068,08-04-2020,1.0,Chile,Tarapacá,,,,No Informado,,,Confirmado,-20.2133874287,-69.3928397127
-6069,08-04-2020,1.0,Chile,Tarapacá,,,,No Informado,,,Confirmado,-20.2133874287,-69.3928397127
-6070,08-04-2020,1.0,Chile,Tarapacá,,,,No Informado,,,Confirmado,-20.2133874287,-69.3928397127
+6068,08-04-2020,1.0,Chile,Tarapacá,Masculino,,,No Informado,,,Confirmado,-20.2133874287,-69.3928397127
+6069,08-04-2020,1.0,Chile,Tarapacá,Masculino ,,,No Informado,,,Confirmado,-20.2133874287,-69.3928397127
+6070,08-04-2020,1.0,Chile,Tarapacá,Masculino,,,No Informado,,,Confirmado,-20.2133874287,-69.3928397127
 6071,08-04-2020,2.0,Chile,Antofagasta,Masculino,31.0,,Antofagasta,,,Confirmado,-24.2767223957,-69.4100886557
 6072,08-04-2020,2.0,Chile,Antofagasta,Masculino,32.0,,Antofagasta,,,Confirmado,-24.2767223957,-69.4100886557
 6073,08-04-2020,2.0,Chile,Antofagasta,Masculino,54.0,,Antofagasta,,,Confirmado,-24.2767223957,-69.4100886557
@@ -6720,9 +6720,9 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 6719,09-04-2020,15.0,Chile,Arica y Parinacota,,,,No Informado,,,Confirmado,-18.4948272056,-69.6271472235
 6720,09-04-2020,15.0,Chile,Arica y Parinacota,,,,No Informado,,,Confirmado,-18.4948272056,-69.6271472235
 6721,09-04-2020,15.0,Chile,Arica y Parinacota,,,,No Informado,,,Confirmado,-18.4948272056,-69.6271472235
-6722,09-04-2020,1.0,Chile,Tarapacá,,,,No Informado,,,Confirmado,-20.2133874287,-69.3928397127
-6723,09-04-2020,1.0,Chile,Tarapacá,,,,No Informado,,,Confirmado,-20.2133874287,-69.3928397127
-6724,09-04-2020,1.0,Chile,Tarapacá,,,,No Informado,,,Confirmado,-20.2133874287,-69.3928397127
+6722,09-04-2020,1.0,Chile,Tarapacá,,,,Pica,,,Confirmado,-20.4789531968,-68.9122031293
+6723,09-04-2020,1.0,Chile,Tarapacá,,,,Iquique ,,,Confirmado,-20.2133874287,-69.3928397127
+6724,09-04-2020,1.0,Chile,Tarapacá,,,,Alto Hospicio,,,Confirmado,-20.1899464527,-70.0109621438
 6725,09-04-2020,2.0,Chile,Antofagasta,Femenino,59.0,,Antofagasta,,,Confirmado,-24.2767223957,-69.4100886557
 6726,09-04-2020,2.0,Chile,Antofagasta,Femenino,57.0,,Antofagasta,,,Confirmado,-24.2767223957,-69.4100886557
 6727,09-04-2020,2.0,Chile,Antofagasta,Femenino,45.0,,Antofagasta,,,Confirmado,-24.2767223957,-69.4100886557
