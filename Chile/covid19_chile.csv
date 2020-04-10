@@ -7340,18 +7340,18 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 7339,10-04-2020,2.0,Chile,Antofagasta,,,,Taltal,,,Confirmado,-25.3133031739,-69.8652040215
 7340,10-04-2020,3.0,Chile,Atacama,Femenino,31.0,,Copiapó,,,Confirmado,-27.3205190244,-69.82547165
 7341,10-04-2020,3.0,Chile,Atacama,Femenino,64.0,,No Informado,,,Confirmado,-27.3879774222,-69.9023342263
-7342,10-04-2020,3.0,Chile,Atacama,,,,No Informado,,,Confirmado,-27.3879774222,-69.9023342263
-7343,10-04-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
-7344,10-04-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
-7345,10-04-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
-7346,10-04-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
-7347,10-04-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
-7348,10-04-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
-7349,10-04-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
-7350,10-04-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
-7351,10-04-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
-7352,10-04-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
-7353,10-04-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+7342,10-04-2020,3.0,Chile,Atacama,Masculino,24.0,,Copiapó,,,Confirmado,-27.3205190244,-69.82547165
+7343,10-04-2020,5.0,Chile,Valparaíso,Masculino,44.0,Clinica Valparaiso,Barco Isabela Island,,,Confirmado,-32.4993565791,-70.8915740187
+7344,10-04-2020,5.0,Chile,Valparaíso,Masculino,27.0,,Limache,,,Confirmado,-33.0307721107,-71.2789117691
+7345,10-04-2020,5.0,Chile,Valparaíso,Masculino,28.0,,Limache,,,Confirmado,-33.0307721107,-71.2789117691
+7346,10-04-2020,5.0,Chile,Valparaíso,Femenino,67.0,Hospital de Quilpue,Quilpué,,,Confirmado,-33.1473777099,-71.2540917137
+7347,10-04-2020,5.0,Chile,Valparaíso,Masculino,70.0,,Quilpué,,,Confirmado,-33.1473777099,-71.2540917137
+7348,10-04-2020,5.0,Chile,Valparaíso,Femenino,33.0,,Quilpué,,,Confirmado,-33.1473777099,-71.2540917137
+7349,10-04-2020,5.0,Chile,Valparaíso,Femenino,44.0,,Quilpué,,,Confirmado,-33.1473777099,-71.2540917137
+7350,10-04-2020,5.0,Chile,Valparaíso,Masculino,38.0,Clinica Viña del Mar,Valparaíso,,,Confirmado,-32.9978836561,-71.7533398553
+7351,10-04-2020,5.0,Chile,Valparaíso,Femenino,31.0,,Valparaíso,,,Confirmado,-32.9978836561,-71.7533398553
+7352,10-04-2020,5.0,Chile,Valparaíso,Femenino,34.0,,Valparaíso,,,Confirmado,-32.9978836561,-71.7533398553
+7353,10-04-2020,5.0,Chile,Valparaíso,Masculino,55.0,,Viña del Mar,,,Confirmado,-33.0288002963,-71.5154312157
 7354,10-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
 7355,10-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
 7356,10-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
