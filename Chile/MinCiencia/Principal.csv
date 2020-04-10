@@ -1,1731 +1,2423 @@
-Region,Comuna,Poblacion,Fecha
-Arica y Parinacota,Arica,247552,6
-Arica y Parinacota,Arica,247552,6
-Arica y Parinacota,Arica,247552,12
-Arica y Parinacota,Arica,247552,41
-Arica y Parinacota,Arica,247552,63
-Arica y Parinacota,Camarones,1233,-
-Arica y Parinacota,Camarones,1233,-
-Arica y Parinacota,Camarones,1233,-
-Arica y Parinacota,Camarones,1233,-
-Arica y Parinacota,Camarones,1233,-
-Arica y Parinacota,General Lagos,810,-
-Arica y Parinacota,General Lagos,810,-
-Arica y Parinacota,General Lagos,810,-
-Arica y Parinacota,General Lagos,810,-
-Arica y Parinacota,General Lagos,810,-
-Arica y Parinacota,Putre,2515,-
-Arica y Parinacota,Putre,2515,-
-Arica y Parinacota,Putre,2515,-
-Arica y Parinacota,Putre,2515,-
-Arica y Parinacota,Putre,2515,-
-Tarapaca,Alto Hospicio,129999,-
-Tarapaca,Alto Hospicio,129999,-
-Tarapaca,Alto Hospicio,129999,-
-Tarapaca,Alto Hospicio,129999,5
-Tarapaca,Alto Hospicio,129999,6
-Tarapaca,Camina,1375,-
-Tarapaca,Camina,1375,-
-Tarapaca,Camina,1375,-
-Tarapaca,Camina,1375,-
-Tarapaca,Camina,1375,-
-Tarapaca,Colchane,1583,-
-Tarapaca,Colchane,1583,-
-Tarapaca,Colchane,1583,-
-Tarapaca,Colchane,1583,-
-Tarapaca,Colchane,1583,-
-Tarapaca,Huara,3000,-
-Tarapaca,Huara,3000,-
-Tarapaca,Huara,3000,-
-Tarapaca,Huara,3000,-
-Tarapaca,Huara,3000,-
-Tarapaca,Iquique,223463,5
-Tarapaca,Iquique,223463,9
-Tarapaca,Iquique,223463,10
-Tarapaca,Iquique,223463,13
-Tarapaca,Iquique,223463,16
-Tarapaca,Pica,5958,-
-Tarapaca,Pica,5958,-
-Tarapaca,Pica,5958,-
-Tarapaca,Pica,5958,-
-Tarapaca,Pica,5958,-
-Tarapaca,Pozo Almonte,17395,-
-Tarapaca,Pozo Almonte,17395,-
-Tarapaca,Pozo Almonte,17395,-
-Tarapaca,Pozo Almonte,17395,-
-Tarapaca,Pozo Almonte,17395,-
-Antofagasta,Antofagasta,425725,29
-Antofagasta,Antofagasta,425725,32
-Antofagasta,Antofagasta,425725,44
-Antofagasta,Antofagasta,425725,54
-Antofagasta,Antofagasta,425725,60
-Antofagasta,Calama,190336,-
-Antofagasta,Calama,190336,-
-Antofagasta,Calama,190336,5
-Antofagasta,Calama,190336,7
-Antofagasta,Calama,190336,8
-Antofagasta,Maria Elena,6814,-
-Antofagasta,Maria Elena,6814,-
-Antofagasta,Maria Elena,6814,-
-Antofagasta,Maria Elena,6814,-
-Antofagasta,Maria Elena,6814,-
-Antofagasta,Mejillones,14776,-
-Antofagasta,Mejillones,14776,-
-Antofagasta,Mejillones,14776,-
-Antofagasta,Mejillones,14776,-
-Antofagasta,Mejillones,14776,-
-Antofagasta,Ollague,287,-
-Antofagasta,Ollague,287,-
-Antofagasta,Ollague,287,-
-Antofagasta,Ollague,287,-
-Antofagasta,Ollague,287,-
-Antofagasta,San Pedro de Atacama,10434,-
-Antofagasta,San Pedro de Atacama,10434,-
-Antofagasta,San Pedro de Atacama,10434,-
-Antofagasta,San Pedro de Atacama,10434,4
-Antofagasta,San Pedro de Atacama,10434,4
-Antofagasta,Sierra Gorda,1746,-
-Antofagasta,Sierra Gorda,1746,-
-Antofagasta,Sierra Gorda,1746,-
-Antofagasta,Sierra Gorda,1746,-
-Antofagasta,Sierra Gorda,1746,-
-Antofagasta,Taltal,13657,-
-Antofagasta,Taltal,13657,-
-Antofagasta,Taltal,13657,-
-Antofagasta,Taltal,13657,-
-Antofagasta,Taltal,13657,-
-Antofagasta,Tocopilla,28079,-
-Antofagasta,Tocopilla,28079,-
-Antofagasta,Tocopilla,28079,-
-Antofagasta,Tocopilla,28079,-
-Antofagasta,Tocopilla,28079,-
-Atacama,Alto del Carmen,5729,-
-Atacama,Alto del Carmen,5729,-
-Atacama,Alto del Carmen,5729,-
-Atacama,Alto del Carmen,5729,-
-Atacama,Alto del Carmen,5729,-
-Atacama,Caldera,19426,-
-Atacama,Caldera,19426,-
-Atacama,Caldera,19426,-
-Atacama,Caldera,19426,-
-Atacama,Caldera,19426,-
-Atacama,Chanaral,13164,-
-Atacama,Chanaral,13164,-
-Atacama,Chanaral,13164,-
-Atacama,Chanaral,13164,-
-Atacama,Chanaral,13164,-
-Atacama,Copiapo,171766,-
-Atacama,Copiapo,171766,-
-Atacama,Copiapo,171766,4
-Atacama,Copiapo,171766,4
-Atacama,Copiapo,171766,5
-Atacama,Diego de Almagro,14358,-
-Atacama,Diego de Almagro,14358,-
-Atacama,Diego de Almagro,14358,-
-Atacama,Diego de Almagro,14358,-
-Atacama,Diego de Almagro,14358,-
-Atacama,Freirina,7681,-
-Atacama,Freirina,7681,-
-Atacama,Freirina,7681,-
-Atacama,Freirina,7681,-
-Atacama,Freirina,7681,-
-Atacama,Huasco,11264,-
-Atacama,Huasco,11264,-
-Atacama,Huasco,11264,-
-Atacama,Huasco,11264,-
-Atacama,Huasco,11264,-
-Atacama,Tierra Amarilla,14312,-
-Atacama,Tierra Amarilla,14312,-
-Atacama,Tierra Amarilla,14312,-
-Atacama,Tierra Amarilla,14312,-
-Atacama,Tierra Amarilla,14312,-
-Atacama,Vallenar,57009,-
-Atacama,Vallenar,57009,-
-Atacama,Vallenar,57009,-
-Atacama,Vallenar,57009,-
-Atacama,Vallenar,57009,-
-Coquimbo,Andacollo,11791,-
-Coquimbo,Andacollo,11791,-
-Coquimbo,Andacollo,11791,-
-Coquimbo,Andacollo,11791,-
-Coquimbo,Andacollo,11791,-
-Coquimbo,Canela,9546,-
-Coquimbo,Canela,9546,-
-Coquimbo,Canela,9546,-
-Coquimbo,Canela,9546,-
-Coquimbo,Canela,9546,-
-Coquimbo,Combarbala,13884,-
-Coquimbo,Combarbala,13884,-
-Coquimbo,Combarbala,13884,-
-Coquimbo,Combarbala,13884,-
-Coquimbo,Combarbala,13884,-
-Coquimbo,Coquimbo,256735,17
-Coquimbo,Coquimbo,256735,19
-Coquimbo,Coquimbo,256735,19
-Coquimbo,Coquimbo,256735,19
-Coquimbo,Coquimbo,256735,19
-Coquimbo,Illapel,32801,-
-Coquimbo,Illapel,32801,-
-Coquimbo,Illapel,32801,-
-Coquimbo,Illapel,32801,7
-Coquimbo,Illapel,32801,12
-Coquimbo,La Higuera,4450,-
-Coquimbo,La Higuera,4450,-
-Coquimbo,La Higuera,4450,-
-Coquimbo,La Higuera,4450,-
-Coquimbo,La Higuera,4450,-
-Coquimbo,La Serena,249656,-
-Coquimbo,La Serena,249656,-
-Coquimbo,La Serena,249656,8
-Coquimbo,La Serena,249656,12
-Coquimbo,La Serena,249656,12
-Coquimbo,Los Vilos,23374,-
-Coquimbo,Los Vilos,23374,-
-Coquimbo,Los Vilos,23374,-
-Coquimbo,Los Vilos,23374,-
-Coquimbo,Los Vilos,23374,-
-Coquimbo,Monte Patria,32527,-
-Coquimbo,Monte Patria,32527,-
-Coquimbo,Monte Patria,32527,-
-Coquimbo,Monte Patria,32527,-
-Coquimbo,Monte Patria,32527,-
-Coquimbo,Ovalle,121269,4
-Coquimbo,Ovalle,121269,4
-Coquimbo,Ovalle,121269,4
-Coquimbo,Ovalle,121269,7
-Coquimbo,Ovalle,121269,7
-Coquimbo,Paiguano,4675,-
-Coquimbo,Paiguano,4675,-
-Coquimbo,Paiguano,4675,-
-Coquimbo,Paiguano,4675,-
-Coquimbo,Paiguano,4675,-
-Coquimbo,Punitaqui,12165,-
-Coquimbo,Punitaqui,12165,-
-Coquimbo,Punitaqui,12165,-
-Coquimbo,Punitaqui,12165,-
-Coquimbo,Punitaqui,12165,-
-Coquimbo,Rio Hurtado,4372,-
-Coquimbo,Rio Hurtado,4372,-
-Coquimbo,Rio Hurtado,4372,-
-Coquimbo,Rio Hurtado,4372,-
-Coquimbo,Rio Hurtado,4372,-
-Coquimbo,Salamanca,29110,-
-Coquimbo,Salamanca,29110,-
-Coquimbo,Salamanca,29110,-
-Coquimbo,Salamanca,29110,4
-Coquimbo,Salamanca,29110,4
-Coquimbo,Vicuna,29741,-
-Coquimbo,Vicuna,29741,-
-Coquimbo,Vicuna,29741,-
-Coquimbo,Vicuna,29741,-
-Coquimbo,Vicuna,29741,-
-Valparaiso,Algarrobo,15174,7
-Valparaiso,Algarrobo,15174,7
-Valparaiso,Algarrobo,15174,9
-Valparaiso,Algarrobo,15174,9
-Valparaiso,Algarrobo,15174,8
-Valparaiso,Cabildo,20663,-
-Valparaiso,Cabildo,20663,-
-Valparaiso,Cabildo,20663,-
-Valparaiso,Cabildo,20663,-
-Valparaiso,Cabildo,20663,-
-Valparaiso,Calera,53591,6
-Valparaiso,Calera,53591,6
-Valparaiso,Calera,53591,7
-Valparaiso,Calera,53591,7
-Valparaiso,Calera,53591,9
-Valparaiso,Calle Larga,16482,-
-Valparaiso,Calle Larga,16482,-
-Valparaiso,Calle Larga,16482,-
-Valparaiso,Calle Larga,16482,-
-Valparaiso,Calle Larga,16482,-
-Valparaiso,Cartagena,25357,-
-Valparaiso,Cartagena,25357,-
-Valparaiso,Cartagena,25357,-
-Valparaiso,Cartagena,25357,-
-Valparaiso,Cartagena,25357,-
-Valparaiso,Casablanca,29170,-
-Valparaiso,Casablanca,29170,-
-Valparaiso,Casablanca,29170,-
-Valparaiso,Casablanca,29170,-
-Valparaiso,Casablanca,29170,-
-Valparaiso,Catemu,15213,-
-Valparaiso,Catemu,15213,-
-Valparaiso,Catemu,15213,-
-Valparaiso,Catemu,15213,-
-Valparaiso,Catemu,15213,-
-Valparaiso,Concon,45889,-
-Valparaiso,Concon,45889,-
-Valparaiso,Concon,45889,7
-Valparaiso,Concon,45889,7
-Valparaiso,Concon,45889,-
-Valparaiso,El Quisco,17742,-
-Valparaiso,El Quisco,17742,-
-Valparaiso,El Quisco,17742,-
-Valparaiso,El Quisco,17742,-
-Valparaiso,El Quisco,17742,-
-Valparaiso,El Tabo,14338,-
-Valparaiso,El Tabo,14338,-
-Valparaiso,El Tabo,14338,-
-Valparaiso,El Tabo,14338,-
-Valparaiso,El Tabo,14338,-
-Valparaiso,Hijuelas,19099,-
-Valparaiso,Hijuelas,19099,-
-Valparaiso,Hijuelas,19099,-
-Valparaiso,Hijuelas,19099,-
-Valparaiso,Hijuelas,19099,-
-Valparaiso,Isla de Pascua,8277,-
-Valparaiso,Isla de Pascua,8277,5
-Valparaiso,Isla de Pascua,8277,5
-Valparaiso,Isla de Pascua,8277,5
-Valparaiso,Isla de Pascua,8277,5
-Valparaiso,Juan Fernandez,1033,-
-Valparaiso,Juan Fernandez,1033,-
-Valparaiso,Juan Fernandez,1033,-
-Valparaiso,Juan Fernandez,1033,-
-Valparaiso,Juan Fernandez,1033,-
-Valparaiso,La Cruz,25321,-
-Valparaiso,La Cruz,25321,-
-Valparaiso,La Cruz,25321,-
-Valparaiso,La Cruz,25321,-
-Valparaiso,La Cruz,25321,-
-Valparaiso,La Ligua,37739,-
-Valparaiso,La Ligua,37739,-
-Valparaiso,La Ligua,37739,-
-Valparaiso,La Ligua,37739,-
-Valparaiso,La Ligua,37739,-
-Valparaiso,Limache,49931,-
-Valparaiso,Limache,49931,-
-Valparaiso,Limache,49931,-
-Valparaiso,Limache,49931,4
-Valparaiso,Limache,49931,5
-Valparaiso,Llaillay,26533,-
-Valparaiso,Llaillay,26533,-
-Valparaiso,Llaillay,26533,-
-Valparaiso,Llaillay,26533,-
-Valparaiso,Llaillay,26533,-
-Valparaiso,Los Andes,68093,-
-Valparaiso,Los Andes,68093,-
-Valparaiso,Los Andes,68093,-
-Valparaiso,Los Andes,68093,-
-Valparaiso,Los Andes,68093,6
-Valparaiso,Nogales,23490,-
-Valparaiso,Nogales,23490,-
-Valparaiso,Nogales,23490,-
-Valparaiso,Nogales,23490,-
-Valparaiso,Nogales,23490,-
-Valparaiso,Olmue,19266,-
-Valparaiso,Olmue,19266,-
-Valparaiso,Olmue,19266,-
-Valparaiso,Olmue,19266,-
-Valparaiso,Olmue,19266,-
-Valparaiso,Panquehue,7633,-
-Valparaiso,Panquehue,7633,-
-Valparaiso,Panquehue,7633,-
-Valparaiso,Panquehue,7633,-
-Valparaiso,Panquehue,7633,-
-Valparaiso,Papudo,6201,-
-Valparaiso,Papudo,6201,-
-Valparaiso,Papudo,6201,-
-Valparaiso,Papudo,6201,-
-Valparaiso,Papudo,6201,-
-Valparaiso,Petorca,10558,-
-Valparaiso,Petorca,10558,-
-Valparaiso,Petorca,10558,-
-Valparaiso,Petorca,10558,5
-Valparaiso,Petorca,10558,4
-Valparaiso,Puchuncavi,20071,-
-Valparaiso,Puchuncavi,20071,-
-Valparaiso,Puchuncavi,20071,-
-Valparaiso,Puchuncavi,20071,-
-Valparaiso,Puchuncavi,20071,-
-Valparaiso,Putaendo,17645,-
-Valparaiso,Putaendo,17645,-
-Valparaiso,Putaendo,17645,-
-Valparaiso,Putaendo,17645,-
-Valparaiso,Putaendo,17645,-
-Valparaiso,Quillota,97572,6
-Valparaiso,Quillota,97572,7
-Valparaiso,Quillota,97572,9
-Valparaiso,Quillota,97572,9
-Valparaiso,Quillota,97572,13
-Valparaiso,Quilpue,167085,11
-Valparaiso,Quilpue,167085,10
-Valparaiso,Quilpue,167085,11
-Valparaiso,Quilpue,167085,12
-Valparaiso,Quilpue,167085,15
-Valparaiso,Quintero,36135,-
-Valparaiso,Quintero,36135,-
-Valparaiso,Quintero,36135,-
-Valparaiso,Quintero,36135,-
-Valparaiso,Quintero,36135,-
-Valparaiso,Rinconada,11263,-
-Valparaiso,Rinconada,11263,-
-Valparaiso,Rinconada,11263,-
-Valparaiso,Rinconada,11263,-
-Valparaiso,Rinconada,11263,-
-Valparaiso,San Antonio,96761,-
-Valparaiso,San Antonio,96761,4
-Valparaiso,San Antonio,96761,8
-Valparaiso,San Antonio,96761,9
-Valparaiso,San Antonio,96761,9
-Valparaiso,San Esteban,20643,-
-Valparaiso,San Esteban,20643,-
-Valparaiso,San Esteban,20643,-
-Valparaiso,San Esteban,20643,-
-Valparaiso,San Esteban,20643,-
-Valparaiso,San Felipe,83494,-
-Valparaiso,San Felipe,83494,-
-Valparaiso,San Felipe,83494,5
-Valparaiso,San Felipe,83494,5
-Valparaiso,San Felipe,83494,6
-Valparaiso,Santa Maria,16367,-
-Valparaiso,Santa Maria,16367,-
-Valparaiso,Santa Maria,16367,-
-Valparaiso,Santa Maria,16367,-
-Valparaiso,Santa Maria,16367,-
-Valparaiso,Santo Domingo,11934,
-Valparaiso,Santo Domingo,11934,-
-Valparaiso,Santo Domingo,11934,-
-Valparaiso,Santo Domingo,11934,-
-Valparaiso,Santo Domingo,11934,5
-Valparaiso,Valparaiso,315732,16
-Valparaiso,Valparaiso,315732,26
-Valparaiso,Valparaiso,315732,23
-Valparaiso,Valparaiso,315732,26
-Valparaiso,Valparaiso,315732,36
-Valparaiso,Villa Alemana,139310,6
-Valparaiso,Villa Alemana,139310,8
-Valparaiso,Villa Alemana,139310,11
-Valparaiso,Villa Alemana,139310,11
-Valparaiso,Villa Alemana,139310,12
-Valparaiso,Vina del Mar,361371,29
-Valparaiso,Vina del Mar,361371,38
-Valparaiso,Vina del Mar,361371,47
-Valparaiso,Vina del Mar,361371,53
-Valparaiso,Vina del Mar,361371,66
-Valparaiso,Zapallar,7994,-
-Valparaiso,Zapallar,7994,0
-Valparaiso,Zapallar,7994,-
-Valparaiso,Zapallar,7994,-
-Valparaiso,Zapallar,7994,-
-Metropolitana,Alhue,7405,-
-Metropolitana,Alhue,7405,-
-Metropolitana,Alhue,7405,-
-Metropolitana,Alhue,7405,-
-Metropolitana,Alhue,7405,-
-Metropolitana,Buin,109641,7
-Metropolitana,Buin,109641,8
-Metropolitana,Buin,109641,14
-Metropolitana,Buin,109641,20
-Metropolitana,Buin,109641,20
-Metropolitana,Calera de Tango,28525,6
-Metropolitana,Calera de Tango,28525,7
-Metropolitana,Calera de Tango,28525,7
-Metropolitana,Calera de Tango,28525,7
-Metropolitana,Calera de Tango,28525,8
-Metropolitana,Cerrillos,88956,-
-Metropolitana,Cerrillos,88956,4
-Metropolitana,Cerrillos,88956,4
-Metropolitana,Cerrillos,88956,5
-Metropolitana,Cerrillos,88956,11
-Metropolitana,Cerro Navia,142465,19
-Metropolitana,Cerro Navia,142465,21
-Metropolitana,Cerro Navia,142465,26
-Metropolitana,Cerro Navia,142465,31
-Metropolitana,Cerro Navia,142465,36
-Metropolitana,Colina,180353,32
-Metropolitana,Colina,180353,39
-Metropolitana,Colina,180353,47
-Metropolitana,Colina,180353,50
-Metropolitana,Colina,180353,62
-Metropolitana,Conchali,139195,14
-Metropolitana,Conchali,139195,18
-Metropolitana,Conchali,139195,22
-Metropolitana,Conchali,139195,32
-Metropolitana,Conchali,139195,38
-Metropolitana,Curacavi,36430,5
-Metropolitana,Curacavi,36430,5
-Metropolitana,Curacavi,36430,5
-Metropolitana,Curacavi,36430,8
-Metropolitana,Curacavi,36430,9
-Metropolitana,El Bosque,172000,18
-Metropolitana,El Bosque,172000,28
-Metropolitana,El Bosque,172000,35
-Metropolitana,El Bosque,172000,37
-Metropolitana,El Bosque,172000,46
-Metropolitana,El Monte,40014,-
-Metropolitana,El Monte,40014,-
-Metropolitana,El Monte,40014,-
-Metropolitana,El Monte,40014,5
-Metropolitana,El Monte,40014,7
-Metropolitana,Estacion Central,206792,16
-Metropolitana,Estacion Central,206792,22
-Metropolitana,Estacion Central,206792,25
-Metropolitana,Estacion Central,206792,36
-Metropolitana,Estacion Central,206792,41
-Metropolitana,Huechuraba,112528,17
-Metropolitana,Huechuraba,112528,19
-Metropolitana,Huechuraba,112528,22
-Metropolitana,Huechuraba,112528,32
-Metropolitana,Huechuraba,112528,35
-Metropolitana,Independencia,142065,15
-Metropolitana,Independencia,142065,17
-Metropolitana,Independencia,142065,22
-Metropolitana,Independencia,142065,26
-Metropolitana,Independencia,142065,31
-Metropolitana,Isla de Maipo,40171,-
-Metropolitana,Isla de Maipo,40171,-
-Metropolitana,Isla de Maipo,40171,-
-Metropolitana,Isla de Maipo,40171,4
-Metropolitana,Isla de Maipo,40171,7
-Metropolitana,La Cisterna,100434,10
-Metropolitana,La Cisterna,100434,12
-Metropolitana,La Cisterna,100434,12
-Metropolitana,La Cisterna,100434,20
-Metropolitana,La Cisterna,100434,26
-Metropolitana,La Florida,402433,43
-Metropolitana,La Florida,402433,58
-Metropolitana,La Florida,402433,67
-Metropolitana,La Florida,402433,91
-Metropolitana,La Florida,402433,103
-Metropolitana,La Granja,122557,5
-Metropolitana,La Granja,122557,8
-Metropolitana,La Granja,122557,16
-Metropolitana,La Granja,122557,24
-Metropolitana,La Granja,122557,26
-Metropolitana,La Pintana,189335,-
-Metropolitana,La Pintana,189335,10
-Metropolitana,La Pintana,189335,13
-Metropolitana,La Pintana,189335,18
-Metropolitana,La Pintana,189335,25
-Metropolitana,La Reina,100252,24
-Metropolitana,La Reina,100252,26
-Metropolitana,La Reina,100252,30
-Metropolitana,La Reina,100252,35
-Metropolitana,La Reina,100252,44
-Metropolitana,Lampa,126898,10
-Metropolitana,Lampa,126898,10
-Metropolitana,Lampa,126898,13
-Metropolitana,Lampa,126898,14
-Metropolitana,Lampa,126898,18
-Metropolitana,Las Condes,330759,181
-Metropolitana,Las Condes,330759,208
-Metropolitana,Las Condes,330759,224
-Metropolitana,Las Condes,330759,258
-Metropolitana,Las Condes,330759,266
-Metropolitana,Lo Barnechea,124076,68
-Metropolitana,Lo Barnechea,124076,78
-Metropolitana,Lo Barnechea,124076,85
-Metropolitana,Lo Barnechea,124076,97
-Metropolitana,Lo Barnechea,124076,105
-Metropolitana,Lo Espejo,103865,4
-Metropolitana,Lo Espejo,103865,7
-Metropolitana,Lo Espejo,103865,9
-Metropolitana,Lo Espejo,103865,15
-Metropolitana,Lo Espejo,103865,23
-Metropolitana,Lo Prado,104403,14
-Metropolitana,Lo Prado,104403,18
-Metropolitana,Lo Prado,104403,20
-Metropolitana,Lo Prado,104403,25
-Metropolitana,Lo Prado,104403,32
-Metropolitana,Macul,134635,10
-Metropolitana,Macul,134635,15
-Metropolitana,Macul,134635,23
-Metropolitana,Macul,134635,34
-Metropolitana,Macul,134635,37
-Metropolitana,Maipu,578605,43
-Metropolitana,Maipu,578605,55
-Metropolitana,Maipu,578605,64
-Metropolitana,Maipu,578605,83
-Metropolitana,Maipu,578605,106
-Metropolitana,Maria Pinto,14926,-
-Metropolitana,Maria Pinto,14926,-
-Metropolitana,Maria Pinto,14926,-
-Metropolitana,Maria Pinto,14926,-
-Metropolitana,Maria Pinto,14926,-
-Metropolitana,Melipilla,141612,6
-Metropolitana,Melipilla,141612,8
-Metropolitana,Melipilla,141612,9
-Metropolitana,Melipilla,141612,11
-Metropolitana,Melipilla,141612,12
-Metropolitana,Nunoa,250192,67
-Metropolitana,Nunoa,250192,84
-Metropolitana,Nunoa,250192,93
-Metropolitana,Nunoa,250192,107
-Metropolitana,Nunoa,250192,118
-Metropolitana,Padre Hurtado,74188,10
-Metropolitana,Padre Hurtado,74188,11
-Metropolitana,Padre Hurtado,74188,14
-Metropolitana,Padre Hurtado,74188,16
-Metropolitana,Padre Hurtado,74188,18
-Metropolitana,Paine,82766,-
-Metropolitana,Paine,82766,-
-Metropolitana,Paine,82766,-
-Metropolitana,Paine,82766,-
-Metropolitana,Paine,82766,-
-Metropolitana,Pedro Aguirre Cerda,107803,7
-Metropolitana,Pedro Aguirre Cerda,107803,13
-Metropolitana,Pedro Aguirre Cerda,107803,13
-Metropolitana,Pedro Aguirre Cerda,107803,16
-Metropolitana,Pedro Aguirre Cerda,107803,19
-Metropolitana,Penaflor,101058,10
-Metropolitana,Penaflor,101058,13
-Metropolitana,Penaflor,101058,13
-Metropolitana,Penaflor,101058,18
-Metropolitana,Penaflor,101058,18
-Metropolitana,Penalolen,266798,31
-Metropolitana,Penalolen,266798,46
-Metropolitana,Penalolen,266798,54
-Metropolitana,Penalolen,266798,65
-Metropolitana,Penalolen,266798,78
-Metropolitana,Pirque,30433,-
-Metropolitana,Pirque,30433,-
-Metropolitana,Pirque,30433,-
-Metropolitana,Pirque,30433,4
-Metropolitana,Pirque,30433,4
-Metropolitana,Providencia,157749,82
-Metropolitana,Providencia,157749,87
-Metropolitana,Providencia,157749,94
-Metropolitana,Providencia,157749,104
-Metropolitana,Providencia,157749,115
-Metropolitana,Pudahuel,253139,17
-Metropolitana,Pudahuel,253139,25
-Metropolitana,Pudahuel,253139,32
-Metropolitana,Pudahuel,253139,44
-Metropolitana,Pudahuel,253139,52
-Metropolitana,Puente Alto,645909,45
-Metropolitana,Puente Alto,645909,58
-Metropolitana,Puente Alto,645909,76
-Metropolitana,Puente Alto,645909,119
-Metropolitana,Puente Alto,645909,166
-Metropolitana,Quilicura,254694,17
-Metropolitana,Quilicura,254694,29
-Metropolitana,Quilicura,254694,33
-Metropolitana,Quilicura,254694,51
-Metropolitana,Quilicura,254694,57
-Metropolitana,Quinta Normal,136368,21
-Metropolitana,Quinta Normal,136368,25
-Metropolitana,Quinta Normal,136368,35
-Metropolitana,Quinta Normal,136368,41
-Metropolitana,Quinta Normal,136368,57
-Metropolitana,Recoleta,190075,17
-Metropolitana,Recoleta,190075,23
-Metropolitana,Recoleta,190075,32
-Metropolitana,Recoleta,190075,44
-Metropolitana,Recoleta,190075,52
-Metropolitana,Renca,160847,9
-Metropolitana,Renca,160847,14
-Metropolitana,Renca,160847,18
-Metropolitana,Renca,160847,19
-Metropolitana,Renca,160847,22
-Metropolitana,San Bernardo,334836,32
-Metropolitana,San Bernardo,334836,41
-Metropolitana,San Bernardo,334836,53
-Metropolitana,San Bernardo,334836,74
-Metropolitana,San Bernardo,334836,79
-Metropolitana,San Joaquin,103485,13
-Metropolitana,San Joaquin,103485,24
-Metropolitana,San Joaquin,103485,28
-Metropolitana,San Joaquin,103485,36
-Metropolitana,San Joaquin,103485,42
-Metropolitana,San Jose de Maipo,18644,-
-Metropolitana,San Jose de Maipo,18644,-
-Metropolitana,San Jose de Maipo,18644,-
-Metropolitana,San Jose de Maipo,18644,-
-Metropolitana,San Jose de Maipo,18644,-
-Metropolitana,San Miguel,133059,25
-Metropolitana,San Miguel,133059,32
-Metropolitana,San Miguel,133059,39
-Metropolitana,San Miguel,133059,49
-Metropolitana,San Miguel,133059,56
-Metropolitana,San Pedro,11953,-
-Metropolitana,San Pedro,11953,-
-Metropolitana,San Pedro,11953,-
-Metropolitana,San Pedro,11953,-
-Metropolitana,San Pedro,11953,-
-Metropolitana,San Ramon,86510,-
-Metropolitana,San Ramon,86510,6
-Metropolitana,San Ramon,86510,9
-Metropolitana,San Ramon,86510,9
-Metropolitana,San Ramon,86510,12
-Metropolitana,Santiago,503147,127
-Metropolitana,Santiago,503147,156
-Metropolitana,Santiago,503147,173
-Metropolitana,Santiago,503147,234
-Metropolitana,Santiago,503147,271
-Metropolitana,Talagante,81838,-
-Metropolitana,Talagante,81838,5
-Metropolitana,Talagante,81838,6
-Metropolitana,Talagante,81838,11
-Metropolitana,Talagante,81838,14
-Metropolitana,Tiltil,21477,-
-Metropolitana,Tiltil,21477,-
-Metropolitana,Tiltil,21477,-
-Metropolitana,Tiltil,21477,-
-Metropolitana,Tiltil,21477,4
-Metropolitana,Vitacura,96774,83
-Metropolitana,Vitacura,96774,90
-Metropolitana,Vitacura,96774,100
-Metropolitana,Vitacura,96774,114
-Metropolitana,Vitacura,96774,114
-Del Libertador General Bernardo OHiggins,Chepica,15925,-
-Del Libertador General Bernardo OHiggins,Chepica,15925,-
-Del Libertador General Bernardo OHiggins,Chepica,15925,-
-Del Libertador General Bernardo OHiggins,Chepica,15925,-
-Del Libertador General Bernardo OHiggins,Chepica,15925,-
-Del Libertador General Bernardo OHiggins,Chimbarongo,37696,-
-Del Libertador General Bernardo OHiggins,Chimbarongo,37696,-
-Del Libertador General Bernardo OHiggins,Chimbarongo,37696,-
-Del Libertador General Bernardo OHiggins,Chimbarongo,37696,-
-Del Libertador General Bernardo OHiggins,Chimbarongo,37696,-
-Del Libertador General Bernardo OHiggins,Codegua,14096,-
-Del Libertador General Bernardo OHiggins,Codegua,14096,-
-Del Libertador General Bernardo OHiggins,Codegua,14096,-
-Del Libertador General Bernardo OHiggins,Codegua,14096,-
-Del Libertador General Bernardo OHiggins,Codegua,14096,-
-Del Libertador General Bernardo OHiggins,Coinco,7831,-
-Del Libertador General Bernardo OHiggins,Coinco,7831,-
-Del Libertador General Bernardo OHiggins,Coinco,7831,-
-Del Libertador General Bernardo OHiggins,Coinco,7831,-
-Del Libertador General Bernardo OHiggins,Coinco,7831,-
-Del Libertador General Bernardo OHiggins,Coltauco,21263,-
-Del Libertador General Bernardo OHiggins,Coltauco,21263,-
-Del Libertador General Bernardo OHiggins,Coltauco,21263,-
-Del Libertador General Bernardo OHiggins,Coltauco,21263,-
-Del Libertador General Bernardo OHiggins,Coltauco,21263,-
-Del Libertador General Bernardo OHiggins,Donihue,22700,-
-Del Libertador General Bernardo OHiggins,Donihue,22700,-
-Del Libertador General Bernardo OHiggins,Donihue,22700,-
-Del Libertador General Bernardo OHiggins,Donihue,22700,-
-Del Libertador General Bernardo OHiggins,Donihue,22700,-
-Del Libertador General Bernardo OHiggins,Graneros,36504,-
-Del Libertador General Bernardo OHiggins,Graneros,36504,-
-Del Libertador General Bernardo OHiggins,Graneros,36504,-
-Del Libertador General Bernardo OHiggins,Graneros,36504,-
-Del Libertador General Bernardo OHiggins,Graneros,36504,-
-Del Libertador General Bernardo OHiggins,La Estrella,3114,-
-Del Libertador General Bernardo OHiggins,La Estrella,3114,-
-Del Libertador General Bernardo OHiggins,La Estrella,3114,-
-Del Libertador General Bernardo OHiggins,La Estrella,3114,-
-Del Libertador General Bernardo OHiggins,La Estrella,3114,-
-Del Libertador General Bernardo OHiggins,Las Cabras,26749,-
-Del Libertador General Bernardo OHiggins,Las Cabras,26749,-
-Del Libertador General Bernardo OHiggins,Las Cabras,26749,-
-Del Libertador General Bernardo OHiggins,Las Cabras,26749,-
-Del Libertador General Bernardo OHiggins,Las Cabras,26749,-
-Del Libertador General Bernardo OHiggins,Litueche,6765,-
-Del Libertador General Bernardo OHiggins,Litueche,6765,-
-Del Libertador General Bernardo OHiggins,Litueche,6765,-
-Del Libertador General Bernardo OHiggins,Litueche,6765,-
-Del Libertador General Bernardo OHiggins,Litueche,6765,-
-Del Libertador General Bernardo OHiggins,Lolol,7289,-
-Del Libertador General Bernardo OHiggins,Lolol,7289,-
-Del Libertador General Bernardo OHiggins,Lolol,7289,-
-Del Libertador General Bernardo OHiggins,Lolol,7289,-
-Del Libertador General Bernardo OHiggins,Lolol,7289,-
-Del Libertador General Bernardo OHiggins,Machali,59913,-
-Del Libertador General Bernardo OHiggins,Machali,59913,6
-Del Libertador General Bernardo OHiggins,Machali,59913,7
-Del Libertador General Bernardo OHiggins,Machali,59913,8
-Del Libertador General Bernardo OHiggins,Machali,59913,8
-Del Libertador General Bernardo OHiggins,Malloa,14163,-
-Del Libertador General Bernardo OHiggins,Malloa,14163,-
-Del Libertador General Bernardo OHiggins,Malloa,14163,-
-Del Libertador General Bernardo OHiggins,Malloa,14163,-
-Del Libertador General Bernardo OHiggins,Malloa,14163,-
-Del Libertador General Bernardo OHiggins,Marchihue,7632,-
-Del Libertador General Bernardo OHiggins,Marchihue,7632,-
-Del Libertador General Bernardo OHiggins,Marchihue,7632,-
-Del Libertador General Bernardo OHiggins,Marchihue,7632,-
-Del Libertador General Bernardo OHiggins,Marchihue,7632,-
-Del Libertador General Bernardo OHiggins,Mostazal,27462,-
-Del Libertador General Bernardo OHiggins,Mostazal,27462,-
-Del Libertador General Bernardo OHiggins,Mostazal,27462,-
-Del Libertador General Bernardo OHiggins,Mostazal,27462,-
-Del Libertador General Bernardo OHiggins,Mostazal,27462,-
-Del Libertador General Bernardo OHiggins,Nancagua,19141,-
-Del Libertador General Bernardo OHiggins,Nancagua,19141,-
-Del Libertador General Bernardo OHiggins,Nancagua,19141,-
-Del Libertador General Bernardo OHiggins,Nancagua,19141,-
-Del Libertador General Bernardo OHiggins,Nancagua,19141,-
-Del Libertador General Bernardo OHiggins,Navidad,6904,-
-Del Libertador General Bernardo OHiggins,Navidad,6904,-
-Del Libertador General Bernardo OHiggins,Navidad,6904,-
-Del Libertador General Bernardo OHiggins,Navidad,6904,-
-Del Libertador General Bernardo OHiggins,Navidad,6904,-
-Del Libertador General Bernardo OHiggins,Olivar,14624,-
-Del Libertador General Bernardo OHiggins,Olivar,14624,-
-Del Libertador General Bernardo OHiggins,Olivar,14624,-
-Del Libertador General Bernardo OHiggins,Olivar,14624,-
-Del Libertador General Bernardo OHiggins,Olivar,14624,-
-Del Libertador General Bernardo OHiggins,Palmilla,13299,-
-Del Libertador General Bernardo OHiggins,Palmilla,13299,-
-Del Libertador General Bernardo OHiggins,Palmilla,13299,-
-Del Libertador General Bernardo OHiggins,Palmilla,13299,-
-Del Libertador General Bernardo OHiggins,Palmilla,13299,-
-Del Libertador General Bernardo OHiggins,Paredones,6349,-
-Del Libertador General Bernardo OHiggins,Paredones,6349,-
-Del Libertador General Bernardo OHiggins,Paredones,6349,-
-Del Libertador General Bernardo OHiggins,Paredones,6349,-
-Del Libertador General Bernardo OHiggins,Paredones,6349,-
-Del Libertador General Bernardo OHiggins,Peralillo,11848,-
-Del Libertador General Bernardo OHiggins,Peralillo,11848,-
-Del Libertador General Bernardo OHiggins,Peralillo,11848,-
-Del Libertador General Bernardo OHiggins,Peralillo,11848,-
-Del Libertador General Bernardo OHiggins,Peralillo,11848,-
-Del Libertador General Bernardo OHiggins,Peumo,14952,-
-Del Libertador General Bernardo OHiggins,Peumo,14952,-
-Del Libertador General Bernardo OHiggins,Peumo,14952,-
-Del Libertador General Bernardo OHiggins,Peumo,14952,-
-Del Libertador General Bernardo OHiggins,Peumo,14952,-
-Del Libertador General Bernardo OHiggins,Pichidegua,20743,-
-Del Libertador General Bernardo OHiggins,Pichidegua,20743,-
-Del Libertador General Bernardo OHiggins,Pichidegua,20743,-
-Del Libertador General Bernardo OHiggins,Pichidegua,20743,-
-Del Libertador General Bernardo OHiggins,Pichidegua,20743,-
-Del Libertador General Bernardo OHiggins,Pichilemu,17882,-
-Del Libertador General Bernardo OHiggins,Pichilemu,17882,-
-Del Libertador General Bernardo OHiggins,Pichilemu,17882,-
-Del Libertador General Bernardo OHiggins,Pichilemu,17882,-
-Del Libertador General Bernardo OHiggins,Pichilemu,17882,-
-Del Libertador General Bernardo OHiggins,Placilla,9164,-
-Del Libertador General Bernardo OHiggins,Placilla,9164,-
-Del Libertador General Bernardo OHiggins,Placilla,9164,-
-Del Libertador General Bernardo OHiggins,Placilla,9164,-
-Del Libertador General Bernardo OHiggins,Placilla,9164,-
-Del Libertador General Bernardo OHiggins,Pumanque,3531,-
-Del Libertador General Bernardo OHiggins,Pumanque,3531,-
-Del Libertador General Bernardo OHiggins,Pumanque,3531,-
-Del Libertador General Bernardo OHiggins,Pumanque,3531,-
-Del Libertador General Bernardo OHiggins,Pumanque,3531,-
-Del Libertador General Bernardo OHiggins,Quinta de Tilcoco,13877,-
-Del Libertador General Bernardo OHiggins,Quinta de Tilcoco,13877,-
-Del Libertador General Bernardo OHiggins,Quinta de Tilcoco,13877,-
-Del Libertador General Bernardo OHiggins,Quinta de Tilcoco,13877,-
-Del Libertador General Bernardo OHiggins,Quinta de Tilcoco,13877,-
-Del Libertador General Bernardo OHiggins,Rancagua,265211,7
-Del Libertador General Bernardo OHiggins,Rancagua,265211,7
-Del Libertador General Bernardo OHiggins,Rancagua,265211,9
-Del Libertador General Bernardo OHiggins,Rancagua,265211,15
-Del Libertador General Bernardo OHiggins,Rancagua,265211,15
-Del Libertador General Bernardo OHiggins,Rengo,63710,-
-Del Libertador General Bernardo OHiggins,Rengo,63710,-
-Del Libertador General Bernardo OHiggins,Rengo,63710,-
-Del Libertador General Bernardo OHiggins,Rengo,63710,-
-Del Libertador General Bernardo OHiggins,Rengo,63710,-
-Del Libertador General Bernardo OHiggins,Requinoa,30371,-
-Del Libertador General Bernardo OHiggins,Requinoa,30371,-
-Del Libertador General Bernardo OHiggins,Requinoa,30371,-
-Del Libertador General Bernardo OHiggins,Requinoa,30371,-
-Del Libertador General Bernardo OHiggins,Requinoa,30371,-
-Del Libertador General Bernardo OHiggins,San Fernando,78642,-
-Del Libertador General Bernardo OHiggins,San Fernando,78642,4
-Del Libertador General Bernardo OHiggins,San Fernando,78642,4
-Del Libertador General Bernardo OHiggins,San Fernando,78642,4
-Del Libertador General Bernardo OHiggins,San Fernando,78642,4
-Del Libertador General Bernardo OHiggins,San Vicente,50617,-
-Del Libertador General Bernardo OHiggins,San Vicente,50617,-
-Del Libertador General Bernardo OHiggins,San Vicente,50617,4
-Del Libertador General Bernardo OHiggins,San Vicente,50617,4
-Del Libertador General Bernardo OHiggins,San Vicente,50617,4
-Del Libertador General Bernardo OHiggins,Santa Cruz,41096,-
-Del Libertador General Bernardo OHiggins,Santa Cruz,41096,0
-Del Libertador General Bernardo OHiggins,Santa Cruz,41096,-
-Del Libertador General Bernardo OHiggins,Santa Cruz,41096,-
-Del Libertador General Bernardo OHiggins,Santa Cruz,41096,-
-Maule,Cauquenes,44143,-
-Maule,Cauquenes,44143,-
-Maule,Cauquenes,44143,-
-Maule,Cauquenes,44143,4
-Maule,Cauquenes,44143,4
-Maule,Chanco,9331,-
-Maule,Chanco,9331,-
-Maule,Chanco,9331,-
-Maule,Chanco,9331,-
-Maule,Chanco,9331,-
-Maule,Colbun,22565,-
-Maule,Colbun,22565,4
-Maule,Colbun,22565,4
-Maule,Colbun,22565,5
-Maule,Colbun,22565,5
-Maule,Constitucion,50348,-
-Maule,Constitucion,50348,-
-Maule,Constitucion,50348,-
-Maule,Constitucion,50348,-
-Maule,Constitucion,50348,5
-Maule,Curepto,9426,-
-Maule,Curepto,9426,-
-Maule,Curepto,9426,-
-Maule,Curepto,9426,-
-Maule,Curepto,9426,-
-Maule,Curico,163626,6
-Maule,Curico,163626,8
-Maule,Curico,163626,11
-Maule,Curico,163626,13
-Maule,Curico,163626,13
-Maule,Empedrado,4206,-
-Maule,Empedrado,4206,-
-Maule,Empedrado,4206,-
-Maule,Empedrado,4206,-
-Maule,Empedrado,4206,-
-Maule,Hualane,10222,-
-Maule,Hualane,10222,-
-Maule,Hualane,10222,-
-Maule,Hualane,10222,-
-Maule,Hualane,10222,-
-Maule,Licanten,6989,-
-Maule,Licanten,6989,-
-Maule,Licanten,6989,-
-Maule,Licanten,6989,-
-Maule,Licanten,6989,-
-Maule,Linares,101073,4
-Maule,Linares,101073,6
-Maule,Linares,101073,10
-Maule,Linares,101073,11
-Maule,Linares,101073,12
-Maule,Longavi,32810,-
-Maule,Longavi,32810,-
-Maule,Longavi,32810,-
-Maule,Longavi,32810,-
-Maule,Longavi,32810,-
-Maule,Maule,60000,-
-Maule,Maule,60000,-
-Maule,Maule,60000,-
-Maule,Maule,60000,-
-Maule,Maule,60000,-
-Maule,Molina,49800,-
-Maule,Molina,49800,-
-Maule,Molina,49800,-
-Maule,Molina,49800,-
-Maule,Molina,49800,-
-Maule,Parral,44544,4
-Maule,Parral,44544,-
-Maule,Parral,44544,-
-Maule,Parral,44544,-
-Maule,Parral,44544,4
-Maule,Pelarco,9083,-
-Maule,Pelarco,9083,-
-Maule,Pelarco,9083,-
-Maule,Pelarco,9083,-
-Maule,Pelarco,9083,-
-Maule,Pelluhue,8092,-
-Maule,Pelluhue,8092,-
-Maule,Pelluhue,8092,-
-Maule,Pelluhue,8092,-
-Maule,Pelluhue,8092,-
-Maule,Pencahue,8601,-
-Maule,Pencahue,8601,-
-Maule,Pencahue,8601,-
-Maule,Pencahue,8601,-
-Maule,Pencahue,8601,-
-Maule,Rauco,11248,-
-Maule,Rauco,11248,-
-Maule,Rauco,11248,-
-Maule,Rauco,11248,-
-Maule,Rauco,11248,-
-Maule,Retiro,21071,-
-Maule,Retiro,21071,-
-Maule,Retiro,21071,-
-Maule,Retiro,21071,-
-Maule,Retiro,21071,-
-Maule,Rio Claro,14753,-
-Maule,Rio Claro,14753,-
-Maule,Rio Claro,14753,-
-Maule,Rio Claro,14753,-
-Maule,Rio Claro,14753,-
-Maule,Romeral,16170,-
-Maule,Romeral,16170,-
-Maule,Romeral,16170,-
-Maule,Romeral,16170,-
-Maule,Romeral,16170,-
-Maule,Sagrada Familia,19469,-
-Maule,Sagrada Familia,19469,-
-Maule,Sagrada Familia,19469,-
-Maule,Sagrada Familia,19469,-
-Maule,Sagrada Familia,19469,-
-Maule,San Clemente,46292,-
-Maule,San Clemente,46292,-
-Maule,San Clemente,46292,-
-Maule,San Clemente,46292,-
-Maule,San Clemente,46292,-
-Maule,San Javier,49451,-
-Maule,San Javier,49451,-
-Maule,San Javier,49451,-
-Maule,San Javier,49451,7
-Maule,San Javier,49451,7
-Maule,San Rafael,9959,-
-Maule,San Rafael,9959,-
-Maule,San Rafael,9959,-
-Maule,San Rafael,9959,-
-Maule,San Rafael,9959,-
-Maule,Talca,236724,34
-Maule,Talca,236724,37
-Maule,Talca,236724,42
-Maule,Talca,236724,48
-Maule,Talca,236724,51
-Maule,Teno,30850,-
-Maule,Teno,30850,-
-Maule,Teno,30850,-
-Maule,Teno,30850,-
-Maule,Teno,30850,-
-Maule,Vichuquen,4381,-
-Maule,Vichuquen,4381,-
-Maule,Vichuquen,4381,-
-Maule,Vichuquen,4381,-
-Maule,Vichuquen,4381,-
-Maule,Villa Alegre,17512,-
-Maule,Villa Alegre,17512,-
-Maule,Villa Alegre,17512,-
-Maule,Villa Alegre,17512,-
-Maule,Villa Alegre,17512,-
-Maule,Yerbas Buenas,19200,-
-Maule,Yerbas Buenas,19200,-
-Maule,Yerbas Buenas,19200,-
-Maule,Yerbas Buenas,19200,-
-Maule,Yerbas Buenas,19200,-
-Nuble,Bulnes,22607,12
-Nuble,Bulnes,22607,18
-Nuble,Bulnes,22607,32
-Nuble,Bulnes,22607,36
-Nuble,Bulnes,22607,45
-Nuble,Chillan,198624,114
-Nuble,Chillan,198624,173
-Nuble,Chillan,198624,240
-Nuble,Chillan,198624,291
-Nuble,Chillan,198624,327
-Nuble,Chillan Viejo,33827,13
-Nuble,Chillan Viejo,33827,22
-Nuble,Chillan Viejo,33827,26
-Nuble,Chillan Viejo,33827,30
-Nuble,Chillan Viejo,33827,34
-Nuble,Cobquecura,5275,-
-Nuble,Cobquecura,5275,-
-Nuble,Cobquecura,5275,-
-Nuble,Cobquecura,5275,-
-Nuble,Cobquecura,5275,-
-Nuble,Coelemu,16845,-
-Nuble,Coelemu,16845,-
-Nuble,Coelemu,16845,-
-Nuble,Coelemu,16845,-
-Nuble,Coelemu,16845,4
-Nuble,Coihueco,28375,-
-Nuble,Coihueco,28375,-
-Nuble,Coihueco,28375,-
-Nuble,Coihueco,28375,6
-Nuble,Coihueco,28375,7
-Nuble,El Carmen,12334,-
-Nuble,El Carmen,12334,-
-Nuble,El Carmen,12334,-
-Nuble,El Carmen,12334,-
-Nuble,El Carmen,12334,-
-Nuble,Ninhue,5414,-
-Nuble,Ninhue,5414,-
-Nuble,Ninhue,5414,-
-Nuble,Ninhue,5414,-
-Nuble,Ninhue,5414,-
-Nuble,Niquen,11567,-
-Nuble,Niquen,11567,-
-Nuble,Niquen,11567,-
-Nuble,Niquen,11567,-
-Nuble,Niquen,11567,-
-Nuble,Pemuco,8639,-
-Nuble,Pemuco,8639,-
-Nuble,Pemuco,8639,-
-Nuble,Pemuco,8639,-
-Nuble,Pemuco,8639,-
-Nuble,Pinto,11880,-
-Nuble,Pinto,11880,-
-Nuble,Pinto,11880,6
-Nuble,Pinto,11880,9
-Nuble,Pinto,11880,10
-Nuble,Portezuelo,4940,-
-Nuble,Portezuelo,4940,-
-Nuble,Portezuelo,4940,-
-Nuble,Portezuelo,4940,-
-Nuble,Portezuelo,4940,-
-Nuble,Quillon,18777,4
-Nuble,Quillon,18777,7
-Nuble,Quillon,18777,15
-Nuble,Quillon,18777,17
-Nuble,Quillon,18777,22
-Nuble,Quirihue,12192,-
-Nuble,Quirihue,12192,-
-Nuble,Quirihue,12192,-
-Nuble,Quirihue,12192,-
-Nuble,Quirihue,12192,4
-Nuble,Ranquil,6261,-
-Nuble,Ranquil,6261,-
-Nuble,Ranquil,6261,5
-Nuble,Ranquil,6261,7
-Nuble,Ranquil,6261,9
-Nuble,San Carlos,56252,8
-Nuble,San Carlos,56252,13
-Nuble,San Carlos,56252,13
-Nuble,San Carlos,56252,19
-Nuble,San Carlos,56252,28
-Nuble,San Fabian,4654,-
-Nuble,San Fabian,4654,5
-Nuble,San Fabian,4654,6
-Nuble,San Fabian,4654,6
-Nuble,San Fabian,4654,6
-Nuble,San Ignacio,16624,-
-Nuble,San Ignacio,16624,-
-Nuble,San Ignacio,16624,-
-Nuble,San Ignacio,16624,6
-Nuble,San Ignacio,16624,6
-Nuble,San Nicolas,12172,-
-Nuble,San Nicolas,12172,-
-Nuble,San Nicolas,12172,4
-Nuble,San Nicolas,12172,10
-Nuble,San Nicolas,12172,11
-Nuble,Treguaco,5696,-
-Nuble,Treguaco,5696,-
-Nuble,Treguaco,5696,-
-Nuble,Treguaco,5696,-
-Nuble,Treguaco,5696,-
-Nuble,Yungay,18596,-
-Nuble,Yungay,18596,7
-Nuble,Yungay,18596,10
-Nuble,Yungay,18596,26
-Nuble,Yungay,18596,37
-Biobio,Alto Biobio,6775,-
-Biobio,Alto Biobio,6775,-
-Biobio,Alto Biobio,6775,-
-Biobio,Alto Biobio,6775,-
-Biobio,Alto Biobio,6775,-
-Biobio,Antuco,4306,-
-Biobio,Antuco,4306,-
-Biobio,Antuco,4306,-
-Biobio,Antuco,4306,-
-Biobio,Antuco,4306,-
-Biobio,Arauco,38679,-
-Biobio,Arauco,38679,5
-Biobio,Arauco,38679,6
-Biobio,Arauco,38679,6
-Biobio,Arauco,38679,6
-Biobio,Cabrero,30725,-
-Biobio,Cabrero,30725,-
-Biobio,Cabrero,30725,-
-Biobio,Cabrero,30725,-
-Biobio,Cabrero,30725,-
-Biobio,Canete,37003,-
-Biobio,Canete,37003,-
-Biobio,Canete,37003,-
-Biobio,Canete,37003,-
-Biobio,Canete,37003,-
-Biobio,Chiguayante,91180,6
-Biobio,Chiguayante,91180,18
-Biobio,Chiguayante,91180,26
-Biobio,Chiguayante,91180,32
-Biobio,Chiguayante,91180,35
-Biobio,Concepcion,238092,28
-Biobio,Concepcion,238092,47
-Biobio,Concepcion,238092,53
-Biobio,Concepcion,238092,70
-Biobio,Concepcion,238092,73
-Biobio,Contulmo,6330,-
-Biobio,Contulmo,6330,-
-Biobio,Contulmo,6330,-
-Biobio,Contulmo,6330,-
-Biobio,Contulmo,6330,-
-Biobio,Coronel,125829,-
-Biobio,Coronel,125829,11
-Biobio,Coronel,125829,12
-Biobio,Coronel,125829,13
-Biobio,Coronel,125829,18
-Biobio,Curanilahue,33892,-
-Biobio,Curanilahue,33892,-
-Biobio,Curanilahue,33892,-
-Biobio,Curanilahue,33892,-
-Biobio,Curanilahue,33892,-
-Biobio,Florida,11841,-
-Biobio,Florida,11841,-
-Biobio,Florida,11841,-
-Biobio,Florida,11841,-
-Biobio,Florida,11841,-
-Biobio,Hualpen,97273,-
-Biobio,Hualpen,97273,39
-Biobio,Hualpen,97273,50
-Biobio,Hualpen,97273,67
-Biobio,Hualpen,97273,74
-Biobio,Hualqui,26201,-
-Biobio,Hualqui,26201,-
-Biobio,Hualqui,26201,-
-Biobio,Hualqui,26201,7
-Biobio,Hualqui,26201,7
-Biobio,Laja,23873,-
-Biobio,Laja,23873,-
-Biobio,Laja,23873,-
-Biobio,Laja,23873,5
-Biobio,Laja,23873,5
-Biobio,Lebu,27100,-
-Biobio,Lebu,27100,-
-Biobio,Lebu,27100,-
-Biobio,Lebu,27100,-
-Biobio,Lebu,27100,-
-Biobio,Los Alamos,22524,-
-Biobio,Los Alamos,22524,-
-Biobio,Los Alamos,22524,-
-Biobio,Los Alamos,22524,-
-Biobio,Los Alamos,22524,-
-Biobio,Los Angeles,218515,11
-Biobio,Los Angeles,218515,15
-Biobio,Los Angeles,218515,12
-Biobio,Los Angeles,218515,17
-Biobio,Los Angeles,218515,22
-Biobio,Lota,45750,-
-Biobio,Lota,45750,-
-Biobio,Lota,45750,-
-Biobio,Lota,45750,-
-Biobio,Lota,45750,-
-Biobio,Mulchen,31041,-
-Biobio,Mulchen,31041,5
-Biobio,Mulchen,31041,5
-Biobio,Mulchen,31041,5
-Biobio,Mulchen,31041,5
-Biobio,Nacimiento,27944,-
-Biobio,Nacimiento,27944,-
-Biobio,Nacimiento,27944,-
-Biobio,Nacimiento,27944,-
-Biobio,Nacimiento,27944,4
-Biobio,Negrete,10429,-
-Biobio,Negrete,10429,-
-Biobio,Negrete,10429,-
-Biobio,Negrete,10429,-
-Biobio,Negrete,10429,-
-Biobio,Penco,49865,-
-Biobio,Penco,49865,-
-Biobio,Penco,49865,-
-Biobio,Penco,49865,5
-Biobio,Penco,49865,5
-Biobio,Quilaco,4179,-
-Biobio,Quilaco,4179,-
-Biobio,Quilaco,4179,-
-Biobio,Quilaco,4179,-
-Biobio,Quilaco,4179,-
-Biobio,Quilleco,10032,-
-Biobio,Quilleco,10032,-
-Biobio,Quilleco,10032,-
-Biobio,Quilleco,10032,-
-Biobio,Quilleco,10032,-
-Biobio,San Pedro de la Paz,145906,18
-Biobio,San Pedro de la Paz,145906,50
-Biobio,San Pedro de la Paz,145906,56
-Biobio,San Pedro de la Paz,145906,63
-Biobio,San Pedro de la Paz,145906,71
-Biobio,San Rosendo,3611,-
-Biobio,San Rosendo,3611,-
-Biobio,San Rosendo,3611,-
-Biobio,San Rosendo,3611,-
-Biobio,San Rosendo,3611,-
-Biobio,Santa Barbara,14592,-
-Biobio,Santa Barbara,14592,-
-Biobio,Santa Barbara,14592,-
-Biobio,Santa Barbara,14592,-
-Biobio,Santa Barbara,14592,-
-Biobio,Santa Juana,14779,-
-Biobio,Santa Juana,14779,-
-Biobio,Santa Juana,14779,-
-Biobio,Santa Juana,14779,-
-Biobio,Santa Juana,14779,-
-Biobio,Talcahuano,158345,-
-Biobio,Talcahuano,158345,23
-Biobio,Talcahuano,158345,29
-Biobio,Talcahuano,158345,36
-Biobio,Talcahuano,158345,45
-Biobio,Tirua,11019,-
-Biobio,Tirua,11019,-
-Biobio,Tirua,11019,-
-Biobio,Tirua,11019,4
-Biobio,Tirua,11019,4
-Biobio,Tome,58729,4
-Biobio,Tome,58729,6
-Biobio,Tome,58729,9
-Biobio,Tome,58729,25
-Biobio,Tome,58729,30
-Biobio,Tucapel,15205,
-Biobio,Tucapel,15205,-
-Biobio,Tucapel,15205,-
-Biobio,Tucapel,15205,-
-Biobio,Tucapel,15205,-
-Biobio,Yumbel,22132,5
-Biobio,Yumbel,22132,5
-Biobio,Yumbel,22132,5
-Biobio,Yumbel,22132,5
-Biobio,Yumbel,22132,5
-La Araucania,Angol,56058,7
-La Araucania,Angol,56058,13
-La Araucania,Angol,56058,12
-La Araucania,Angol,56058,15
-La Araucania,Angol,56058,23
-La Araucania,Carahue,25486,-
-La Araucania,Carahue,25486,-
-La Araucania,Carahue,25486,-
-La Araucania,Carahue,25486,-
-La Araucania,Carahue,25486,6
-La Araucania,Cholchol,12341,-
-La Araucania,Cholchol,12341,-
-La Araucania,Cholchol,12341,-
-La Araucania,Cholchol,12341,-
-La Araucania,Cholchol,12341,-
-La Araucania,Collipulli,26148,-
-La Araucania,Collipulli,26148,-
-La Araucania,Collipulli,26148,-
-La Araucania,Collipulli,26148,-
-La Araucania,Collipulli,26148,-
-La Araucania,Cunco,18055,-
-La Araucania,Cunco,18055,-
-La Araucania,Cunco,18055,-
-La Araucania,Cunco,18055,5
-La Araucania,Cunco,18055,5
-La Araucania,Curacautin,18178,-
-La Araucania,Curacautin,18178,-
-La Araucania,Curacautin,18178,-
-La Araucania,Curacautin,18178,-
-La Araucania,Curacautin,18178,-
-La Araucania,Curarrehue,7802,-
-La Araucania,Curarrehue,7802,-
-La Araucania,Curarrehue,7802,-
-La Araucania,Curarrehue,7802,-
-La Araucania,Curarrehue,7802,4
-La Araucania,Ercilla,8458,-
-La Araucania,Ercilla,8458,-
-La Araucania,Ercilla,8458,-
-La Araucania,Ercilla,8458,-
-La Araucania,Ercilla,8458,-
-La Araucania,Freire,25446,-
-La Araucania,Freire,25446,-
-La Araucania,Freire,25446,5
-La Araucania,Freire,25446,5
-La Araucania,Freire,25446,5
-La Araucania,Galvarino,12633,-
-La Araucania,Galvarino,12633,-
-La Araucania,Galvarino,12633,-
-La Araucania,Galvarino,12633,-
-La Araucania,Galvarino,12633,-
-La Araucania,Gorbea,15148,4
-La Araucania,Gorbea,15148,6
-La Araucania,Gorbea,15148,7
-La Araucania,Gorbea,15148,10
-La Araucania,Gorbea,15148,10
-La Araucania,Lautaro,40746,-
-La Araucania,Lautaro,40746,8
-La Araucania,Lautaro,40746,10
-La Araucania,Lautaro,40746,16
-La Araucania,Lautaro,40746,19
-La Araucania,Loncoche,24739,-
-La Araucania,Loncoche,24739,-
-La Araucania,Loncoche,24739,4
-La Araucania,Loncoche,24739,4
-La Araucania,Loncoche,24739,6
-La Araucania,Lonquimay,11049,-
-La Araucania,Lonquimay,11049,-
-La Araucania,Lonquimay,11049,-
-La Araucania,Lonquimay,11049,-
-La Araucania,Lonquimay,11049,-
-La Araucania,Los Sauces,7517,-
-La Araucania,Los Sauces,7517,-
-La Araucania,Los Sauces,7517,-
-La Araucania,Los Sauces,7517,-
-La Araucania,Los Sauces,7517,-
-La Araucania,Lumaco,10050,-
-La Araucania,Lumaco,10050,-
-La Araucania,Lumaco,10050,-
-La Araucania,Lumaco,10050,-
-La Araucania,Lumaco,10050,-
-La Araucania,Melipeuco,6265,-
-La Araucania,Melipeuco,6265,-
-La Araucania,Melipeuco,6265,-
-La Araucania,Melipeuco,6265,-
-La Araucania,Melipeuco,6265,-
-La Araucania,Nueva Imperial,33777,-
-La Araucania,Nueva Imperial,33777,-
-La Araucania,Nueva Imperial,33777,11
-La Araucania,Nueva Imperial,33777,16
-La Araucania,Nueva Imperial,33777,20
-La Araucania,Padre Las Casas,82110,9
-La Araucania,Padre Las Casas,82110,14
-La Araucania,Padre Las Casas,82110,33
-La Araucania,Padre Las Casas,82110,44
-La Araucania,Padre Las Casas,82110,49
-La Araucania,Perquenco,7223,-
-La Araucania,Perquenco,7223,-
-La Araucania,Perquenco,7223,-
-La Araucania,Perquenco,7223,-
-La Araucania,Perquenco,7223,-
-La Araucania,Pitrufquen,26096,4
-La Araucania,Pitrufquen,26096,6
-La Araucania,Pitrufquen,26096,7
-La Araucania,Pitrufquen,26096,11
-La Araucania,Pitrufquen,26096,12
-La Araucania,Pucon,29782,-
-La Araucania,Pucon,29782,-
-La Araucania,Pucon,29782,-
-La Araucania,Pucon,29782,4
-La Araucania,Pucon,29782,5
-La Araucania,Puren,12188,-
-La Araucania,Puren,12188,-
-La Araucania,Puren,12188,-
-La Araucania,Puren,12188,-
-La Araucania,Puren,12188,-
-La Araucania,Renaico,10833,-
-La Araucania,Renaico,10833,-
-La Araucania,Renaico,10833,-
-La Araucania,Renaico,10833,-
-La Araucania,Renaico,10833,-
-La Araucania,Saavedra,12793,-
-La Araucania,Saavedra,12793,-
-La Araucania,Saavedra,12793,-
-La Araucania,Saavedra,12793,-
-La Araucania,Saavedra,12793,-
-La Araucania,Temuco,302931,154
-La Araucania,Temuco,302931,225
-La Araucania,Temuco,302931,293
-La Araucania,Temuco,302931,365
-La Araucania,Temuco,302931,407
-La Araucania,Teodoro Schmidt,15786,-
-La Araucania,Teodoro Schmidt,15786,4
-La Araucania,Teodoro Schmidt,15786,-
-La Araucania,Teodoro Schmidt,15786,-
-La Araucania,Teodoro Schmidt,15786,-
-La Araucania,Tolten,10055,-
-La Araucania,Tolten,10055,-
-La Araucania,Tolten,10055,4
-La Araucania,Tolten,10055,5
-La Araucania,Tolten,10055,7
-La Araucania,Traiguen,19314,-
-La Araucania,Traiguen,19314,-
-La Araucania,Traiguen,19314,-
-La Araucania,Traiguen,19314,-
-La Araucania,Traiguen,19314,-
-La Araucania,Victoria,35467,5
-La Araucania,Victoria,35467,7
-La Araucania,Victoria,35467,11
-La Araucania,Victoria,35467,12
-La Araucania,Victoria,35467,15
-La Araucania,Vilcun,30766,4
-La Araucania,Vilcun,30766,5
-La Araucania,Vilcun,30766,11
-La Araucania,Vilcun,30766,18
-La Araucania,Vilcun,30766,20
-La Araucania,Villarrica,59103,
-La Araucania,Villarrica,59103,4
-La Araucania,Villarrica,59103,6
-La Araucania,Villarrica,59103,11
-La Araucania,Villarrica,59103,15
-Los Rios,Corral,5447,-
-Los Rios,Corral,5447,-
-Los Rios,Corral,5447,-
-Los Rios,Corral,5447,-
-Los Rios,Corral,5447,-
-Los Rios,Futrono,15261,-
-Los Rios,Futrono,15261,-
-Los Rios,Futrono,15261,-
-Los Rios,Futrono,15261,5
-Los Rios,Futrono,15261,5
-Los Rios,La Union,39538,-
-Los Rios,La Union,39538,9
-Los Rios,La Union,39538,10
-Los Rios,La Union,39538,17
-Los Rios,La Union,39538,18
-Los Rios,Lago Ranco,10292,-
-Los Rios,Lago Ranco,10292,-
-Los Rios,Lago Ranco,10292,-
-Los Rios,Lago Ranco,10292,-
-Los Rios,Lago Ranco,10292,-
-Los Rios,Lanco,17652,-
-Los Rios,Lanco,17652,-
-Los Rios,Lanco,17652,-
-Los Rios,Lanco,17652,-
-Los Rios,Lanco,17652,-
-Los Rios,Los Lagos,20518,-
-Los Rios,Los Lagos,20518,-
-Los Rios,Los Lagos,20518,-
-Los Rios,Los Lagos,20518,-
-Los Rios,Los Lagos,20518,-
-Los Rios,Mafil,7389,-
-Los Rios,Mafil,7389,-
-Los Rios,Mafil,7389,-
-Los Rios,Mafil,7389,-
-Los Rios,Mafil,7389,-
-Los Rios,Mariquina,23250,-
-Los Rios,Mariquina,23250,-
-Los Rios,Mariquina,23250,-
-Los Rios,Mariquina,23250,6
-Los Rios,Mariquina,23250,8
-Los Rios,Paillaco,20798,-
-Los Rios,Paillaco,20798,-
-Los Rios,Paillaco,20798,-
-Los Rios,Paillaco,20798,-
-Los Rios,Paillaco,20798,-
-Los Rios,Panguipulli,35991,-
-Los Rios,Panguipulli,35991,-
-Los Rios,Panguipulli,35991,-
-Los Rios,Panguipulli,35991,-
-Los Rios,Panguipulli,35991,-
-Los Rios,Rio Bueno,32925,-
-Los Rios,Rio Bueno,32925,-
-Los Rios,Rio Bueno,32925,-
-Los Rios,Rio Bueno,32925,5
-Los Rios,Rio Bueno,32925,5
-Los Rios,Valdivia,176774,12
-Los Rios,Valdivia,176774,45
-Los Rios,Valdivia,176774,47
-Los Rios,Valdivia,176774,65
-Los Rios,Valdivia,176774,72
-Los Lagos,Ancud,42458,-
-Los Lagos,Ancud,42458,-
-Los Lagos,Ancud,42458,-
-Los Lagos,Ancud,42458,-
-Los Lagos,Ancud,42458,-
-Los Lagos,Calbuco,36744,4
-Los Lagos,Calbuco,36744,5
-Los Lagos,Calbuco,36744,5
-Los Lagos,Calbuco,36744,5
-Los Lagos,Calbuco,36744,5
-Los Lagos,Castro,47607,-
-Los Lagos,Castro,47607,-
-Los Lagos,Castro,47607,-
-Los Lagos,Castro,47607,4
-Los Lagos,Castro,47607,6
-Los Lagos,Chaiten,5020,-
-Los Lagos,Chaiten,5020,-
-Los Lagos,Chaiten,5020,-
-Los Lagos,Chaiten,5020,-
-Los Lagos,Chaiten,5020,-
-Los Lagos,Chonchi,16013,-
-Los Lagos,Chonchi,16013,-
-Los Lagos,Chonchi,16013,-
-Los Lagos,Chonchi,16013,-
-Los Lagos,Chonchi,16013,-
-Los Lagos,Cochamo,4006,-
-Los Lagos,Cochamo,4006,-
-Los Lagos,Cochamo,4006,-
-Los Lagos,Cochamo,4006,-
-Los Lagos,Cochamo,4006,-
-Los Lagos,Curaco de Velez,4066,-
-Los Lagos,Curaco de Velez,4066,-
-Los Lagos,Curaco de Velez,4066,-
-Los Lagos,Curaco de Velez,4066,-
-Los Lagos,Curaco de Velez,4066,-
-Los Lagos,Dalcahue,15069,-
-Los Lagos,Dalcahue,15069,-
-Los Lagos,Dalcahue,15069,-
-Los Lagos,Dalcahue,15069,-
-Los Lagos,Dalcahue,15069,-
-Los Lagos,Fresia,12656,-
-Los Lagos,Fresia,12656,-
-Los Lagos,Fresia,12656,-
-Los Lagos,Fresia,12656,-
-Los Lagos,Fresia,12656,-
-Los Lagos,Frutillar,20223,-
-Los Lagos,Frutillar,20223,-
-Los Lagos,Frutillar,20223,-
-Los Lagos,Frutillar,20223,-
-Los Lagos,Frutillar,20223,-
-Los Lagos,Futaleufu,2806,-
-Los Lagos,Futaleufu,2806,-
-Los Lagos,Futaleufu,2806,-
-Los Lagos,Futaleufu,2806,-
-Los Lagos,Futaleufu,2806,-
-Los Lagos,Hualaihue,9525,-
-Los Lagos,Hualaihue,9525,-
-Los Lagos,Hualaihue,9525,-
-Los Lagos,Hualaihue,9525,-
-Los Lagos,Hualaihue,9525,-
-Los Lagos,Llanquihue,18621,-
-Los Lagos,Llanquihue,18621,-
-Los Lagos,Llanquihue,18621,-
-Los Lagos,Llanquihue,18621,-
-Los Lagos,Llanquihue,18621,-
-Los Lagos,Los Muermos,17817,-
-Los Lagos,Los Muermos,17817,-
-Los Lagos,Los Muermos,17817,-
-Los Lagos,Los Muermos,17817,-
-Los Lagos,Los Muermos,17817,-
-Los Lagos,Maullin,14894,-
-Los Lagos,Maullin,14894,-
-Los Lagos,Maullin,14894,-
-Los Lagos,Maullin,14894,-
-Los Lagos,Maullin,14894,-
-Los Lagos,Osorno,173410,66
-Los Lagos,Osorno,173410,120
-Los Lagos,Osorno,173410,163
-Los Lagos,Osorno,173410,190
-Los Lagos,Osorno,173410,207
-Los Lagos,Palena,1827,-
-Los Lagos,Palena,1827,-
-Los Lagos,Palena,1827,-
-Los Lagos,Palena,1827,-
-Los Lagos,Palena,1827,-
-Los Lagos,Puerto Montt,269398,34
-Los Lagos,Puerto Montt,269398,44
-Los Lagos,Puerto Montt,269398,25
-Los Lagos,Puerto Montt,269398,35
-Los Lagos,Puerto Montt,269398,37
-Los Lagos,Puerto Octay,9192,-
-Los Lagos,Puerto Octay,9192,-
-Los Lagos,Puerto Octay,9192,-
-Los Lagos,Puerto Octay,9192,-
-Los Lagos,Puerto Octay,9192,-
-Los Lagos,Puerto Varas,48620,-
-Los Lagos,Puerto Varas,48620,-
-Los Lagos,Puerto Varas,48620,-
-Los Lagos,Puerto Varas,48620,4
-Los Lagos,Puerto Varas,48620,-
-Los Lagos,Puqueldon,4201,-
-Los Lagos,Puqueldon,4201,-
-Los Lagos,Puqueldon,4201,-
-Los Lagos,Puqueldon,4201,-
-Los Lagos,Puqueldon,4201,-
-Los Lagos,Purranque,21080,-
-Los Lagos,Purranque,21080,-
-Los Lagos,Purranque,21080,5
-Los Lagos,Purranque,21080,5
-Los Lagos,Purranque,21080,11
-Los Lagos,Puyehue,11787,-
-Los Lagos,Puyehue,11787,-
-Los Lagos,Puyehue,11787,-
-Los Lagos,Puyehue,11787,-
-Los Lagos,Puyehue,11787,-
-Los Lagos,Queilen,5543,-
-Los Lagos,Queilen,5543,-
-Los Lagos,Queilen,5543,-
-Los Lagos,Queilen,5543,-
-Los Lagos,Queilen,5543,-
-Los Lagos,Quellon,29309,-
-Los Lagos,Quellon,29309,-
-Los Lagos,Quellon,29309,-
-Los Lagos,Quellon,29309,-
-Los Lagos,Quellon,29309,-
-Los Lagos,Quemchi,8783,-
-Los Lagos,Quemchi,8783,-
-Los Lagos,Quemchi,8783,-
-Los Lagos,Quemchi,8783,-
-Los Lagos,Quemchi,8783,-
-Los Lagos,Quinchao,8298,-
-Los Lagos,Quinchao,8298,-
-Los Lagos,Quinchao,8298,-
-Los Lagos,Quinchao,8298,-
-Los Lagos,Quinchao,8298,-
-Los Lagos,Rio Negro,14275,-
-Los Lagos,Rio Negro,14275,-
-Los Lagos,Rio Negro,14275,-
-Los Lagos,Rio Negro,14275,-
-Los Lagos,Rio Negro,14275,-
-Los Lagos,San Juan de la Costa,7639,-
-Los Lagos,San Juan de la Costa,7639,-
-Los Lagos,San Juan de la Costa,7639,-
-Los Lagos,San Juan de la Costa,7639,7
-Los Lagos,San Juan de la Costa,7639,11
-Los Lagos,San Pablo,10553,-
-Los Lagos,San Pablo,10553,-
-Los Lagos,San Pablo,10553,-
-Los Lagos,San Pablo,10553,-
-Los Lagos,San Pablo,10553,6
-Aisen,Aisen,25002,-
-Aisen,Aisen,25002,-
-Aisen,Aisen,25002,4
-Aisen,Aisen,25002,5
-Aisen,Aisen,25002,4
-Aisen,Chile Chico,5121,-
-Aisen,Chile Chico,5121,-
-Aisen,Chile Chico,5121,-
-Aisen,Chile Chico,5121,-
-Aisen,Chile Chico,5121,-
-Aisen,Cisnes,5828,-
-Aisen,Cisnes,5828,-
-Aisen,Cisnes,5828,-
-Aisen,Cisnes,5828,-
-Aisen,Cisnes,5828,-
-Aisen,Cochrane,3685,-
-Aisen,Cochrane,3685,-
-Aisen,Cochrane,3685,-
-Aisen,Cochrane,3685,-
-Aisen,Cochrane,3685,-
-Aisen,Coyhaique,61210,-
-Aisen,Coyhaique,61210,-
-Aisen,Coyhaique,61210,-
-Aisen,Coyhaique,61210,-
-Aisen,Coyhaique,61210,-
-Aisen,Guaitecas,1599,-
-Aisen,Guaitecas,1599,-
-Aisen,Guaitecas,1599,-
-Aisen,Guaitecas,1599,-
-Aisen,Guaitecas,1599,-
-Aisen,Lago Verde,920,-
-Aisen,Lago Verde,920,-
-Aisen,Lago Verde,920,-
-Aisen,Lago Verde,920,-
-Aisen,Lago Verde,920,-
-Aisen,OHiggins,661,-
-Aisen,OHiggins,661,-
-Aisen,OHiggins,661,-
-Aisen,OHiggins,661,-
-Aisen,OHiggins,661,-
-Aisen,Rio Ibanez,2699,-
-Aisen,Rio Ibanez,2699,-
-Aisen,Rio Ibanez,2699,-
-Aisen,Rio Ibanez,2699,-
-Aisen,Rio Ibanez,2699,-
-Aisen,Tortel,572,-
-Aisen,Tortel,572,-
-Aisen,Tortel,572,-
-Aisen,Tortel,572,-
-Aisen,Tortel,572,-
-Magallanes y la Antartica,Antartica,137,-
-Magallanes y la Antartica,Antartica,137,-
-Magallanes y la Antartica,Antartica,137,-
-Magallanes y la Antartica,Antartica,137,-
-Magallanes y la Antartica,Antartica,137,-
-Magallanes y la Antartica,Cabo de Hornos,1983,5
-Magallanes y la Antartica,Cabo de Hornos,1983,6
-Magallanes y la Antartica,Cabo de Hornos,1983,6
-Magallanes y la Antartica,Cabo de Hornos,1983,10
-Magallanes y la Antartica,Cabo de Hornos,1983,11
-Magallanes y la Antartica,Laguna Blanca,264,-
-Magallanes y la Antartica,Laguna Blanca,264,-
-Magallanes y la Antartica,Laguna Blanca,264,-
-Magallanes y la Antartica,Laguna Blanca,264,-
-Magallanes y la Antartica,Laguna Blanca,264,-
-Magallanes y la Antartica,Natales,23782,-
-Magallanes y la Antartica,Natales,23782,4
-Magallanes y la Antartica,Natales,23782,5
-Magallanes y la Antartica,Natales,23782,5
-Magallanes y la Antartica,Natales,23782,5
-Magallanes y la Antartica,Porvenir,7323,-
-Magallanes y la Antartica,Porvenir,7323,-
-Magallanes y la Antartica,Porvenir,7323,-
-Magallanes y la Antartica,Porvenir,7323,-
-Magallanes y la Antartica,Porvenir,7323,-
-Magallanes y la Antartica,Primavera,694,-
-Magallanes y la Antartica,Primavera,694,-
-Magallanes y la Antartica,Primavera,694,-
-Magallanes y la Antartica,Primavera,694,-
-Magallanes y la Antartica,Primavera,694,-
-Magallanes y la Antartica,Punta Arenas,141984,29
-Magallanes y la Antartica,Punta Arenas,141984,87
-Magallanes y la Antartica,Punta Arenas,141984,143
-Magallanes y la Antartica,Punta Arenas,141984,203
-Magallanes y la Antartica,Punta Arenas,141984,207
-Magallanes y la Antartica,Rio Verde,211,-
-Magallanes y la Antartica,Rio Verde,211,-
-Magallanes y la Antartica,Rio Verde,211,-
-Magallanes y la Antartica,Rio Verde,211,-
-Magallanes y la Antartica,Rio Verde,211,-
-Magallanes y la Antartica,San Gregorio,681,-
-Magallanes y la Antartica,San Gregorio,681,-
-Magallanes y la Antartica,San Gregorio,681,-
-Magallanes y la Antartica,San Gregorio,681,-
-Magallanes y la Antartica,San Gregorio,681,-
-Magallanes y la Antartica,Timaukel,282,-
-Magallanes y la Antartica,Timaukel,282,-
-Magallanes y la Antartica,Timaukel,282,-
-Magallanes y la Antartica,Timaukel,282,-
-Magallanes y la Antartica,Timaukel,282,-
-Magallanes y la Antartica,Torres del Paine,1021,-
-Magallanes y la Antartica,Torres del Paine,1021,-
-Magallanes y la Antartica,Torres del Paine,1021,-
-Magallanes y la Antartica,Torres del Paine,1021,-
-Magallanes y la Antartica,Torres del Paine,1021,-
+Region,Comuna,Poblacion,Tasa,Fecha
+Arica y Parinacota,Arica,247552,25.4,15101.0
+Arica y Parinacota,Arica,247552,25.4,247552
+Arica y Parinacota,Arica,247552,25.4,6
+Arica y Parinacota,Arica,247552,25.4,6
+Arica y Parinacota,Arica,247552,25.4,12
+Arica y Parinacota,Arica,247552,25.4,41
+Arica y Parinacota,Arica,247552,25.4,63
+Arica y Parinacota,Camarones,1233,0.0,15102.0
+Arica y Parinacota,Camarones,1233,0.0,1233
+Arica y Parinacota,Camarones,1233,0.0,-
+Arica y Parinacota,Camarones,1233,0.0,-
+Arica y Parinacota,Camarones,1233,0.0,-
+Arica y Parinacota,Camarones,1233,0.0,-
+Arica y Parinacota,Camarones,1233,0.0,-
+Arica y Parinacota,General Lagos,810,0.0,15202.0
+Arica y Parinacota,General Lagos,810,0.0,810
+Arica y Parinacota,General Lagos,810,0.0,-
+Arica y Parinacota,General Lagos,810,0.0,-
+Arica y Parinacota,General Lagos,810,0.0,-
+Arica y Parinacota,General Lagos,810,0.0,-
+Arica y Parinacota,General Lagos,810,0.0,-
+Arica y Parinacota,Putre,2515,0.0,15201.0
+Arica y Parinacota,Putre,2515,0.0,2515
+Arica y Parinacota,Putre,2515,0.0,-
+Arica y Parinacota,Putre,2515,0.0,-
+Arica y Parinacota,Putre,2515,0.0,-
+Arica y Parinacota,Putre,2515,0.0,-
+Arica y Parinacota,Putre,2515,0.0,-
+Tarapaca,Alto Hospicio,129999,4.6,1107.0
+Tarapaca,Alto Hospicio,129999,4.6,129999
+Tarapaca,Alto Hospicio,129999,4.6,-
+Tarapaca,Alto Hospicio,129999,4.6,-
+Tarapaca,Alto Hospicio,129999,4.6,-
+Tarapaca,Alto Hospicio,129999,4.6,5
+Tarapaca,Alto Hospicio,129999,4.6,6
+Tarapaca,Camina,1375,0.0,1402.0
+Tarapaca,Camina,1375,0.0,1375
+Tarapaca,Camina,1375,0.0,-
+Tarapaca,Camina,1375,0.0,-
+Tarapaca,Camina,1375,0.0,-
+Tarapaca,Camina,1375,0.0,-
+Tarapaca,Camina,1375,0.0,-
+Tarapaca,Colchane,1583,0.0,1403.0
+Tarapaca,Colchane,1583,0.0,1583
+Tarapaca,Colchane,1583,0.0,-
+Tarapaca,Colchane,1583,0.0,-
+Tarapaca,Colchane,1583,0.0,-
+Tarapaca,Colchane,1583,0.0,-
+Tarapaca,Colchane,1583,0.0,-
+Tarapaca,Huara,3000,0.0,1404.0
+Tarapaca,Huara,3000,0.0,3000
+Tarapaca,Huara,3000,0.0,-
+Tarapaca,Huara,3000,0.0,-
+Tarapaca,Huara,3000,0.0,-
+Tarapaca,Huara,3000,0.0,-
+Tarapaca,Huara,3000,0.0,-
+Tarapaca,Iquique,223463,7.2,1101.0
+Tarapaca,Iquique,223463,7.2,223463
+Tarapaca,Iquique,223463,7.2,5
+Tarapaca,Iquique,223463,7.2,9
+Tarapaca,Iquique,223463,7.2,10
+Tarapaca,Iquique,223463,7.2,13
+Tarapaca,Iquique,223463,7.2,16
+Tarapaca,Pica,5958,33.6,1405.0
+Tarapaca,Pica,5958,33.6,5958
+Tarapaca,Pica,5958,33.6,-
+Tarapaca,Pica,5958,33.6,-
+Tarapaca,Pica,5958,33.6,-
+Tarapaca,Pica,5958,33.6,-
+Tarapaca,Pica,5958,33.6,-
+Tarapaca,Pozo Almonte,17395,11.5,1401.0
+Tarapaca,Pozo Almonte,17395,11.5,17395
+Tarapaca,Pozo Almonte,17395,11.5,-
+Tarapaca,Pozo Almonte,17395,11.5,-
+Tarapaca,Pozo Almonte,17395,11.5,-
+Tarapaca,Pozo Almonte,17395,11.5,-
+Tarapaca,Pozo Almonte,17395,11.5,-
+Antofagasta,Antofagasta,425725,14.1,2101.0
+Antofagasta,Antofagasta,425725,14.1,425725
+Antofagasta,Antofagasta,425725,14.1,29
+Antofagasta,Antofagasta,425725,14.1,32
+Antofagasta,Antofagasta,425725,14.1,44
+Antofagasta,Antofagasta,425725,14.1,54
+Antofagasta,Antofagasta,425725,14.1,60
+Antofagasta,Calama,190336,4.2,2201.0
+Antofagasta,Calama,190336,4.2,190336
+Antofagasta,Calama,190336,4.2,-
+Antofagasta,Calama,190336,4.2,-
+Antofagasta,Calama,190336,4.2,5
+Antofagasta,Calama,190336,4.2,7
+Antofagasta,Calama,190336,4.2,8
+Antofagasta,Maria Elena,6814,0.0,2302.0
+Antofagasta,Maria Elena,6814,0.0,6814
+Antofagasta,Maria Elena,6814,0.0,-
+Antofagasta,Maria Elena,6814,0.0,-
+Antofagasta,Maria Elena,6814,0.0,-
+Antofagasta,Maria Elena,6814,0.0,-
+Antofagasta,Maria Elena,6814,0.0,-
+Antofagasta,Mejillones,14776,13.5,2102.0
+Antofagasta,Mejillones,14776,13.5,14776
+Antofagasta,Mejillones,14776,13.5,-
+Antofagasta,Mejillones,14776,13.5,-
+Antofagasta,Mejillones,14776,13.5,-
+Antofagasta,Mejillones,14776,13.5,-
+Antofagasta,Mejillones,14776,13.5,-
+Antofagasta,Ollague,287,0.0,2202.0
+Antofagasta,Ollague,287,0.0,287
+Antofagasta,Ollague,287,0.0,-
+Antofagasta,Ollague,287,0.0,-
+Antofagasta,Ollague,287,0.0,-
+Antofagasta,Ollague,287,0.0,-
+Antofagasta,Ollague,287,0.0,-
+Antofagasta,San Pedro de Atacama,10434,38.3,2203.0
+Antofagasta,San Pedro de Atacama,10434,38.3,10434
+Antofagasta,San Pedro de Atacama,10434,38.3,-
+Antofagasta,San Pedro de Atacama,10434,38.3,-
+Antofagasta,San Pedro de Atacama,10434,38.3,-
+Antofagasta,San Pedro de Atacama,10434,38.3,4
+Antofagasta,San Pedro de Atacama,10434,38.3,4
+Antofagasta,Sierra Gorda,1746,0.0,2103.0
+Antofagasta,Sierra Gorda,1746,0.0,1746
+Antofagasta,Sierra Gorda,1746,0.0,-
+Antofagasta,Sierra Gorda,1746,0.0,-
+Antofagasta,Sierra Gorda,1746,0.0,-
+Antofagasta,Sierra Gorda,1746,0.0,-
+Antofagasta,Sierra Gorda,1746,0.0,-
+Antofagasta,Taltal,13657,7.3,2104.0
+Antofagasta,Taltal,13657,7.3,13657
+Antofagasta,Taltal,13657,7.3,-
+Antofagasta,Taltal,13657,7.3,-
+Antofagasta,Taltal,13657,7.3,-
+Antofagasta,Taltal,13657,7.3,-
+Antofagasta,Taltal,13657,7.3,-
+Antofagasta,Tocopilla,28079,7.1,2301.0
+Antofagasta,Tocopilla,28079,7.1,28079
+Antofagasta,Tocopilla,28079,7.1,-
+Antofagasta,Tocopilla,28079,7.1,-
+Antofagasta,Tocopilla,28079,7.1,-
+Antofagasta,Tocopilla,28079,7.1,-
+Antofagasta,Tocopilla,28079,7.1,-
+Atacama,Alto del Carmen,5729,0.0,3302.0
+Atacama,Alto del Carmen,5729,0.0,5729
+Atacama,Alto del Carmen,5729,0.0,-
+Atacama,Alto del Carmen,5729,0.0,-
+Atacama,Alto del Carmen,5729,0.0,-
+Atacama,Alto del Carmen,5729,0.0,-
+Atacama,Alto del Carmen,5729,0.0,-
+Atacama,Caldera,19426,0.0,3102.0
+Atacama,Caldera,19426,0.0,19426
+Atacama,Caldera,19426,0.0,-
+Atacama,Caldera,19426,0.0,-
+Atacama,Caldera,19426,0.0,-
+Atacama,Caldera,19426,0.0,-
+Atacama,Caldera,19426,0.0,-
+Atacama,Chanaral,13164,0.0,3201.0
+Atacama,Chanaral,13164,0.0,13164
+Atacama,Chanaral,13164,0.0,-
+Atacama,Chanaral,13164,0.0,-
+Atacama,Chanaral,13164,0.0,-
+Atacama,Chanaral,13164,0.0,-
+Atacama,Chanaral,13164,0.0,-
+Atacama,Copiapo,171766,2.9,3101.0
+Atacama,Copiapo,171766,2.9,171766
+Atacama,Copiapo,171766,2.9,-
+Atacama,Copiapo,171766,2.9,-
+Atacama,Copiapo,171766,2.9,4
+Atacama,Copiapo,171766,2.9,4
+Atacama,Copiapo,171766,2.9,5
+Atacama,Diego de Almagro,14358,7.0,3202.0
+Atacama,Diego de Almagro,14358,7.0,14358
+Atacama,Diego de Almagro,14358,7.0,-
+Atacama,Diego de Almagro,14358,7.0,-
+Atacama,Diego de Almagro,14358,7.0,-
+Atacama,Diego de Almagro,14358,7.0,-
+Atacama,Diego de Almagro,14358,7.0,-
+Atacama,Freirina,7681,0.0,3303.0
+Atacama,Freirina,7681,0.0,7681
+Atacama,Freirina,7681,0.0,-
+Atacama,Freirina,7681,0.0,-
+Atacama,Freirina,7681,0.0,-
+Atacama,Freirina,7681,0.0,-
+Atacama,Freirina,7681,0.0,-
+Atacama,Huasco,11264,0.0,3304.0
+Atacama,Huasco,11264,0.0,11264
+Atacama,Huasco,11264,0.0,-
+Atacama,Huasco,11264,0.0,-
+Atacama,Huasco,11264,0.0,-
+Atacama,Huasco,11264,0.0,-
+Atacama,Huasco,11264,0.0,-
+Atacama,Tierra Amarilla,14312,14.0,3103.0
+Atacama,Tierra Amarilla,14312,14.0,14312
+Atacama,Tierra Amarilla,14312,14.0,-
+Atacama,Tierra Amarilla,14312,14.0,-
+Atacama,Tierra Amarilla,14312,14.0,-
+Atacama,Tierra Amarilla,14312,14.0,-
+Atacama,Tierra Amarilla,14312,14.0,-
+Atacama,Vallenar,57009,0.0,3301.0
+Atacama,Vallenar,57009,0.0,57009
+Atacama,Vallenar,57009,0.0,-
+Atacama,Vallenar,57009,0.0,-
+Atacama,Vallenar,57009,0.0,-
+Atacama,Vallenar,57009,0.0,-
+Atacama,Vallenar,57009,0.0,-
+Coquimbo,Andacollo,11791,0.0,4103.0
+Coquimbo,Andacollo,11791,0.0,11791
+Coquimbo,Andacollo,11791,0.0,-
+Coquimbo,Andacollo,11791,0.0,-
+Coquimbo,Andacollo,11791,0.0,-
+Coquimbo,Andacollo,11791,0.0,-
+Coquimbo,Andacollo,11791,0.0,-
+Coquimbo,Canela,9546,0.0,4202.0
+Coquimbo,Canela,9546,0.0,9546
+Coquimbo,Canela,9546,0.0,-
+Coquimbo,Canela,9546,0.0,-
+Coquimbo,Canela,9546,0.0,-
+Coquimbo,Canela,9546,0.0,-
+Coquimbo,Canela,9546,0.0,-
+Coquimbo,Combarbala,13884,0.0,4302.0
+Coquimbo,Combarbala,13884,0.0,13884
+Coquimbo,Combarbala,13884,0.0,-
+Coquimbo,Combarbala,13884,0.0,-
+Coquimbo,Combarbala,13884,0.0,-
+Coquimbo,Combarbala,13884,0.0,-
+Coquimbo,Combarbala,13884,0.0,-
+Coquimbo,Coquimbo,256735,7.4,4102.0
+Coquimbo,Coquimbo,256735,7.4,256735
+Coquimbo,Coquimbo,256735,7.4,17
+Coquimbo,Coquimbo,256735,7.4,19
+Coquimbo,Coquimbo,256735,7.4,19
+Coquimbo,Coquimbo,256735,7.4,19
+Coquimbo,Coquimbo,256735,7.4,19
+Coquimbo,Illapel,32801,36.6,4201.0
+Coquimbo,Illapel,32801,36.6,32801
+Coquimbo,Illapel,32801,36.6,-
+Coquimbo,Illapel,32801,36.6,-
+Coquimbo,Illapel,32801,36.6,-
+Coquimbo,Illapel,32801,36.6,7
+Coquimbo,Illapel,32801,36.6,12
+Coquimbo,La Higuera,4450,0.0,4104.0
+Coquimbo,La Higuera,4450,0.0,4450
+Coquimbo,La Higuera,4450,0.0,-
+Coquimbo,La Higuera,4450,0.0,-
+Coquimbo,La Higuera,4450,0.0,-
+Coquimbo,La Higuera,4450,0.0,-
+Coquimbo,La Higuera,4450,0.0,-
+Coquimbo,La Serena,249656,4.8,4101.0
+Coquimbo,La Serena,249656,4.8,249656
+Coquimbo,La Serena,249656,4.8,-
+Coquimbo,La Serena,249656,4.8,-
+Coquimbo,La Serena,249656,4.8,8
+Coquimbo,La Serena,249656,4.8,12
+Coquimbo,La Serena,249656,4.8,12
+Coquimbo,Los Vilos,23374,4.3,4203.0
+Coquimbo,Los Vilos,23374,4.3,23374
+Coquimbo,Los Vilos,23374,4.3,-
+Coquimbo,Los Vilos,23374,4.3,-
+Coquimbo,Los Vilos,23374,4.3,-
+Coquimbo,Los Vilos,23374,4.3,-
+Coquimbo,Los Vilos,23374,4.3,-
+Coquimbo,Monte Patria,32527,0.0,4303.0
+Coquimbo,Monte Patria,32527,0.0,32527
+Coquimbo,Monte Patria,32527,0.0,-
+Coquimbo,Monte Patria,32527,0.0,-
+Coquimbo,Monte Patria,32527,0.0,-
+Coquimbo,Monte Patria,32527,0.0,-
+Coquimbo,Monte Patria,32527,0.0,-
+Coquimbo,Ovalle,121269,5.8,4301.0
+Coquimbo,Ovalle,121269,5.8,121269
+Coquimbo,Ovalle,121269,5.8,4
+Coquimbo,Ovalle,121269,5.8,4
+Coquimbo,Ovalle,121269,5.8,4
+Coquimbo,Ovalle,121269,5.8,7
+Coquimbo,Ovalle,121269,5.8,7
+Coquimbo,Paiguano,4675,0.0,4105.0
+Coquimbo,Paiguano,4675,0.0,4675
+Coquimbo,Paiguano,4675,0.0,-
+Coquimbo,Paiguano,4675,0.0,-
+Coquimbo,Paiguano,4675,0.0,-
+Coquimbo,Paiguano,4675,0.0,-
+Coquimbo,Paiguano,4675,0.0,-
+Coquimbo,Punitaqui,12165,0.0,4304.0
+Coquimbo,Punitaqui,12165,0.0,12165
+Coquimbo,Punitaqui,12165,0.0,-
+Coquimbo,Punitaqui,12165,0.0,-
+Coquimbo,Punitaqui,12165,0.0,-
+Coquimbo,Punitaqui,12165,0.0,-
+Coquimbo,Punitaqui,12165,0.0,-
+Coquimbo,Rio Hurtado,4372,22.9,4305.0
+Coquimbo,Rio Hurtado,4372,22.9,4372
+Coquimbo,Rio Hurtado,4372,22.9,-
+Coquimbo,Rio Hurtado,4372,22.9,-
+Coquimbo,Rio Hurtado,4372,22.9,-
+Coquimbo,Rio Hurtado,4372,22.9,-
+Coquimbo,Rio Hurtado,4372,22.9,-
+Coquimbo,Salamanca,29110,13.7,4204.0
+Coquimbo,Salamanca,29110,13.7,29110
+Coquimbo,Salamanca,29110,13.7,-
+Coquimbo,Salamanca,29110,13.7,-
+Coquimbo,Salamanca,29110,13.7,-
+Coquimbo,Salamanca,29110,13.7,4
+Coquimbo,Salamanca,29110,13.7,4
+Coquimbo,Vicuna,29741,0.0,4106.0
+Coquimbo,Vicuna,29741,0.0,29741
+Coquimbo,Vicuna,29741,0.0,-
+Coquimbo,Vicuna,29741,0.0,-
+Coquimbo,Vicuna,29741,0.0,-
+Coquimbo,Vicuna,29741,0.0,-
+Coquimbo,Vicuna,29741,0.0,-
+Valparaiso,Algarrobo,15174,52.7,5602.0
+Valparaiso,Algarrobo,15174,52.7,15174
+Valparaiso,Algarrobo,15174,52.7,7
+Valparaiso,Algarrobo,15174,52.7,7
+Valparaiso,Algarrobo,15174,52.7,9
+Valparaiso,Algarrobo,15174,52.7,9
+Valparaiso,Algarrobo,15174,52.7,8
+Valparaiso,Cabildo,20663,0.0,5402.0
+Valparaiso,Cabildo,20663,0.0,20663
+Valparaiso,Cabildo,20663,0.0,-
+Valparaiso,Cabildo,20663,0.0,-
+Valparaiso,Cabildo,20663,0.0,-
+Valparaiso,Cabildo,20663,0.0,-
+Valparaiso,Cabildo,20663,0.0,-
+Valparaiso,Calera,53591,16.8,5502.0
+Valparaiso,Calera,53591,16.8,53591
+Valparaiso,Calera,53591,16.8,6
+Valparaiso,Calera,53591,16.8,6
+Valparaiso,Calera,53591,16.8,7
+Valparaiso,Calera,53591,16.8,7
+Valparaiso,Calera,53591,16.8,9
+Valparaiso,Calle Larga,16482,6.1,5302.0
+Valparaiso,Calle Larga,16482,6.1,16482
+Valparaiso,Calle Larga,16482,6.1,-
+Valparaiso,Calle Larga,16482,6.1,-
+Valparaiso,Calle Larga,16482,6.1,-
+Valparaiso,Calle Larga,16482,6.1,-
+Valparaiso,Calle Larga,16482,6.1,-
+Valparaiso,Cartagena,25357,0.0,5603.0
+Valparaiso,Cartagena,25357,0.0,25357
+Valparaiso,Cartagena,25357,0.0,-
+Valparaiso,Cartagena,25357,0.0,-
+Valparaiso,Cartagena,25357,0.0,-
+Valparaiso,Cartagena,25357,0.0,-
+Valparaiso,Cartagena,25357,0.0,-
+Valparaiso,Casablanca,29170,6.9,5102.0
+Valparaiso,Casablanca,29170,6.9,29170
+Valparaiso,Casablanca,29170,6.9,-
+Valparaiso,Casablanca,29170,6.9,-
+Valparaiso,Casablanca,29170,6.9,-
+Valparaiso,Casablanca,29170,6.9,-
+Valparaiso,Casablanca,29170,6.9,-
+Valparaiso,Catemu,15213,0.0,5702.0
+Valparaiso,Catemu,15213,0.0,15213
+Valparaiso,Catemu,15213,0.0,-
+Valparaiso,Catemu,15213,0.0,-
+Valparaiso,Catemu,15213,0.0,-
+Valparaiso,Catemu,15213,0.0,-
+Valparaiso,Catemu,15213,0.0,-
+Valparaiso,Concon,45889,6.5,5103.0
+Valparaiso,Concon,45889,6.5,45889
+Valparaiso,Concon,45889,6.5,-
+Valparaiso,Concon,45889,6.5,-
+Valparaiso,Concon,45889,6.5,7
+Valparaiso,Concon,45889,6.5,7
+Valparaiso,Concon,45889,6.5,-
+Valparaiso,El Quisco,17742,5.6,5604.0
+Valparaiso,El Quisco,17742,5.6,17742
+Valparaiso,El Quisco,17742,5.6,-
+Valparaiso,El Quisco,17742,5.6,-
+Valparaiso,El Quisco,17742,5.6,-
+Valparaiso,El Quisco,17742,5.6,-
+Valparaiso,El Quisco,17742,5.6,-
+Valparaiso,El Tabo,14338,13.9,5605.0
+Valparaiso,El Tabo,14338,13.9,14338
+Valparaiso,El Tabo,14338,13.9,-
+Valparaiso,El Tabo,14338,13.9,-
+Valparaiso,El Tabo,14338,13.9,-
+Valparaiso,El Tabo,14338,13.9,-
+Valparaiso,El Tabo,14338,13.9,-
+Valparaiso,Hijuelas,19099,0.0,5503.0
+Valparaiso,Hijuelas,19099,0.0,19099
+Valparaiso,Hijuelas,19099,0.0,-
+Valparaiso,Hijuelas,19099,0.0,-
+Valparaiso,Hijuelas,19099,0.0,-
+Valparaiso,Hijuelas,19099,0.0,-
+Valparaiso,Hijuelas,19099,0.0,-
+Valparaiso,Isla de Pascua,8277,60.4,5201.0
+Valparaiso,Isla de Pascua,8277,60.4,8277
+Valparaiso,Isla de Pascua,8277,60.4,-
+Valparaiso,Isla de Pascua,8277,60.4,5
+Valparaiso,Isla de Pascua,8277,60.4,5
+Valparaiso,Isla de Pascua,8277,60.4,5
+Valparaiso,Isla de Pascua,8277,60.4,5
+Valparaiso,Juan Fernandez,1033,0.0,5104.0
+Valparaiso,Juan Fernandez,1033,0.0,1033
+Valparaiso,Juan Fernandez,1033,0.0,-
+Valparaiso,Juan Fernandez,1033,0.0,-
+Valparaiso,Juan Fernandez,1033,0.0,-
+Valparaiso,Juan Fernandez,1033,0.0,-
+Valparaiso,Juan Fernandez,1033,0.0,-
+Valparaiso,La Cruz,25321,7.9,5504.0
+Valparaiso,La Cruz,25321,7.9,25321
+Valparaiso,La Cruz,25321,7.9,-
+Valparaiso,La Cruz,25321,7.9,-
+Valparaiso,La Cruz,25321,7.9,-
+Valparaiso,La Cruz,25321,7.9,-
+Valparaiso,La Cruz,25321,7.9,-
+Valparaiso,La Ligua,37739,5.3,5401.0
+Valparaiso,La Ligua,37739,5.3,37739
+Valparaiso,La Ligua,37739,5.3,-
+Valparaiso,La Ligua,37739,5.3,-
+Valparaiso,La Ligua,37739,5.3,-
+Valparaiso,La Ligua,37739,5.3,-
+Valparaiso,La Ligua,37739,5.3,-
+Valparaiso,Limache,49931,10.0,5802.0
+Valparaiso,Limache,49931,10.0,49931
+Valparaiso,Limache,49931,10.0,-
+Valparaiso,Limache,49931,10.0,-
+Valparaiso,Limache,49931,10.0,-
+Valparaiso,Limache,49931,10.0,4
+Valparaiso,Limache,49931,10.0,5
+Valparaiso,Llaillay,26533,7.5,5703.0
+Valparaiso,Llaillay,26533,7.5,26533
+Valparaiso,Llaillay,26533,7.5,-
+Valparaiso,Llaillay,26533,7.5,-
+Valparaiso,Llaillay,26533,7.5,-
+Valparaiso,Llaillay,26533,7.5,-
+Valparaiso,Llaillay,26533,7.5,-
+Valparaiso,Los Andes,68093,8.8,5301.0
+Valparaiso,Los Andes,68093,8.8,68093
+Valparaiso,Los Andes,68093,8.8,-
+Valparaiso,Los Andes,68093,8.8,-
+Valparaiso,Los Andes,68093,8.8,-
+Valparaiso,Los Andes,68093,8.8,-
+Valparaiso,Los Andes,68093,8.8,6
+Valparaiso,Nogales,23490,0.0,5506.0
+Valparaiso,Nogales,23490,0.0,23490
+Valparaiso,Nogales,23490,0.0,-
+Valparaiso,Nogales,23490,0.0,-
+Valparaiso,Nogales,23490,0.0,-
+Valparaiso,Nogales,23490,0.0,-
+Valparaiso,Nogales,23490,0.0,-
+Valparaiso,Olmue,19266,0.0,5803.0
+Valparaiso,Olmue,19266,0.0,19266
+Valparaiso,Olmue,19266,0.0,-
+Valparaiso,Olmue,19266,0.0,-
+Valparaiso,Olmue,19266,0.0,-
+Valparaiso,Olmue,19266,0.0,-
+Valparaiso,Olmue,19266,0.0,-
+Valparaiso,Panquehue,7633,0.0,5704.0
+Valparaiso,Panquehue,7633,0.0,7633
+Valparaiso,Panquehue,7633,0.0,-
+Valparaiso,Panquehue,7633,0.0,-
+Valparaiso,Panquehue,7633,0.0,-
+Valparaiso,Panquehue,7633,0.0,-
+Valparaiso,Panquehue,7633,0.0,-
+Valparaiso,Papudo,6201,0.0,5403.0
+Valparaiso,Papudo,6201,0.0,6201
+Valparaiso,Papudo,6201,0.0,-
+Valparaiso,Papudo,6201,0.0,-
+Valparaiso,Papudo,6201,0.0,-
+Valparaiso,Papudo,6201,0.0,-
+Valparaiso,Papudo,6201,0.0,-
+Valparaiso,Petorca,10558,37.9,5404.0
+Valparaiso,Petorca,10558,37.9,10558
+Valparaiso,Petorca,10558,37.9,-
+Valparaiso,Petorca,10558,37.9,-
+Valparaiso,Petorca,10558,37.9,-
+Valparaiso,Petorca,10558,37.9,5
+Valparaiso,Petorca,10558,37.9,4
+Valparaiso,Puchuncavi,20071,0.0,5105.0
+Valparaiso,Puchuncavi,20071,0.0,20071
+Valparaiso,Puchuncavi,20071,0.0,-
+Valparaiso,Puchuncavi,20071,0.0,-
+Valparaiso,Puchuncavi,20071,0.0,-
+Valparaiso,Puchuncavi,20071,0.0,-
+Valparaiso,Puchuncavi,20071,0.0,-
+Valparaiso,Putaendo,17645,5.7,5705.0
+Valparaiso,Putaendo,17645,5.7,17645
+Valparaiso,Putaendo,17645,5.7,-
+Valparaiso,Putaendo,17645,5.7,-
+Valparaiso,Putaendo,17645,5.7,-
+Valparaiso,Putaendo,17645,5.7,-
+Valparaiso,Putaendo,17645,5.7,-
+Valparaiso,Quillota,97572,13.3,5501.0
+Valparaiso,Quillota,97572,13.3,97572
+Valparaiso,Quillota,97572,13.3,6
+Valparaiso,Quillota,97572,13.3,7
+Valparaiso,Quillota,97572,13.3,9
+Valparaiso,Quillota,97572,13.3,9
+Valparaiso,Quillota,97572,13.3,13
+Valparaiso,Quilpue,167085,9.0,5801.0
+Valparaiso,Quilpue,167085,9.0,167085
+Valparaiso,Quilpue,167085,9.0,11
+Valparaiso,Quilpue,167085,9.0,10
+Valparaiso,Quilpue,167085,9.0,11
+Valparaiso,Quilpue,167085,9.0,12
+Valparaiso,Quilpue,167085,9.0,15
+Valparaiso,Quintero,36135,8.3,5107.0
+Valparaiso,Quintero,36135,8.3,36135
+Valparaiso,Quintero,36135,8.3,-
+Valparaiso,Quintero,36135,8.3,-
+Valparaiso,Quintero,36135,8.3,-
+Valparaiso,Quintero,36135,8.3,-
+Valparaiso,Quintero,36135,8.3,-
+Valparaiso,Rinconada,11263,8.9,5303.0
+Valparaiso,Rinconada,11263,8.9,11263
+Valparaiso,Rinconada,11263,8.9,-
+Valparaiso,Rinconada,11263,8.9,-
+Valparaiso,Rinconada,11263,8.9,-
+Valparaiso,Rinconada,11263,8.9,-
+Valparaiso,Rinconada,11263,8.9,-
+Valparaiso,San Antonio,96761,9.3,5601.0
+Valparaiso,San Antonio,96761,9.3,96761
+Valparaiso,San Antonio,96761,9.3,-
+Valparaiso,San Antonio,96761,9.3,4
+Valparaiso,San Antonio,96761,9.3,8
+Valparaiso,San Antonio,96761,9.3,9
+Valparaiso,San Antonio,96761,9.3,9
+Valparaiso,San Esteban,20643,0.0,5304.0
+Valparaiso,San Esteban,20643,0.0,20643
+Valparaiso,San Esteban,20643,0.0,-
+Valparaiso,San Esteban,20643,0.0,-
+Valparaiso,San Esteban,20643,0.0,-
+Valparaiso,San Esteban,20643,0.0,-
+Valparaiso,San Esteban,20643,0.0,-
+Valparaiso,San Felipe,83494,7.2,5701.0
+Valparaiso,San Felipe,83494,7.2,83494
+Valparaiso,San Felipe,83494,7.2,-
+Valparaiso,San Felipe,83494,7.2,-
+Valparaiso,San Felipe,83494,7.2,5
+Valparaiso,San Felipe,83494,7.2,5
+Valparaiso,San Felipe,83494,7.2,6
+Valparaiso,Santa Maria,16367,12.2,5706.0
+Valparaiso,Santa Maria,16367,12.2,16367
+Valparaiso,Santa Maria,16367,12.2,-
+Valparaiso,Santa Maria,16367,12.2,-
+Valparaiso,Santa Maria,16367,12.2,-
+Valparaiso,Santa Maria,16367,12.2,-
+Valparaiso,Santa Maria,16367,12.2,-
+Valparaiso,Santo Domingo,11934,41.9,5606.0
+Valparaiso,Santo Domingo,11934,41.9,11934
+Valparaiso,Santo Domingo,11934,41.9,
+Valparaiso,Santo Domingo,11934,41.9,-
+Valparaiso,Santo Domingo,11934,41.9,-
+Valparaiso,Santo Domingo,11934,41.9,-
+Valparaiso,Santo Domingo,11934,41.9,5
+Valparaiso,Valparaiso,315732,11.4,5101.0
+Valparaiso,Valparaiso,315732,11.4,315732
+Valparaiso,Valparaiso,315732,11.4,16
+Valparaiso,Valparaiso,315732,11.4,26
+Valparaiso,Valparaiso,315732,11.4,23
+Valparaiso,Valparaiso,315732,11.4,26
+Valparaiso,Valparaiso,315732,11.4,36
+Valparaiso,Villa Alemana,139310,8.6,5804.0
+Valparaiso,Villa Alemana,139310,8.6,139310
+Valparaiso,Villa Alemana,139310,8.6,6
+Valparaiso,Villa Alemana,139310,8.6,8
+Valparaiso,Villa Alemana,139310,8.6,11
+Valparaiso,Villa Alemana,139310,8.6,11
+Valparaiso,Villa Alemana,139310,8.6,12
+Valparaiso,Vina del Mar,361371,18.3,5109.0
+Valparaiso,Vina del Mar,361371,18.3,361371
+Valparaiso,Vina del Mar,361371,18.3,29
+Valparaiso,Vina del Mar,361371,18.3,38
+Valparaiso,Vina del Mar,361371,18.3,47
+Valparaiso,Vina del Mar,361371,18.3,53
+Valparaiso,Vina del Mar,361371,18.3,66
+Valparaiso,Zapallar,7994,0.0,5405.0
+Valparaiso,Zapallar,7994,0.0,7994
+Valparaiso,Zapallar,7994,0.0,-
+Valparaiso,Zapallar,7994,0.0,0
+Valparaiso,Zapallar,7994,0.0,-
+Valparaiso,Zapallar,7994,0.0,-
+Valparaiso,Zapallar,7994,0.0,-
+Metropolitana,Alhue,7405,0.0,13502.0
+Metropolitana,Alhue,7405,0.0,7405
+Metropolitana,Alhue,7405,0.0,-
+Metropolitana,Alhue,7405,0.0,-
+Metropolitana,Alhue,7405,0.0,-
+Metropolitana,Alhue,7405,0.0,-
+Metropolitana,Alhue,7405,0.0,-
+Metropolitana,Buin,109641,18.2,13402.0
+Metropolitana,Buin,109641,18.2,109641
+Metropolitana,Buin,109641,18.2,7
+Metropolitana,Buin,109641,18.2,8
+Metropolitana,Buin,109641,18.2,14
+Metropolitana,Buin,109641,18.2,20
+Metropolitana,Buin,109641,18.2,20
+Metropolitana,Calera de Tango,28525,28.0,13403.0
+Metropolitana,Calera de Tango,28525,28.0,28525
+Metropolitana,Calera de Tango,28525,28.0,6
+Metropolitana,Calera de Tango,28525,28.0,7
+Metropolitana,Calera de Tango,28525,28.0,7
+Metropolitana,Calera de Tango,28525,28.0,7
+Metropolitana,Calera de Tango,28525,28.0,8
+Metropolitana,Cerrillos,88956,12.4,13102.0
+Metropolitana,Cerrillos,88956,12.4,88956
+Metropolitana,Cerrillos,88956,12.4,-
+Metropolitana,Cerrillos,88956,12.4,4
+Metropolitana,Cerrillos,88956,12.4,4
+Metropolitana,Cerrillos,88956,12.4,5
+Metropolitana,Cerrillos,88956,12.4,11
+Metropolitana,Cerro Navia,142465,25.3,13103.0
+Metropolitana,Cerro Navia,142465,25.3,142465
+Metropolitana,Cerro Navia,142465,25.3,19
+Metropolitana,Cerro Navia,142465,25.3,21
+Metropolitana,Cerro Navia,142465,25.3,26
+Metropolitana,Cerro Navia,142465,25.3,31
+Metropolitana,Cerro Navia,142465,25.3,36
+Metropolitana,Colina,180353,34.4,13301.0
+Metropolitana,Colina,180353,34.4,180353
+Metropolitana,Colina,180353,34.4,32
+Metropolitana,Colina,180353,34.4,39
+Metropolitana,Colina,180353,34.4,47
+Metropolitana,Colina,180353,34.4,50
+Metropolitana,Colina,180353,34.4,62
+Metropolitana,Conchali,139195,27.3,13104.0
+Metropolitana,Conchali,139195,27.3,139195
+Metropolitana,Conchali,139195,27.3,14
+Metropolitana,Conchali,139195,27.3,18
+Metropolitana,Conchali,139195,27.3,22
+Metropolitana,Conchali,139195,27.3,32
+Metropolitana,Conchali,139195,27.3,38
+Metropolitana,Curacavi,36430,24.7,13503.0
+Metropolitana,Curacavi,36430,24.7,36430
+Metropolitana,Curacavi,36430,24.7,5
+Metropolitana,Curacavi,36430,24.7,5
+Metropolitana,Curacavi,36430,24.7,5
+Metropolitana,Curacavi,36430,24.7,8
+Metropolitana,Curacavi,36430,24.7,9
+Metropolitana,El Bosque,172000,26.7,13105.0
+Metropolitana,El Bosque,172000,26.7,172000
+Metropolitana,El Bosque,172000,26.7,18
+Metropolitana,El Bosque,172000,26.7,28
+Metropolitana,El Bosque,172000,26.7,35
+Metropolitana,El Bosque,172000,26.7,37
+Metropolitana,El Bosque,172000,26.7,46
+Metropolitana,El Monte,40014,17.5,13602.0
+Metropolitana,El Monte,40014,17.5,40014
+Metropolitana,El Monte,40014,17.5,-
+Metropolitana,El Monte,40014,17.5,-
+Metropolitana,El Monte,40014,17.5,-
+Metropolitana,El Monte,40014,17.5,5
+Metropolitana,El Monte,40014,17.5,7
+Metropolitana,Estacion Central,206792,19.8,13106.0
+Metropolitana,Estacion Central,206792,19.8,206792
+Metropolitana,Estacion Central,206792,19.8,16
+Metropolitana,Estacion Central,206792,19.8,22
+Metropolitana,Estacion Central,206792,19.8,25
+Metropolitana,Estacion Central,206792,19.8,36
+Metropolitana,Estacion Central,206792,19.8,41
+Metropolitana,Huechuraba,112528,31.1,13107.0
+Metropolitana,Huechuraba,112528,31.1,112528
+Metropolitana,Huechuraba,112528,31.1,17
+Metropolitana,Huechuraba,112528,31.1,19
+Metropolitana,Huechuraba,112528,31.1,22
+Metropolitana,Huechuraba,112528,31.1,32
+Metropolitana,Huechuraba,112528,31.1,35
+Metropolitana,Independencia,142065,21.8,13108.0
+Metropolitana,Independencia,142065,21.8,142065
+Metropolitana,Independencia,142065,21.8,15
+Metropolitana,Independencia,142065,21.8,17
+Metropolitana,Independencia,142065,21.8,22
+Metropolitana,Independencia,142065,21.8,26
+Metropolitana,Independencia,142065,21.8,31
+Metropolitana,Isla de Maipo,40171,17.4,13603.0
+Metropolitana,Isla de Maipo,40171,17.4,40171
+Metropolitana,Isla de Maipo,40171,17.4,-
+Metropolitana,Isla de Maipo,40171,17.4,-
+Metropolitana,Isla de Maipo,40171,17.4,-
+Metropolitana,Isla de Maipo,40171,17.4,4
+Metropolitana,Isla de Maipo,40171,17.4,7
+Metropolitana,La Cisterna,100434,25.9,13109.0
+Metropolitana,La Cisterna,100434,25.9,100434
+Metropolitana,La Cisterna,100434,25.9,10
+Metropolitana,La Cisterna,100434,25.9,12
+Metropolitana,La Cisterna,100434,25.9,12
+Metropolitana,La Cisterna,100434,25.9,20
+Metropolitana,La Cisterna,100434,25.9,26
+Metropolitana,La Florida,402433,25.6,13110.0
+Metropolitana,La Florida,402433,25.6,402433
+Metropolitana,La Florida,402433,25.6,43
+Metropolitana,La Florida,402433,25.6,58
+Metropolitana,La Florida,402433,25.6,67
+Metropolitana,La Florida,402433,25.6,91
+Metropolitana,La Florida,402433,25.6,103
+Metropolitana,La Granja,122557,21.2,13111.0
+Metropolitana,La Granja,122557,21.2,122557
+Metropolitana,La Granja,122557,21.2,5
+Metropolitana,La Granja,122557,21.2,8
+Metropolitana,La Granja,122557,21.2,16
+Metropolitana,La Granja,122557,21.2,24
+Metropolitana,La Granja,122557,21.2,26
+Metropolitana,La Pintana,189335,13.2,13112.0
+Metropolitana,La Pintana,189335,13.2,189335
+Metropolitana,La Pintana,189335,13.2,-
+Metropolitana,La Pintana,189335,13.2,10
+Metropolitana,La Pintana,189335,13.2,13
+Metropolitana,La Pintana,189335,13.2,18
+Metropolitana,La Pintana,189335,13.2,25
+Metropolitana,La Reina,100252,43.9,13113.0
+Metropolitana,La Reina,100252,43.9,100252
+Metropolitana,La Reina,100252,43.9,24
+Metropolitana,La Reina,100252,43.9,26
+Metropolitana,La Reina,100252,43.9,30
+Metropolitana,La Reina,100252,43.9,35
+Metropolitana,La Reina,100252,43.9,44
+Metropolitana,Lampa,126898,14.2,13302.0
+Metropolitana,Lampa,126898,14.2,126898
+Metropolitana,Lampa,126898,14.2,10
+Metropolitana,Lampa,126898,14.2,10
+Metropolitana,Lampa,126898,14.2,13
+Metropolitana,Lampa,126898,14.2,14
+Metropolitana,Lampa,126898,14.2,18
+Metropolitana,Las Condes,330759,80.4,13114.0
+Metropolitana,Las Condes,330759,80.4,330759
+Metropolitana,Las Condes,330759,80.4,181
+Metropolitana,Las Condes,330759,80.4,208
+Metropolitana,Las Condes,330759,80.4,224
+Metropolitana,Las Condes,330759,80.4,258
+Metropolitana,Las Condes,330759,80.4,266
+Metropolitana,Lo Barnechea,124076,84.6,13115.0
+Metropolitana,Lo Barnechea,124076,84.6,124076
+Metropolitana,Lo Barnechea,124076,84.6,68
+Metropolitana,Lo Barnechea,124076,84.6,78
+Metropolitana,Lo Barnechea,124076,84.6,85
+Metropolitana,Lo Barnechea,124076,84.6,97
+Metropolitana,Lo Barnechea,124076,84.6,105
+Metropolitana,Lo Espejo,103865,22.1,13116.0
+Metropolitana,Lo Espejo,103865,22.1,103865
+Metropolitana,Lo Espejo,103865,22.1,4
+Metropolitana,Lo Espejo,103865,22.1,7
+Metropolitana,Lo Espejo,103865,22.1,9
+Metropolitana,Lo Espejo,103865,22.1,15
+Metropolitana,Lo Espejo,103865,22.1,23
+Metropolitana,Lo Prado,104403,30.7,13117.0
+Metropolitana,Lo Prado,104403,30.7,104403
+Metropolitana,Lo Prado,104403,30.7,14
+Metropolitana,Lo Prado,104403,30.7,18
+Metropolitana,Lo Prado,104403,30.7,20
+Metropolitana,Lo Prado,104403,30.7,25
+Metropolitana,Lo Prado,104403,30.7,32
+Metropolitana,Macul,134635,27.5,13118.0
+Metropolitana,Macul,134635,27.5,134635
+Metropolitana,Macul,134635,27.5,10
+Metropolitana,Macul,134635,27.5,15
+Metropolitana,Macul,134635,27.5,23
+Metropolitana,Macul,134635,27.5,34
+Metropolitana,Macul,134635,27.5,37
+Metropolitana,Maipu,578605,18.3,13119.0
+Metropolitana,Maipu,578605,18.3,578605
+Metropolitana,Maipu,578605,18.3,43
+Metropolitana,Maipu,578605,18.3,55
+Metropolitana,Maipu,578605,18.3,64
+Metropolitana,Maipu,578605,18.3,83
+Metropolitana,Maipu,578605,18.3,106
+Metropolitana,Maria Pinto,14926,0.0,13504.0
+Metropolitana,Maria Pinto,14926,0.0,14926
+Metropolitana,Maria Pinto,14926,0.0,-
+Metropolitana,Maria Pinto,14926,0.0,-
+Metropolitana,Maria Pinto,14926,0.0,-
+Metropolitana,Maria Pinto,14926,0.0,-
+Metropolitana,Maria Pinto,14926,0.0,-
+Metropolitana,Melipilla,141612,8.5,13501.0
+Metropolitana,Melipilla,141612,8.5,141612
+Metropolitana,Melipilla,141612,8.5,6
+Metropolitana,Melipilla,141612,8.5,8
+Metropolitana,Melipilla,141612,8.5,9
+Metropolitana,Melipilla,141612,8.5,11
+Metropolitana,Melipilla,141612,8.5,12
+Metropolitana,Nunoa,250192,47.2,13120.0
+Metropolitana,Nunoa,250192,47.2,250192
+Metropolitana,Nunoa,250192,47.2,67
+Metropolitana,Nunoa,250192,47.2,84
+Metropolitana,Nunoa,250192,47.2,93
+Metropolitana,Nunoa,250192,47.2,107
+Metropolitana,Nunoa,250192,47.2,118
+Metropolitana,Padre Hurtado,74188,24.3,13604.0
+Metropolitana,Padre Hurtado,74188,24.3,74188
+Metropolitana,Padre Hurtado,74188,24.3,10
+Metropolitana,Padre Hurtado,74188,24.3,11
+Metropolitana,Padre Hurtado,74188,24.3,14
+Metropolitana,Padre Hurtado,74188,24.3,16
+Metropolitana,Padre Hurtado,74188,24.3,18
+Metropolitana,Paine,82766,3.6,13404.0
+Metropolitana,Paine,82766,3.6,82766
+Metropolitana,Paine,82766,3.6,-
+Metropolitana,Paine,82766,3.6,-
+Metropolitana,Paine,82766,3.6,-
+Metropolitana,Paine,82766,3.6,-
+Metropolitana,Paine,82766,3.6,-
+Metropolitana,Pedro Aguirre Cerda,107803,17.6,13121.0
+Metropolitana,Pedro Aguirre Cerda,107803,17.6,107803
+Metropolitana,Pedro Aguirre Cerda,107803,17.6,7
+Metropolitana,Pedro Aguirre Cerda,107803,17.6,13
+Metropolitana,Pedro Aguirre Cerda,107803,17.6,13
+Metropolitana,Pedro Aguirre Cerda,107803,17.6,16
+Metropolitana,Pedro Aguirre Cerda,107803,17.6,19
+Metropolitana,Penaflor,101058,17.8,13605.0
+Metropolitana,Penaflor,101058,17.8,101058
+Metropolitana,Penaflor,101058,17.8,10
+Metropolitana,Penaflor,101058,17.8,13
+Metropolitana,Penaflor,101058,17.8,13
+Metropolitana,Penaflor,101058,17.8,18
+Metropolitana,Penaflor,101058,17.8,18
+Metropolitana,Penalolen,266798,29.2,13122.0
+Metropolitana,Penalolen,266798,29.2,266798
+Metropolitana,Penalolen,266798,29.2,31
+Metropolitana,Penalolen,266798,29.2,46
+Metropolitana,Penalolen,266798,29.2,54
+Metropolitana,Penalolen,266798,29.2,65
+Metropolitana,Penalolen,266798,29.2,78
+Metropolitana,Pirque,30433,13.1,13202.0
+Metropolitana,Pirque,30433,13.1,30433
+Metropolitana,Pirque,30433,13.1,-
+Metropolitana,Pirque,30433,13.1,-
+Metropolitana,Pirque,30433,13.1,-
+Metropolitana,Pirque,30433,13.1,4
+Metropolitana,Pirque,30433,13.1,4
+Metropolitana,Providencia,157749,72.9,13123.0
+Metropolitana,Providencia,157749,72.9,157749
+Metropolitana,Providencia,157749,72.9,82
+Metropolitana,Providencia,157749,72.9,87
+Metropolitana,Providencia,157749,72.9,94
+Metropolitana,Providencia,157749,72.9,104
+Metropolitana,Providencia,157749,72.9,115
+Metropolitana,Pudahuel,253139,20.5,13124.0
+Metropolitana,Pudahuel,253139,20.5,253139
+Metropolitana,Pudahuel,253139,20.5,17
+Metropolitana,Pudahuel,253139,20.5,25
+Metropolitana,Pudahuel,253139,20.5,32
+Metropolitana,Pudahuel,253139,20.5,44
+Metropolitana,Pudahuel,253139,20.5,52
+Metropolitana,Puente Alto,645909,25.7,13201.0
+Metropolitana,Puente Alto,645909,25.7,645909
+Metropolitana,Puente Alto,645909,25.7,45
+Metropolitana,Puente Alto,645909,25.7,58
+Metropolitana,Puente Alto,645909,25.7,76
+Metropolitana,Puente Alto,645909,25.7,119
+Metropolitana,Puente Alto,645909,25.7,166
+Metropolitana,Quilicura,254694,22.4,13125.0
+Metropolitana,Quilicura,254694,22.4,254694
+Metropolitana,Quilicura,254694,22.4,17
+Metropolitana,Quilicura,254694,22.4,29
+Metropolitana,Quilicura,254694,22.4,33
+Metropolitana,Quilicura,254694,22.4,51
+Metropolitana,Quilicura,254694,22.4,57
+Metropolitana,Quinta Normal,136368,41.8,13126.0
+Metropolitana,Quinta Normal,136368,41.8,136368
+Metropolitana,Quinta Normal,136368,41.8,21
+Metropolitana,Quinta Normal,136368,41.8,25
+Metropolitana,Quinta Normal,136368,41.8,35
+Metropolitana,Quinta Normal,136368,41.8,41
+Metropolitana,Quinta Normal,136368,41.8,57
+Metropolitana,Recoleta,190075,27.4,13127.0
+Metropolitana,Recoleta,190075,27.4,190075
+Metropolitana,Recoleta,190075,27.4,17
+Metropolitana,Recoleta,190075,27.4,23
+Metropolitana,Recoleta,190075,27.4,32
+Metropolitana,Recoleta,190075,27.4,44
+Metropolitana,Recoleta,190075,27.4,52
+Metropolitana,Renca,160847,13.7,13128.0
+Metropolitana,Renca,160847,13.7,160847
+Metropolitana,Renca,160847,13.7,9
+Metropolitana,Renca,160847,13.7,14
+Metropolitana,Renca,160847,13.7,18
+Metropolitana,Renca,160847,13.7,19
+Metropolitana,Renca,160847,13.7,22
+Metropolitana,San Bernardo,334836,23.6,13401.0
+Metropolitana,San Bernardo,334836,23.6,334836
+Metropolitana,San Bernardo,334836,23.6,32
+Metropolitana,San Bernardo,334836,23.6,41
+Metropolitana,San Bernardo,334836,23.6,53
+Metropolitana,San Bernardo,334836,23.6,74
+Metropolitana,San Bernardo,334836,23.6,79
+Metropolitana,San Joaquin,103485,40.6,13129.0
+Metropolitana,San Joaquin,103485,40.6,103485
+Metropolitana,San Joaquin,103485,40.6,13
+Metropolitana,San Joaquin,103485,40.6,24
+Metropolitana,San Joaquin,103485,40.6,28
+Metropolitana,San Joaquin,103485,40.6,36
+Metropolitana,San Joaquin,103485,40.6,42
+Metropolitana,San Jose de Maipo,18644,16.1,13203.0
+Metropolitana,San Jose de Maipo,18644,16.1,18644
+Metropolitana,San Jose de Maipo,18644,16.1,-
+Metropolitana,San Jose de Maipo,18644,16.1,-
+Metropolitana,San Jose de Maipo,18644,16.1,-
+Metropolitana,San Jose de Maipo,18644,16.1,-
+Metropolitana,San Jose de Maipo,18644,16.1,-
+Metropolitana,San Miguel,133059,42.1,13130.0
+Metropolitana,San Miguel,133059,42.1,133059
+Metropolitana,San Miguel,133059,42.1,25
+Metropolitana,San Miguel,133059,42.1,32
+Metropolitana,San Miguel,133059,42.1,39
+Metropolitana,San Miguel,133059,42.1,49
+Metropolitana,San Miguel,133059,42.1,56
+Metropolitana,San Pedro,11953,0.0,13505.0
+Metropolitana,San Pedro,11953,0.0,11953
+Metropolitana,San Pedro,11953,0.0,-
+Metropolitana,San Pedro,11953,0.0,-
+Metropolitana,San Pedro,11953,0.0,-
+Metropolitana,San Pedro,11953,0.0,-
+Metropolitana,San Pedro,11953,0.0,-
+Metropolitana,San Ramon,86510,13.9,13131.0
+Metropolitana,San Ramon,86510,13.9,86510
+Metropolitana,San Ramon,86510,13.9,-
+Metropolitana,San Ramon,86510,13.9,6
+Metropolitana,San Ramon,86510,13.9,9
+Metropolitana,San Ramon,86510,13.9,9
+Metropolitana,San Ramon,86510,13.9,12
+Metropolitana,Santiago,503147,53.9,13101.0
+Metropolitana,Santiago,503147,53.9,503147
+Metropolitana,Santiago,503147,53.9,127
+Metropolitana,Santiago,503147,53.9,156
+Metropolitana,Santiago,503147,53.9,173
+Metropolitana,Santiago,503147,53.9,234
+Metropolitana,Santiago,503147,53.9,271
+Metropolitana,Talagante,81838,17.1,13601.0
+Metropolitana,Talagante,81838,17.1,81838
+Metropolitana,Talagante,81838,17.1,-
+Metropolitana,Talagante,81838,17.1,5
+Metropolitana,Talagante,81838,17.1,6
+Metropolitana,Talagante,81838,17.1,11
+Metropolitana,Talagante,81838,17.1,14
+Metropolitana,Tiltil,21477,18.6,13303.0
+Metropolitana,Tiltil,21477,18.6,21477
+Metropolitana,Tiltil,21477,18.6,-
+Metropolitana,Tiltil,21477,18.6,-
+Metropolitana,Tiltil,21477,18.6,-
+Metropolitana,Tiltil,21477,18.6,-
+Metropolitana,Tiltil,21477,18.6,4
+Metropolitana,Vitacura,96774,117.8,13132.0
+Metropolitana,Vitacura,96774,117.8,96774
+Metropolitana,Vitacura,96774,117.8,83
+Metropolitana,Vitacura,96774,117.8,90
+Metropolitana,Vitacura,96774,117.8,100
+Metropolitana,Vitacura,96774,117.8,114
+Metropolitana,Vitacura,96774,117.8,114
+Del Libertador General Bernardo OHiggins,Chepica,15925,0.0,6302.0
+Del Libertador General Bernardo OHiggins,Chepica,15925,0.0,15925
+Del Libertador General Bernardo OHiggins,Chepica,15925,0.0,-
+Del Libertador General Bernardo OHiggins,Chepica,15925,0.0,-
+Del Libertador General Bernardo OHiggins,Chepica,15925,0.0,-
+Del Libertador General Bernardo OHiggins,Chepica,15925,0.0,-
+Del Libertador General Bernardo OHiggins,Chepica,15925,0.0,-
+Del Libertador General Bernardo OHiggins,Chimbarongo,37696,5.3,6303.0
+Del Libertador General Bernardo OHiggins,Chimbarongo,37696,5.3,37696
+Del Libertador General Bernardo OHiggins,Chimbarongo,37696,5.3,-
+Del Libertador General Bernardo OHiggins,Chimbarongo,37696,5.3,-
+Del Libertador General Bernardo OHiggins,Chimbarongo,37696,5.3,-
+Del Libertador General Bernardo OHiggins,Chimbarongo,37696,5.3,-
+Del Libertador General Bernardo OHiggins,Chimbarongo,37696,5.3,-
+Del Libertador General Bernardo OHiggins,Codegua,14096,0.0,6102.0
+Del Libertador General Bernardo OHiggins,Codegua,14096,0.0,14096
+Del Libertador General Bernardo OHiggins,Codegua,14096,0.0,-
+Del Libertador General Bernardo OHiggins,Codegua,14096,0.0,-
+Del Libertador General Bernardo OHiggins,Codegua,14096,0.0,-
+Del Libertador General Bernardo OHiggins,Codegua,14096,0.0,-
+Del Libertador General Bernardo OHiggins,Codegua,14096,0.0,-
+Del Libertador General Bernardo OHiggins,Coinco,7831,0.0,6103.0
+Del Libertador General Bernardo OHiggins,Coinco,7831,0.0,7831
+Del Libertador General Bernardo OHiggins,Coinco,7831,0.0,-
+Del Libertador General Bernardo OHiggins,Coinco,7831,0.0,-
+Del Libertador General Bernardo OHiggins,Coinco,7831,0.0,-
+Del Libertador General Bernardo OHiggins,Coinco,7831,0.0,-
+Del Libertador General Bernardo OHiggins,Coinco,7831,0.0,-
+Del Libertador General Bernardo OHiggins,Coltauco,21263,0.0,6104.0
+Del Libertador General Bernardo OHiggins,Coltauco,21263,0.0,21263
+Del Libertador General Bernardo OHiggins,Coltauco,21263,0.0,-
+Del Libertador General Bernardo OHiggins,Coltauco,21263,0.0,-
+Del Libertador General Bernardo OHiggins,Coltauco,21263,0.0,-
+Del Libertador General Bernardo OHiggins,Coltauco,21263,0.0,-
+Del Libertador General Bernardo OHiggins,Coltauco,21263,0.0,-
+Del Libertador General Bernardo OHiggins,Donihue,22700,0.0,6105.0
+Del Libertador General Bernardo OHiggins,Donihue,22700,0.0,22700
+Del Libertador General Bernardo OHiggins,Donihue,22700,0.0,-
+Del Libertador General Bernardo OHiggins,Donihue,22700,0.0,-
+Del Libertador General Bernardo OHiggins,Donihue,22700,0.0,-
+Del Libertador General Bernardo OHiggins,Donihue,22700,0.0,-
+Del Libertador General Bernardo OHiggins,Donihue,22700,0.0,-
+Del Libertador General Bernardo OHiggins,Graneros,36504,0.0,6106.0
+Del Libertador General Bernardo OHiggins,Graneros,36504,0.0,36504
+Del Libertador General Bernardo OHiggins,Graneros,36504,0.0,-
+Del Libertador General Bernardo OHiggins,Graneros,36504,0.0,-
+Del Libertador General Bernardo OHiggins,Graneros,36504,0.0,-
+Del Libertador General Bernardo OHiggins,Graneros,36504,0.0,-
+Del Libertador General Bernardo OHiggins,Graneros,36504,0.0,-
+Del Libertador General Bernardo OHiggins,La Estrella,3114,0.0,6202.0
+Del Libertador General Bernardo OHiggins,La Estrella,3114,0.0,3114
+Del Libertador General Bernardo OHiggins,La Estrella,3114,0.0,-
+Del Libertador General Bernardo OHiggins,La Estrella,3114,0.0,-
+Del Libertador General Bernardo OHiggins,La Estrella,3114,0.0,-
+Del Libertador General Bernardo OHiggins,La Estrella,3114,0.0,-
+Del Libertador General Bernardo OHiggins,La Estrella,3114,0.0,-
+Del Libertador General Bernardo OHiggins,Las Cabras,26749,0.0,6107.0
+Del Libertador General Bernardo OHiggins,Las Cabras,26749,0.0,26749
+Del Libertador General Bernardo OHiggins,Las Cabras,26749,0.0,-
+Del Libertador General Bernardo OHiggins,Las Cabras,26749,0.0,-
+Del Libertador General Bernardo OHiggins,Las Cabras,26749,0.0,-
+Del Libertador General Bernardo OHiggins,Las Cabras,26749,0.0,-
+Del Libertador General Bernardo OHiggins,Las Cabras,26749,0.0,-
+Del Libertador General Bernardo OHiggins,Litueche,6765,0.0,6203.0
+Del Libertador General Bernardo OHiggins,Litueche,6765,0.0,6765
+Del Libertador General Bernardo OHiggins,Litueche,6765,0.0,-
+Del Libertador General Bernardo OHiggins,Litueche,6765,0.0,-
+Del Libertador General Bernardo OHiggins,Litueche,6765,0.0,-
+Del Libertador General Bernardo OHiggins,Litueche,6765,0.0,-
+Del Libertador General Bernardo OHiggins,Litueche,6765,0.0,-
+Del Libertador General Bernardo OHiggins,Lolol,7289,0.0,6304.0
+Del Libertador General Bernardo OHiggins,Lolol,7289,0.0,7289
+Del Libertador General Bernardo OHiggins,Lolol,7289,0.0,-
+Del Libertador General Bernardo OHiggins,Lolol,7289,0.0,-
+Del Libertador General Bernardo OHiggins,Lolol,7289,0.0,-
+Del Libertador General Bernardo OHiggins,Lolol,7289,0.0,-
+Del Libertador General Bernardo OHiggins,Lolol,7289,0.0,-
+Del Libertador General Bernardo OHiggins,Machali,59913,13.4,6108.0
+Del Libertador General Bernardo OHiggins,Machali,59913,13.4,59913
+Del Libertador General Bernardo OHiggins,Machali,59913,13.4,-
+Del Libertador General Bernardo OHiggins,Machali,59913,13.4,6
+Del Libertador General Bernardo OHiggins,Machali,59913,13.4,7
+Del Libertador General Bernardo OHiggins,Machali,59913,13.4,8
+Del Libertador General Bernardo OHiggins,Machali,59913,13.4,8
+Del Libertador General Bernardo OHiggins,Malloa,14163,0.0,6109.0
+Del Libertador General Bernardo OHiggins,Malloa,14163,0.0,14163
+Del Libertador General Bernardo OHiggins,Malloa,14163,0.0,-
+Del Libertador General Bernardo OHiggins,Malloa,14163,0.0,-
+Del Libertador General Bernardo OHiggins,Malloa,14163,0.0,-
+Del Libertador General Bernardo OHiggins,Malloa,14163,0.0,-
+Del Libertador General Bernardo OHiggins,Malloa,14163,0.0,-
+Del Libertador General Bernardo OHiggins,Marchihue,7632,0.0,6204.0
+Del Libertador General Bernardo OHiggins,Marchihue,7632,0.0,7632
+Del Libertador General Bernardo OHiggins,Marchihue,7632,0.0,-
+Del Libertador General Bernardo OHiggins,Marchihue,7632,0.0,-
+Del Libertador General Bernardo OHiggins,Marchihue,7632,0.0,-
+Del Libertador General Bernardo OHiggins,Marchihue,7632,0.0,-
+Del Libertador General Bernardo OHiggins,Marchihue,7632,0.0,-
+Del Libertador General Bernardo OHiggins,Mostazal,27462,0.0,6110.0
+Del Libertador General Bernardo OHiggins,Mostazal,27462,0.0,27462
+Del Libertador General Bernardo OHiggins,Mostazal,27462,0.0,-
+Del Libertador General Bernardo OHiggins,Mostazal,27462,0.0,-
+Del Libertador General Bernardo OHiggins,Mostazal,27462,0.0,-
+Del Libertador General Bernardo OHiggins,Mostazal,27462,0.0,-
+Del Libertador General Bernardo OHiggins,Mostazal,27462,0.0,-
+Del Libertador General Bernardo OHiggins,Nancagua,19141,0.0,6305.0
+Del Libertador General Bernardo OHiggins,Nancagua,19141,0.0,19141
+Del Libertador General Bernardo OHiggins,Nancagua,19141,0.0,-
+Del Libertador General Bernardo OHiggins,Nancagua,19141,0.0,-
+Del Libertador General Bernardo OHiggins,Nancagua,19141,0.0,-
+Del Libertador General Bernardo OHiggins,Nancagua,19141,0.0,-
+Del Libertador General Bernardo OHiggins,Nancagua,19141,0.0,-
+Del Libertador General Bernardo OHiggins,Navidad,6904,0.0,6205.0
+Del Libertador General Bernardo OHiggins,Navidad,6904,0.0,6904
+Del Libertador General Bernardo OHiggins,Navidad,6904,0.0,-
+Del Libertador General Bernardo OHiggins,Navidad,6904,0.0,-
+Del Libertador General Bernardo OHiggins,Navidad,6904,0.0,-
+Del Libertador General Bernardo OHiggins,Navidad,6904,0.0,-
+Del Libertador General Bernardo OHiggins,Navidad,6904,0.0,-
+Del Libertador General Bernardo OHiggins,Olivar,14624,13.7,6111.0
+Del Libertador General Bernardo OHiggins,Olivar,14624,13.7,14624
+Del Libertador General Bernardo OHiggins,Olivar,14624,13.7,-
+Del Libertador General Bernardo OHiggins,Olivar,14624,13.7,-
+Del Libertador General Bernardo OHiggins,Olivar,14624,13.7,-
+Del Libertador General Bernardo OHiggins,Olivar,14624,13.7,-
+Del Libertador General Bernardo OHiggins,Olivar,14624,13.7,-
+Del Libertador General Bernardo OHiggins,Palmilla,13299,0.0,6306.0
+Del Libertador General Bernardo OHiggins,Palmilla,13299,0.0,13299
+Del Libertador General Bernardo OHiggins,Palmilla,13299,0.0,-
+Del Libertador General Bernardo OHiggins,Palmilla,13299,0.0,-
+Del Libertador General Bernardo OHiggins,Palmilla,13299,0.0,-
+Del Libertador General Bernardo OHiggins,Palmilla,13299,0.0,-
+Del Libertador General Bernardo OHiggins,Palmilla,13299,0.0,-
+Del Libertador General Bernardo OHiggins,Paredones,6349,0.0,6206.0
+Del Libertador General Bernardo OHiggins,Paredones,6349,0.0,6349
+Del Libertador General Bernardo OHiggins,Paredones,6349,0.0,-
+Del Libertador General Bernardo OHiggins,Paredones,6349,0.0,-
+Del Libertador General Bernardo OHiggins,Paredones,6349,0.0,-
+Del Libertador General Bernardo OHiggins,Paredones,6349,0.0,-
+Del Libertador General Bernardo OHiggins,Paredones,6349,0.0,-
+Del Libertador General Bernardo OHiggins,Peralillo,11848,0.0,6307.0
+Del Libertador General Bernardo OHiggins,Peralillo,11848,0.0,11848
+Del Libertador General Bernardo OHiggins,Peralillo,11848,0.0,-
+Del Libertador General Bernardo OHiggins,Peralillo,11848,0.0,-
+Del Libertador General Bernardo OHiggins,Peralillo,11848,0.0,-
+Del Libertador General Bernardo OHiggins,Peralillo,11848,0.0,-
+Del Libertador General Bernardo OHiggins,Peralillo,11848,0.0,-
+Del Libertador General Bernardo OHiggins,Peumo,14952,6.7,6112.0
+Del Libertador General Bernardo OHiggins,Peumo,14952,6.7,14952
+Del Libertador General Bernardo OHiggins,Peumo,14952,6.7,-
+Del Libertador General Bernardo OHiggins,Peumo,14952,6.7,-
+Del Libertador General Bernardo OHiggins,Peumo,14952,6.7,-
+Del Libertador General Bernardo OHiggins,Peumo,14952,6.7,-
+Del Libertador General Bernardo OHiggins,Peumo,14952,6.7,-
+Del Libertador General Bernardo OHiggins,Pichidegua,20743,0.0,6113.0
+Del Libertador General Bernardo OHiggins,Pichidegua,20743,0.0,20743
+Del Libertador General Bernardo OHiggins,Pichidegua,20743,0.0,-
+Del Libertador General Bernardo OHiggins,Pichidegua,20743,0.0,-
+Del Libertador General Bernardo OHiggins,Pichidegua,20743,0.0,-
+Del Libertador General Bernardo OHiggins,Pichidegua,20743,0.0,-
+Del Libertador General Bernardo OHiggins,Pichidegua,20743,0.0,-
+Del Libertador General Bernardo OHiggins,Pichilemu,17882,0.0,6201.0
+Del Libertador General Bernardo OHiggins,Pichilemu,17882,0.0,17882
+Del Libertador General Bernardo OHiggins,Pichilemu,17882,0.0,-
+Del Libertador General Bernardo OHiggins,Pichilemu,17882,0.0,-
+Del Libertador General Bernardo OHiggins,Pichilemu,17882,0.0,-
+Del Libertador General Bernardo OHiggins,Pichilemu,17882,0.0,-
+Del Libertador General Bernardo OHiggins,Pichilemu,17882,0.0,-
+Del Libertador General Bernardo OHiggins,Placilla,9164,10.9,6308.0
+Del Libertador General Bernardo OHiggins,Placilla,9164,10.9,9164
+Del Libertador General Bernardo OHiggins,Placilla,9164,10.9,-
+Del Libertador General Bernardo OHiggins,Placilla,9164,10.9,-
+Del Libertador General Bernardo OHiggins,Placilla,9164,10.9,-
+Del Libertador General Bernardo OHiggins,Placilla,9164,10.9,-
+Del Libertador General Bernardo OHiggins,Placilla,9164,10.9,-
+Del Libertador General Bernardo OHiggins,Pumanque,3531,0.0,6309.0
+Del Libertador General Bernardo OHiggins,Pumanque,3531,0.0,3531
+Del Libertador General Bernardo OHiggins,Pumanque,3531,0.0,-
+Del Libertador General Bernardo OHiggins,Pumanque,3531,0.0,-
+Del Libertador General Bernardo OHiggins,Pumanque,3531,0.0,-
+Del Libertador General Bernardo OHiggins,Pumanque,3531,0.0,-
+Del Libertador General Bernardo OHiggins,Pumanque,3531,0.0,-
+Del Libertador General Bernardo OHiggins,Quinta de Tilcoco,13877,14.4,6114.0
+Del Libertador General Bernardo OHiggins,Quinta de Tilcoco,13877,14.4,13877
+Del Libertador General Bernardo OHiggins,Quinta de Tilcoco,13877,14.4,-
+Del Libertador General Bernardo OHiggins,Quinta de Tilcoco,13877,14.4,-
+Del Libertador General Bernardo OHiggins,Quinta de Tilcoco,13877,14.4,-
+Del Libertador General Bernardo OHiggins,Quinta de Tilcoco,13877,14.4,-
+Del Libertador General Bernardo OHiggins,Quinta de Tilcoco,13877,14.4,-
+Del Libertador General Bernardo OHiggins,Rancagua,265211,5.7,6101.0
+Del Libertador General Bernardo OHiggins,Rancagua,265211,5.7,265211
+Del Libertador General Bernardo OHiggins,Rancagua,265211,5.7,7
+Del Libertador General Bernardo OHiggins,Rancagua,265211,5.7,7
+Del Libertador General Bernardo OHiggins,Rancagua,265211,5.7,9
+Del Libertador General Bernardo OHiggins,Rancagua,265211,5.7,15
+Del Libertador General Bernardo OHiggins,Rancagua,265211,5.7,15
+Del Libertador General Bernardo OHiggins,Rengo,63710,1.6,6115.0
+Del Libertador General Bernardo OHiggins,Rengo,63710,1.6,63710
+Del Libertador General Bernardo OHiggins,Rengo,63710,1.6,-
+Del Libertador General Bernardo OHiggins,Rengo,63710,1.6,-
+Del Libertador General Bernardo OHiggins,Rengo,63710,1.6,-
+Del Libertador General Bernardo OHiggins,Rengo,63710,1.6,-
+Del Libertador General Bernardo OHiggins,Rengo,63710,1.6,-
+Del Libertador General Bernardo OHiggins,Requinoa,30371,3.3,6116.0
+Del Libertador General Bernardo OHiggins,Requinoa,30371,3.3,30371
+Del Libertador General Bernardo OHiggins,Requinoa,30371,3.3,-
+Del Libertador General Bernardo OHiggins,Requinoa,30371,3.3,-
+Del Libertador General Bernardo OHiggins,Requinoa,30371,3.3,-
+Del Libertador General Bernardo OHiggins,Requinoa,30371,3.3,-
+Del Libertador General Bernardo OHiggins,Requinoa,30371,3.3,-
+Del Libertador General Bernardo OHiggins,San Fernando,78642,5.1,6301.0
+Del Libertador General Bernardo OHiggins,San Fernando,78642,5.1,78642
+Del Libertador General Bernardo OHiggins,San Fernando,78642,5.1,-
+Del Libertador General Bernardo OHiggins,San Fernando,78642,5.1,4
+Del Libertador General Bernardo OHiggins,San Fernando,78642,5.1,4
+Del Libertador General Bernardo OHiggins,San Fernando,78642,5.1,4
+Del Libertador General Bernardo OHiggins,San Fernando,78642,5.1,4
+Del Libertador General Bernardo OHiggins,San Vicente,50617,7.9,6117.0
+Del Libertador General Bernardo OHiggins,San Vicente,50617,7.9,50617
+Del Libertador General Bernardo OHiggins,San Vicente,50617,7.9,-
+Del Libertador General Bernardo OHiggins,San Vicente,50617,7.9,-
+Del Libertador General Bernardo OHiggins,San Vicente,50617,7.9,4
+Del Libertador General Bernardo OHiggins,San Vicente,50617,7.9,4
+Del Libertador General Bernardo OHiggins,San Vicente,50617,7.9,4
+Del Libertador General Bernardo OHiggins,Santa Cruz,41096,4.9,6310.0
+Del Libertador General Bernardo OHiggins,Santa Cruz,41096,4.9,41096
+Del Libertador General Bernardo OHiggins,Santa Cruz,41096,4.9,-
+Del Libertador General Bernardo OHiggins,Santa Cruz,41096,4.9,0
+Del Libertador General Bernardo OHiggins,Santa Cruz,41096,4.9,-
+Del Libertador General Bernardo OHiggins,Santa Cruz,41096,4.9,-
+Del Libertador General Bernardo OHiggins,Santa Cruz,41096,4.9,-
+Maule,Cauquenes,44143,9.1,7201.0
+Maule,Cauquenes,44143,9.1,44143
+Maule,Cauquenes,44143,9.1,-
+Maule,Cauquenes,44143,9.1,-
+Maule,Cauquenes,44143,9.1,-
+Maule,Cauquenes,44143,9.1,4
+Maule,Cauquenes,44143,9.1,4
+Maule,Chanco,9331,0.0,7202.0
+Maule,Chanco,9331,0.0,9331
+Maule,Chanco,9331,0.0,-
+Maule,Chanco,9331,0.0,-
+Maule,Chanco,9331,0.0,-
+Maule,Chanco,9331,0.0,-
+Maule,Chanco,9331,0.0,-
+Maule,Colbun,22565,22.2,7402.0
+Maule,Colbun,22565,22.2,22565
+Maule,Colbun,22565,22.2,-
+Maule,Colbun,22565,22.2,4
+Maule,Colbun,22565,22.2,4
+Maule,Colbun,22565,22.2,5
+Maule,Colbun,22565,22.2,5
+Maule,Constitucion,50348,9.9,7102.0
+Maule,Constitucion,50348,9.9,50348
+Maule,Constitucion,50348,9.9,-
+Maule,Constitucion,50348,9.9,-
+Maule,Constitucion,50348,9.9,-
+Maule,Constitucion,50348,9.9,-
+Maule,Constitucion,50348,9.9,5
+Maule,Curepto,9426,21.2,7103.0
+Maule,Curepto,9426,21.2,9426
+Maule,Curepto,9426,21.2,-
+Maule,Curepto,9426,21.2,-
+Maule,Curepto,9426,21.2,-
+Maule,Curepto,9426,21.2,-
+Maule,Curepto,9426,21.2,-
+Maule,Curico,163626,7.9,7301.0
+Maule,Curico,163626,7.9,163626
+Maule,Curico,163626,7.9,6
+Maule,Curico,163626,7.9,8
+Maule,Curico,163626,7.9,11
+Maule,Curico,163626,7.9,13
+Maule,Curico,163626,7.9,13
+Maule,Empedrado,4206,0.0,7104.0
+Maule,Empedrado,4206,0.0,4206
+Maule,Empedrado,4206,0.0,-
+Maule,Empedrado,4206,0.0,-
+Maule,Empedrado,4206,0.0,-
+Maule,Empedrado,4206,0.0,-
+Maule,Empedrado,4206,0.0,-
+Maule,Hualane,10222,0.0,7302.0
+Maule,Hualane,10222,0.0,10222
+Maule,Hualane,10222,0.0,-
+Maule,Hualane,10222,0.0,-
+Maule,Hualane,10222,0.0,-
+Maule,Hualane,10222,0.0,-
+Maule,Hualane,10222,0.0,-
+Maule,Licanten,6989,0.0,7303.0
+Maule,Licanten,6989,0.0,6989
+Maule,Licanten,6989,0.0,-
+Maule,Licanten,6989,0.0,-
+Maule,Licanten,6989,0.0,-
+Maule,Licanten,6989,0.0,-
+Maule,Licanten,6989,0.0,-
+Maule,Linares,101073,11.9,7401.0
+Maule,Linares,101073,11.9,101073
+Maule,Linares,101073,11.9,4
+Maule,Linares,101073,11.9,6
+Maule,Linares,101073,11.9,10
+Maule,Linares,101073,11.9,11
+Maule,Linares,101073,11.9,12
+Maule,Longavi,32810,6.1,7403.0
+Maule,Longavi,32810,6.1,32810
+Maule,Longavi,32810,6.1,-
+Maule,Longavi,32810,6.1,-
+Maule,Longavi,32810,6.1,-
+Maule,Longavi,32810,6.1,-
+Maule,Longavi,32810,6.1,-
+Maule,Maule,60000,5.0,7105.0
+Maule,Maule,60000,5.0,60000
+Maule,Maule,60000,5.0,-
+Maule,Maule,60000,5.0,-
+Maule,Maule,60000,5.0,-
+Maule,Maule,60000,5.0,-
+Maule,Maule,60000,5.0,-
+Maule,Molina,49800,6.0,7304.0
+Maule,Molina,49800,6.0,49800
+Maule,Molina,49800,6.0,-
+Maule,Molina,49800,6.0,-
+Maule,Molina,49800,6.0,-
+Maule,Molina,49800,6.0,-
+Maule,Molina,49800,6.0,-
+Maule,Parral,44544,9.0,7404.0
+Maule,Parral,44544,9.0,44544
+Maule,Parral,44544,9.0,4
+Maule,Parral,44544,9.0,-
+Maule,Parral,44544,9.0,-
+Maule,Parral,44544,9.0,-
+Maule,Parral,44544,9.0,4
+Maule,Pelarco,9083,0.0,7106.0
+Maule,Pelarco,9083,0.0,9083
+Maule,Pelarco,9083,0.0,-
+Maule,Pelarco,9083,0.0,-
+Maule,Pelarco,9083,0.0,-
+Maule,Pelarco,9083,0.0,-
+Maule,Pelarco,9083,0.0,-
+Maule,Pelluhue,8092,12.4,7203.0
+Maule,Pelluhue,8092,12.4,8092
+Maule,Pelluhue,8092,12.4,-
+Maule,Pelluhue,8092,12.4,-
+Maule,Pelluhue,8092,12.4,-
+Maule,Pelluhue,8092,12.4,-
+Maule,Pelluhue,8092,12.4,-
+Maule,Pencahue,8601,0.0,7107.0
+Maule,Pencahue,8601,0.0,8601
+Maule,Pencahue,8601,0.0,-
+Maule,Pencahue,8601,0.0,-
+Maule,Pencahue,8601,0.0,-
+Maule,Pencahue,8601,0.0,-
+Maule,Pencahue,8601,0.0,-
+Maule,Rauco,11248,8.9,7305.0
+Maule,Rauco,11248,8.9,11248
+Maule,Rauco,11248,8.9,-
+Maule,Rauco,11248,8.9,-
+Maule,Rauco,11248,8.9,-
+Maule,Rauco,11248,8.9,-
+Maule,Rauco,11248,8.9,-
+Maule,Retiro,21071,0.0,7405.0
+Maule,Retiro,21071,0.0,21071
+Maule,Retiro,21071,0.0,-
+Maule,Retiro,21071,0.0,-
+Maule,Retiro,21071,0.0,-
+Maule,Retiro,21071,0.0,-
+Maule,Retiro,21071,0.0,-
+Maule,Rio Claro,14753,13.6,7108.0
+Maule,Rio Claro,14753,13.6,14753
+Maule,Rio Claro,14753,13.6,-
+Maule,Rio Claro,14753,13.6,-
+Maule,Rio Claro,14753,13.6,-
+Maule,Rio Claro,14753,13.6,-
+Maule,Rio Claro,14753,13.6,-
+Maule,Romeral,16170,12.4,7306.0
+Maule,Romeral,16170,12.4,16170
+Maule,Romeral,16170,12.4,-
+Maule,Romeral,16170,12.4,-
+Maule,Romeral,16170,12.4,-
+Maule,Romeral,16170,12.4,-
+Maule,Romeral,16170,12.4,-
+Maule,Sagrada Familia,19469,5.1,7307.0
+Maule,Sagrada Familia,19469,5.1,19469
+Maule,Sagrada Familia,19469,5.1,-
+Maule,Sagrada Familia,19469,5.1,-
+Maule,Sagrada Familia,19469,5.1,-
+Maule,Sagrada Familia,19469,5.1,-
+Maule,Sagrada Familia,19469,5.1,-
+Maule,San Clemente,46292,0.0,7109.0
+Maule,San Clemente,46292,0.0,46292
+Maule,San Clemente,46292,0.0,-
+Maule,San Clemente,46292,0.0,-
+Maule,San Clemente,46292,0.0,-
+Maule,San Clemente,46292,0.0,-
+Maule,San Clemente,46292,0.0,-
+Maule,San Javier,49451,14.2,7406.0
+Maule,San Javier,49451,14.2,49451
+Maule,San Javier,49451,14.2,-
+Maule,San Javier,49451,14.2,-
+Maule,San Javier,49451,14.2,-
+Maule,San Javier,49451,14.2,7
+Maule,San Javier,49451,14.2,7
+Maule,San Rafael,9959,10.0,7110.0
+Maule,San Rafael,9959,10.0,9959
+Maule,San Rafael,9959,10.0,-
+Maule,San Rafael,9959,10.0,-
+Maule,San Rafael,9959,10.0,-
+Maule,San Rafael,9959,10.0,-
+Maule,San Rafael,9959,10.0,-
+Maule,Talca,236724,21.5,7101.0
+Maule,Talca,236724,21.5,236724
+Maule,Talca,236724,21.5,34
+Maule,Talca,236724,21.5,37
+Maule,Talca,236724,21.5,42
+Maule,Talca,236724,21.5,48
+Maule,Talca,236724,21.5,51
+Maule,Teno,30850,0.0,7308.0
+Maule,Teno,30850,0.0,30850
+Maule,Teno,30850,0.0,-
+Maule,Teno,30850,0.0,-
+Maule,Teno,30850,0.0,-
+Maule,Teno,30850,0.0,-
+Maule,Teno,30850,0.0,-
+Maule,Vichuquen,4381,0.0,7309.0
+Maule,Vichuquen,4381,0.0,4381
+Maule,Vichuquen,4381,0.0,-
+Maule,Vichuquen,4381,0.0,-
+Maule,Vichuquen,4381,0.0,-
+Maule,Vichuquen,4381,0.0,-
+Maule,Vichuquen,4381,0.0,-
+Maule,Villa Alegre,17512,0.0,7407.0
+Maule,Villa Alegre,17512,0.0,17512
+Maule,Villa Alegre,17512,0.0,-
+Maule,Villa Alegre,17512,0.0,-
+Maule,Villa Alegre,17512,0.0,-
+Maule,Villa Alegre,17512,0.0,-
+Maule,Villa Alegre,17512,0.0,-
+Maule,Yerbas Buenas,19200,0.0,7408.0
+Maule,Yerbas Buenas,19200,0.0,19200
+Maule,Yerbas Buenas,19200,0.0,-
+Maule,Yerbas Buenas,19200,0.0,-
+Maule,Yerbas Buenas,19200,0.0,-
+Maule,Yerbas Buenas,19200,0.0,-
+Maule,Yerbas Buenas,19200,0.0,-
+Nuble,Bulnes,22607,199.1,16102.0
+Nuble,Bulnes,22607,199.1,22607
+Nuble,Bulnes,22607,199.1,12
+Nuble,Bulnes,22607,199.1,18
+Nuble,Bulnes,22607,199.1,32
+Nuble,Bulnes,22607,199.1,36
+Nuble,Bulnes,22607,199.1,45
+Nuble,Chillan,198624,164.6,16101.0
+Nuble,Chillan,198624,164.6,198624
+Nuble,Chillan,198624,164.6,114
+Nuble,Chillan,198624,164.6,173
+Nuble,Chillan,198624,164.6,240
+Nuble,Chillan,198624,164.6,291
+Nuble,Chillan,198624,164.6,327
+Nuble,Chillan Viejo,33827,100.5,16103.0
+Nuble,Chillan Viejo,33827,100.5,33827
+Nuble,Chillan Viejo,33827,100.5,13
+Nuble,Chillan Viejo,33827,100.5,22
+Nuble,Chillan Viejo,33827,100.5,26
+Nuble,Chillan Viejo,33827,100.5,30
+Nuble,Chillan Viejo,33827,100.5,34
+Nuble,Cobquecura,5275,0.0,16202.0
+Nuble,Cobquecura,5275,0.0,5275
+Nuble,Cobquecura,5275,0.0,-
+Nuble,Cobquecura,5275,0.0,-
+Nuble,Cobquecura,5275,0.0,-
+Nuble,Cobquecura,5275,0.0,-
+Nuble,Cobquecura,5275,0.0,-
+Nuble,Coelemu,16845,23.7,16203.0
+Nuble,Coelemu,16845,23.7,16845
+Nuble,Coelemu,16845,23.7,-
+Nuble,Coelemu,16845,23.7,-
+Nuble,Coelemu,16845,23.7,-
+Nuble,Coelemu,16845,23.7,-
+Nuble,Coelemu,16845,23.7,4
+Nuble,Coihueco,28375,24.7,16302.0
+Nuble,Coihueco,28375,24.7,28375
+Nuble,Coihueco,28375,24.7,-
+Nuble,Coihueco,28375,24.7,-
+Nuble,Coihueco,28375,24.7,-
+Nuble,Coihueco,28375,24.7,6
+Nuble,Coihueco,28375,24.7,7
+Nuble,El Carmen,12334,24.3,16104.0
+Nuble,El Carmen,12334,24.3,12334
+Nuble,El Carmen,12334,24.3,-
+Nuble,El Carmen,12334,24.3,-
+Nuble,El Carmen,12334,24.3,-
+Nuble,El Carmen,12334,24.3,-
+Nuble,El Carmen,12334,24.3,-
+Nuble,Ninhue,5414,18.5,16204.0
+Nuble,Ninhue,5414,18.5,5414
+Nuble,Ninhue,5414,18.5,-
+Nuble,Ninhue,5414,18.5,-
+Nuble,Ninhue,5414,18.5,-
+Nuble,Ninhue,5414,18.5,-
+Nuble,Ninhue,5414,18.5,-
+Nuble,Niquen,11567,17.3,16303.0
+Nuble,Niquen,11567,17.3,11567
+Nuble,Niquen,11567,17.3,-
+Nuble,Niquen,11567,17.3,-
+Nuble,Niquen,11567,17.3,-
+Nuble,Niquen,11567,17.3,-
+Nuble,Niquen,11567,17.3,-
+Nuble,Pemuco,8639,34.7,16105.0
+Nuble,Pemuco,8639,34.7,8639
+Nuble,Pemuco,8639,34.7,-
+Nuble,Pemuco,8639,34.7,-
+Nuble,Pemuco,8639,34.7,-
+Nuble,Pemuco,8639,34.7,-
+Nuble,Pemuco,8639,34.7,-
+Nuble,Pinto,11880,84.2,16106.0
+Nuble,Pinto,11880,84.2,11880
+Nuble,Pinto,11880,84.2,-
+Nuble,Pinto,11880,84.2,-
+Nuble,Pinto,11880,84.2,6
+Nuble,Pinto,11880,84.2,9
+Nuble,Pinto,11880,84.2,10
+Nuble,Portezuelo,4940,0.0,16205.0
+Nuble,Portezuelo,4940,0.0,4940
+Nuble,Portezuelo,4940,0.0,-
+Nuble,Portezuelo,4940,0.0,-
+Nuble,Portezuelo,4940,0.0,-
+Nuble,Portezuelo,4940,0.0,-
+Nuble,Portezuelo,4940,0.0,-
+Nuble,Quillon,18777,117.2,16107.0
+Nuble,Quillon,18777,117.2,18777
+Nuble,Quillon,18777,117.2,4
+Nuble,Quillon,18777,117.2,7
+Nuble,Quillon,18777,117.2,15
+Nuble,Quillon,18777,117.2,17
+Nuble,Quillon,18777,117.2,22
+Nuble,Quirihue,12192,32.8,16201.0
+Nuble,Quirihue,12192,32.8,12192
+Nuble,Quirihue,12192,32.8,-
+Nuble,Quirihue,12192,32.8,-
+Nuble,Quirihue,12192,32.8,-
+Nuble,Quirihue,12192,32.8,-
+Nuble,Quirihue,12192,32.8,4
+Nuble,Ranquil,6261,143.7,16206.0
+Nuble,Ranquil,6261,143.7,6261
+Nuble,Ranquil,6261,143.7,-
+Nuble,Ranquil,6261,143.7,-
+Nuble,Ranquil,6261,143.7,5
+Nuble,Ranquil,6261,143.7,7
+Nuble,Ranquil,6261,143.7,9
+Nuble,San Carlos,56252,49.8,16301.0
+Nuble,San Carlos,56252,49.8,56252
+Nuble,San Carlos,56252,49.8,8
+Nuble,San Carlos,56252,49.8,13
+Nuble,San Carlos,56252,49.8,13
+Nuble,San Carlos,56252,49.8,19
+Nuble,San Carlos,56252,49.8,28
+Nuble,San Fabian,4654,128.9,16304.0
+Nuble,San Fabian,4654,128.9,4654
+Nuble,San Fabian,4654,128.9,-
+Nuble,San Fabian,4654,128.9,5
+Nuble,San Fabian,4654,128.9,6
+Nuble,San Fabian,4654,128.9,6
+Nuble,San Fabian,4654,128.9,6
+Nuble,San Ignacio,16624,36.1,16108.0
+Nuble,San Ignacio,16624,36.1,16624
+Nuble,San Ignacio,16624,36.1,-
+Nuble,San Ignacio,16624,36.1,-
+Nuble,San Ignacio,16624,36.1,-
+Nuble,San Ignacio,16624,36.1,6
+Nuble,San Ignacio,16624,36.1,6
+Nuble,San Nicolas,12172,90.4,16305.0
+Nuble,San Nicolas,12172,90.4,12172
+Nuble,San Nicolas,12172,90.4,-
+Nuble,San Nicolas,12172,90.4,-
+Nuble,San Nicolas,12172,90.4,4
+Nuble,San Nicolas,12172,90.4,10
+Nuble,San Nicolas,12172,90.4,11
+Nuble,Treguaco,5696,0.0,16207.0
+Nuble,Treguaco,5696,0.0,5696
+Nuble,Treguaco,5696,0.0,-
+Nuble,Treguaco,5696,0.0,-
+Nuble,Treguaco,5696,0.0,-
+Nuble,Treguaco,5696,0.0,-
+Nuble,Treguaco,5696,0.0,-
+Nuble,Yungay,18596,199.0,16109.0
+Nuble,Yungay,18596,199.0,18596
+Nuble,Yungay,18596,199.0,-
+Nuble,Yungay,18596,199.0,7
+Nuble,Yungay,18596,199.0,10
+Nuble,Yungay,18596,199.0,26
+Nuble,Yungay,18596,199.0,37
+Biobio,Alto Biobio,6775,0.0,8314.0
+Biobio,Alto Biobio,6775,0.0,6775
+Biobio,Alto Biobio,6775,0.0,-
+Biobio,Alto Biobio,6775,0.0,-
+Biobio,Alto Biobio,6775,0.0,-
+Biobio,Alto Biobio,6775,0.0,-
+Biobio,Alto Biobio,6775,0.0,-
+Biobio,Antuco,4306,0.0,8302.0
+Biobio,Antuco,4306,0.0,4306
+Biobio,Antuco,4306,0.0,-
+Biobio,Antuco,4306,0.0,-
+Biobio,Antuco,4306,0.0,-
+Biobio,Antuco,4306,0.0,-
+Biobio,Antuco,4306,0.0,-
+Biobio,Arauco,38679,15.5,8202.0
+Biobio,Arauco,38679,15.5,38679
+Biobio,Arauco,38679,15.5,-
+Biobio,Arauco,38679,15.5,5
+Biobio,Arauco,38679,15.5,6
+Biobio,Arauco,38679,15.5,6
+Biobio,Arauco,38679,15.5,6
+Biobio,Cabrero,30725,3.3,8303.0
+Biobio,Cabrero,30725,3.3,30725
+Biobio,Cabrero,30725,3.3,-
+Biobio,Cabrero,30725,3.3,-
+Biobio,Cabrero,30725,3.3,-
+Biobio,Cabrero,30725,3.3,-
+Biobio,Cabrero,30725,3.3,-
+Biobio,Canete,37003,0.0,8203.0
+Biobio,Canete,37003,0.0,37003
+Biobio,Canete,37003,0.0,-
+Biobio,Canete,37003,0.0,-
+Biobio,Canete,37003,0.0,-
+Biobio,Canete,37003,0.0,-
+Biobio,Canete,37003,0.0,-
+Biobio,Chiguayante,91180,38.4,8103.0
+Biobio,Chiguayante,91180,38.4,91180
+Biobio,Chiguayante,91180,38.4,6
+Biobio,Chiguayante,91180,38.4,18
+Biobio,Chiguayante,91180,38.4,26
+Biobio,Chiguayante,91180,38.4,32
+Biobio,Chiguayante,91180,38.4,35
+Biobio,Concepcion,238092,30.7,8101.0
+Biobio,Concepcion,238092,30.7,238092
+Biobio,Concepcion,238092,30.7,28
+Biobio,Concepcion,238092,30.7,47
+Biobio,Concepcion,238092,30.7,53
+Biobio,Concepcion,238092,30.7,70
+Biobio,Concepcion,238092,30.7,73
+Biobio,Contulmo,6330,0.0,8204.0
+Biobio,Contulmo,6330,0.0,6330
+Biobio,Contulmo,6330,0.0,-
+Biobio,Contulmo,6330,0.0,-
+Biobio,Contulmo,6330,0.0,-
+Biobio,Contulmo,6330,0.0,-
+Biobio,Contulmo,6330,0.0,-
+Biobio,Coronel,125829,14.3,8102.0
+Biobio,Coronel,125829,14.3,125829
+Biobio,Coronel,125829,14.3,-
+Biobio,Coronel,125829,14.3,11
+Biobio,Coronel,125829,14.3,12
+Biobio,Coronel,125829,14.3,13
+Biobio,Coronel,125829,14.3,18
+Biobio,Curanilahue,33892,3.0,8205.0
+Biobio,Curanilahue,33892,3.0,33892
+Biobio,Curanilahue,33892,3.0,-
+Biobio,Curanilahue,33892,3.0,-
+Biobio,Curanilahue,33892,3.0,-
+Biobio,Curanilahue,33892,3.0,-
+Biobio,Curanilahue,33892,3.0,-
+Biobio,Florida,11841,16.9,8104.0
+Biobio,Florida,11841,16.9,11841
+Biobio,Florida,11841,16.9,-
+Biobio,Florida,11841,16.9,-
+Biobio,Florida,11841,16.9,-
+Biobio,Florida,11841,16.9,-
+Biobio,Florida,11841,16.9,-
+Biobio,Hualpen,97273,76.1,8112.0
+Biobio,Hualpen,97273,76.1,97273
+Biobio,Hualpen,97273,76.1,-
+Biobio,Hualpen,97273,76.1,39
+Biobio,Hualpen,97273,76.1,50
+Biobio,Hualpen,97273,76.1,67
+Biobio,Hualpen,97273,76.1,74
+Biobio,Hualqui,26201,26.7,8105.0
+Biobio,Hualqui,26201,26.7,26201
+Biobio,Hualqui,26201,26.7,-
+Biobio,Hualqui,26201,26.7,-
+Biobio,Hualqui,26201,26.7,-
+Biobio,Hualqui,26201,26.7,7
+Biobio,Hualqui,26201,26.7,7
+Biobio,Laja,23873,20.9,8304.0
+Biobio,Laja,23873,20.9,23873
+Biobio,Laja,23873,20.9,-
+Biobio,Laja,23873,20.9,-
+Biobio,Laja,23873,20.9,-
+Biobio,Laja,23873,20.9,5
+Biobio,Laja,23873,20.9,5
+Biobio,Lebu,27100,0.0,8201.0
+Biobio,Lebu,27100,0.0,27100
+Biobio,Lebu,27100,0.0,-
+Biobio,Lebu,27100,0.0,-
+Biobio,Lebu,27100,0.0,-
+Biobio,Lebu,27100,0.0,-
+Biobio,Lebu,27100,0.0,-
+Biobio,Los Alamos,22524,0.0,8206.0
+Biobio,Los Alamos,22524,0.0,22524
+Biobio,Los Alamos,22524,0.0,-
+Biobio,Los Alamos,22524,0.0,-
+Biobio,Los Alamos,22524,0.0,-
+Biobio,Los Alamos,22524,0.0,-
+Biobio,Los Alamos,22524,0.0,-
+Biobio,Los Angeles,218515,10.1,8301.0
+Biobio,Los Angeles,218515,10.1,218515
+Biobio,Los Angeles,218515,10.1,11
+Biobio,Los Angeles,218515,10.1,15
+Biobio,Los Angeles,218515,10.1,12
+Biobio,Los Angeles,218515,10.1,17
+Biobio,Los Angeles,218515,10.1,22
+Biobio,Lota,45750,2.2,8106.0
+Biobio,Lota,45750,2.2,45750
+Biobio,Lota,45750,2.2,-
+Biobio,Lota,45750,2.2,-
+Biobio,Lota,45750,2.2,-
+Biobio,Lota,45750,2.2,-
+Biobio,Lota,45750,2.2,-
+Biobio,Mulchen,31041,16.1,8305.0
+Biobio,Mulchen,31041,16.1,31041
+Biobio,Mulchen,31041,16.1,-
+Biobio,Mulchen,31041,16.1,5
+Biobio,Mulchen,31041,16.1,5
+Biobio,Mulchen,31041,16.1,5
+Biobio,Mulchen,31041,16.1,5
+Biobio,Nacimiento,27944,14.3,8306.0
+Biobio,Nacimiento,27944,14.3,27944
+Biobio,Nacimiento,27944,14.3,-
+Biobio,Nacimiento,27944,14.3,-
+Biobio,Nacimiento,27944,14.3,-
+Biobio,Nacimiento,27944,14.3,-
+Biobio,Nacimiento,27944,14.3,4
+Biobio,Negrete,10429,19.2,8307.0
+Biobio,Negrete,10429,19.2,10429
+Biobio,Negrete,10429,19.2,-
+Biobio,Negrete,10429,19.2,-
+Biobio,Negrete,10429,19.2,-
+Biobio,Negrete,10429,19.2,-
+Biobio,Negrete,10429,19.2,-
+Biobio,Penco,49865,10.0,8107.0
+Biobio,Penco,49865,10.0,49865
+Biobio,Penco,49865,10.0,-
+Biobio,Penco,49865,10.0,-
+Biobio,Penco,49865,10.0,-
+Biobio,Penco,49865,10.0,5
+Biobio,Penco,49865,10.0,5
+Biobio,Quilaco,4179,0.0,8308.0
+Biobio,Quilaco,4179,0.0,4179
+Biobio,Quilaco,4179,0.0,-
+Biobio,Quilaco,4179,0.0,-
+Biobio,Quilaco,4179,0.0,-
+Biobio,Quilaco,4179,0.0,-
+Biobio,Quilaco,4179,0.0,-
+Biobio,Quilleco,10032,0.0,8309.0
+Biobio,Quilleco,10032,0.0,10032
+Biobio,Quilleco,10032,0.0,-
+Biobio,Quilleco,10032,0.0,-
+Biobio,Quilleco,10032,0.0,-
+Biobio,Quilleco,10032,0.0,-
+Biobio,Quilleco,10032,0.0,-
+Biobio,San Pedro de la Paz,145906,48.7,8108.0
+Biobio,San Pedro de la Paz,145906,48.7,145906
+Biobio,San Pedro de la Paz,145906,48.7,18
+Biobio,San Pedro de la Paz,145906,48.7,50
+Biobio,San Pedro de la Paz,145906,48.7,56
+Biobio,San Pedro de la Paz,145906,48.7,63
+Biobio,San Pedro de la Paz,145906,48.7,71
+Biobio,San Rosendo,3611,0.0,8310.0
+Biobio,San Rosendo,3611,0.0,3611
+Biobio,San Rosendo,3611,0.0,-
+Biobio,San Rosendo,3611,0.0,-
+Biobio,San Rosendo,3611,0.0,-
+Biobio,San Rosendo,3611,0.0,-
+Biobio,San Rosendo,3611,0.0,-
+Biobio,Santa Barbara,14592,13.7,8311.0
+Biobio,Santa Barbara,14592,13.7,14592
+Biobio,Santa Barbara,14592,13.7,-
+Biobio,Santa Barbara,14592,13.7,-
+Biobio,Santa Barbara,14592,13.7,-
+Biobio,Santa Barbara,14592,13.7,-
+Biobio,Santa Barbara,14592,13.7,-
+Biobio,Santa Juana,14779,0.0,8109.0
+Biobio,Santa Juana,14779,0.0,14779
+Biobio,Santa Juana,14779,0.0,-
+Biobio,Santa Juana,14779,0.0,-
+Biobio,Santa Juana,14779,0.0,-
+Biobio,Santa Juana,14779,0.0,-
+Biobio,Santa Juana,14779,0.0,-
+Biobio,Talcahuano,158345,28.4,8110.0
+Biobio,Talcahuano,158345,28.4,158345
+Biobio,Talcahuano,158345,28.4,-
+Biobio,Talcahuano,158345,28.4,23
+Biobio,Talcahuano,158345,28.4,29
+Biobio,Talcahuano,158345,28.4,36
+Biobio,Talcahuano,158345,28.4,45
+Biobio,Tirua,11019,36.3,8207.0
+Biobio,Tirua,11019,36.3,11019
+Biobio,Tirua,11019,36.3,-
+Biobio,Tirua,11019,36.3,-
+Biobio,Tirua,11019,36.3,-
+Biobio,Tirua,11019,36.3,4
+Biobio,Tirua,11019,36.3,4
+Biobio,Tome,58729,51.1,8111.0
+Biobio,Tome,58729,51.1,58729
+Biobio,Tome,58729,51.1,4
+Biobio,Tome,58729,51.1,6
+Biobio,Tome,58729,51.1,9
+Biobio,Tome,58729,51.1,25
+Biobio,Tome,58729,51.1,30
+Biobio,Tucapel,15205,6.6,8312.0
+Biobio,Tucapel,15205,6.6,15205
+Biobio,Tucapel,15205,6.6,
+Biobio,Tucapel,15205,6.6,-
+Biobio,Tucapel,15205,6.6,-
+Biobio,Tucapel,15205,6.6,-
+Biobio,Tucapel,15205,6.6,-
+Biobio,Yumbel,22132,22.6,8313.0
+Biobio,Yumbel,22132,22.6,22132
+Biobio,Yumbel,22132,22.6,5
+Biobio,Yumbel,22132,22.6,5
+Biobio,Yumbel,22132,22.6,5
+Biobio,Yumbel,22132,22.6,5
+Biobio,Yumbel,22132,22.6,5
+La Araucania,Angol,56058,41.0,9201.0
+La Araucania,Angol,56058,41.0,56058
+La Araucania,Angol,56058,41.0,7
+La Araucania,Angol,56058,41.0,13
+La Araucania,Angol,56058,41.0,12
+La Araucania,Angol,56058,41.0,15
+La Araucania,Angol,56058,41.0,23
+La Araucania,Carahue,25486,23.5,9102.0
+La Araucania,Carahue,25486,23.5,25486
+La Araucania,Carahue,25486,23.5,-
+La Araucania,Carahue,25486,23.5,-
+La Araucania,Carahue,25486,23.5,-
+La Araucania,Carahue,25486,23.5,-
+La Araucania,Carahue,25486,23.5,6
+La Araucania,Cholchol,12341,24.3,9121.0
+La Araucania,Cholchol,12341,24.3,12341
+La Araucania,Cholchol,12341,24.3,-
+La Araucania,Cholchol,12341,24.3,-
+La Araucania,Cholchol,12341,24.3,-
+La Araucania,Cholchol,12341,24.3,-
+La Araucania,Cholchol,12341,24.3,-
+La Araucania,Collipulli,26148,0.0,9202.0
+La Araucania,Collipulli,26148,0.0,26148
+La Araucania,Collipulli,26148,0.0,-
+La Araucania,Collipulli,26148,0.0,-
+La Araucania,Collipulli,26148,0.0,-
+La Araucania,Collipulli,26148,0.0,-
+La Araucania,Collipulli,26148,0.0,-
+La Araucania,Cunco,18055,27.7,9103.0
+La Araucania,Cunco,18055,27.7,18055
+La Araucania,Cunco,18055,27.7,-
+La Araucania,Cunco,18055,27.7,-
+La Araucania,Cunco,18055,27.7,-
+La Araucania,Cunco,18055,27.7,5
+La Araucania,Cunco,18055,27.7,5
+La Araucania,Curacautin,18178,16.5,9203.0
+La Araucania,Curacautin,18178,16.5,18178
+La Araucania,Curacautin,18178,16.5,-
+La Araucania,Curacautin,18178,16.5,-
+La Araucania,Curacautin,18178,16.5,-
+La Araucania,Curacautin,18178,16.5,-
+La Araucania,Curacautin,18178,16.5,-
+La Araucania,Curarrehue,7802,51.3,9104.0
+La Araucania,Curarrehue,7802,51.3,7802
+La Araucania,Curarrehue,7802,51.3,-
+La Araucania,Curarrehue,7802,51.3,-
+La Araucania,Curarrehue,7802,51.3,-
+La Araucania,Curarrehue,7802,51.3,-
+La Araucania,Curarrehue,7802,51.3,4
+La Araucania,Ercilla,8458,23.6,9204.0
+La Araucania,Ercilla,8458,23.6,8458
+La Araucania,Ercilla,8458,23.6,-
+La Araucania,Ercilla,8458,23.6,-
+La Araucania,Ercilla,8458,23.6,-
+La Araucania,Ercilla,8458,23.6,-
+La Araucania,Ercilla,8458,23.6,-
+La Araucania,Freire,25446,19.6,9105.0
+La Araucania,Freire,25446,19.6,25446
+La Araucania,Freire,25446,19.6,-
+La Araucania,Freire,25446,19.6,-
+La Araucania,Freire,25446,19.6,5
+La Araucania,Freire,25446,19.6,5
+La Araucania,Freire,25446,19.6,5
+La Araucania,Galvarino,12633,15.8,9106.0
+La Araucania,Galvarino,12633,15.8,12633
+La Araucania,Galvarino,12633,15.8,-
+La Araucania,Galvarino,12633,15.8,-
+La Araucania,Galvarino,12633,15.8,-
+La Araucania,Galvarino,12633,15.8,-
+La Araucania,Galvarino,12633,15.8,-
+La Araucania,Gorbea,15148,66.0,9107.0
+La Araucania,Gorbea,15148,66.0,15148
+La Araucania,Gorbea,15148,66.0,4
+La Araucania,Gorbea,15148,66.0,6
+La Araucania,Gorbea,15148,66.0,7
+La Araucania,Gorbea,15148,66.0,10
+La Araucania,Gorbea,15148,66.0,10
+La Araucania,Lautaro,40746,46.6,9108.0
+La Araucania,Lautaro,40746,46.6,40746
+La Araucania,Lautaro,40746,46.6,-
+La Araucania,Lautaro,40746,46.6,8
+La Araucania,Lautaro,40746,46.6,10
+La Araucania,Lautaro,40746,46.6,16
+La Araucania,Lautaro,40746,46.6,19
+La Araucania,Loncoche,24739,24.3,9109.0
+La Araucania,Loncoche,24739,24.3,24739
+La Araucania,Loncoche,24739,24.3,-
+La Araucania,Loncoche,24739,24.3,-
+La Araucania,Loncoche,24739,24.3,4
+La Araucania,Loncoche,24739,24.3,4
+La Araucania,Loncoche,24739,24.3,6
+La Araucania,Lonquimay,11049,0.0,9205.0
+La Araucania,Lonquimay,11049,0.0,11049
+La Araucania,Lonquimay,11049,0.0,-
+La Araucania,Lonquimay,11049,0.0,-
+La Araucania,Lonquimay,11049,0.0,-
+La Araucania,Lonquimay,11049,0.0,-
+La Araucania,Lonquimay,11049,0.0,-
+La Araucania,Los Sauces,7517,0.0,9206.0
+La Araucania,Los Sauces,7517,0.0,7517
+La Araucania,Los Sauces,7517,0.0,-
+La Araucania,Los Sauces,7517,0.0,-
+La Araucania,Los Sauces,7517,0.0,-
+La Araucania,Los Sauces,7517,0.0,-
+La Araucania,Los Sauces,7517,0.0,-
+La Araucania,Lumaco,10050,0.0,9207.0
+La Araucania,Lumaco,10050,0.0,10050
+La Araucania,Lumaco,10050,0.0,-
+La Araucania,Lumaco,10050,0.0,-
+La Araucania,Lumaco,10050,0.0,-
+La Araucania,Lumaco,10050,0.0,-
+La Araucania,Lumaco,10050,0.0,-
+La Araucania,Melipeuco,6265,0.0,9110.0
+La Araucania,Melipeuco,6265,0.0,6265
+La Araucania,Melipeuco,6265,0.0,-
+La Araucania,Melipeuco,6265,0.0,-
+La Araucania,Melipeuco,6265,0.0,-
+La Araucania,Melipeuco,6265,0.0,-
+La Araucania,Melipeuco,6265,0.0,-
+La Araucania,Nueva Imperial,33777,59.2,9111.0
+La Araucania,Nueva Imperial,33777,59.2,33777
+La Araucania,Nueva Imperial,33777,59.2,-
+La Araucania,Nueva Imperial,33777,59.2,-
+La Araucania,Nueva Imperial,33777,59.2,11
+La Araucania,Nueva Imperial,33777,59.2,16
+La Araucania,Nueva Imperial,33777,59.2,20
+La Araucania,Padre Las Casas,82110,59.7,9112.0
+La Araucania,Padre Las Casas,82110,59.7,82110
+La Araucania,Padre Las Casas,82110,59.7,9
+La Araucania,Padre Las Casas,82110,59.7,14
+La Araucania,Padre Las Casas,82110,59.7,33
+La Araucania,Padre Las Casas,82110,59.7,44
+La Araucania,Padre Las Casas,82110,59.7,49
+La Araucania,Perquenco,7223,27.7,9113.0
+La Araucania,Perquenco,7223,27.7,7223
+La Araucania,Perquenco,7223,27.7,-
+La Araucania,Perquenco,7223,27.7,-
+La Araucania,Perquenco,7223,27.7,-
+La Araucania,Perquenco,7223,27.7,-
+La Araucania,Perquenco,7223,27.7,-
+La Araucania,Pitrufquen,26096,46.0,9114.0
+La Araucania,Pitrufquen,26096,46.0,26096
+La Araucania,Pitrufquen,26096,46.0,4
+La Araucania,Pitrufquen,26096,46.0,6
+La Araucania,Pitrufquen,26096,46.0,7
+La Araucania,Pitrufquen,26096,46.0,11
+La Araucania,Pitrufquen,26096,46.0,12
+La Araucania,Pucon,29782,16.8,9115.0
+La Araucania,Pucon,29782,16.8,29782
+La Araucania,Pucon,29782,16.8,-
+La Araucania,Pucon,29782,16.8,-
+La Araucania,Pucon,29782,16.8,-
+La Araucania,Pucon,29782,16.8,4
+La Araucania,Pucon,29782,16.8,5
+La Araucania,Puren,12188,16.4,9208.0
+La Araucania,Puren,12188,16.4,12188
+La Araucania,Puren,12188,16.4,-
+La Araucania,Puren,12188,16.4,-
+La Araucania,Puren,12188,16.4,-
+La Araucania,Puren,12188,16.4,-
+La Araucania,Puren,12188,16.4,-
+La Araucania,Renaico,10833,9.2,9209.0
+La Araucania,Renaico,10833,9.2,10833
+La Araucania,Renaico,10833,9.2,-
+La Araucania,Renaico,10833,9.2,-
+La Araucania,Renaico,10833,9.2,-
+La Araucania,Renaico,10833,9.2,-
+La Araucania,Renaico,10833,9.2,-
+La Araucania,Saavedra,12793,7.8,9116.0
+La Araucania,Saavedra,12793,7.8,12793
+La Araucania,Saavedra,12793,7.8,-
+La Araucania,Saavedra,12793,7.8,-
+La Araucania,Saavedra,12793,7.8,-
+La Araucania,Saavedra,12793,7.8,-
+La Araucania,Saavedra,12793,7.8,-
+La Araucania,Temuco,302931,134.4,9101.0
+La Araucania,Temuco,302931,134.4,302931
+La Araucania,Temuco,302931,134.4,154
+La Araucania,Temuco,302931,134.4,225
+La Araucania,Temuco,302931,134.4,293
+La Araucania,Temuco,302931,134.4,365
+La Araucania,Temuco,302931,134.4,407
+La Araucania,Teodoro Schmidt,15786,19.0,9117.0
+La Araucania,Teodoro Schmidt,15786,19.0,15786
+La Araucania,Teodoro Schmidt,15786,19.0,-
+La Araucania,Teodoro Schmidt,15786,19.0,4
+La Araucania,Teodoro Schmidt,15786,19.0,-
+La Araucania,Teodoro Schmidt,15786,19.0,-
+La Araucania,Teodoro Schmidt,15786,19.0,-
+La Araucania,Tolten,10055,69.6,9118.0
+La Araucania,Tolten,10055,69.6,10055
+La Araucania,Tolten,10055,69.6,-
+La Araucania,Tolten,10055,69.6,-
+La Araucania,Tolten,10055,69.6,4
+La Araucania,Tolten,10055,69.6,5
+La Araucania,Tolten,10055,69.6,7
+La Araucania,Traiguen,19314,0.0,9210.0
+La Araucania,Traiguen,19314,0.0,19314
+La Araucania,Traiguen,19314,0.0,-
+La Araucania,Traiguen,19314,0.0,-
+La Araucania,Traiguen,19314,0.0,-
+La Araucania,Traiguen,19314,0.0,-
+La Araucania,Traiguen,19314,0.0,-
+La Araucania,Victoria,35467,42.3,9211.0
+La Araucania,Victoria,35467,42.3,35467
+La Araucania,Victoria,35467,42.3,5
+La Araucania,Victoria,35467,42.3,7
+La Araucania,Victoria,35467,42.3,11
+La Araucania,Victoria,35467,42.3,12
+La Araucania,Victoria,35467,42.3,15
+La Araucania,Vilcun,30766,65.0,9119.0
+La Araucania,Vilcun,30766,65.0,30766
+La Araucania,Vilcun,30766,65.0,4
+La Araucania,Vilcun,30766,65.0,5
+La Araucania,Vilcun,30766,65.0,11
+La Araucania,Vilcun,30766,65.0,18
+La Araucania,Vilcun,30766,65.0,20
+La Araucania,Villarrica,59103,25.4,9120.0
+La Araucania,Villarrica,59103,25.4,59103
+La Araucania,Villarrica,59103,25.4,
+La Araucania,Villarrica,59103,25.4,4
+La Araucania,Villarrica,59103,25.4,6
+La Araucania,Villarrica,59103,25.4,11
+La Araucania,Villarrica,59103,25.4,15
+Los Rios,Corral,5447,0.0,14102.0
+Los Rios,Corral,5447,0.0,5447
+Los Rios,Corral,5447,0.0,-
+Los Rios,Corral,5447,0.0,-
+Los Rios,Corral,5447,0.0,-
+Los Rios,Corral,5447,0.0,-
+Los Rios,Corral,5447,0.0,-
+Los Rios,Futrono,15261,32.8,14202.0
+Los Rios,Futrono,15261,32.8,15261
+Los Rios,Futrono,15261,32.8,-
+Los Rios,Futrono,15261,32.8,-
+Los Rios,Futrono,15261,32.8,-
+Los Rios,Futrono,15261,32.8,5
+Los Rios,Futrono,15261,32.8,5
+Los Rios,La Union,39538,45.5,14201.0
+Los Rios,La Union,39538,45.5,39538
+Los Rios,La Union,39538,45.5,-
+Los Rios,La Union,39538,45.5,9
+Los Rios,La Union,39538,45.5,10
+Los Rios,La Union,39538,45.5,17
+Los Rios,La Union,39538,45.5,18
+Los Rios,Lago Ranco,10292,19.4,14203.0
+Los Rios,Lago Ranco,10292,19.4,10292
+Los Rios,Lago Ranco,10292,19.4,-
+Los Rios,Lago Ranco,10292,19.4,-
+Los Rios,Lago Ranco,10292,19.4,-
+Los Rios,Lago Ranco,10292,19.4,-
+Los Rios,Lago Ranco,10292,19.4,-
+Los Rios,Lanco,17652,11.3,14103.0
+Los Rios,Lanco,17652,11.3,17652
+Los Rios,Lanco,17652,11.3,-
+Los Rios,Lanco,17652,11.3,-
+Los Rios,Lanco,17652,11.3,-
+Los Rios,Lanco,17652,11.3,-
+Los Rios,Lanco,17652,11.3,-
+Los Rios,Los Lagos,20518,0.0,14104.0
+Los Rios,Los Lagos,20518,0.0,20518
+Los Rios,Los Lagos,20518,0.0,-
+Los Rios,Los Lagos,20518,0.0,-
+Los Rios,Los Lagos,20518,0.0,-
+Los Rios,Los Lagos,20518,0.0,-
+Los Rios,Los Lagos,20518,0.0,-
+Los Rios,Mafil,7389,13.5,14105.0
+Los Rios,Mafil,7389,13.5,7389
+Los Rios,Mafil,7389,13.5,-
+Los Rios,Mafil,7389,13.5,-
+Los Rios,Mafil,7389,13.5,-
+Los Rios,Mafil,7389,13.5,-
+Los Rios,Mafil,7389,13.5,-
+Los Rios,Mariquina,23250,34.4,14106.0
+Los Rios,Mariquina,23250,34.4,23250
+Los Rios,Mariquina,23250,34.4,-
+Los Rios,Mariquina,23250,34.4,-
+Los Rios,Mariquina,23250,34.4,-
+Los Rios,Mariquina,23250,34.4,6
+Los Rios,Mariquina,23250,34.4,8
+Los Rios,Paillaco,20798,4.8,14107.0
+Los Rios,Paillaco,20798,4.8,20798
+Los Rios,Paillaco,20798,4.8,-
+Los Rios,Paillaco,20798,4.8,-
+Los Rios,Paillaco,20798,4.8,-
+Los Rios,Paillaco,20798,4.8,-
+Los Rios,Paillaco,20798,4.8,-
+Los Rios,Panguipulli,35991,0.0,14108.0
+Los Rios,Panguipulli,35991,0.0,35991
+Los Rios,Panguipulli,35991,0.0,-
+Los Rios,Panguipulli,35991,0.0,-
+Los Rios,Panguipulli,35991,0.0,-
+Los Rios,Panguipulli,35991,0.0,-
+Los Rios,Panguipulli,35991,0.0,-
+Los Rios,Rio Bueno,32925,15.2,14204.0
+Los Rios,Rio Bueno,32925,15.2,32925
+Los Rios,Rio Bueno,32925,15.2,-
+Los Rios,Rio Bueno,32925,15.2,-
+Los Rios,Rio Bueno,32925,15.2,-
+Los Rios,Rio Bueno,32925,15.2,5
+Los Rios,Rio Bueno,32925,15.2,5
+Los Rios,Valdivia,176774,40.7,14101.0
+Los Rios,Valdivia,176774,40.7,176774
+Los Rios,Valdivia,176774,40.7,12
+Los Rios,Valdivia,176774,40.7,45
+Los Rios,Valdivia,176774,40.7,47
+Los Rios,Valdivia,176774,40.7,65
+Los Rios,Valdivia,176774,40.7,72
+Los Lagos,Ancud,42458,4.7,10202.0
+Los Lagos,Ancud,42458,4.7,42458
+Los Lagos,Ancud,42458,4.7,-
+Los Lagos,Ancud,42458,4.7,-
+Los Lagos,Ancud,42458,4.7,-
+Los Lagos,Ancud,42458,4.7,-
+Los Lagos,Ancud,42458,4.7,-
+Los Lagos,Calbuco,36744,13.6,10102.0
+Los Lagos,Calbuco,36744,13.6,36744
+Los Lagos,Calbuco,36744,13.6,4
+Los Lagos,Calbuco,36744,13.6,5
+Los Lagos,Calbuco,36744,13.6,5
+Los Lagos,Calbuco,36744,13.6,5
+Los Lagos,Calbuco,36744,13.6,5
+Los Lagos,Castro,47607,12.6,10201.0
+Los Lagos,Castro,47607,12.6,47607
+Los Lagos,Castro,47607,12.6,-
+Los Lagos,Castro,47607,12.6,-
+Los Lagos,Castro,47607,12.6,-
+Los Lagos,Castro,47607,12.6,4
+Los Lagos,Castro,47607,12.6,6
+Los Lagos,Chaiten,5020,19.9,10401.0
+Los Lagos,Chaiten,5020,19.9,5020
+Los Lagos,Chaiten,5020,19.9,-
+Los Lagos,Chaiten,5020,19.9,-
+Los Lagos,Chaiten,5020,19.9,-
+Los Lagos,Chaiten,5020,19.9,-
+Los Lagos,Chaiten,5020,19.9,-
+Los Lagos,Chonchi,16013,0.0,10203.0
+Los Lagos,Chonchi,16013,0.0,16013
+Los Lagos,Chonchi,16013,0.0,-
+Los Lagos,Chonchi,16013,0.0,-
+Los Lagos,Chonchi,16013,0.0,-
+Los Lagos,Chonchi,16013,0.0,-
+Los Lagos,Chonchi,16013,0.0,-
+Los Lagos,Cochamo,4006,0.0,10103.0
+Los Lagos,Cochamo,4006,0.0,4006
+Los Lagos,Cochamo,4006,0.0,-
+Los Lagos,Cochamo,4006,0.0,-
+Los Lagos,Cochamo,4006,0.0,-
+Los Lagos,Cochamo,4006,0.0,-
+Los Lagos,Cochamo,4006,0.0,-
+Los Lagos,Curaco de Velez,4066,0.0,10204.0
+Los Lagos,Curaco de Velez,4066,0.0,4066
+Los Lagos,Curaco de Velez,4066,0.0,-
+Los Lagos,Curaco de Velez,4066,0.0,-
+Los Lagos,Curaco de Velez,4066,0.0,-
+Los Lagos,Curaco de Velez,4066,0.0,-
+Los Lagos,Curaco de Velez,4066,0.0,-
+Los Lagos,Dalcahue,15069,0.0,10205.0
+Los Lagos,Dalcahue,15069,0.0,15069
+Los Lagos,Dalcahue,15069,0.0,-
+Los Lagos,Dalcahue,15069,0.0,-
+Los Lagos,Dalcahue,15069,0.0,-
+Los Lagos,Dalcahue,15069,0.0,-
+Los Lagos,Dalcahue,15069,0.0,-
+Los Lagos,Fresia,12656,0.0,10104.0
+Los Lagos,Fresia,12656,0.0,12656
+Los Lagos,Fresia,12656,0.0,-
+Los Lagos,Fresia,12656,0.0,-
+Los Lagos,Fresia,12656,0.0,-
+Los Lagos,Fresia,12656,0.0,-
+Los Lagos,Fresia,12656,0.0,-
+Los Lagos,Frutillar,20223,14.8,10105.0
+Los Lagos,Frutillar,20223,14.8,20223
+Los Lagos,Frutillar,20223,14.8,-
+Los Lagos,Frutillar,20223,14.8,-
+Los Lagos,Frutillar,20223,14.8,-
+Los Lagos,Frutillar,20223,14.8,-
+Los Lagos,Frutillar,20223,14.8,-
+Los Lagos,Futaleufu,2806,0.0,10402.0
+Los Lagos,Futaleufu,2806,0.0,2806
+Los Lagos,Futaleufu,2806,0.0,-
+Los Lagos,Futaleufu,2806,0.0,-
+Los Lagos,Futaleufu,2806,0.0,-
+Los Lagos,Futaleufu,2806,0.0,-
+Los Lagos,Futaleufu,2806,0.0,-
+Los Lagos,Hualaihue,9525,31.5,10403.0
+Los Lagos,Hualaihue,9525,31.5,9525
+Los Lagos,Hualaihue,9525,31.5,-
+Los Lagos,Hualaihue,9525,31.5,-
+Los Lagos,Hualaihue,9525,31.5,-
+Los Lagos,Hualaihue,9525,31.5,-
+Los Lagos,Hualaihue,9525,31.5,-
+Los Lagos,Llanquihue,18621,0.0,10107.0
+Los Lagos,Llanquihue,18621,0.0,18621
+Los Lagos,Llanquihue,18621,0.0,-
+Los Lagos,Llanquihue,18621,0.0,-
+Los Lagos,Llanquihue,18621,0.0,-
+Los Lagos,Llanquihue,18621,0.0,-
+Los Lagos,Llanquihue,18621,0.0,-
+Los Lagos,Los Muermos,17817,5.6,10106.0
+Los Lagos,Los Muermos,17817,5.6,17817
+Los Lagos,Los Muermos,17817,5.6,-
+Los Lagos,Los Muermos,17817,5.6,-
+Los Lagos,Los Muermos,17817,5.6,-
+Los Lagos,Los Muermos,17817,5.6,-
+Los Lagos,Los Muermos,17817,5.6,-
+Los Lagos,Maullin,14894,0.0,10108.0
+Los Lagos,Maullin,14894,0.0,14894
+Los Lagos,Maullin,14894,0.0,-
+Los Lagos,Maullin,14894,0.0,-
+Los Lagos,Maullin,14894,0.0,-
+Los Lagos,Maullin,14894,0.0,-
+Los Lagos,Maullin,14894,0.0,-
+Los Lagos,Osorno,173410,119.4,10301.0
+Los Lagos,Osorno,173410,119.4,173410
+Los Lagos,Osorno,173410,119.4,66
+Los Lagos,Osorno,173410,119.4,120
+Los Lagos,Osorno,173410,119.4,163
+Los Lagos,Osorno,173410,119.4,190
+Los Lagos,Osorno,173410,119.4,207
+Los Lagos,Palena,1827,0.0,10404.0
+Los Lagos,Palena,1827,0.0,1827
+Los Lagos,Palena,1827,0.0,-
+Los Lagos,Palena,1827,0.0,-
+Los Lagos,Palena,1827,0.0,-
+Los Lagos,Palena,1827,0.0,-
+Los Lagos,Palena,1827,0.0,-
+Los Lagos,Puerto Montt,269398,13.7,10101.0
+Los Lagos,Puerto Montt,269398,13.7,269398
+Los Lagos,Puerto Montt,269398,13.7,34
+Los Lagos,Puerto Montt,269398,13.7,44
+Los Lagos,Puerto Montt,269398,13.7,25
+Los Lagos,Puerto Montt,269398,13.7,35
+Los Lagos,Puerto Montt,269398,13.7,37
+Los Lagos,Puerto Octay,9192,10.9,10302.0
+Los Lagos,Puerto Octay,9192,10.9,9192
+Los Lagos,Puerto Octay,9192,10.9,-
+Los Lagos,Puerto Octay,9192,10.9,-
+Los Lagos,Puerto Octay,9192,10.9,-
+Los Lagos,Puerto Octay,9192,10.9,-
+Los Lagos,Puerto Octay,9192,10.9,-
+Los Lagos,Puerto Varas,48620,6.2,10109.0
+Los Lagos,Puerto Varas,48620,6.2,48620
+Los Lagos,Puerto Varas,48620,6.2,-
+Los Lagos,Puerto Varas,48620,6.2,-
+Los Lagos,Puerto Varas,48620,6.2,-
+Los Lagos,Puerto Varas,48620,6.2,4
+Los Lagos,Puerto Varas,48620,6.2,-
+Los Lagos,Puqueldon,4201,0.0,10206.0
+Los Lagos,Puqueldon,4201,0.0,4201
+Los Lagos,Puqueldon,4201,0.0,-
+Los Lagos,Puqueldon,4201,0.0,-
+Los Lagos,Puqueldon,4201,0.0,-
+Los Lagos,Puqueldon,4201,0.0,-
+Los Lagos,Puqueldon,4201,0.0,-
+Los Lagos,Purranque,21080,52.2,10303.0
+Los Lagos,Purranque,21080,52.2,21080
+Los Lagos,Purranque,21080,52.2,-
+Los Lagos,Purranque,21080,52.2,-
+Los Lagos,Purranque,21080,52.2,5
+Los Lagos,Purranque,21080,52.2,5
+Los Lagos,Purranque,21080,52.2,11
+Los Lagos,Puyehue,11787,17.0,10304.0
+Los Lagos,Puyehue,11787,17.0,11787
+Los Lagos,Puyehue,11787,17.0,-
+Los Lagos,Puyehue,11787,17.0,-
+Los Lagos,Puyehue,11787,17.0,-
+Los Lagos,Puyehue,11787,17.0,-
+Los Lagos,Puyehue,11787,17.0,-
+Los Lagos,Queilen,5543,0.0,10207.0
+Los Lagos,Queilen,5543,0.0,5543
+Los Lagos,Queilen,5543,0.0,-
+Los Lagos,Queilen,5543,0.0,-
+Los Lagos,Queilen,5543,0.0,-
+Los Lagos,Queilen,5543,0.0,-
+Los Lagos,Queilen,5543,0.0,-
+Los Lagos,Quellon,29309,0.0,10208.0
+Los Lagos,Quellon,29309,0.0,29309
+Los Lagos,Quellon,29309,0.0,-
+Los Lagos,Quellon,29309,0.0,-
+Los Lagos,Quellon,29309,0.0,-
+Los Lagos,Quellon,29309,0.0,-
+Los Lagos,Quellon,29309,0.0,-
+Los Lagos,Quemchi,8783,0.0,10209.0
+Los Lagos,Quemchi,8783,0.0,8783
+Los Lagos,Quemchi,8783,0.0,-
+Los Lagos,Quemchi,8783,0.0,-
+Los Lagos,Quemchi,8783,0.0,-
+Los Lagos,Quemchi,8783,0.0,-
+Los Lagos,Quemchi,8783,0.0,-
+Los Lagos,Quinchao,8298,12.1,10210.0
+Los Lagos,Quinchao,8298,12.1,8298
+Los Lagos,Quinchao,8298,12.1,-
+Los Lagos,Quinchao,8298,12.1,-
+Los Lagos,Quinchao,8298,12.1,-
+Los Lagos,Quinchao,8298,12.1,-
+Los Lagos,Quinchao,8298,12.1,-
+Los Lagos,Rio Negro,14275,7.0,10305.0
+Los Lagos,Rio Negro,14275,7.0,14275
+Los Lagos,Rio Negro,14275,7.0,-
+Los Lagos,Rio Negro,14275,7.0,-
+Los Lagos,Rio Negro,14275,7.0,-
+Los Lagos,Rio Negro,14275,7.0,-
+Los Lagos,Rio Negro,14275,7.0,-
+Los Lagos,San Juan de la Costa,7639,144.0,10306.0
+Los Lagos,San Juan de la Costa,7639,144.0,7639
+Los Lagos,San Juan de la Costa,7639,144.0,-
+Los Lagos,San Juan de la Costa,7639,144.0,-
+Los Lagos,San Juan de la Costa,7639,144.0,-
+Los Lagos,San Juan de la Costa,7639,144.0,7
+Los Lagos,San Juan de la Costa,7639,144.0,11
+Los Lagos,San Pablo,10553,56.9,10307.0
+Los Lagos,San Pablo,10553,56.9,10553
+Los Lagos,San Pablo,10553,56.9,-
+Los Lagos,San Pablo,10553,56.9,-
+Los Lagos,San Pablo,10553,56.9,-
+Los Lagos,San Pablo,10553,56.9,-
+Los Lagos,San Pablo,10553,56.9,6
+Aisen,Aisen,25002,16.0,11201.0
+Aisen,Aisen,25002,16.0,25002
+Aisen,Aisen,25002,16.0,-
+Aisen,Aisen,25002,16.0,-
+Aisen,Aisen,25002,16.0,4
+Aisen,Aisen,25002,16.0,5
+Aisen,Aisen,25002,16.0,4
+Aisen,Chile Chico,5121,19.5,11401.0
+Aisen,Chile Chico,5121,19.5,5121
+Aisen,Chile Chico,5121,19.5,-
+Aisen,Chile Chico,5121,19.5,-
+Aisen,Chile Chico,5121,19.5,-
+Aisen,Chile Chico,5121,19.5,-
+Aisen,Chile Chico,5121,19.5,-
+Aisen,Cisnes,5828,0.0,11202.0
+Aisen,Cisnes,5828,0.0,5828
+Aisen,Cisnes,5828,0.0,-
+Aisen,Cisnes,5828,0.0,-
+Aisen,Cisnes,5828,0.0,-
+Aisen,Cisnes,5828,0.0,-
+Aisen,Cisnes,5828,0.0,-
+Aisen,Cochrane,3685,0.0,11301.0
+Aisen,Cochrane,3685,0.0,3685
+Aisen,Cochrane,3685,0.0,-
+Aisen,Cochrane,3685,0.0,-
+Aisen,Cochrane,3685,0.0,-
+Aisen,Cochrane,3685,0.0,-
+Aisen,Cochrane,3685,0.0,-
+Aisen,Coyhaique,61210,1.6,
+Aisen,Coyhaique,61210,1.6,61210
+Aisen,Coyhaique,61210,1.6,-
+Aisen,Coyhaique,61210,1.6,-
+Aisen,Coyhaique,61210,1.6,-
+Aisen,Coyhaique,61210,1.6,-
+Aisen,Coyhaique,61210,1.6,-
+Aisen,Guaitecas,1599,0.0,11203.0
+Aisen,Guaitecas,1599,0.0,1599
+Aisen,Guaitecas,1599,0.0,-
+Aisen,Guaitecas,1599,0.0,-
+Aisen,Guaitecas,1599,0.0,-
+Aisen,Guaitecas,1599,0.0,-
+Aisen,Guaitecas,1599,0.0,-
+Aisen,Lago Verde,920,0.0,11102.0
+Aisen,Lago Verde,920,0.0,920
+Aisen,Lago Verde,920,0.0,-
+Aisen,Lago Verde,920,0.0,-
+Aisen,Lago Verde,920,0.0,-
+Aisen,Lago Verde,920,0.0,-
+Aisen,Lago Verde,920,0.0,-
+Aisen,OHiggins,661,0.0,
+Aisen,OHiggins,661,0.0,661
+Aisen,OHiggins,661,0.0,-
+Aisen,OHiggins,661,0.0,-
+Aisen,OHiggins,661,0.0,-
+Aisen,OHiggins,661,0.0,-
+Aisen,OHiggins,661,0.0,-
+Aisen,Rio Ibanez,2699,0.0,11402.0
+Aisen,Rio Ibanez,2699,0.0,2699
+Aisen,Rio Ibanez,2699,0.0,-
+Aisen,Rio Ibanez,2699,0.0,-
+Aisen,Rio Ibanez,2699,0.0,-
+Aisen,Rio Ibanez,2699,0.0,-
+Aisen,Rio Ibanez,2699,0.0,-
+Aisen,Tortel,572,174.8,11303.0
+Aisen,Tortel,572,174.8,572
+Aisen,Tortel,572,174.8,-
+Aisen,Tortel,572,174.8,-
+Aisen,Tortel,572,174.8,-
+Aisen,Tortel,572,174.8,-
+Aisen,Tortel,572,174.8,-
+Magallanes y la Antartica,Antartica,137,0.0,12202.0
+Magallanes y la Antartica,Antartica,137,0.0,137
+Magallanes y la Antartica,Antartica,137,0.0,-
+Magallanes y la Antartica,Antartica,137,0.0,-
+Magallanes y la Antartica,Antartica,137,0.0,-
+Magallanes y la Antartica,Antartica,137,0.0,-
+Magallanes y la Antartica,Antartica,137,0.0,-
+Magallanes y la Antartica,Cabo de Hornos,1983,554.7,12201.0
+Magallanes y la Antartica,Cabo de Hornos,1983,554.7,1983
+Magallanes y la Antartica,Cabo de Hornos,1983,554.7,5
+Magallanes y la Antartica,Cabo de Hornos,1983,554.7,6
+Magallanes y la Antartica,Cabo de Hornos,1983,554.7,6
+Magallanes y la Antartica,Cabo de Hornos,1983,554.7,10
+Magallanes y la Antartica,Cabo de Hornos,1983,554.7,11
+Magallanes y la Antartica,Laguna Blanca,264,0.0,12102.0
+Magallanes y la Antartica,Laguna Blanca,264,0.0,264
+Magallanes y la Antartica,Laguna Blanca,264,0.0,-
+Magallanes y la Antartica,Laguna Blanca,264,0.0,-
+Magallanes y la Antartica,Laguna Blanca,264,0.0,-
+Magallanes y la Antartica,Laguna Blanca,264,0.0,-
+Magallanes y la Antartica,Laguna Blanca,264,0.0,-
+Magallanes y la Antartica,Natales,23782,21.0,12401.0
+Magallanes y la Antartica,Natales,23782,21.0,23782
+Magallanes y la Antartica,Natales,23782,21.0,-
+Magallanes y la Antartica,Natales,23782,21.0,4
+Magallanes y la Antartica,Natales,23782,21.0,5
+Magallanes y la Antartica,Natales,23782,21.0,5
+Magallanes y la Antartica,Natales,23782,21.0,5
+Magallanes y la Antartica,Porvenir,7323,41.0,12301.0
+Magallanes y la Antartica,Porvenir,7323,41.0,7323
+Magallanes y la Antartica,Porvenir,7323,41.0,-
+Magallanes y la Antartica,Porvenir,7323,41.0,-
+Magallanes y la Antartica,Porvenir,7323,41.0,-
+Magallanes y la Antartica,Porvenir,7323,41.0,-
+Magallanes y la Antartica,Porvenir,7323,41.0,-
+Magallanes y la Antartica,Primavera,694,0.0,12302.0
+Magallanes y la Antartica,Primavera,694,0.0,694
+Magallanes y la Antartica,Primavera,694,0.0,-
+Magallanes y la Antartica,Primavera,694,0.0,-
+Magallanes y la Antartica,Primavera,694,0.0,-
+Magallanes y la Antartica,Primavera,694,0.0,-
+Magallanes y la Antartica,Primavera,694,0.0,-
+Magallanes y la Antartica,Punta Arenas,141984,145.8,12101.0
+Magallanes y la Antartica,Punta Arenas,141984,145.8,141984
+Magallanes y la Antartica,Punta Arenas,141984,145.8,29
+Magallanes y la Antartica,Punta Arenas,141984,145.8,87
+Magallanes y la Antartica,Punta Arenas,141984,145.8,143
+Magallanes y la Antartica,Punta Arenas,141984,145.8,203
+Magallanes y la Antartica,Punta Arenas,141984,145.8,207
+Magallanes y la Antartica,Rio Verde,211,0.0,12103.0
+Magallanes y la Antartica,Rio Verde,211,0.0,211
+Magallanes y la Antartica,Rio Verde,211,0.0,-
+Magallanes y la Antartica,Rio Verde,211,0.0,-
+Magallanes y la Antartica,Rio Verde,211,0.0,-
+Magallanes y la Antartica,Rio Verde,211,0.0,-
+Magallanes y la Antartica,Rio Verde,211,0.0,-
+Magallanes y la Antartica,San Gregorio,681,0.0,12104.0
+Magallanes y la Antartica,San Gregorio,681,0.0,681
+Magallanes y la Antartica,San Gregorio,681,0.0,-
+Magallanes y la Antartica,San Gregorio,681,0.0,-
+Magallanes y la Antartica,San Gregorio,681,0.0,-
+Magallanes y la Antartica,San Gregorio,681,0.0,-
+Magallanes y la Antartica,San Gregorio,681,0.0,-
+Magallanes y la Antartica,Timaukel,282,0.0,12303.0
+Magallanes y la Antartica,Timaukel,282,0.0,282
+Magallanes y la Antartica,Timaukel,282,0.0,-
+Magallanes y la Antartica,Timaukel,282,0.0,-
+Magallanes y la Antartica,Timaukel,282,0.0,-
+Magallanes y la Antartica,Timaukel,282,0.0,-
+Magallanes y la Antartica,Timaukel,282,0.0,-
+Magallanes y la Antartica,Torres del Paine,1021,0.0,12402.0
+Magallanes y la Antartica,Torres del Paine,1021,0.0,1021
+Magallanes y la Antartica,Torres del Paine,1021,0.0,-
+Magallanes y la Antartica,Torres del Paine,1021,0.0,-
+Magallanes y la Antartica,Torres del Paine,1021,0.0,-
+Magallanes y la Antartica,Torres del Paine,1021,0.0,-
+Magallanes y la Antartica,Torres del Paine,1021,0.0,-
