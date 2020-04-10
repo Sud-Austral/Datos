@@ -21,8 +21,9 @@ def UpdateDatabase():
     print("Comenzo...")
     try:
         Farmacias()
-    except print(0):
-        pass
+        print("Farmacias completo...")
+    except:
+        print("Error a cargar a Farmacias")
     try:
         Chile()    
         print("Chile completo...")
