@@ -20,6 +20,10 @@ import wget
 def UpdateDatabase():
     print("Comenzo...")
     try:
+        Farmacias()
+    except print(0):
+        pass
+    try:
         Chile()    
         print("Chile completo...")
     except:
@@ -563,13 +567,13 @@ def Farmacias():
     #decoded_data=codecs.decode(response.content, 'utf-8-sig')
     d = json.loads(response.content)
     data = pd.DataFrame.from_dict(d)
-    data.to_csv("Farmacias.csv", index=False)
+    data.to_csv("Farmacia/Farmacias.csv", index=False)
     url  = "https://farmanet.minsal.cl/index.php/ws/getLocalesTurnos"
     response = requests.get(url)
     #decoded_data=codecs.decode(response.content, 'utf-8-sig')
     d = json.loads(response.content)
     data = pd.DataFrame.from_dict(d)
-    data.to_csv("FarmaciasTurno.csv", index=False)
+    data.to_csv("Farmacia/FarmaciasTurno.csv", index=False)
 #************************************Actualizar Farmacias*******************************************
 
 
