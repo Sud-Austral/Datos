@@ -653,10 +653,10 @@ def minsal():
     data.to_csv(ruta +"Producto1.csv", index=False)
 
     salida = []
-    inicio = datetime(2020,3,30)
-    fin    = datetime.now()
+    inicio = datetime.datetime(2020,3,30)
+    fin    = datetime.datetime.now()
     url = "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto2/"  #2020-03-30-CasosConfirmados.csv
-    lista_fechas = [inicio + timedelta(days=d) for d in range((fin - inicio).days + 1)] 
+    lista_fechas = [inicio + datetime.timedelta(days=d) for d in range((fin - inicio).days + 1)] 
     for i in lista_fechas:
         try:
             data = pd.read_csv(url + i.strftime("%Y-%m-%d-CasosConfirmados.csv"))
@@ -673,8 +673,8 @@ def minsal():
     data.to_csv(ruta +"Producto3.csv", index=False)
 
     salida = []
-    inicio = datetime(2020,3,3)
-    fin    = datetime.now()
+    inicio = datetime.datetime(2020,3,3)
+    fin    = datetime.datetime.now()
 
     url = "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto4/"  #2020-03-03-CasosConfirmados-totalRegional.csv
     lista_fechas = [inicio + timedelta(days=d) for d in range((fin - inicio).days + 1)] 
