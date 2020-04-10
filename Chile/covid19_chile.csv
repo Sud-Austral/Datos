@@ -1195,7 +1195,7 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 1194,26-03-2020,13.0,Chile,Metropolitana,,,,Cerrillos,,,Confirmado,-33.4997666344,-70.712543579
 1195,26-03-2020,13.0,Chile,Metropolitana,Femenino,26.0,Servicio de Salud Occidente,El Monte,,,Confirmado,-33.6678791261,-71.0335418234
 1196,26-03-2020,13.0,Chile,Metropolitana,,,Hospital de Curacaví,María Pinto,,,Confirmado,-33.4980838305,-71.2104003581
-1197,26-03-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+1197,26-03-2020,13.0,Chile,Metropolitana,Masculino,27.0,,La Pintana,,,Confirmado,-33.5875956254,-70.6372519122
 1198,26-03-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
 1199,26-03-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
 1200,26-03-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
@@ -5878,8 +5878,8 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 5877,07-04-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
 5878,07-04-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
 5879,07-04-2020,12.0,Chile,Magallanes,,,,Puerto Natales,,,Confirmado,-52.2809432987,-70.0516354499
-5880,07-04-2020,12.0,Chile,Magallanes,,,,Puerto Williams,,,Confirmado,-52.2809432987,-70.0516354499
-5881,07-04-2020,12.0,Chile,Magallanes,,,,Puerto Williams,,,Confirmado,-52.2809432987,-70.0516354499
+5880,07-04-2020,12.0,Chile,Magallanes,,,,Cabo de Hornos,,,Confirmado,-55.0293737697,-69.2676114487
+5881,07-04-2020,12.0,Chile,Magallanes,,,,Cabo de Hornos,,,Confirmado,-55.0293737697,-69.2676114487
 5882,07-04-2020,13.0,Chile,Metropolitana,,73.0,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
 5883,07-04-2020,14.0,Chile,Los Ríos,,79.0,,Valdivia,,,Muerte,-39.8177863595,-73.1746908864
 5884,07-04-2020,16.0,Chile,Ñuble,Masculino,88.0,Hospital Clínico Herminda Martin,No Informado,,,Muerte,-37.3539275137,-72.2634281286
@@ -6708,18 +6708,18 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 6707,08-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
 6708,08-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
 6709,08-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
-6710,09-04-2020,15.0,Chile,Arica y Parinacota,,,,No Informado,,,Confirmado,-18.4948272056,-69.6271472235
-6711,09-04-2020,15.0,Chile,Arica y Parinacota,,,,No Informado,,,Confirmado,-18.4948272056,-69.6271472235
-6712,09-04-2020,15.0,Chile,Arica y Parinacota,,,,No Informado,,,Confirmado,-18.4948272056,-69.6271472235
-6713,09-04-2020,15.0,Chile,Arica y Parinacota,,,,No Informado,,,Confirmado,-18.4948272056,-69.6271472235
-6714,09-04-2020,15.0,Chile,Arica y Parinacota,,,,No Informado,,,Confirmado,-18.4948272056,-69.6271472235
-6715,09-04-2020,15.0,Chile,Arica y Parinacota,,,,No Informado,,,Confirmado,-18.4948272056,-69.6271472235
-6716,09-04-2020,15.0,Chile,Arica y Parinacota,,,,No Informado,,,Confirmado,-18.4948272056,-69.6271472235
-6717,09-04-2020,15.0,Chile,Arica y Parinacota,,,,No Informado,,,Confirmado,-18.4948272056,-69.6271472235
-6718,09-04-2020,15.0,Chile,Arica y Parinacota,,,,No Informado,,,Confirmado,-18.4948272056,-69.6271472235
-6719,09-04-2020,15.0,Chile,Arica y Parinacota,,,,No Informado,,,Confirmado,-18.4948272056,-69.6271472235
-6720,09-04-2020,15.0,Chile,Arica y Parinacota,,,,No Informado,,,Confirmado,-18.4948272056,-69.6271472235
-6721,09-04-2020,15.0,Chile,Arica y Parinacota,,,,No Informado,,,Confirmado,-18.4948272056,-69.6271472235
+6710,09-04-2020,15.0,Chile,Arica y Parinacota,,,,Arica,,,Confirmado,-18.5321930844,-69.9714910871
+6711,09-04-2020,15.0,Chile,Arica y Parinacota,,,,Arica,,,Confirmado,-18.5321930844,-69.9714910871
+6712,09-04-2020,15.0,Chile,Arica y Parinacota,,,,Arica,,,Confirmado,-18.5321930844,-69.9714910871
+6713,09-04-2020,15.0,Chile,Arica y Parinacota,,,,Arica,,,Confirmado,-18.5321930844,-69.9714910871
+6714,09-04-2020,15.0,Chile,Arica y Parinacota,,,,Arica,,,Confirmado,-18.5321930844,-69.9714910871
+6715,09-04-2020,15.0,Chile,Arica y Parinacota,,,,Arica,,,Confirmado,-18.5321930844,-69.9714910871
+6716,09-04-2020,15.0,Chile,Arica y Parinacota,,,,Arica,,,Confirmado,-18.5321930844,-69.9714910871
+6717,09-04-2020,15.0,Chile,Arica y Parinacota,,,,Arica,,,Confirmado,-18.5321930844,-69.9714910871
+6718,09-04-2020,15.0,Chile,Arica y Parinacota,,,,Arica,,,Confirmado,-18.5321930844,-69.9714910871
+6719,09-04-2020,15.0,Chile,Arica y Parinacota,,,,Arica,,,Confirmado,-18.5321930844,-69.9714910871
+6720,09-04-2020,15.0,Chile,Arica y Parinacota,,,,Arica,,,Confirmado,-18.5321930844,-69.9714910871
+6721,09-04-2020,15.0,Chile,Arica y Parinacota,,,,Arica,,,Confirmado,-18.5321930844,-69.9714910871
 6722,09-04-2020,1.0,Chile,Tarapacá,,,,Pica,,,Confirmado,-20.4789531968,-68.9122031293
 6723,09-04-2020,1.0,Chile,Tarapacá,,,,Iquique ,,,Confirmado,-20.2133874287,-69.3928397127
 6724,09-04-2020,1.0,Chile,Tarapacá,,,,Alto Hospicio,,,Confirmado,-20.1899464527,-70.0109621438
@@ -7035,15 +7035,15 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 7034,09-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
 7035,09-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
 7036,09-04-2020,6.0,Chile,O’Higgins,Masculino,39.0,Hospital Clínico FUSAT,Olivar,,,Confirmado,-34.2115968517,-70.8210998259
-7037,09-04-2020,7.0,Chile,Maule,,,,No Informado,,,Confirmado,-35.6203720727,-71.4463212218
-7038,09-04-2020,7.0,Chile,Maule,,,,No Informado,,,Confirmado,-35.6203720727,-71.4463212218
-7039,09-04-2020,7.0,Chile,Maule,,,,No Informado,,,Confirmado,-35.6203720727,-71.4463212218
-7040,09-04-2020,7.0,Chile,Maule,,,,No Informado,,,Confirmado,-35.6203720727,-71.4463212218
-7041,09-04-2020,7.0,Chile,Maule,,,,No Informado,,,Confirmado,-35.6203720727,-71.4463212218
-7042,09-04-2020,7.0,Chile,Maule,,,,No Informado,,,Confirmado,-35.6203720727,-71.4463212218
-7043,09-04-2020,7.0,Chile,Maule,,,,No Informado,,,Confirmado,-35.6203720727,-71.4463212218
-7044,09-04-2020,7.0,Chile,Maule,,,,No Informado,,,Confirmado,-35.6203720727,-71.4463212218
-7045,09-04-2020,7.0,Chile,Maule,,,,No Informado,,,Confirmado,-35.6203720727,-71.4463212218
+7037,09-04-2020,7.0,Chile,Maule,,,,Curepto,,,Confirmado,-35.1297379581,-71.9529801365
+7038,09-04-2020,7.0,Chile,Maule,,,,Curicó,,,Confirmado,-35.198494361,-70.8973707757
+7039,09-04-2020,7.0,Chile,Maule,,,,Curicó,,,Confirmado,-35.198494361,-70.8973707757
+7040,09-04-2020,7.0,Chile,Maule,,,,Curicó,,,Confirmado,-35.198494361,-70.8973707757
+7041,09-04-2020,7.0,Chile,Maule,,,,Rauco,,,Confirmado,-34.9377136252,-71.4257655703
+7042,09-04-2020,7.0,Chile,Maule,,,,Linares,,,Confirmado,-35.9582747955,-71.3325671389
+7043,09-04-2020,7.0,Chile,Maule,,,,Teno,,,Confirmado,-34.8881484883,-71.0218393344
+7044,09-04-2020,7.0,Chile,Maule,,,,Parral,,,Confirmado,-36.2621427969,-71.6466288589
+7045,09-04-2020,7.0,Chile,Maule,,,,Río Claro,,,Confirmado,-35.2606233799,-71.2688621061
 7046,09-04-2020,16.0,Chile,Ñuble,,,,Coihueco,,,Confirmado,-36.7019154417,-71.5817371361
 7047,09-04-2020,16.0,Chile,Ñuble,,,,Chillán Viejo,,,Confirmado,-36.6803542471,-72.1988051799
 7048,09-04-2020,16.0,Chile,Ñuble,,,,Chillán Viejo,,,Confirmado,-36.6803542471,-72.1988051799
@@ -7133,7 +7133,7 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 7132,09-04-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
 7133,09-04-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
 7134,09-04-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
-7135,09-04-2020,12.0,Chile,Magallanes,,,,Puerto Williams,,,Confirmado,-52.2809432987,-70.0516354499
+7135,09-04-2020,12.0,Chile,Magallanes,,,,Cabo de Hornos,,,Confirmado,-55.0293737697,-69.2676114487
 7136,09-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
 7137,09-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
 7138,09-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
@@ -7302,18 +7302,18 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 7301,09-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
 7302,09-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
 7303,09-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
-7304,10-04-2020,15.0,Chile,Arica y Parinacota,,,,No Informado,,,Confirmado,-18.4948272056,-69.6271472235
-7305,10-04-2020,15.0,Chile,Arica y Parinacota,,,,No Informado,,,Confirmado,-18.4948272056,-69.6271472235
-7306,10-04-2020,15.0,Chile,Arica y Parinacota,,,,No Informado,,,Confirmado,-18.4948272056,-69.6271472235
-7307,10-04-2020,15.0,Chile,Arica y Parinacota,,,,No Informado,,,Confirmado,-18.4948272056,-69.6271472235
-7308,10-04-2020,15.0,Chile,Arica y Parinacota,,,,No Informado,,,Confirmado,-18.4948272056,-69.6271472235
-7309,10-04-2020,15.0,Chile,Arica y Parinacota,,,,No Informado,,,Confirmado,-18.4948272056,-69.6271472235
-7310,10-04-2020,15.0,Chile,Arica y Parinacota,,,,No Informado,,,Confirmado,-18.4948272056,-69.6271472235
-7311,10-04-2020,15.0,Chile,Arica y Parinacota,,,,No Informado,,,Confirmado,-18.4948272056,-69.6271472235
-7312,10-04-2020,15.0,Chile,Arica y Parinacota,,,,No Informado,,,Confirmado,-18.4948272056,-69.6271472235
-7313,10-04-2020,15.0,Chile,Arica y Parinacota,,,,No Informado,,,Confirmado,-18.4948272056,-69.6271472235
-7314,10-04-2020,15.0,Chile,Arica y Parinacota,,,,No Informado,,,Confirmado,-18.4948272056,-69.6271472235
-7315,10-04-2020,15.0,Chile,Arica y Parinacota,,,,No Informado,,,Confirmado,-18.4948272056,-69.6271472235
+7304,10-04-2020,15.0,Chile,Arica y Parinacota,,,,Arica,,,Confirmado,-18.5321930844,-69.9714910871
+7305,10-04-2020,15.0,Chile,Arica y Parinacota,,,,Arica,,,Confirmado,-18.5321930844,-69.9714910871
+7306,10-04-2020,15.0,Chile,Arica y Parinacota,,,,Arica,,,Confirmado,-18.5321930844,-69.9714910871
+7307,10-04-2020,15.0,Chile,Arica y Parinacota,,,,Arica,,,Confirmado,-18.5321930844,-69.9714910871
+7308,10-04-2020,15.0,Chile,Arica y Parinacota,,,,Arica,,,Confirmado,-18.5321930844,-69.9714910871
+7309,10-04-2020,15.0,Chile,Arica y Parinacota,,,,Arica,,,Confirmado,-18.5321930844,-69.9714910871
+7310,10-04-2020,15.0,Chile,Arica y Parinacota,,,,Arica,,,Confirmado,-18.5321930844,-69.9714910871
+7311,10-04-2020,15.0,Chile,Arica y Parinacota,,,,Arica,,,Confirmado,-18.5321930844,-69.9714910871
+7312,10-04-2020,15.0,Chile,Arica y Parinacota,,,,Arica,,,Confirmado,-18.5321930844,-69.9714910871
+7313,10-04-2020,15.0,Chile,Arica y Parinacota,,,,Arica,,,Confirmado,-18.5321930844,-69.9714910871
+7314,10-04-2020,15.0,Chile,Arica y Parinacota,,,,Arica,,,Confirmado,-18.5321930844,-69.9714910871
+7315,10-04-2020,15.0,Chile,Arica y Parinacota,,,,Arica,,,Confirmado,-18.5321930844,-69.9714910871
 7316,10-04-2020,1.0,Chile,Tarapacá,,,,No Informado,,,Confirmado,-20.2133874287,-69.3928397127
 7317,10-04-2020,1.0,Chile,Tarapacá,,,,No Informado,,,Confirmado,-20.2133874287,-69.3928397127
 7318,10-04-2020,1.0,Chile,Tarapacá,,,,No Informado,,,Confirmado,-20.2133874287,-69.3928397127
@@ -7713,9 +7713,9 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 7712,10-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
 7713,10-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
 7714,10-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-7715,10-04-2020,7.0,Chile,Maule,,,,No Informado,,,Confirmado,-35.6203720727,-71.4463212218
-7716,10-04-2020,7.0,Chile,Maule,,,,No Informado,,,Confirmado,-35.6203720727,-71.4463212218
-7717,10-04-2020,7.0,Chile,Maule,,,,No Informado,,,Confirmado,-35.6203720727,-71.4463212218
+7715,10-04-2020,7.0,Chile,Maule,,,,Romeral,,,Confirmado,-35.0681631557,-70.712024862
+7716,10-04-2020,7.0,Chile,Maule,,,,San Javier,,,Confirmado,-35.6288205387,-71.9270734738
+7717,10-04-2020,7.0,Chile,Maule,,,,Curicó,,,Confirmado,-35.198494361,-70.8973707757
 7718,10-04-2020,16.0,Chile,Ñuble,,,,Yungay,,,Confirmado,-37.1046699113,-71.9305829323
 7719,10-04-2020,16.0,Chile,Ñuble,,,,San Fabián,,,Confirmado,-36.5798231906,-71.2877565913
 7720,10-04-2020,16.0,Chile,Ñuble,,,,Bulnés,,,Confirmado,-37.3539275137,-72.2634281286
@@ -7748,29 +7748,29 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 7747,10-04-2020,8.0,Chile,Biobío,,,,Chiguayante,,,Confirmado,-36.9007781691,-73.0051869676
 7748,10-04-2020,8.0,Chile,Biobío,,,,Tomé,,,Confirmado,-36.6166323796,-72.8580501099
 7749,10-04-2020,8.0,Chile,Biobío,,,,Tomé,,,Confirmado,-36.6166323796,-72.8580501099
-7750,10-04-2020,9.0,Chile,Araucanía,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-7751,10-04-2020,9.0,Chile,Araucanía,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-7752,10-04-2020,9.0,Chile,Araucanía,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-7753,10-04-2020,9.0,Chile,Araucanía,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-7754,10-04-2020,9.0,Chile,Araucanía,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-7755,10-04-2020,9.0,Chile,Araucanía,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-7756,10-04-2020,9.0,Chile,Araucanía,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-7757,10-04-2020,9.0,Chile,Araucanía,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-7758,10-04-2020,9.0,Chile,Araucanía,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-7759,10-04-2020,9.0,Chile,Araucanía,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-7760,10-04-2020,9.0,Chile,Araucanía,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-7761,10-04-2020,9.0,Chile,Araucanía,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-7762,10-04-2020,9.0,Chile,Araucanía,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-7763,10-04-2020,9.0,Chile,Araucanía,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-7764,10-04-2020,9.0,Chile,Araucanía,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-7765,10-04-2020,9.0,Chile,Araucanía,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-7766,10-04-2020,9.0,Chile,Araucanía,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-7767,10-04-2020,9.0,Chile,Araucanía,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-7768,10-04-2020,9.0,Chile,Araucanía,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-7769,10-04-2020,9.0,Chile,Araucanía,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-7770,10-04-2020,9.0,Chile,Araucanía,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-7771,10-04-2020,9.0,Chile,Araucanía,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-7772,10-04-2020,9.0,Chile,Araucanía,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+7750,10-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+7751,10-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+7752,10-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+7753,10-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+7754,10-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+7755,10-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+7756,10-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+7757,10-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+7758,10-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+7759,10-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+7760,10-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+7761,10-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+7762,10-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+7763,10-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+7764,10-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+7765,10-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+7766,10-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+7767,10-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+7768,10-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+7769,10-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+7770,10-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+7771,10-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+7772,10-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
 7773,10-04-2020,14.0,Chile,Los Ríos,Masculino,22.0,,Valdivia,,,Confirmado,-39.8177863595,-73.1746908864
 7774,10-04-2020,14.0,Chile,Los Ríos,Masculino,25.0,,Valdivia,,,Confirmado,-39.8177863595,-73.1746908864
 7775,10-04-2020,14.0,Chile,Los Ríos,Masculino,39.0,,Valdivia,,,Confirmado,-39.8177863595,-73.1746908864
