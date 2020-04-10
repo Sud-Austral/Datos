@@ -645,15 +645,15 @@ def realizarColumnaParticular(data, key):
 def minsal():
     #Ruta para Chile/MinCiencia
     ruta = "Chile/MinCiencia/"
-    
+    #Guardar CSV Principal
     url = "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/Covid-19.csv"
     data = realizarColumna(pd.read_csv(url),3)
     data.to_csv(ruta + "Principal.csv", index=False)
-
+    #Guardar CSV Producto1
     url = "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto1/Covid-19.csv"
     data = realizarColumna(pd.read_csv(url),3)
     data.to_csv(ruta +"Producto1.csv", index=False)
-
+    #Guardar CSV Producto2
     salida = []
     inicio = datetime.datetime(2020,3,30)
     fin    = datetime.datetime.now()
@@ -666,18 +666,16 @@ def minsal():
             salida.append(data)
         except:
             pass
-
     data =pd.concat(salida)
     data.to_csv(ruta +"Producto2.csv", index=False)
-
+    #Guardar CSV Producto3
     url = "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto3/CasosTotalesCumulativo.csv"
     data = realizarColumnaParticular(pd.read_csv(url),"Region")
     data.to_csv(ruta +"Producto3.csv", index=False)
-
+    #Guardar CSV Producto4
     salida = []
     inicio = datetime.datetime(2020,3,3)
     fin    = datetime.datetime.now()
-
     url = "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto4/"  #2020-03-03-CasosConfirmados-totalRegional.csv
     lista_fechas = [inicio + timedelta(days=d) for d in range((fin - inicio).days + 1)] 
     for i in lista_fechas:
@@ -689,15 +687,14 @@ def minsal():
             pass
     data =pd.concat(salida)
     data.to_csv(ruta +"Producto4.csv", index=False)
-
+    #Guardar CSV Producto5
     url = "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto5/recuperados.csv"
     data = realizarColumnaParticular(pd.read_csv(url),"Fecha")
     #data["Estado"] = data["Fecha"]
     del data["Fecha"]
-
     data.to_csv(ruta +"Producto5.csv", index=False)
     return
-
+#************************************Actualizar Minsal*******************************************
 
 
 
