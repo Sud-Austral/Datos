@@ -20,6 +20,11 @@ import wget
 def UpdateDatabase():
     print("Comenzo...")
     try:
+        minsal()
+        print("Minsal completo...")
+    except:
+        print("Error a cargar a Minsal")
+    try:
         Farmacias()
         print("Farmacias completo...")
     except:
@@ -576,6 +581,121 @@ def Farmacias():
     data = pd.DataFrame.from_dict(d)
     data.to_csv("Farmacia/FarmaciasTurno.csv", index=False)
 #************************************Actualizar Farmacias*******************************************
+
+#************************************Actualizar Minsal*******************************************
+
+#************************************Actualizar Minsal*******************************************
+#https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/Covid-19.csv Principal
+#https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto1/Covid-19.csv #Casos totales por comuna incremental:
+# Casos totales por comuna
+#https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto2/2020-03-30-CasosConfirmados.csv
+#https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto2/2020-04-01-CasosConfirmados.csv
+#https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto2/2020-04-03-CasosConfirmados.csv
+#https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto2/2020-04-06-CasosConfirmados.csv
+#https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto2/2020-04-08-CasosConfirmados.csv
+#Casos totales por región incremental:
+#https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto3/CasosTotalesCumulativo.csv
+#Casos totales por región 
+#https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto4/2020-03-03-CasosConfirmados-totalRegional.csv
+#...
+#https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto4/2020-04-09-CasosConfirmados-totalRegional.csv
+#Casos totales recuperados
+# https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto5/recuperados.csv
+
+def realizarColumna(data, largo):
+    lista = list(data.iterrows())
+    data_aux = data
+    try:
+        del data_aux["Tasa"]
+    except:
+        pass
+    data_aux.columns
+    salida = []
+    for i in lista:
+        #print(i[1])
+        try:
+            aux = {"Region":i[1]["Region"],"Comuna":i[1]["Comuna"],"Poblacion":i[1]["Poblacion"],"Tasa":i[1]["Tasa"]}
+        except:
+            aux = {"Region":i[1]["Region"],"Comuna":i[1]["Comuna"],"Poblacion":i[1]["Poblacion"]}
+        for j in data_aux.columns[largo:]:
+            entrada = aux.copy()
+            #entrada[j] = 
+            entrada["Fecha"] = i[1][j]
+            salida.append(entrada.copy())
+
+    return pd.DataFrame(salida) 
+
+def realizarColumnaParticular(data, key):
+    lista = list(data.iterrows())
+    data_aux = data
+    data_aux.columns
+    salida = []
+    for i in lista:
+        #print(i[1])
+        aux = {key:i[1][key]}
+        for j in data_aux.columns[1:]:
+            entrada = aux.copy()
+            #entrada[j] = 
+            entrada["fecha"] = j
+            entrada["Recuperado"] = i[1][j]
+            salida.append(entrada.copy())
+
+    return pd.DataFrame(salida)
+
+def minsal():
+    ruta = "Chile/MinCiencia/"
+    url = "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/Covid-19.csv"
+    data = realizarColumna(pd.read_csv(url),3)
+    data.to_csv(ruta + "Principal.csv", index=False)
+
+    url = "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto1/Covid-19.csv"
+    data = realizarColumna(pd.read_csv(url),3)
+    data.to_csv(ruta +"Producto1.csv", index=False)
+
+    salida = []
+    inicio = datetime(2020,3,30)
+    fin    = datetime.now()
+    url = "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto2/"  #2020-03-30-CasosConfirmados.csv
+    lista_fechas = [inicio + timedelta(days=d) for d in range((fin - inicio).days + 1)] 
+    for i in lista_fechas:
+        try:
+            data = pd.read_csv(url + i.strftime("%Y-%m-%d-CasosConfirmados.csv"))
+            data["Fecha"] = i.strftime("%d-%m-%Y")
+            salida.append(data)
+        except:
+            pass
+
+    data =pd.concat(salida)
+    data.to_csv(ruta +"Producto2.csv", index=False)
+
+    url = "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto3/CasosTotalesCumulativo.csv"
+    data = realizarColumnaParticular(pd.read_csv(url),"Region")
+    data.to_csv(ruta +"Producto3.csv", index=False)
+
+    salida = []
+    inicio = datetime(2020,3,3)
+    fin    = datetime.now()
+
+    url = "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto4/"  #2020-03-03-CasosConfirmados-totalRegional.csv
+    lista_fechas = [inicio + timedelta(days=d) for d in range((fin - inicio).days + 1)] 
+    for i in lista_fechas:
+        try:
+            data = pd.read_csv(url + i.strftime("%Y-%m-%d-CasosConfirmados-totalRegional.csv"))
+            data["Fecha"] = i.strftime("%d-%m-%Y")
+            salida.append(data)
+        except:
+            pass
+    data =pd.concat(salida)
+    data.to_csv(ruta +"Producto4.csv", index=False)
+
+    url = "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto5/recuperados.csv"
+    data = realizarColumnaParticular(pd.read_csv(url),"Fecha")
+    #data["Estado"] = data["Fecha"]
+    del data["Fecha"]
+
+    data.to_csv(ruta +"Producto5.csv", index=False)
+    return
+
 
 
 
