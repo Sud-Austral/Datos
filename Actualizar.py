@@ -643,7 +643,9 @@ def realizarColumnaParticular(data, key):
     return pd.DataFrame(salida)
 
 def minsal():
+    #Ruta para Chile/MinCiencia
     ruta = "Chile/MinCiencia/"
+    
     url = "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/Covid-19.csv"
     data = realizarColumna(pd.read_csv(url),3)
     data.to_csv(ruta + "Principal.csv", index=False)
