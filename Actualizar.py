@@ -21,6 +21,11 @@ import http.client, urllib.request, urllib.parse, urllib.error, base64
 def UpdateDatabase():
     print("Comenzo...")
     try:
+        bingNews()
+        print("Bing News completo...")
+    except:
+        print("Error a cargar a Bing News")
+    try:
         minsal()
         print("Minsal completo...")
     except:
