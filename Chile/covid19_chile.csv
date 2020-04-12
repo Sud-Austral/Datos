@@ -1139,7 +1139,7 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 1138,25-03-2020,8.0,Chile,Biobío,,,,San Pedro de la Paz,,,Confirmado,-36.8809102037,-73.098476665
 1139,25-03-2020,8.0,Chile,Biobío,,,,San Pedro de la Paz,,,Confirmado,-36.8809102037,-73.098476665
 1140,25-03-2020,8.0,Chile,Biobío,,,,San Pedro de la Paz,,,Confirmado,-36.8809102037,-73.098476665
-1141,25-03-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+1141,25-03-2020,9.0,Chile,La Araucanía,Femenino,,Hospital de Lautaro,Vilcún,,,Confirmado,-38.7047212019,-72.116504654
 1142,25-03-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
 1143,25-03-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
 1144,25-03-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
@@ -1900,8 +1900,8 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 1899,28-03-2020,8.0,Chile,Biobío,,,,Curanilahue,,,Confirmado,-37.4828989129,-73.2356455822
 1900,28-03-2020,8.0,Chile,Biobío,,,,Tomé,,,Confirmado,-36.6166323796,-72.8580501099
 1901,28-03-2020,8.0,Chile,Biobío,,,,Tomé,,,Confirmado,-36.6166323796,-72.8580501099
-1902,28-03-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-1903,28-03-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+1902,28-03-2020,9.0,Chile,La Araucanía,,,,Nueva Imperial,,,Confirmado,-38.7515999667,-72.9720610851
+1903,28-03-2020,9.0,Chile,La Araucanía,,,,Puerto Saavedra,,,Confirmado,-38.6482295784,-72.276375641
 1904,28-03-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
 1905,28-03-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
 1906,28-03-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
@@ -3084,9 +3084,9 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 3083,01-04-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
 3084,01-04-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
 3085,01-04-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
-3086,01-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-3087,01-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-3088,01-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+3086,01-04-2020,9.0,Chile,La Araucanía,,,,Angol,,,Confirmado,-37.7687124996,-72.7957142527
+3087,01-04-2020,9.0,Chile,La Araucanía,,,,Angol,,,Confirmado,-37.7687124996,-72.7957142527
+3088,01-04-2020,9.0,Chile,La Araucanía,,,,Angol,,,Confirmado,-37.7687124996,-72.7957142527
 3089,01-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
 3090,01-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
 3091,01-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
@@ -5026,7 +5026,7 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 5025,05-04-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
 5026,05-04-2020,13.0,Chile,Metropolitana,,88.0,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
 5027,05-04-2020,9.0,Chile,La Araucanía,Masculino,,,Cunco,,,Muerte,-38.9772539633,-71.9922993971
-5028,05-04-2020,9.0,Chile,La Araucanía,Masculino,,,Angol,,,Muerte,-37.7687124996,-72.7957142527
+5028,05-04-2020,9.0,Chile,La Araucanía,Masculino,69.0,Hospital de Victoria,Angol,,,Muerte,-37.7687124996,-72.7957142527
 5029,05-04-2020,9.0,Chile,La Araucanía,Masculino,,,Nueva Imperial,,,Muerte,-38.7515999667,-72.9720610851
 5030,05-04-2020,9.0,Chile,La Araucanía,Masculino,,,Temuco,,,Muerte,-38.6732629809,-72.6677671889
 5031,05-04-2020,10.0,Chile,Los Lagos,Masculino,82.0,Clinica Alemana Osorno ,Osorno,,,Muerte,-40.6118925181,-73.0867453662
@@ -6371,9 +6371,9 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 6370,08-04-2020,8.0,Chile,Biobío,,,,Hualpén,,,Confirmado,-36.7887941186,-73.141186622
 6371,08-04-2020,8.0,Chile,Biobío,,,,Hualpén,,,Confirmado,-36.7887941186,-73.141186622
 6372,08-04-2020,8.0,Chile,Biobío,,,,Hualpén,,,Confirmado,-36.7887941186,-73.141186622
-6373,08-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-6374,08-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-6375,08-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+6373,08-04-2020,9.0,Chile,La Araucanía,,,,Ercilla,,,Confirmado,-38.0828410497,-72.3531374892
+6374,08-04-2020,9.0,Chile,La Araucanía,,,,Ercilla,,,Confirmado,-38.0828410497,-72.3531374892
+6375,08-04-2020,9.0,Chile,La Araucanía,,,,Renaico,,,Confirmado,-37.7175856821,-72.5755910381
 6376,08-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
 6377,08-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
 6378,08-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
@@ -9193,9 +9193,9 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 9192,12-04-2020,12.0,Chile,Magallanes,Masculino,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
 9193,12-04-2020,12.0,Chile,Magallanes,Masculino,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
 9194,12-04-2020,12.0,Chile,Magallanes,Masculino,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
-9195,12-04-2020,15.0,Chile,Arica y Parinacota,,,,No Informado,,,Muerte,-18.4948272056,-69.6271472235
+9195,12-04-2020,15.0,Chile,Arica y Parinacota,Femenino,76.0,,Arica,,,Muerte,-18.5321930844,-69.9714910871
 9196,12-04-2020,16.0,Chile,Ñuble,,,,No Informado,,,Muerte,-37.3539275137,-72.2634281286
-9197,12-04-2020,12.0,Chile,Magallanes,Masculino,79.0,Hospital Clinico de Magallanes,Punta Arenas,,,Muerte,-53.6467902489,-72.0254461498
+9197,12-04-2020,12.0,Chile,Magallanes,Masculino,79.0,Hospital Clínico de Magallanes,Punta Arenas,,,Muerte,-53.6467902489,-72.0254461498
 9198,12-04-2020,14.0,Chile,Los Ríos,Masculino,57.0,,Valdivia,,,Muerte,-39.8177863595,-73.1746908864
 9199,12-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
 9200,12-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
