@@ -771,7 +771,7 @@ def bingNews():
         except:
             pass
     data = pd.DataFrame(salida)[["name","url","description","datePublished","imagen","pais"]]
-    data.to_csv("bing/news/Chile.csv",index=False)
+    data[::-1].to_csv("bing/news/Chile.csv",index=False)
     return
 #************************************Actualizar BING NEWS*******************************************
 
