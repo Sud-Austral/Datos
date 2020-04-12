@@ -737,6 +737,7 @@ Taiwan	TW
 Turkey	TR
 United Kingdom	GB
 United States	US
+"""
 def bingNews():
     headers = {
         # Request headers
