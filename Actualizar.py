@@ -15,6 +15,7 @@ import git
 import datetime
 import numpy as np
 import wget
+import http.client, urllib.request, urllib.parse, urllib.error, base64
 #from datetime import datetime
 #************************************Actualizar Database**************************************************
 def UpdateDatabase():
@@ -583,8 +584,6 @@ def Farmacias():
 #************************************Actualizar Farmacias*******************************************
 
 #************************************Actualizar Minsal*******************************************
-
-#************************************Actualizar Minsal*******************************************
 #https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/Covid-19.csv Principal
 #https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto1/Covid-19.csv #Casos totales por comuna incremental:
 # Casos totales por comuna
@@ -695,6 +694,42 @@ def minsal():
     data.to_csv(ruta +"Producto5.csv", index=False)
     return
 #************************************Actualizar Minsal*******************************************
+#************************************Actualizar BING NEWS*******************************************
+def bingNews():
+headers = {
+    # Request headers
+    'Ocp-Apim-Subscription-Key': 'b091fbaeb9f94255b542befc3ecff8b8',
+}
+
+params = urllib.parse.urlencode({
+    # Request parameters
+    'q': 'covid-19 coronavirus Chile',
+    'count': '100',
+    'offset': '0',
+    'mkt': 'es-CL',
+    'safeSearch': 'Moderate',
+})
+
+conn = http.client.HTTPSConnection('api.cognitive.microsoft.com')
+conn.request("GET", "/bing/v7.0/news/search?%s" % params, "{body}", headers)
+response = conn.getresponse()
+#data = response.read()
+
+decoded_data=codecs.decode(response.read(), 'utf-8-sig')
+d = json.loads(decoded_data)
+conn.close()
+aux =  d['value']
+salida = []
+for i in aux:
+    try:
+        i["imagen"] = i["image"]["thumbnail"]["contentUrl"]
+        i["pais"] = "Chile"
+        salida.append(i.copy())
+    except:
+        pass
+data = pd.DataFrame(salida)[["name","url","description","datePublished","imagen","pais"]]
+data.to_csv("bing/news/Chile.csv",index=False)
+#************************************Actualizar BING NEWS*******************************************
 
 
 
