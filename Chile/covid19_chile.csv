@@ -5030,7 +5030,7 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 5029,05-04-2020,9.0,Chile,La Araucanía,Masculino,,,Angol,,,Muerte,-37.7687124996,-72.7957142527
 5030,05-04-2020,9.0,Chile,La Araucanía,Masculino,,,Nueva Imperial,,,Muerte,-38.7515999667,-72.9720610851
 5031,05-04-2020,9.0,Chile,La Araucanía,Masculino,,,Temuco,,,Muerte,-38.6732629809,-72.6677671889
-5032,05-04-2020,10.0,Chile,Los Lagos,,82.0,,Osorno,,,Muerte,-40.6118925181,-73.0867453662
+5032,05-04-2020,10.0,Chile,Los Lagos,Masculino,82.0,Clinica Alemana Osorno ,Osorno,,,Muerte,-40.6118925181,-73.0867453662
 5033,05-04-2020,16.0,Chile,Ñuble,Femenino,81.0,Hospital Clínico Herminda Martin,No Informado,,,Muerte,-37.3539275137,-72.2634281286
 5034,05-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
 5035,05-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
@@ -5482,7 +5482,7 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 5481,06-04-2020,12.0,Chile,Magallanes,,,,Cabo de Hornos,,,Confirmado,-55.0293737697,-69.2676114487
 5482,06-04-2020,16.0,Chile,Ñuble,Masculino,68.0,Hospital de Quirihue,Quirihue,,,Muerte,-36.2355993306,-72.5436475817
 5483,06-04-2020,9.0,Chile,La Araucanía,Femenino,91.0,,Padre las Casas,,,Muerte,-38.7917117043,-72.5788411915
-5484,06-04-2020,10.0,Chile,Los Lagos,,,,Osorno,,,Muerte,-40.6118925181,-73.0867453662
+5484,06-04-2020,10.0,Chile,Los Lagos,Femenino,62.0,Hospital Base de Osorno ,Osorno,,,Muerte,-40.6118925181,-73.0867453662
 5485,06-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
 5486,06-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
 5487,06-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
@@ -8565,8 +8565,8 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 8564,11-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
 8565,11-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
 8566,11-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
-8567,11-04-2020,10.0,Chile,Los Lagos,,,,No Informado,,,Muerte,-43.2683956584,-72.2068049418
-8568,11-04-2020,10.0,Chile,Los Lagos,Masculino,62.0,Hospital Base de Osorno ,No Informado,,,Muerte,-43.2683956584,-72.2068049418
+8567,11-04-2020,10.0,Chile,Los Lagos,Femenino,88.0,Hospital Base de Osorno ,Osorno,,,Muerte,-40.6118925181,-73.0867453662
+8568,11-04-2020,10.0,Chile,Los Lagos,Masculino,62.0,Hospital Base de Osorno ,Osorno,,,Muerte,-40.6118925181,-73.0867453662
 8569,11-04-2020,10.0,Chile,Los Lagos,Masculino,83.0,Hospital Base de Osorno ,Osorno,,,Muerte,-40.6118925181,-73.0867453662
 8570,11-04-2020,7.0,Chile,Maule,Femenino,21.0,,Romeral,,,Muerte,-35.0681631557,-70.712024862
 8571,11-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Muerte,-38.6482295784,-72.276375641
