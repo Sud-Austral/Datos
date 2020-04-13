@@ -738,6 +738,14 @@ Turkey	TR
 United Kingdom	GB
 United States	US
 """
+def fechaCorrecta(i):
+    año = i[0:4]
+    mes = i[5:7]
+    dia = i[8:10]
+    hora = i[11:13]
+    minuto = i[14:16]
+    return dia + "-" + mes + "-" + año + " " + hora + ":" + minuto
+
 def bingNews():
     headers = {
         # Request headers
@@ -768,13 +776,14 @@ def bingNews():
             i["imagen"] = i["image"]["thumbnail"]["contentUrl"]
             i["pais"] = "Chile"
             try:
-            i["Fuente"] = i['provider'][0]["name"]
+                i["Fuente"] = i['provider'][0]["name"]
             except:
                 pass
             salida.append(i.copy())
         except:
             pass
     data = pd.DataFrame(salida)[["name","url","description","datePublished","imagen","pais"]]
+    data["datePublished"] = data["datePublished"].apply(fechaCorrecta)
     data[::-1].to_csv("bing/news/Chile.csv",index=False)
     return
 #************************************Actualizar BING NEWS*******************************************
