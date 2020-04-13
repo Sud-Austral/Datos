@@ -746,7 +746,8 @@ def fechaCorrecta(i):
     minuto = i[14:16]
     return dia + "-" + mes + "-" + año + " " + hora + ":" + minuto
 
-def bingNews():
+def bingNews(pais = "Chile"):
+    #pais = "Chile"
     headers = {
         # Request headers
         'Ocp-Apim-Subscription-Key': 'b091fbaeb9f94255b542befc3ecff8b8',
@@ -754,8 +755,8 @@ def bingNews():
 
     params = urllib.parse.urlencode({
         # Request parameters
-        'q': 'covid-19 coronavirus Chile',
-        'count': '100',
+        'q': pais + ' covid-19 coronavirus',
+        'count': '20',
         'offset': '0',
         'mkt': 'es-CL',
         'safeSearch': 'Moderate',
