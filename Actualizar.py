@@ -783,7 +783,7 @@ def bingNews(pais = "Chile"):
             salida.append(i.copy())
         except:
             pass
-    data = pd.DataFrame(salida)[["name","url","description","datePublished","imagen","pais"]]
+    data = pd.DataFrame(salida)[["name","url","description","datePublished","imagen","pais","Fuente"]]
     data["datePublished"] = data["datePublished"].apply(fechaCorrecta)
     data[::-1].to_csv("bing/news/Chile.csv",index=False)
     return
