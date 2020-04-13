@@ -767,6 +767,10 @@ def bingNews():
         try:
             i["imagen"] = i["image"]["thumbnail"]["contentUrl"]
             i["pais"] = "Chile"
+            try:
+            i["Fuente"] = i['provider'][0]["name"]
+            except:
+                pass
             salida.append(i.copy())
         except:
             pass
