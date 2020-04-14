@@ -9978,34 +9978,34 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 9977,14-04-2020,15.0,Chile,Arica y Parinacota,,,,Arica,,,Confirmado,-18.5321930844,-69.9714910871
 9978,14-04-2020,15.0,Chile,Arica y Parinacota,,,,Arica,,,Confirmado,-18.5321930844,-69.9714910871
 9979,14-04-2020,15.0,Chile,Arica y Parinacota,,,,Arica,,,Confirmado,-18.5321930844,-69.9714910871
-9980,14-04-2020,1.0,Chile,Tarapacá,,,,No Informado,,,Confirmado,-20.2133874287,-69.3928397127
-9981,14-04-2020,1.0,Chile,Tarapacá,,,,No Informado,,,Confirmado,-20.2133874287,-69.3928397127
-9982,14-04-2020,1.0,Chile,Tarapacá,,,,No Informado,,,Confirmado,-20.2133874287,-69.3928397127
-9983,14-04-2020,1.0,Chile,Tarapacá,,,,No Informado,,,Confirmado,-20.2133874287,-69.3928397127
-9984,14-04-2020,1.0,Chile,Tarapacá,,,,No Informado,,,Confirmado,-20.2133874287,-69.3928397127
-9985,14-04-2020,1.0,Chile,Tarapacá,,,,No Informado,,,Confirmado,-20.2133874287,-69.3928397127
-9986,14-04-2020,1.0,Chile,Tarapacá,,,,No Informado,,,Confirmado,-20.2133874287,-69.3928397127
-9987,14-04-2020,1.0,Chile,Tarapacá,,,,No Informado,,,Confirmado,-20.2133874287,-69.3928397127
-9988,14-04-2020,1.0,Chile,Tarapacá,,,,No Informado,,,Confirmado,-20.2133874287,-69.3928397127
-9989,14-04-2020,1.0,Chile,Tarapacá,,,,No Informado,,,Confirmado,-20.2133874287,-69.3928397127
-9990,14-04-2020,2.0,Chile,Antofagasta,,,,No Informado,,,Confirmado,-23.5278557228,-69.1155677706
-9991,14-04-2020,2.0,Chile,Antofagasta,,,,No Informado,,,Confirmado,-23.5278557228,-69.1155677706
-9992,14-04-2020,2.0,Chile,Antofagasta,,,,No Informado,,,Confirmado,-23.5278557228,-69.1155677706
-9993,14-04-2020,2.0,Chile,Antofagasta,,,,No Informado,,,Confirmado,-23.5278557228,-69.1155677706
-9994,14-04-2020,2.0,Chile,Antofagasta,,,,No Informado,,,Confirmado,-23.5278557228,-69.1155677706
+9980,14-04-2020,1.0,Chile,Tarapacá,,,,Alto Hospicio,,,Confirmado,-20.1899464527,-70.0109621438
+9981,14-04-2020,1.0,Chile,Tarapacá,,,,Pica,,,Confirmado,-20.4789531968,-68.9122031293
+9982,14-04-2020,1.0,Chile,Tarapacá,,,,Pica,,,Confirmado,-20.4789531968,-68.9122031293
+9983,14-04-2020,1.0,Chile,Tarapacá,,,,Pica,,,Confirmado,-20.4789531968,-68.9122031293
+9984,14-04-2020,1.0,Chile,Tarapacá,,,,Pica,,,Confirmado,-20.4789531968,-68.9122031293
+9985,14-04-2020,1.0,Chile,Tarapacá,,,,Pica,,,Confirmado,-20.4789531968,-68.9122031293
+9986,14-04-2020,1.0,Chile,Tarapacá,,,,Pica,,,Confirmado,-20.4789531968,-68.9122031293
+9987,14-04-2020,1.0,Chile,Tarapacá,,,,Pica,,,Confirmado,-20.4789531968,-68.9122031293
+9988,14-04-2020,1.0,Chile,Tarapacá,,,,Pica,,,Confirmado,-20.4789531968,-68.9122031293
+9989,14-04-2020,1.0,Chile,Tarapacá,,,,Pica,,,Confirmado,-20.4789531968,-68.9122031293
+9990,14-04-2020,2.0,Chile,Antofagasta,Masculino,50.0,,Antofagasta,,,Confirmado,-24.2767223957,-69.4100886557
+9991,14-04-2020,2.0,Chile,Antofagasta,Masculino,39.0,,Mejillones,,,Confirmado,-22.9465783529,-70.2030457945
+9992,14-04-2020,2.0,Chile,Antofagasta,Masculino,33.0,,Tocopilla,,,Confirmado,-21.9975710847,-70.0212244558
+9993,14-04-2020,2.0,Chile,Antofagasta,Femenino,52.0,,Tocopilla,,,Confirmado,-21.9975710847,-70.0212244558
+9994,14-04-2020,2.0,Chile,Antofagasta,Femenino,58.0,,Tocopilla,,,Confirmado,-21.9975710847,-70.0212244558
 9995,14-04-2020,2.0,Chile,Antofagasta,,,,No Informado,,,Confirmado,-23.5278557228,-69.1155677706
-9996,14-04-2020,5.0,Chile,Valparaíso,Masculino ,,Hospital Claudio Vicuña,El Quisco,,,Confirmado,-33.4150669686,-71.651188756
-9997,14-04-2020,5.0,Chile,Valparaíso,Femenino,,Hospital Santo Tomas de Limache,LImache ,,,Confirmado,-32.4993565791,-70.8915740187
-9998,14-04-2020,5.0,Chile,Valparaíso,Femenino,,Hospital Santo Tomas de Limache,LImache ,,,Confirmado,-32.4993565791,-70.8915740187
-9999,14-04-2020,5.0,Chile,Valparaíso,Femenino,,Hospital Juana Ross de Peñablanca,Quillota,,,Confirmado,-32.9047476491,-71.2724210415
-10000,14-04-2020,5.0,Chile,Valparaíso,Masculino ,,Hospital de Quilpué,Quilpué,,,Confirmado,-33.1473777099,-71.2540917137
-10001,14-04-2020,5.0,Chile,Valparaíso,Masculino ,,Hospital Claudio Vicuña,San Antonio,,,Confirmado,-33.6671475155,-71.4869305281
-10002,14-04-2020,5.0,Chile,Valparaíso,Masculino ,,,San Antonio,,,Confirmado,-33.6671475155,-71.4869305281
-10003,14-04-2020,5.0,Chile,Valparaíso,Masculino ,,Hospital Claudio Vicuña,Santo Domingo,,,Confirmado,-33.8094452936,-71.6765110141
-10004,14-04-2020,5.0,Chile,Valparaíso,Femenino,,Hospital Claudio Vicuña,Santo Domingo,,,Confirmado,-33.8094452936,-71.6765110141
-10005,14-04-2020,5.0,Chile,Valparaíso,Masculino ,,,Santo Domingo,,,Confirmado,-33.8094452936,-71.6765110141
-10006,14-04-2020,5.0,Chile,Valparaíso,Masculino ,,Seremi Salud Valparaíso,Viña del Mar,,,Confirmado,-33.0288002963,-71.5154312157
-10007,14-04-2020,5.0,Chile,Valparaíso,Femenino,,,Viña del Mar,,,Confirmado,-33.0288002963,-71.5154312157
+9996,14-04-2020,5.0,Chile,Valparaíso,Masculino ,37.0,Hospital Claudio Vicuña,El Quisco,,,Confirmado,-33.4150669686,-71.651188756
+9997,14-04-2020,5.0,Chile,Valparaíso,Femenino,26.0,Hospital Santo Tomas de Limache,LImache ,,,Confirmado,-32.4993565791,-70.8915740187
+9998,14-04-2020,5.0,Chile,Valparaíso,Femenino,3.0,Hospital Santo Tomas de Limache,LImache ,,,Confirmado,-32.4993565791,-70.8915740187
+9999,14-04-2020,5.0,Chile,Valparaíso,Femenino,32.0,Hospital Juana Ross de Peñablanca,Quillota,,,Confirmado,-32.9047476491,-71.2724210415
+10000,14-04-2020,5.0,Chile,Valparaíso,Masculino ,60.0,Hospital de Quilpué,Quilpué,,,Confirmado,-33.1473777099,-71.2540917137
+10001,14-04-2020,5.0,Chile,Valparaíso,Masculino ,37.0,Hospital Claudio Vicuña,San Antonio,,,Confirmado,-33.6671475155,-71.4869305281
+10002,14-04-2020,5.0,Chile,Valparaíso,Masculino ,54.0,,San Antonio,,,Confirmado,-33.6671475155,-71.4869305281
+10003,14-04-2020,5.0,Chile,Valparaíso,Masculino ,29.0,Hospital Claudio Vicuña,Santo Domingo,,,Confirmado,-33.8094452936,-71.6765110141
+10004,14-04-2020,5.0,Chile,Valparaíso,Femenino,61.0,Hospital Claudio Vicuña,Santo Domingo,,,Confirmado,-33.8094452936,-71.6765110141
+10005,14-04-2020,5.0,Chile,Valparaíso,Masculino ,34.0,,Santo Domingo,,,Confirmado,-33.8094452936,-71.6765110141
+10006,14-04-2020,5.0,Chile,Valparaíso,Masculino ,67.0,Seremi Salud Valparaíso,Viña del Mar,,,Confirmado,-33.0288002963,-71.5154312157
+10007,14-04-2020,5.0,Chile,Valparaíso,Femenino,43.0,,Viña del Mar,,,Confirmado,-33.0288002963,-71.5154312157
 10008,14-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
 10009,14-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
 10010,14-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
@@ -10336,16 +10336,16 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 10335,14-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
 10336,14-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
 10337,14-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-10338,14-04-2020,14.0,Chile,Los Ríos,,,,No Informado,,,Confirmado,-40.0034147045,-72.5764331101
-10339,14-04-2020,14.0,Chile,Los Ríos,,,,No Informado,,,Confirmado,-40.0034147045,-72.5764331101
-10340,14-04-2020,14.0,Chile,Los Ríos,,,,No Informado,,,Confirmado,-40.0034147045,-72.5764331101
-10341,14-04-2020,14.0,Chile,Los Ríos,,,,No Informado,,,Confirmado,-40.0034147045,-72.5764331101
-10342,14-04-2020,14.0,Chile,Los Ríos,,,,No Informado,,,Confirmado,-40.0034147045,-72.5764331101
-10343,14-04-2020,14.0,Chile,Los Ríos,,,,No Informado,,,Confirmado,-40.0034147045,-72.5764331101
-10344,14-04-2020,14.0,Chile,Los Ríos,,,,No Informado,,,Confirmado,-40.0034147045,-72.5764331101
-10345,14-04-2020,14.0,Chile,Los Ríos,,,,No Informado,,,Confirmado,-40.0034147045,-72.5764331101
-10346,14-04-2020,14.0,Chile,Los Ríos,,,,No Informado,,,Confirmado,-40.0034147045,-72.5764331101
-10347,14-04-2020,14.0,Chile,Los Ríos,,,,No Informado,,,Confirmado,-40.0034147045,-72.5764331101
+10338,14-04-2020,14.0,Chile,Los Ríos,Femenino,19.0,,Valdivia,,,Confirmado,-39.8177863595,-73.1746908864
+10339,14-04-2020,14.0,Chile,Los Ríos,Femenino,39.0,,Valdivia,,,Confirmado,-39.8177863595,-73.1746908864
+10340,14-04-2020,14.0,Chile,Los Ríos,Femenino,51.0,,Valdivia,,,Confirmado,-39.8177863595,-73.1746908864
+10341,14-04-2020,14.0,Chile,Los Ríos,Femenino,54.0,,Valdivia,,,Confirmado,-39.8177863595,-73.1746908864
+10342,14-04-2020,14.0,Chile,Los Ríos,Femenino,67.0,,Valdivia,,,Confirmado,-39.8177863595,-73.1746908864
+10343,14-04-2020,14.0,Chile,Los Ríos,Femenino,76.0,,Valdivia,,,Confirmado,-39.8177863595,-73.1746908864
+10344,14-04-2020,14.0,Chile,Los Ríos,Masculino,42.0,,Valdivia,,,Confirmado,-39.8177863595,-73.1746908864
+10345,14-04-2020,14.0,Chile,Los Ríos,Femenino,67.0,,Lanco,,,Confirmado,-39.5121811782,-72.6215188458
+10346,14-04-2020,14.0,Chile,Los Ríos,Masculino,90.0,,Lanco,,,Confirmado,-39.5121811782,-72.6215188458
+10347,14-04-2020,14.0,Chile,Los Ríos,Femenino,56.0,,La Unión,,,Confirmado,-40.2017945002,-73.2223210849
 10348,14-04-2020,10.0,Chile,Los Lagos,,,,Puerto Varas,,,Confirmado,-41.1907355599,-72.3881107087
 10349,14-04-2020,10.0,Chile,Los Lagos,,,,Frutillar,,,Confirmado,-41.087394356,-73.0959170387
 10350,14-04-2020,10.0,Chile,Los Lagos,,,,Osorno,,,Confirmado,-40.6118925181,-73.0867453662
