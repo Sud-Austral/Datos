@@ -337,7 +337,6 @@ def johnsHopkinsCovid19Series():
 #************************************Actualizar worldmeter***********************************************
 def cambioFecha(texto):
     aux = str(texto)
-    
     traductor ={
         "Jan" : 1,
         "Feb" : 2,
@@ -417,26 +416,16 @@ def ourWorldInData():
                 "daily-cases-covid-19.csv",
                 "physicians-per-1000-people.csv",
                 "hospital-beds-per-1000-people.csv",
-                "share-of-the-population-that-is-70-years-and-older.csv"      
+                "share-of-the-population-that-is-70-years-and-older.csv",
+                "total-and-daily-cases-covid-19.csv"      
                 ]
     ruta = "C:/Users/limc_/Downloads/"
-    try:
-        for i in archivos:
+    
+    for i in archivos:
+        try:    
             remove(ruta + i)
-        """
-        remove("C:/Users/limc_/Downloads/covid-19-total-confirmed-cases-vs-total-tests-conducted.csv")
-        remove("C:/Users/limc_/Downloads/total-deaths-covid-19.csv")
-        remove("C:/Users/limc_/Downloads/covid-19-tests-country.csv")
-        remove("C:/Users/limc_/Downloads/total-daily-covid-deaths-per-million.csv")
-        remove("C:/Users/limc_/Downloads/total-cases-covid-19.csv")
-        remove("C:/Users/limc_/Downloads/total-and-daily-cases-covid-19.csv")
-        remove("C:/Users/limc_/Downloads/daily-cases-covid-19.csv")
-        remove("C:/Users/limc_/Downloads/physicians-per-1000-people.csv")
-        remove("C:/Users/limc_/Downloads/hospital-beds-per-1000-people.csv")
-        remove("C:/Users/limc_/Downloads/share-of-the-population-that-is-70-years-and-older.csv")
-        """
-    except:
-        pass
+        except:
+            pass
     download_folder = "C:/Users/limc_/Documents/GitHub/Datos"
     options = Options()
     options.set_preference("browser.download.dir", download_folder)
@@ -531,9 +520,12 @@ def ourWorldInData():
     #ruta = "C:/Users/limc_/Downloads/"
     folder = "C:/Users/limc_/Documents/GitHub/Datos/ourworldindata.org/"
     for i in archivos:
-        shutil.copy(ruta + i, folder + now.strftime("%d-%m-%Y_%H-%M-%S") + i)
-        shutil.copy(ruta + i, folder  + i)
-        verificarColumnas(pd.read_csv(folder  + i),i)
+        try:
+            shutil.copy(ruta + i, folder + now.strftime("%d-%m-%Y_%H-%M-%S") + i)
+            shutil.copy(ruta + i, folder  + i)
+            verificarColumnas(pd.read_csv(folder  + i),i)
+        except:
+            pass
         
     """
     shutil.copy('C:/Users/limc_/Downloads/full-list-total-tests-for-covid-19.csv', 'C:/Users/limc_/Documents/GitHub/Datos/ourworldindata.org/full-list-total-tests-for-covid-19' + now.strftime("%d-%m-%Y_%H-%M-%S") + ".csv")
@@ -746,6 +738,9 @@ def fechaCorrecta(i):
     minuto = i[14:16]
     return dia + "-" + mes + "-" + año + " " + hora + ":" + minuto
 
+def reemplazarFinal(i):
+    return i.replace("&pid=News","")
+
 def bingNews(pais = "Chile"):
     #pais = "Chile"
     headers = {
@@ -755,11 +750,12 @@ def bingNews(pais = "Chile"):
 
     params = urllib.parse.urlencode({
         # Request parameters
-        'q': pais + ' covid-19 coronavirus',
-        'count': '20',
+        'q':  'covid-19 coronavirus ' + pais + ' loc:cl FORM=HDRSC4',
+        'count': '40',
         'offset': '0',
         'mkt': 'es-CL',
         'safeSearch': 'Moderate',
+        "sortBy": "Date"
     })
 
     conn = http.client.HTTPSConnection('api.cognitive.microsoft.com')
@@ -785,6 +781,7 @@ def bingNews(pais = "Chile"):
             pass
     data = pd.DataFrame(salida)[["name","url","description","datePublished","imagen","pais","Fuente"]]
     data["datePublished"] = data["datePublished"].apply(fechaCorrecta)
+    data["imagen"] = data["imagen"].apply(reemplazarFinal)
     data[::-1].to_csv("bing/news/Chile.csv",index=False)
     return
 #************************************Actualizar BING NEWS*******************************************
