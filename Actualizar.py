@@ -130,7 +130,10 @@ def guardarRepositorio():
 
 #************************************Actualizar Chile*****************************************************
 def Chile():
-    os.remove('Chile/covid19_chile.xlsx')
+    try:
+        os.remove('Chile/covid19_chile.xlsx')
+    except:
+        pass
     wget.download("https://onedrive.live.com/download?resid=9F999E057AD8C646!62083&authkey=!AHatwZn5tIFkoZE", "Chile/covid19_chile.xlsx")
     url_chile = "https://raw.githubusercontent.com/ivanMSC/COVID19_Chile/master/covid19_chile.csv"
     pd.read_csv(url_chile).to_csv("Chile/covid19_chile.csv", index=False)
