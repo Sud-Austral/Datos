@@ -64,7 +64,7 @@ def UpdateDatabase():
         ourWorldInData()
         print("OurWorldInData completo...")
     except:
-        print("Error a cargar a Hopkins OurWorldInData")
+        print("Error a cargar a OurWorldInData")
     try:
         EarlyAlert()
         print("EarlyAlert completo...")
