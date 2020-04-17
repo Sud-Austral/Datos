@@ -4092,7 +4092,7 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 4091,03-04-2020,13.0,Chile,Metropolitana,,87.0,,Santiago,,,Muerte,-33.4537511827,-70.6569543965
 4092,03-04-2020,13.0,Chile,Metropolitana,,70.0,,Santiago,,,Muerte,-33.4537511827,-70.6569543965
 4093,03-04-2020,12.0,Chile,Magallanes,Femenino,86.0,Hospital Clinico de Magallanes,Punta Arenas,,,Muerte,-53.6467902489,-72.0254461498
-4094,03-04-2020,16.0,Chile,Ñuble,Masculino,70.0,Hospital Clínico Herminda Martin,Chillán,,,Muerte,-36.6174916649,-72.1287244312
+4094,03-04-2020,16.0,Chile,Ñuble,Masculino,79.0,Hospital Clínico Herminda Martin,Chillán,,,Muerte,-36.6174916649,-72.1287244312
 4095,03-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
 4096,03-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
 4097,03-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
@@ -5031,7 +5031,7 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 5030,05-04-2020,9.0,Chile,La Araucanía,Masculino,82.0,,Nueva Imperial,,,Muerte,-38.7515999667,-72.9720610851
 5031,05-04-2020,9.0,Chile,La Araucanía,Masculino,86.0,,Temuco,,,Muerte,-38.6732629809,-72.6677671889
 5032,05-04-2020,10.0,Chile,Los Lagos,Masculino,82.0,Clinica Alemana Osorno ,Osorno,,,Muerte,-40.6118925181,-73.0867453662
-5033,05-04-2020,16.0,Chile,Ñuble,Femenino,81.0,Hospital Clínico Herminda Martin,No Informado,,,Muerte,-37.3539275137,-72.2634281286
+5033,05-04-2020,16.0,Chile,Ñuble,Femenino,81.0,Hospital Clínico Herminda Martin,San Nicolás,,,Muerte,-36.4796077479,-72.2283817817
 5034,05-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
 5035,05-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
 5036,05-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
@@ -6754,12 +6754,12 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 6753,09-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
 6754,09-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
 6755,09-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
-6756,09-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
-6757,09-04-2020,13.0,Chile,Metropolitana,,,,Curacaví,,,Confirmado,-33.3664865657,-71.0801315878
+6756,09-04-2020,13.0,Chile,Metropolitana,,,,Curacaví,,,Confirmado,-33.3664865657,-71.0801315878
+6757,09-04-2020,13.0,Chile,Metropolitana,,,,Buin,,,Confirmado,-33.7480620996,-70.7389422429
 6758,09-04-2020,13.0,Chile,Metropolitana,,,,Buin,,,Confirmado,-33.7480620996,-70.7389422429
 6759,09-04-2020,13.0,Chile,Metropolitana,,,,Buin,,,Confirmado,-33.7480620996,-70.7389422429
 6760,09-04-2020,13.0,Chile,Metropolitana,,,,Buin,,,Confirmado,-33.7480620996,-70.7389422429
-6761,09-04-2020,13.0,Chile,Metropolitana,,,,Buin,,,Confirmado,-33.7480620996,-70.7389422429
+6761,09-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
 6762,09-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
 6763,09-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
 6764,09-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
@@ -7355,8 +7355,8 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 7354,10-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
 7355,10-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
 7356,10-04-2020,13.0,Chile,Metropolitana,,,,Curacaví,,,Confirmado,-33.3664865657,-71.0801315878
-7357,10-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-7358,10-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+7357,10-04-2020,13.0,Chile,Metropolitana,,,,Paine,,,Confirmado,-33.8637126554,-70.7583137013
+7358,10-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
 7359,10-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
 7360,10-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
 7361,10-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
@@ -8183,10 +8183,10 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 8182,11-04-2020,13.0,Chile,Metropolitana,,,,Buin,,,Confirmado,-33.7480620996,-70.7389422429
 8183,11-04-2020,13.0,Chile,Metropolitana,,,,Buin,,,Confirmado,-33.7480620996,-70.7389422429
 8184,11-04-2020,13.0,Chile,Metropolitana,,,,Buin,,,Confirmado,-33.7480620996,-70.7389422429
-8185,11-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-8186,11-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-8187,11-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-8188,11-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+8185,11-04-2020,13.0,Chile,Metropolitana,,,,Paine,,,Confirmado,-33.8637126554,-70.7583137013
+8186,11-04-2020,13.0,Chile,Metropolitana,,,,Paine,,,Confirmado,-33.8637126554,-70.7583137013
+8187,11-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
+8188,11-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
 8189,11-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
 8190,11-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
 8191,11-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
@@ -8953,17 +8953,17 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 8952,12-04-2020,5.0,Chile,Valparaíso,Femenino,95.0,Hospital Gustavo Fricke,Viña del Mar ,,,Confirmado,-32.4993565791,-70.8915740187
 8953,12-04-2020,5.0,Chile,Valparaíso,Masculino,39.0,,Quillota,,,Confirmado,-32.9047476491,-71.2724210415
 8954,12-04-2020,13.0,Chile,Metropolitana,,,,Curacaví,,,Confirmado,-33.3664865657,-71.0801315878
-8955,12-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-8956,12-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-8957,12-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-8958,12-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-8959,12-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-8960,12-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-8961,12-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-8962,12-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-8963,12-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-8964,12-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-8965,12-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+8955,12-04-2020,13.0,Chile,Metropolitana,,,,Paine,,,Confirmado,-33.8637126554,-70.7583137013
+8956,12-04-2020,13.0,Chile,Metropolitana,,,,Paine,,,Confirmado,-33.8637126554,-70.7583137013
+8957,12-04-2020,13.0,Chile,Metropolitana,,,,Paine,,,Confirmado,-33.8637126554,-70.7583137013
+8958,12-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
+8959,12-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
+8960,12-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
+8961,12-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
+8962,12-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
+8963,12-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
+8964,12-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
+8965,12-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
 8966,12-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
 8967,12-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
 8968,12-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
@@ -9386,9 +9386,9 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 9385,13-04-2020,5.0,Chile,Valparaíso,Femenino,80.0,,Santo Domingo,,,Confirmado,-33.8094452936,-71.6765110141
 9386,13-04-2020,5.0,Chile,Valparaíso,Femenino,62.0,,Viña del Mar,,,Confirmado,-33.0288002963,-71.5154312157
 9387,13-04-2020,5.0,Chile,Valparaíso,Masculino,36.0,Hospital Gustavo Fricke,Viña del Mar,,,Confirmado,-33.0288002963,-71.5154312157
-9388,13-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-9389,13-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-9390,13-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+9388,13-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
+9389,13-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
+9390,13-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
 9391,13-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
 9392,13-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
 9393,13-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
@@ -10006,10 +10006,10 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 10005,14-04-2020,5.0,Chile,Valparaíso,Masculino ,34.0,,Santo Domingo,,,Confirmado,-33.8094452936,-71.6765110141
 10006,14-04-2020,5.0,Chile,Valparaíso,Masculino ,67.0,Seremi Salud Valparaíso,Viña del Mar,,,Confirmado,-33.0288002963,-71.5154312157
 10007,14-04-2020,5.0,Chile,Valparaíso,Femenino,43.0,,Viña del Mar,,,Confirmado,-33.0288002963,-71.5154312157
-10008,14-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-10009,14-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-10010,14-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-10011,14-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+10008,14-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
+10009,14-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
+10010,14-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
+10011,14-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
 10012,14-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
 10013,14-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
 10014,14-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
@@ -10368,7 +10368,7 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 10367,14-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Muerte,-38.6482295784,-72.276375641
 10368,14-04-2020,16.0,Chile,Ñuble,Femenino,95.0,Hospital Clínico Herminda Martin,No Informado,,,Muerte,-37.3539275137,-72.2634281286
 10369,14-04-2020,,Chile,Maule,Masculino,86.0,,Curepto,,,Muerte,-35.1297379581,-71.9529801365
-10370,14-04-2020,,Chile,Metropolitana,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
+10370,14-04-2020,,Chile,Metropolitana,Masculino,88.0,,Pedro Aguirre Cerda,,,Muerte,-33.4917427389,-70.6756529433
 10371,14-04-2020,,Chile,Metropolitana,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
 10372,14-04-2020,,Chile,Metropolitana,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
 10373,14-04-2020,,Chile,Metropolitana,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
@@ -10693,15 +10693,15 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 10692,15-04-2020,5.0,Chile,Valparaíso,Femenino,45.0,CESFAM Santo Domingo,Santo Domingo,,,Confirmado,-33.8094452936,-71.6765110141
 10693,15-04-2020,5.0,Chile,Valparaíso,Femenino,49.0,CESFAM San Antonio,Santo Domingo,,,Confirmado,-33.8094452936,-71.6765110141
 10694,15-04-2020,5.0,Chile,Valparaíso,Femenino,62.0,,Valparaíso,,,Confirmado,-32.9978836561,-71.7533398553
-10695,15-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-10696,15-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-10697,15-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-10698,15-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-10699,15-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-10700,15-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-10701,15-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-10702,15-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-10703,15-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+10695,15-04-2020,13.0,Chile,Metropolitana,,,,Paine,,,Confirmado,-33.8637126554,-70.7583137013
+10696,15-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
+10697,15-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
+10698,15-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
+10699,15-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
+10700,15-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
+10701,15-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
+10702,15-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
+10703,15-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
 10704,15-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
 10705,15-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
 10706,15-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
@@ -11361,18 +11361,18 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 11360,16-04-2020,5.0,Chile,Valparaíso,Masculino,63.0,CESFAM El Tabo,El Tabo ,,,Confirmado,-32.4993565791,-70.8915740187
 11361,16-04-2020,5.0,Chile,Valparaíso,Masculino,20.0,,Limache,,,Confirmado,-33.0307721107,-71.2789117691
 11362,16-04-2020,5.0,Chile,Valparaíso,Masculino,61.0,Hospital Carlos Van Buren,El Qusico,,,Confirmado,-32.4993565791,-70.8915740187
-11363,16-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-11364,16-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-11365,16-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-11366,16-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-11367,16-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-11368,16-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-11369,16-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-11370,16-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-11371,16-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-11372,16-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-11373,16-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-11374,16-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+11363,16-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
+11364,16-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
+11365,16-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
+11366,16-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
+11367,16-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
+11368,16-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
+11369,16-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
+11370,16-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
+11371,16-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
+11372,16-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
+11373,16-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
+11374,16-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
 11375,16-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
 11376,16-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
 11377,16-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
