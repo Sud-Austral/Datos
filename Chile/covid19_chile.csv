@@ -6490,7 +6490,7 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 6489,08-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
 6490,08-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
 6491,08-04-2020,9.0,Chile,La Araucanía,Femenino,88.0,,Padre las Casas,,,Muerte,-38.7917117043,-72.5788411915
-6492,08-04-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Muerte,-53.6467902489,-72.0254461498
+6492,08-04-2020,12.0,Chile,Magallanes,Masculino,83.0,Hospital Clínico de Magallanes,Punta Arenas,,,Muerte,-53.6467902489,-72.0254461498
 6493,08-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
 6494,08-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
 6495,08-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
@@ -8568,7 +8568,7 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 8567,11-04-2020,10.0,Chile,Los Lagos,Masculino,62.0,Hospital Base de Osorno ,Osorno,,,Muerte,-40.6118925181,-73.0867453662
 8568,11-04-2020,10.0,Chile,Los Lagos,Masculino,83.0,Hospital Base de Osorno ,Osorno,,,Muerte,-40.6118925181,-73.0867453662
 8569,11-04-2020,7.0,Chile,Maule,Femenino,21.0,,Romeral,,,Muerte,-35.0681631557,-70.712024862
-8570,11-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Muerte,-38.6482295784,-72.276375641
+8570,11-04-2020,9.0,Chile,La Araucanía,Femenino,89.0,,Temuco,,,Muerte,-38.6732629809,-72.6677671889
 8571,11-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
 8572,11-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
 8573,11-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
@@ -10367,14 +10367,14 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 10366,14-04-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
 10367,14-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Muerte,-38.6482295784,-72.276375641
 10368,14-04-2020,16.0,Chile,Ñuble,Femenino,95.0,Hospital Clínico Herminda Martin,No Informado,,,Muerte,-37.3539275137,-72.2634281286
-10369,14-04-2020,,Chile,No Informado,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
-10370,14-04-2020,,Chile,No Informado,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
-10371,14-04-2020,,Chile,No Informado,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
-10372,14-04-2020,,Chile,No Informado,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
-10373,14-04-2020,,Chile,No Informado,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
-10374,14-04-2020,,Chile,No Informado,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
-10375,14-04-2020,,Chile,No Informado,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
-10376,14-04-2020,,Chile,No Informado,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
+10369,14-04-2020,,Chile,Maule,Masculino,86.0,,Curepto,,,Muerte,-35.1297379581,-71.9529801365
+10370,14-04-2020,,Chile,Metropolitana,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
+10371,14-04-2020,,Chile,Metropolitana,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
+10372,14-04-2020,,Chile,Metropolitana,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
+10373,14-04-2020,,Chile,Metropolitana,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
+10374,14-04-2020,,Chile,La Araucanía,,,,No Informado,,,Muerte,-38.6482295784,-72.276375641
+10375,14-04-2020,,Chile,La Araucanía,,,,No Informado,,,Muerte,-38.6482295784,-72.276375641
+10376,14-04-2020,,Chile,Magallanes,Femenino,75.0,,Punta Arenas,,,Muerte,-53.6467902489,-72.0254461498
 10377,14-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
 10378,14-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
 10379,14-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
@@ -11011,7 +11011,7 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 11010,15-04-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
 11011,15-04-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
 11012,15-04-2020,13.0,Chile,Metropolitana,,78.0,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
-11013,15-04-2020,9.0,Chile,La Araucanía,,84.0,,No Informado,,,Muerte,-38.6482295784,-72.276375641
+11013,15-04-2020,9.0,Chile,La Araucanía,Femenino,84.0,,No Informado,,,Muerte,-38.6482295784,-72.276375641
 11014,15-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
 11015,15-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
 11016,15-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
