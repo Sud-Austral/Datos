@@ -21,6 +21,11 @@ import http.client, urllib.request, urllib.parse, urllib.error, base64
 def UpdateDatabase():
     print("Comenzo...")
     try:
+        minCiencia()
+        print("Nuevos datos minsal completo...")
+    except:
+        print("Error a cargar a datos minsal")
+    try:
         bingNews()
         print("Bing News completo...")
     except:
@@ -646,8 +651,11 @@ def minsal():
     ruta = "Chile/MinCiencia/"
     #Guardar CSV Principal
     url = "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/Covid-19.csv"
-    data = realizarColumna(pd.read_csv(url),3)
-    data.to_csv(ruta + "Principal.csv", index=False)
+    try:
+        data = realizarColumna(pd.read_csv(url),3)
+        data.to_csv(ruta + "Principal.csv", index=False)
+    except:
+        pass    
     #Guardar CSV Producto1
     url = "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto1/Covid-19.csv"
     data = realizarColumna(pd.read_csv(url),3)
@@ -788,9 +796,20 @@ def bingNews(pais = "Chile"):
     data[::-1].to_csv("bing/news/Chile.csv",index=False)
     return
 #************************************Actualizar BING NEWS*******************************************
-
-
-
+#************************************Actualizar minCiencia*******************************************
+def minCiencia():
+    pd.read_csv("https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/CasosAcumuladosPorComuna.csv").to_csv("Chile/MinCiencia/CasosAcumuladosPorComuna.csv", index=False)
+    pd.read_csv("https://raw.github.com/MinCiencia/Datos-COVID19/master/input/CasosGeneroEtario.csv").to_csv("Chile/MinCiencia/CasosGeneroEtario.csv", index=False)
+    pd.read_csv("https://raw.github.com/MinCiencia/Datos-COVID19/master/input/FallecidosEtario.csv").to_csv("Chile/MinCiencia/FallecidosEtario.csv", index=False)
+    pd.read_csv("https://raw.github.com/MinCiencia/Datos-COVID19/master/input/Fecha_de_inicio_de_Sintomas.csv").to_csv("Chile/MinCiencia/Fecha_de_inicio_de_Sintomas.csv", index=False)
+    pd.read_csv("https://raw.github.com/MinCiencia/Datos-COVID19/master/input/HospitalizadosUCIEtario.csv").to_csv("Chile/MinCiencia/HospitalizadosUCIEtario.csv", index=False)
+    pd.read_csv("https://raw.github.com/MinCiencia/Datos-COVID19/master/input/PCR.csv").to_csv("Chile/MinCiencia/PCR.csv", index=False)
+    pd.read_csv("https://raw.github.com/MinCiencia/Datos-COVID19/master/input/PCREstablecimiento.csv").to_csv("Chile/MinCiencia/PCREstablecimiento.csv", index=False)
+    pd.read_csv("https://raw.github.com/MinCiencia/Datos-COVID19/master/input/SemanasEpidemiologicas.csv").to_csv("Chile/MinCiencia/SemanasEpidemiologicas.csv", index=False)
+    pd.read_csv("https://raw.github.com/MinCiencia/Datos-COVID19/master/input/Tasadeincidencia.csv").to_csv("Chile/MinCiencia/Tasadeincidencia.csv", index=False)
+    pd.read_csv("https://raw.github.com/MinCiencia/Datos-COVID19/master/input/UCI.csv").to_csv("Chile/MinCiencia/UCI.csv", index=False)
+    return
+#************************************Actualizar minCiencia*******************************************
 
 
 
