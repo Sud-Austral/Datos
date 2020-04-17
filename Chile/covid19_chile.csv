@@ -1697,8 +1697,8 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 1696,28-03-2020,5.0,Chile,Valparaíso,Masculino,30.0,Hospital de Quilpué,Quilpué,,,Confirmado,-33.1473777099,-71.2540917137
 1697,28-03-2020,5.0,Chile,Valparaíso,Femenino,59.0,,Valparaíso,,,Confirmado,-32.9978836561,-71.7533398553
 1698,28-03-2020,5.0,Chile,Valparaíso,Femenino,27.0,,Valparaíso,,,Confirmado,-32.9978836561,-71.7533398553
-1699,28-03-2020,5.0,Chile,Valparaíso,Masculino,24.0,,Embarcación Isabel Iceland,,,Confirmado,-32.4993565791,-70.8915740187
-1700,28-03-2020,5.0,Chile,Valparaíso,Masculino,33.0,,Embarcación Isabel Iceland,,,Confirmado,-32.4993565791,-70.8915740187
+1699,28-03-2020,5.0,Chile,Valparaíso,Masculino,24.0,,Barco Isabela Island,,,Confirmado,-32.4993565791,-70.8915740187
+1700,28-03-2020,5.0,Chile,Valparaíso,Masculino,33.0,,Barco Isabela Island,,,Confirmado,-32.4993565791,-70.8915740187
 1701,28-03-2020,13.0,Chile,Metropolitana,,,,Paine,,,Confirmado,-33.8637126554,-70.7583137013
 1702,28-03-2020,13.0,Chile,Metropolitana,,,,Pirque,,,Confirmado,-33.7184830956,-70.5068294787
 1703,28-03-2020,13.0,Chile,Metropolitana,Femenino,,,Buin,,,Confirmado,-33.7480620996,-70.7389422429
@@ -3911,10 +3911,10 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 3910,03-04-2020,16.0,Chile,Ñuble,,,,Yungay,,,Confirmado,-37.1046699113,-71.9305829323
 3911,03-04-2020,16.0,Chile,Ñuble,,,,Pinto,,,Confirmado,-36.9214503508,-71.4999442772
 3912,03-04-2020,16.0,Chile,Ñuble,,,,Pinto,,,Confirmado,-36.9214503508,-71.4999442772
-3913,03-04-2020,16.0,Chile,Ñuble,,,,Bulnés,,,Confirmado,-37.3539275137,-72.2634281286
-3914,03-04-2020,16.0,Chile,Ñuble,,,,Bulnés,,,Confirmado,-37.3539275137,-72.2634281286
-3915,03-04-2020,16.0,Chile,Ñuble,,,,Bulnés,,,Confirmado,-37.3539275137,-72.2634281286
-3916,03-04-2020,16.0,Chile,Ñuble,,,,Bulnés,,,Confirmado,-37.3539275137,-72.2634281286
+3913,03-04-2020,16.0,Chile,Ñuble,,,,Bulnes,,,Confirmado,-36.7904030424,-72.2900215842
+3914,03-04-2020,16.0,Chile,Ñuble,,,,Bulnes,,,Confirmado,-36.7904030424,-72.2900215842
+3915,03-04-2020,16.0,Chile,Ñuble,,,,Bulnes,,,Confirmado,-36.7904030424,-72.2900215842
+3916,03-04-2020,16.0,Chile,Ñuble,,,,Bulnes,,,Confirmado,-36.7904030424,-72.2900215842
 3917,03-04-2020,16.0,Chile,Ñuble,,,,Chillán Viejo,,,Confirmado,-36.6803542471,-72.1988051799
 3918,03-04-2020,16.0,Chile,Ñuble,,,,Chillán Viejo,,,Confirmado,-36.6803542471,-72.1988051799
 3919,03-04-2020,16.0,Chile,Ñuble,,,,Chillán Viejo,,,Confirmado,-36.6803542471,-72.1988051799
@@ -4443,8 +4443,8 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 4442,04-04-2020,16.0,Chile,Ñuble,,,,Pinto,,,Confirmado,-36.9214503508,-71.4999442772
 4443,04-04-2020,16.0,Chile,Ñuble,,,,Pinto,,,Confirmado,-36.9214503508,-71.4999442772
 4444,04-04-2020,16.0,Chile,Ñuble,,,,Quillón,,,Confirmado,-36.8184580623,-72.5018054716
-4445,04-04-2020,16.0,Chile,Ñuble,,,,Bulnés,,,Confirmado,-37.3539275137,-72.2634281286
-4446,04-04-2020,16.0,Chile,Ñuble,,,,Bulnés,,,Confirmado,-37.3539275137,-72.2634281286
+4445,04-04-2020,16.0,Chile,Ñuble,,,,Bulnes,,,Confirmado,-36.7904030424,-72.2900215842
+4446,04-04-2020,16.0,Chile,Ñuble,,,,Bulnes,,,Confirmado,-36.7904030424,-72.2900215842
 4447,04-04-2020,16.0,Chile,Ñuble,,,,Chillán Viejo,,,Confirmado,-36.6803542471,-72.1988051799
 4448,04-04-2020,16.0,Chile,Ñuble,,,,Chillán,,,Confirmado,-36.6174916649,-72.1287244312
 4449,04-04-2020,16.0,Chile,Ñuble,,,,Chillán,,,Confirmado,-36.6174916649,-72.1287244312
@@ -4910,7 +4910,7 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 4909,05-04-2020,16.0,Chile,Ñuble,,,,San Ignacio,,,Confirmado,-36.8224478954,-72.0294015314
 4910,05-04-2020,16.0,Chile,Ñuble,,,,San Ignacio,,,Confirmado,-36.8224478954,-72.0294015314
 4911,05-04-2020,16.0,Chile,Ñuble,,,,Quillón,,,Confirmado,-36.8184580623,-72.5018054716
-4912,05-04-2020,16.0,Chile,Ñuble,,,,Bulnés,,,Confirmado,-37.3539275137,-72.2634281286
+4912,05-04-2020,16.0,Chile,Ñuble,,,,Bulnes,,,Confirmado,-36.7904030424,-72.2900215842
 4913,05-04-2020,16.0,Chile,Ñuble,,,,Chillán Viejo,,,Confirmado,-36.6803542471,-72.1988051799
 4914,05-04-2020,16.0,Chile,Ñuble,,,,Chillán,,,Confirmado,-36.6174916649,-72.1287244312
 4915,05-04-2020,16.0,Chile,Ñuble,,,,Chillán,,,Confirmado,-36.6174916649,-72.1287244312
@@ -5331,7 +5331,7 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 5330,06-04-2020,16.0,Chile,Ñuble,,,,Coihueco,,,Confirmado,-36.7019154417,-71.5817371361
 5331,06-04-2020,16.0,Chile,Ñuble,,,,Pemuco,,,Confirmado,-36.9830646776,-72.0678475373
 5332,06-04-2020,16.0,Chile,Ñuble,,,,Pemuco,,,Confirmado,-36.9830646776,-72.0678475373
-5333,06-04-2020,16.0,Chile,Ñuble,,,,Bulnés,,,Confirmado,-37.3539275137,-72.2634281286
+5333,06-04-2020,16.0,Chile,Ñuble,,,,Bulnes,,,Confirmado,-36.7904030424,-72.2900215842
 5334,06-04-2020,16.0,Chile,Ñuble,,,,Chillán Viejo,,,Confirmado,-36.6803542471,-72.1988051799
 5335,06-04-2020,16.0,Chile,Ñuble,,,,Chillán Viejo,,,Confirmado,-36.6803542471,-72.1988051799
 5336,06-04-2020,16.0,Chile,Ñuble,,,,Chillán,,,Confirmado,-36.6174916649,-72.1287244312
@@ -5729,13 +5729,13 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 5728,07-04-2020,16.0,Chile,Ñuble,,,,Pinto,,,Confirmado,-36.9214503508,-71.4999442772
 5729,07-04-2020,16.0,Chile,Ñuble,,,,Pemuco,,,Confirmado,-36.9830646776,-72.0678475373
 5730,07-04-2020,16.0,Chile,Ñuble,,,,Quillón,,,Confirmado,-36.8184580623,-72.5018054716
-5731,07-04-2020,16.0,Chile,Ñuble,,,,Bulnés,,,Confirmado,-37.3539275137,-72.2634281286
-5732,07-04-2020,16.0,Chile,Ñuble,,,,Bulnés,,,Confirmado,-37.3539275137,-72.2634281286
-5733,07-04-2020,16.0,Chile,Ñuble,,,,Bulnés,,,Confirmado,-37.3539275137,-72.2634281286
-5734,07-04-2020,16.0,Chile,Ñuble,,,,Bulnés,,,Confirmado,-37.3539275137,-72.2634281286
-5735,07-04-2020,16.0,Chile,Ñuble,,,,Bulnés,,,Confirmado,-37.3539275137,-72.2634281286
-5736,07-04-2020,16.0,Chile,Ñuble,,,,Bulnés,,,Confirmado,-37.3539275137,-72.2634281286
-5737,07-04-2020,16.0,Chile,Ñuble,,,,Bulnés,,,Confirmado,-37.3539275137,-72.2634281286
+5731,07-04-2020,16.0,Chile,Ñuble,,,,Bulnes,,,Confirmado,-36.7904030424,-72.2900215842
+5732,07-04-2020,16.0,Chile,Ñuble,,,,Bulnes,,,Confirmado,-36.7904030424,-72.2900215842
+5733,07-04-2020,16.0,Chile,Ñuble,,,,Bulnes,,,Confirmado,-36.7904030424,-72.2900215842
+5734,07-04-2020,16.0,Chile,Ñuble,,,,Bulnes,,,Confirmado,-36.7904030424,-72.2900215842
+5735,07-04-2020,16.0,Chile,Ñuble,,,,Bulnes,,,Confirmado,-36.7904030424,-72.2900215842
+5736,07-04-2020,16.0,Chile,Ñuble,,,,Bulnes,,,Confirmado,-36.7904030424,-72.2900215842
+5737,07-04-2020,16.0,Chile,Ñuble,,,,Bulnes,,,Confirmado,-36.7904030424,-72.2900215842
 5738,07-04-2020,16.0,Chile,Ñuble,,,,Chillán Viejo,,,Confirmado,-36.6803542471,-72.1988051799
 5739,07-04-2020,16.0,Chile,Ñuble,,,,Chillán Viejo,,,Confirmado,-36.6803542471,-72.1988051799
 5740,07-04-2020,16.0,Chile,Ñuble,,,,Chillán Viejo,,,Confirmado,-36.6803542471,-72.1988051799
@@ -6313,8 +6313,8 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 6312,08-04-2020,16.0,Chile,Ñuble,,,,Quillón,,,Confirmado,-36.8184580623,-72.5018054716
 6313,08-04-2020,16.0,Chile,Ñuble,,,,Quillón,,,Confirmado,-36.8184580623,-72.5018054716
 6314,08-04-2020,16.0,Chile,Ñuble,,,,Quillón,,,Confirmado,-36.8184580623,-72.5018054716
-6315,08-04-2020,16.0,Chile,Ñuble,,,,Bulnés,,,Confirmado,-37.3539275137,-72.2634281286
-6316,08-04-2020,16.0,Chile,Ñuble,,,,Bulnés,,,Confirmado,-37.3539275137,-72.2634281286
+6315,08-04-2020,16.0,Chile,Ñuble,,,,Bulnes,,,Confirmado,-36.7904030424,-72.2900215842
+6316,08-04-2020,16.0,Chile,Ñuble,,,,Bulnes,,,Confirmado,-36.7904030424,-72.2900215842
 6317,08-04-2020,16.0,Chile,Ñuble,,,,Chillán,,,Confirmado,-36.6174916649,-72.1287244312
 6318,08-04-2020,16.0,Chile,Ñuble,,,,Chillán,,,Confirmado,-36.6174916649,-72.1287244312
 6319,08-04-2020,16.0,Chile,Ñuble,,,,Chillán,,,Confirmado,-36.6174916649,-72.1287244312
@@ -7718,9 +7718,9 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 7717,10-04-2020,7.0,Chile,Maule,,,,Curicó,,,Confirmado,-35.198494361,-70.8973707757
 7718,10-04-2020,16.0,Chile,Ñuble,,,,Yungay,,,Confirmado,-37.1046699113,-71.9305829323
 7719,10-04-2020,16.0,Chile,Ñuble,,,,San Fabián,,,Confirmado,-36.5798231906,-71.2877565913
-7720,10-04-2020,16.0,Chile,Ñuble,,,,Bulnés,,,Confirmado,-37.3539275137,-72.2634281286
-7721,10-04-2020,16.0,Chile,Ñuble,,,,Bulnés,,,Confirmado,-37.3539275137,-72.2634281286
-7722,10-04-2020,16.0,Chile,Ñuble,,,,Bulnés,,,Confirmado,-37.3539275137,-72.2634281286
+7720,10-04-2020,16.0,Chile,Ñuble,,,,Bulnes,,,Confirmado,-36.7904030424,-72.2900215842
+7721,10-04-2020,16.0,Chile,Ñuble,,,,Bulnes,,,Confirmado,-36.7904030424,-72.2900215842
+7722,10-04-2020,16.0,Chile,Ñuble,,,,Bulnes,,,Confirmado,-36.7904030424,-72.2900215842
 7723,10-04-2020,16.0,Chile,Ñuble,,,,Chillán Viejo,,,Confirmado,-36.6803542471,-72.1988051799
 7724,10-04-2020,16.0,Chile,Ñuble,,,,Chillán Viejo,,,Confirmado,-36.6803542471,-72.1988051799
 7725,10-04-2020,16.0,Chile,Ñuble,,,,Chillán Viejo,,,Confirmado,-36.6803542471,-72.1988051799
@@ -8440,8 +8440,8 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 8439,11-04-2020,16.0,Chile,Ñuble,,,,Yungay,,,Confirmado,-37.1046699113,-71.9305829323
 8440,11-04-2020,16.0,Chile,Ñuble,,,,Yungay,,,Confirmado,-37.1046699113,-71.9305829323
 8441,11-04-2020,16.0,Chile,Ñuble,,,,Coihueco,,,Confirmado,-36.7019154417,-71.5817371361
-8442,11-04-2020,16.0,Chile,Ñuble,,,,Bulnés,,,Confirmado,-37.3539275137,-72.2634281286
-8443,11-04-2020,16.0,Chile,Ñuble,,,,Bulnés,,,Confirmado,-37.3539275137,-72.2634281286
+8442,11-04-2020,16.0,Chile,Ñuble,,,,Bulnes,,,Confirmado,-36.7904030424,-72.2900215842
+8443,11-04-2020,16.0,Chile,Ñuble,,,,Bulnes,,,Confirmado,-36.7904030424,-72.2900215842
 8444,11-04-2020,16.0,Chile,Ñuble,,,,Chillán Viejo,,,Confirmado,-36.6803542471,-72.1988051799
 8445,11-04-2020,16.0,Chile,Ñuble,,,,Chillán Viejo,,,Confirmado,-36.6803542471,-72.1988051799
 8446,11-04-2020,16.0,Chile,Ñuble,,,,Chillán Viejo,,,Confirmado,-36.6803542471,-72.1988051799
@@ -10680,7 +10680,7 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 10679,15-04-2020,2.0,Chile,Antofagasta,,,,María Elena,,,Confirmado,-22.0929370368,-69.4670674746
 10680,15-04-2020,2.0,Chile,Antofagasta,,,,No Informado,,,Confirmado,-23.5278557228,-69.1155677706
 10681,15-04-2020,5.0,Chile,Valparaíso,Masculino,62.0,Hospital Claudio Vicuña,San Antonio,,,Confirmado,-33.6671475155,-71.4869305281
-10682,15-04-2020,5.0,Chile,Valparaíso,Femenino,44.0,,Con Con,,,Confirmado,-32.4993565791,-70.8915740187
+10682,15-04-2020,5.0,Chile,Valparaíso,Femenino,44.0,,Concón,,,Confirmado,-32.9532977141,-71.4678670083
 10683,15-04-2020,5.0,Chile,Valparaíso,Femenino,27.0,SAPU CESFAM Centenario,Los Andes,,,Confirmado,-32.9509221798,-70.2435624785
 10684,15-04-2020,5.0,Chile,Valparaíso,Masculino,46.0,,Quillota,,,Confirmado,-32.9047476491,-71.2724210415
 10685,15-04-2020,5.0,Chile,Valparaíso,Femenino,41.0,,La Calera,,,Confirmado,-32.4993565791,-70.8915740187
@@ -11349,7 +11349,7 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 11348,16-04-2020,5.0,Chile,Valparaíso,Masculino,27.0,Hospital Carlos Van Buren,Valparaíso,,,Confirmado,-32.9978836561,-71.7533398553
 11349,16-04-2020,5.0,Chile,Valparaíso,Masculino,27.0,,Villa Alemana,,,Confirmado,-33.0675667576,-71.330163502
 11350,16-04-2020,5.0,Chile,Valparaíso,Masculino,64.0,Hospital Santo Tomás de Limache,Limache,,,Confirmado,-33.0307721107,-71.2789117691
-11351,16-04-2020,5.0,Chile,Valparaíso,Masculino,77.0,,Quilpue,,,Confirmado,-32.4993565791,-70.8915740187
+11351,16-04-2020,5.0,Chile,Valparaíso,Masculino,77.0,,Quilpué,,,Confirmado,-33.1473777099,-71.2540917137
 11352,16-04-2020,5.0,Chile,Valparaíso,Masculino,58.0,,San Antonio,,,Confirmado,-33.6671475155,-71.4869305281
 11353,16-04-2020,5.0,Chile,Valparaíso,Masculino,35.0,,San Antonio,,,Confirmado,-33.6671475155,-71.4869305281
 11354,16-04-2020,5.0,Chile,Valparaíso,Masculino,40.0,,El Tabo ,,,Confirmado,-32.4993565791,-70.8915740187
@@ -11357,10 +11357,10 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 11356,16-04-2020,5.0,Chile,Valparaíso,Femenino,24.0,,San Antonio,,,Confirmado,-33.6671475155,-71.4869305281
 11357,16-04-2020,5.0,Chile,Valparaíso,Masculino,20.0,,Olmué,,,Confirmado,-33.0356586297,-71.1104338102
 11358,16-04-2020,5.0,Chile,Valparaíso,Femenino,24.0,CESFAM San Antonio,San Antonio,,,Confirmado,-33.6671475155,-71.4869305281
-11359,16-04-2020,5.0,Chile,Valparaíso,Masculino,30.0,,Quilpue,,,Confirmado,-32.4993565791,-70.8915740187
+11359,16-04-2020,5.0,Chile,Valparaíso,Masculino,30.0,,Quilpué,,,Confirmado,-33.1473777099,-71.2540917137
 11360,16-04-2020,5.0,Chile,Valparaíso,Masculino,63.0,CESFAM El Tabo,El Tabo ,,,Confirmado,-32.4993565791,-70.8915740187
 11361,16-04-2020,5.0,Chile,Valparaíso,Masculino,20.0,,Limache,,,Confirmado,-33.0307721107,-71.2789117691
-11362,16-04-2020,5.0,Chile,Valparaíso,Masculino,61.0,Hospital Carlos Van Buren,El Qusico,,,Confirmado,-32.4993565791,-70.8915740187
+11362,16-04-2020,5.0,Chile,Valparaíso,Masculino,61.0,Hospital Carlos Van Buren,El Quisco,,,Confirmado,-33.4150669686,-71.651188756
 11363,16-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
 11364,16-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
 11365,16-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
@@ -12551,8 +12551,8 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 12550,17-04-2020,16.0,Chile,Ñuble,,,,Chillán,,,Confirmado,-36.6174916649,-72.1287244312
 12551,17-04-2020,16.0,Chile,Ñuble,,,,Chillán,,,Confirmado,-36.6174916649,-72.1287244312
 12552,17-04-2020,16.0,Chile,Ñuble,,,,Chillán,,,Confirmado,-36.6174916649,-72.1287244312
-12553,17-04-2020,16.0,Chile,Ñuble,,,,Bulnés,,,Confirmado,-37.3539275137,-72.2634281286
-12554,17-04-2020,16.0,Chile,Ñuble,,,,Bulnés,,,Confirmado,-37.3539275137,-72.2634281286
+12553,17-04-2020,16.0,Chile,Ñuble,,,,Bulnes,,,Confirmado,-36.7904030424,-72.2900215842
+12554,17-04-2020,16.0,Chile,Ñuble,,,,Bulnes,,,Confirmado,-36.7904030424,-72.2900215842
 12555,17-04-2020,16.0,Chile,Ñuble,,,,Chillán Viejo,,,Confirmado,-36.6803542471,-72.1988051799
 12556,17-04-2020,16.0,Chile,Ñuble,,,,Yungay,,,Confirmado,-37.1046699113,-71.9305829323
 12557,17-04-2020,16.0,Chile,Ñuble,,,,Yungay,,,Confirmado,-37.1046699113,-71.9305829323
