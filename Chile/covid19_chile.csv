@@ -5882,7 +5882,7 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 5881,07-04-2020,12.0,Chile,Magallanes,,,,Cabo de Hornos,,,Confirmado,-55.0293737697,-69.2676114487
 5882,07-04-2020,13.0,Chile,Metropolitana,,73.0,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
 5883,07-04-2020,14.0,Chile,Los Ríos,,79.0,,Valdivia,,,Muerte,-39.8177863595,-73.1746908864
-5884,07-04-2020,16.0,Chile,Ñuble,Masculino,88.0,Hospital Clínico Herminda Martin,No Informado,,,Muerte,-37.3539275137,-72.2634281286
+5884,07-04-2020,16.0,Chile,Ñuble,Masculino,88.0,Hospital Clínico Herminda Martin,Chillán,,,Muerte,-36.6174916649,-72.1287244312
 5885,07-04-2020,2.0,Chile,Antofagasta,Femenino,65.0,Hospital Regional de Antofagasta,Antofagasta,,,Muerte,-24.2767223957,-69.4100886557
 5886,07-04-2020,13.0,Chile,Metropolitana,,100.0,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
 5887,07-04-2020,13.0,Chile,Maule,Masculino,79.0,,Longaví,,,Muerte,-36.1104406227,-71.4419609374
