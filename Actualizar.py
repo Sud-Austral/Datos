@@ -24,7 +24,7 @@ def UpdateDatabase():
         minCiencia()
         print("Nuevos datos minsal completo...")
     except:
-        print("Error a cargar a datos minsal")
+        print("Error a cargar nuevos datos minsal")
     try:
         bingNews()
         print("Bing News completo...")
