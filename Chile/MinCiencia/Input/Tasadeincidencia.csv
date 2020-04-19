@@ -1,0 +1,3017 @@
+,Region,Codigo region,Comuna,Codigo comuna,Poblacion,fecha,Cantidad
+0,Arica y Parinacota,15.0,Arica,15101.0,247552.0,2020-03-30,2.4
+1,Arica y Parinacota,15.0,Arica,15101.0,247552.0,2020-04-01,2.4
+2,Arica y Parinacota,15.0,Arica,15101.0,247552.0,2020-04-03,4.8
+3,Arica y Parinacota,15.0,Arica,15101.0,247552.0,2020-04-06,16.6
+4,Arica y Parinacota,15.0,Arica,15101.0,247552.0,2020-04-08,25.4
+5,Arica y Parinacota,15.0,Arica,15101.0,247552.0,2020-04-10,35.1
+6,Arica y Parinacota,15.0,Arica,15101.0,247552.0,2020-04-13,46.5
+7,Arica y Parinacota,15.0,Arica,15101.0,247552.0,2020-04-15,50.1
+8,Arica y Parinacota,15.0,Camarones,15102.0,1233.0,2020-03-30,0.0
+9,Arica y Parinacota,15.0,Camarones,15102.0,1233.0,2020-04-01,0.0
+10,Arica y Parinacota,15.0,Camarones,15102.0,1233.0,2020-04-03,0.0
+11,Arica y Parinacota,15.0,Camarones,15102.0,1233.0,2020-04-06,0.0
+12,Arica y Parinacota,15.0,Camarones,15102.0,1233.0,2020-04-08,0.0
+13,Arica y Parinacota,15.0,Camarones,15102.0,1233.0,2020-04-10,0.0
+14,Arica y Parinacota,15.0,Camarones,15102.0,1233.0,2020-04-13,0.0
+15,Arica y Parinacota,15.0,Camarones,15102.0,1233.0,2020-04-15,0.0
+16,Arica y Parinacota,15.0,General Lagos,15202.0,810.0,2020-03-30,0.0
+17,Arica y Parinacota,15.0,General Lagos,15202.0,810.0,2020-04-01,0.0
+18,Arica y Parinacota,15.0,General Lagos,15202.0,810.0,2020-04-03,0.0
+19,Arica y Parinacota,15.0,General Lagos,15202.0,810.0,2020-04-06,0.0
+20,Arica y Parinacota,15.0,General Lagos,15202.0,810.0,2020-04-08,0.0
+21,Arica y Parinacota,15.0,General Lagos,15202.0,810.0,2020-04-10,0.0
+22,Arica y Parinacota,15.0,General Lagos,15202.0,810.0,2020-04-13,0.0
+23,Arica y Parinacota,15.0,General Lagos,15202.0,810.0,2020-04-15,0.0
+24,Arica y Parinacota,15.0,Putre,15201.0,2515.0,2020-03-30,0.0
+25,Arica y Parinacota,15.0,Putre,15201.0,2515.0,2020-04-01,0.0
+26,Arica y Parinacota,15.0,Putre,15201.0,2515.0,2020-04-03,0.0
+27,Arica y Parinacota,15.0,Putre,15201.0,2515.0,2020-04-06,0.0
+28,Arica y Parinacota,15.0,Putre,15201.0,2515.0,2020-04-08,0.0
+29,Arica y Parinacota,15.0,Putre,15201.0,2515.0,2020-04-10,0.0
+30,Arica y Parinacota,15.0,Putre,15201.0,2515.0,2020-04-13,0.0
+31,Arica y Parinacota,15.0,Putre,15201.0,2515.0,2020-04-15,0.0
+32,Arica y Parinacota,15.0,Total,,252110.0,2020-03-30,2.4
+33,Arica y Parinacota,15.0,Total,,252110.0,2020-04-01,2.4
+34,Arica y Parinacota,15.0,Total,,252110.0,2020-04-03,4.8
+35,Arica y Parinacota,15.0,Total,,252110.0,2020-04-06,16.3
+36,Arica y Parinacota,15.0,Total,,252110.0,2020-04-08,25.0
+37,Arica y Parinacota,15.0,Total,,252110.0,2020-04-10,35.1
+38,Arica y Parinacota,15.0,Total,,252110.0,2020-04-13,45.6
+39,Arica y Parinacota,15.0,Total,,252110.0,2020-04-15,49.2
+40,,,,,,2020-03-30,
+41,,,,,,2020-04-01,
+42,,,,,,2020-04-03,
+43,,,,,,2020-04-06,
+44,,,,,,2020-04-08,
+45,,,,,,2020-04-10,
+46,,,,,,2020-04-13,
+47,,,,,,2020-04-15,
+48,Tarapaca,1.0,Alto Hospicio,1107.0,129999.0,2020-03-30,0.0
+49,Tarapaca,1.0,Alto Hospicio,1107.0,129999.0,2020-04-01,0.8
+50,Tarapaca,1.0,Alto Hospicio,1107.0,129999.0,2020-04-03,2.3
+51,Tarapaca,1.0,Alto Hospicio,1107.0,129999.0,2020-04-06,3.8
+52,Tarapaca,1.0,Alto Hospicio,1107.0,129999.0,2020-04-08,4.6
+53,Tarapaca,1.0,Alto Hospicio,1107.0,129999.0,2020-04-10,7.7
+54,Tarapaca,1.0,Alto Hospicio,1107.0,129999.0,2020-04-13,10.8
+55,Tarapaca,1.0,Alto Hospicio,1107.0,129999.0,2020-04-15,11.5
+56,Tarapaca,1.0,Camina,1402.0,1375.0,2020-03-30,0.0
+57,Tarapaca,1.0,Camina,1402.0,1375.0,2020-04-01,0.0
+58,Tarapaca,1.0,Camina,1402.0,1375.0,2020-04-03,0.0
+59,Tarapaca,1.0,Camina,1402.0,1375.0,2020-04-06,0.0
+60,Tarapaca,1.0,Camina,1402.0,1375.0,2020-04-08,0.0
+61,Tarapaca,1.0,Camina,1402.0,1375.0,2020-04-10,0.0
+62,Tarapaca,1.0,Camina,1402.0,1375.0,2020-04-13,0.0
+63,Tarapaca,1.0,Camina,1402.0,1375.0,2020-04-15,0.0
+64,Tarapaca,1.0,Colchane,1403.0,1583.0,2020-03-30,0.0
+65,Tarapaca,1.0,Colchane,1403.0,1583.0,2020-04-01,0.0
+66,Tarapaca,1.0,Colchane,1403.0,1583.0,2020-04-03,0.0
+67,Tarapaca,1.0,Colchane,1403.0,1583.0,2020-04-06,0.0
+68,Tarapaca,1.0,Colchane,1403.0,1583.0,2020-04-08,0.0
+69,Tarapaca,1.0,Colchane,1403.0,1583.0,2020-04-10,0.0
+70,Tarapaca,1.0,Colchane,1403.0,1583.0,2020-04-13,0.0
+71,Tarapaca,1.0,Colchane,1403.0,1583.0,2020-04-15,0.0
+72,Tarapaca,1.0,Huara,1404.0,3000.0,2020-03-30,0.0
+73,Tarapaca,1.0,Huara,1404.0,3000.0,2020-04-01,0.0
+74,Tarapaca,1.0,Huara,1404.0,3000.0,2020-04-03,0.0
+75,Tarapaca,1.0,Huara,1404.0,3000.0,2020-04-06,0.0
+76,Tarapaca,1.0,Huara,1404.0,3000.0,2020-04-08,0.0
+77,Tarapaca,1.0,Huara,1404.0,3000.0,2020-04-10,0.0
+78,Tarapaca,1.0,Huara,1404.0,3000.0,2020-04-13,0.0
+79,Tarapaca,1.0,Huara,1404.0,3000.0,2020-04-15,0.0
+80,Tarapaca,1.0,Iquique,1101.0,223463.0,2020-03-30,2.2
+81,Tarapaca,1.0,Iquique,1101.0,223463.0,2020-04-01,2.2
+82,Tarapaca,1.0,Iquique,1101.0,223463.0,2020-04-03,4.5
+83,Tarapaca,1.0,Iquique,1101.0,223463.0,2020-04-06,5.8
+84,Tarapaca,1.0,Iquique,1101.0,223463.0,2020-04-08,7.2
+85,Tarapaca,1.0,Iquique,1101.0,223463.0,2020-04-10,8.1
+86,Tarapaca,1.0,Iquique,1101.0,223463.0,2020-04-13,11.6
+87,Tarapaca,1.0,Iquique,1101.0,223463.0,2020-04-15,11.6
+88,Tarapaca,1.0,Pica,1405.0,5958.0,2020-03-30,0.0
+89,Tarapaca,1.0,Pica,1405.0,5958.0,2020-04-01,0.0
+90,Tarapaca,1.0,Pica,1405.0,5958.0,2020-04-03,0.0
+91,Tarapaca,1.0,Pica,1405.0,5958.0,2020-04-06,16.8
+92,Tarapaca,1.0,Pica,1405.0,5958.0,2020-04-08,33.6
+93,Tarapaca,1.0,Pica,1405.0,5958.0,2020-04-10,83.9
+94,Tarapaca,1.0,Pica,1405.0,5958.0,2020-04-13,167.8
+95,Tarapaca,1.0,Pica,1405.0,5958.0,2020-04-15,318.9
+96,Tarapaca,1.0,Pozo Almonte,1401.0,17395.0,2020-03-30,0.0
+97,Tarapaca,1.0,Pozo Almonte,1401.0,17395.0,2020-04-01,0.0
+98,Tarapaca,1.0,Pozo Almonte,1401.0,17395.0,2020-04-03,0.0
+99,Tarapaca,1.0,Pozo Almonte,1401.0,17395.0,2020-04-06,11.5
+100,Tarapaca,1.0,Pozo Almonte,1401.0,17395.0,2020-04-08,11.5
+101,Tarapaca,1.0,Pozo Almonte,1401.0,17395.0,2020-04-10,11.5
+102,Tarapaca,1.0,Pozo Almonte,1401.0,17395.0,2020-04-13,11.5
+103,Tarapaca,1.0,Pozo Almonte,1401.0,17395.0,2020-04-15,11.5
+104,Tarapaca,1.0,Total,,382773.0,2020-03-30,1.3
+105,Tarapaca,1.0,Total,,382773.0,2020-04-01,1.6
+106,Tarapaca,1.0,Total,,382773.0,2020-04-03,3.4
+107,Tarapaca,1.0,Total,,382773.0,2020-04-06,5.5
+108,Tarapaca,1.0,Total,,382773.0,2020-04-08,6.8
+109,Tarapaca,1.0,Total,,382773.0,2020-04-10,9.1
+110,Tarapaca,1.0,Total,,382773.0,2020-04-13,13.6
+111,Tarapaca,1.0,Total,,382773.0,2020-04-15,16.2
+112,,,,,,2020-03-30,
+113,,,,,,2020-04-01,
+114,,,,,,2020-04-03,
+115,,,,,,2020-04-06,
+116,,,,,,2020-04-08,
+117,,,,,,2020-04-10,
+118,,,,,,2020-04-13,
+119,,,,,,2020-04-15,
+120,Antofagasta,2.0,Antofagasta,2101.0,425725.0,2020-03-30,6.8
+121,Antofagasta,2.0,Antofagasta,2101.0,425725.0,2020-04-01,7.5
+122,Antofagasta,2.0,Antofagasta,2101.0,425725.0,2020-04-03,10.3
+123,Antofagasta,2.0,Antofagasta,2101.0,425725.0,2020-04-06,12.7
+124,Antofagasta,2.0,Antofagasta,2101.0,425725.0,2020-04-08,14.1
+125,Antofagasta,2.0,Antofagasta,2101.0,425725.0,2020-04-10,19.3
+126,Antofagasta,2.0,Antofagasta,2101.0,425725.0,2020-04-13,24.9
+127,Antofagasta,2.0,Antofagasta,2101.0,425725.0,2020-04-15,28.7
+128,Antofagasta,2.0,Calama,2201.0,190336.0,2020-03-30,1.6
+129,Antofagasta,2.0,Calama,2201.0,190336.0,2020-04-01,1.6
+130,Antofagasta,2.0,Calama,2201.0,190336.0,2020-04-03,2.6
+131,Antofagasta,2.0,Calama,2201.0,190336.0,2020-04-06,3.7
+132,Antofagasta,2.0,Calama,2201.0,190336.0,2020-04-08,4.2
+133,Antofagasta,2.0,Calama,2201.0,190336.0,2020-04-10,6.8
+134,Antofagasta,2.0,Calama,2201.0,190336.0,2020-04-13,10.5
+135,Antofagasta,2.0,Calama,2201.0,190336.0,2020-04-15,11.0
+136,Antofagasta,2.0,Maria Elena,2302.0,6814.0,2020-03-30,0.0
+137,Antofagasta,2.0,Maria Elena,2302.0,6814.0,2020-04-01,0.0
+138,Antofagasta,2.0,Maria Elena,2302.0,6814.0,2020-04-03,0.0
+139,Antofagasta,2.0,Maria Elena,2302.0,6814.0,2020-04-06,0.0
+140,Antofagasta,2.0,Maria Elena,2302.0,6814.0,2020-04-08,0.0
+141,Antofagasta,2.0,Maria Elena,2302.0,6814.0,2020-04-10,0.0
+142,Antofagasta,2.0,Maria Elena,2302.0,6814.0,2020-04-13,14.7
+143,Antofagasta,2.0,Maria Elena,2302.0,6814.0,2020-04-15,29.4
+144,Antofagasta,2.0,Mejillones,2102.0,14776.0,2020-03-30,0.0
+145,Antofagasta,2.0,Mejillones,2102.0,14776.0,2020-04-01,0.0
+146,Antofagasta,2.0,Mejillones,2102.0,14776.0,2020-04-03,0.0
+147,Antofagasta,2.0,Mejillones,2102.0,14776.0,2020-04-06,6.8
+148,Antofagasta,2.0,Mejillones,2102.0,14776.0,2020-04-08,13.5
+149,Antofagasta,2.0,Mejillones,2102.0,14776.0,2020-04-10,40.6
+150,Antofagasta,2.0,Mejillones,2102.0,14776.0,2020-04-13,81.2
+151,Antofagasta,2.0,Mejillones,2102.0,14776.0,2020-04-15,94.7
+152,Antofagasta,2.0,Ollague,2202.0,287.0,2020-03-30,0.0
+153,Antofagasta,2.0,Ollague,2202.0,287.0,2020-04-01,0.0
+154,Antofagasta,2.0,Ollague,2202.0,287.0,2020-04-03,0.0
+155,Antofagasta,2.0,Ollague,2202.0,287.0,2020-04-06,0.0
+156,Antofagasta,2.0,Ollague,2202.0,287.0,2020-04-08,0.0
+157,Antofagasta,2.0,Ollague,2202.0,287.0,2020-04-10,0.0
+158,Antofagasta,2.0,Ollague,2202.0,287.0,2020-04-13,0.0
+159,Antofagasta,2.0,Ollague,2202.0,287.0,2020-04-15,0.0
+160,Antofagasta,2.0,San Pedro de Atacama,2203.0,10434.0,2020-03-30,9.6
+161,Antofagasta,2.0,San Pedro de Atacama,2203.0,10434.0,2020-04-01,19.2
+162,Antofagasta,2.0,San Pedro de Atacama,2203.0,10434.0,2020-04-03,28.8
+163,Antofagasta,2.0,San Pedro de Atacama,2203.0,10434.0,2020-04-06,38.3
+164,Antofagasta,2.0,San Pedro de Atacama,2203.0,10434.0,2020-04-08,38.3
+165,Antofagasta,2.0,San Pedro de Atacama,2203.0,10434.0,2020-04-10,38.3
+166,Antofagasta,2.0,San Pedro de Atacama,2203.0,10434.0,2020-04-13,38.3
+167,Antofagasta,2.0,San Pedro de Atacama,2203.0,10434.0,2020-04-15,38.3
+168,Antofagasta,2.0,Sierra Gorda,2103.0,1746.0,2020-03-30,0.0
+169,Antofagasta,2.0,Sierra Gorda,2103.0,1746.0,2020-04-01,0.0
+170,Antofagasta,2.0,Sierra Gorda,2103.0,1746.0,2020-04-03,0.0
+171,Antofagasta,2.0,Sierra Gorda,2103.0,1746.0,2020-04-06,0.0
+172,Antofagasta,2.0,Sierra Gorda,2103.0,1746.0,2020-04-08,0.0
+173,Antofagasta,2.0,Sierra Gorda,2103.0,1746.0,2020-04-10,0.0
+174,Antofagasta,2.0,Sierra Gorda,2103.0,1746.0,2020-04-13,0.0
+175,Antofagasta,2.0,Sierra Gorda,2103.0,1746.0,2020-04-15,0.0
+176,Antofagasta,2.0,Taltal,2104.0,13657.0,2020-03-30,0.0
+177,Antofagasta,2.0,Taltal,2104.0,13657.0,2020-04-01,0.0
+178,Antofagasta,2.0,Taltal,2104.0,13657.0,2020-04-03,0.0
+179,Antofagasta,2.0,Taltal,2104.0,13657.0,2020-04-06,0.0
+180,Antofagasta,2.0,Taltal,2104.0,13657.0,2020-04-08,7.3
+181,Antofagasta,2.0,Taltal,2104.0,13657.0,2020-04-10,22.0
+182,Antofagasta,2.0,Taltal,2104.0,13657.0,2020-04-13,22.0
+183,Antofagasta,2.0,Taltal,2104.0,13657.0,2020-04-15,51.3
+184,Antofagasta,2.0,Tocopilla,2301.0,28079.0,2020-03-30,7.1
+185,Antofagasta,2.0,Tocopilla,2301.0,28079.0,2020-04-01,7.1
+186,Antofagasta,2.0,Tocopilla,2301.0,28079.0,2020-04-03,7.1
+187,Antofagasta,2.0,Tocopilla,2301.0,28079.0,2020-04-06,7.1
+188,Antofagasta,2.0,Tocopilla,2301.0,28079.0,2020-04-08,7.1
+189,Antofagasta,2.0,Tocopilla,2301.0,28079.0,2020-04-10,7.1
+190,Antofagasta,2.0,Tocopilla,2301.0,28079.0,2020-04-13,10.7
+191,Antofagasta,2.0,Tocopilla,2301.0,28079.0,2020-04-15,21.4
+192,Antofagasta,2.0,Total,,691854.0,2020-03-30,5.1
+193,Antofagasta,2.0,Total,,691854.0,2020-04-01,5.6
+194,Antofagasta,2.0,Total,,691854.0,2020-04-03,7.8
+195,Antofagasta,2.0,Total,,691854.0,2020-04-06,9.8
+196,Antofagasta,2.0,Total,,691854.0,2020-04-08,11.1
+197,Antofagasta,2.0,Total,,691854.0,2020-04-10,15.9
+198,Antofagasta,2.0,Total,,691854.0,2020-04-13,21.5
+199,Antofagasta,2.0,Total,,691854.0,2020-04-15,25.4
+200,,,,,,2020-03-30,
+201,,,,,,2020-04-01,
+202,,,,,,2020-04-03,
+203,,,,,,2020-04-06,
+204,,,,,,2020-04-08,
+205,,,,,,2020-04-10,
+206,,,,,,2020-04-13,
+207,,,,,,2020-04-15,
+208,Atacama,3.0,Alto del Carmen,3302.0,5729.0,2020-03-30,0.0
+209,Atacama,3.0,Alto del Carmen,3302.0,5729.0,2020-04-01,0.0
+210,Atacama,3.0,Alto del Carmen,3302.0,5729.0,2020-04-03,0.0
+211,Atacama,3.0,Alto del Carmen,3302.0,5729.0,2020-04-06,0.0
+212,Atacama,3.0,Alto del Carmen,3302.0,5729.0,2020-04-08,0.0
+213,Atacama,3.0,Alto del Carmen,3302.0,5729.0,2020-04-10,0.0
+214,Atacama,3.0,Alto del Carmen,3302.0,5729.0,2020-04-13,0.0
+215,Atacama,3.0,Alto del Carmen,3302.0,5729.0,2020-04-15,0.0
+216,Atacama,3.0,Caldera,3102.0,19426.0,2020-03-30,0.0
+217,Atacama,3.0,Caldera,3102.0,19426.0,2020-04-01,0.0
+218,Atacama,3.0,Caldera,3102.0,19426.0,2020-04-03,0.0
+219,Atacama,3.0,Caldera,3102.0,19426.0,2020-04-06,0.0
+220,Atacama,3.0,Caldera,3102.0,19426.0,2020-04-08,0.0
+221,Atacama,3.0,Caldera,3102.0,19426.0,2020-04-10,0.0
+222,Atacama,3.0,Caldera,3102.0,19426.0,2020-04-13,0.0
+223,Atacama,3.0,Caldera,3102.0,19426.0,2020-04-15,0.0
+224,Atacama,3.0,Chanaral,3201.0,13164.0,2020-03-30,0.0
+225,Atacama,3.0,Chanaral,3201.0,13164.0,2020-04-01,0.0
+226,Atacama,3.0,Chanaral,3201.0,13164.0,2020-04-03,0.0
+227,Atacama,3.0,Chanaral,3201.0,13164.0,2020-04-06,0.0
+228,Atacama,3.0,Chanaral,3201.0,13164.0,2020-04-08,0.0
+229,Atacama,3.0,Chanaral,3201.0,13164.0,2020-04-10,0.0
+230,Atacama,3.0,Chanaral,3201.0,13164.0,2020-04-13,0.0
+231,Atacama,3.0,Chanaral,3201.0,13164.0,2020-04-15,0.0
+232,Atacama,3.0,Copiapo,3101.0,171766.0,2020-03-30,0.6
+233,Atacama,3.0,Copiapo,3101.0,171766.0,2020-04-01,1.2
+234,Atacama,3.0,Copiapo,3101.0,171766.0,2020-04-03,2.3
+235,Atacama,3.0,Copiapo,3101.0,171766.0,2020-04-06,2.3
+236,Atacama,3.0,Copiapo,3101.0,171766.0,2020-04-08,2.9
+237,Atacama,3.0,Copiapo,3101.0,171766.0,2020-04-10,4.7
+238,Atacama,3.0,Copiapo,3101.0,171766.0,2020-04-13,4.7
+239,Atacama,3.0,Copiapo,3101.0,171766.0,2020-04-15,4.7
+240,Atacama,3.0,Diego de Almagro,3202.0,14358.0,2020-03-30,7.0
+241,Atacama,3.0,Diego de Almagro,3202.0,14358.0,2020-04-01,7.0
+242,Atacama,3.0,Diego de Almagro,3202.0,14358.0,2020-04-03,7.0
+243,Atacama,3.0,Diego de Almagro,3202.0,14358.0,2020-04-06,7.0
+244,Atacama,3.0,Diego de Almagro,3202.0,14358.0,2020-04-08,7.0
+245,Atacama,3.0,Diego de Almagro,3202.0,14358.0,2020-04-10,7.0
+246,Atacama,3.0,Diego de Almagro,3202.0,14358.0,2020-04-13,7.0
+247,Atacama,3.0,Diego de Almagro,3202.0,14358.0,2020-04-15,7.0
+248,Atacama,3.0,Freirina,3303.0,7681.0,2020-03-30,0.0
+249,Atacama,3.0,Freirina,3303.0,7681.0,2020-04-01,0.0
+250,Atacama,3.0,Freirina,3303.0,7681.0,2020-04-03,0.0
+251,Atacama,3.0,Freirina,3303.0,7681.0,2020-04-06,0.0
+252,Atacama,3.0,Freirina,3303.0,7681.0,2020-04-08,0.0
+253,Atacama,3.0,Freirina,3303.0,7681.0,2020-04-10,0.0
+254,Atacama,3.0,Freirina,3303.0,7681.0,2020-04-13,0.0
+255,Atacama,3.0,Freirina,3303.0,7681.0,2020-04-15,0.0
+256,Atacama,3.0,Huasco,3304.0,11264.0,2020-03-30,0.0
+257,Atacama,3.0,Huasco,3304.0,11264.0,2020-04-01,0.0
+258,Atacama,3.0,Huasco,3304.0,11264.0,2020-04-03,0.0
+259,Atacama,3.0,Huasco,3304.0,11264.0,2020-04-06,0.0
+260,Atacama,3.0,Huasco,3304.0,11264.0,2020-04-08,0.0
+261,Atacama,3.0,Huasco,3304.0,11264.0,2020-04-10,0.0
+262,Atacama,3.0,Huasco,3304.0,11264.0,2020-04-13,0.0
+263,Atacama,3.0,Huasco,3304.0,11264.0,2020-04-15,0.0
+264,Atacama,3.0,Tierra Amarilla,3103.0,14312.0,2020-03-30,0.0
+265,Atacama,3.0,Tierra Amarilla,3103.0,14312.0,2020-04-01,0.0
+266,Atacama,3.0,Tierra Amarilla,3103.0,14312.0,2020-04-03,0.0
+267,Atacama,3.0,Tierra Amarilla,3103.0,14312.0,2020-04-06,0.0
+268,Atacama,3.0,Tierra Amarilla,3103.0,14312.0,2020-04-08,14.0
+269,Atacama,3.0,Tierra Amarilla,3103.0,14312.0,2020-04-10,27.9
+270,Atacama,3.0,Tierra Amarilla,3103.0,14312.0,2020-04-13,27.9
+271,Atacama,3.0,Tierra Amarilla,3103.0,14312.0,2020-04-15,27.9
+272,Atacama,3.0,Vallenar,3301.0,57009.0,2020-03-30,0.0
+273,Atacama,3.0,Vallenar,3301.0,57009.0,2020-04-01,0.0
+274,Atacama,3.0,Vallenar,3301.0,57009.0,2020-04-03,0.0
+275,Atacama,3.0,Vallenar,3301.0,57009.0,2020-04-06,0.0
+276,Atacama,3.0,Vallenar,3301.0,57009.0,2020-04-08,0.0
+277,Atacama,3.0,Vallenar,3301.0,57009.0,2020-04-10,0.0
+278,Atacama,3.0,Vallenar,3301.0,57009.0,2020-04-13,0.0
+279,Atacama,3.0,Vallenar,3301.0,57009.0,2020-04-15,0.0
+280,Atacama,3.0,Total,,314709.0,2020-03-30,0.6
+281,Atacama,3.0,Total,,314709.0,2020-04-01,1.0
+282,Atacama,3.0,Total,,314709.0,2020-04-03,1.6
+283,Atacama,3.0,Total,,314709.0,2020-04-06,1.6
+284,Atacama,3.0,Total,,314709.0,2020-04-08,2.5
+285,Atacama,3.0,Total,,314709.0,2020-04-10,4.1
+286,Atacama,3.0,Total,,314709.0,2020-04-13,4.1
+287,Atacama,3.0,Total,,314709.0,2020-04-15,4.1
+288,,,,,,2020-03-30,
+289,,,,,,2020-04-01,
+290,,,,,,2020-04-03,
+291,,,,,,2020-04-06,
+292,,,,,,2020-04-08,
+293,,,,,,2020-04-10,
+294,,,,,,2020-04-13,
+295,,,,,,2020-04-15,
+296,Coquimbo,4.0,Andacollo,4103.0,11791.0,2020-03-30,0.0
+297,Coquimbo,4.0,Andacollo,4103.0,11791.0,2020-04-01,0.0
+298,Coquimbo,4.0,Andacollo,4103.0,11791.0,2020-04-03,0.0
+299,Coquimbo,4.0,Andacollo,4103.0,11791.0,2020-04-06,0.0
+300,Coquimbo,4.0,Andacollo,4103.0,11791.0,2020-04-08,0.0
+301,Coquimbo,4.0,Andacollo,4103.0,11791.0,2020-04-10,0.0
+302,Coquimbo,4.0,Andacollo,4103.0,11791.0,2020-04-13,0.0
+303,Coquimbo,4.0,Andacollo,4103.0,11791.0,2020-04-15,0.0
+304,Coquimbo,4.0,Canela,4202.0,9546.0,2020-03-30,0.0
+305,Coquimbo,4.0,Canela,4202.0,9546.0,2020-04-01,0.0
+306,Coquimbo,4.0,Canela,4202.0,9546.0,2020-04-03,0.0
+307,Coquimbo,4.0,Canela,4202.0,9546.0,2020-04-06,0.0
+308,Coquimbo,4.0,Canela,4202.0,9546.0,2020-04-08,0.0
+309,Coquimbo,4.0,Canela,4202.0,9546.0,2020-04-10,0.0
+310,Coquimbo,4.0,Canela,4202.0,9546.0,2020-04-13,0.0
+311,Coquimbo,4.0,Canela,4202.0,9546.0,2020-04-15,0.0
+312,Coquimbo,4.0,Combarbala,4302.0,13884.0,2020-03-30,0.0
+313,Coquimbo,4.0,Combarbala,4302.0,13884.0,2020-04-01,0.0
+314,Coquimbo,4.0,Combarbala,4302.0,13884.0,2020-04-03,0.0
+315,Coquimbo,4.0,Combarbala,4302.0,13884.0,2020-04-06,0.0
+316,Coquimbo,4.0,Combarbala,4302.0,13884.0,2020-04-08,0.0
+317,Coquimbo,4.0,Combarbala,4302.0,13884.0,2020-04-10,0.0
+318,Coquimbo,4.0,Combarbala,4302.0,13884.0,2020-04-13,0.0
+319,Coquimbo,4.0,Combarbala,4302.0,13884.0,2020-04-15,0.0
+320,Coquimbo,4.0,Coquimbo,4102.0,256735.0,2020-03-30,6.6
+321,Coquimbo,4.0,Coquimbo,4102.0,256735.0,2020-04-01,7.4
+322,Coquimbo,4.0,Coquimbo,4102.0,256735.0,2020-04-03,7.4
+323,Coquimbo,4.0,Coquimbo,4102.0,256735.0,2020-04-06,7.4
+324,Coquimbo,4.0,Coquimbo,4102.0,256735.0,2020-04-08,7.4
+325,Coquimbo,4.0,Coquimbo,4102.0,256735.0,2020-04-10,8.2
+326,Coquimbo,4.0,Coquimbo,4102.0,256735.0,2020-04-13,8.2
+327,Coquimbo,4.0,Coquimbo,4102.0,256735.0,2020-04-15,7.4
+328,Coquimbo,4.0,Illapel,4201.0,32801.0,2020-03-30,0.0
+329,Coquimbo,4.0,Illapel,4201.0,32801.0,2020-04-01,0.0
+330,Coquimbo,4.0,Illapel,4201.0,32801.0,2020-04-03,0.0
+331,Coquimbo,4.0,Illapel,4201.0,32801.0,2020-04-06,21.3
+332,Coquimbo,4.0,Illapel,4201.0,32801.0,2020-04-08,36.6
+333,Coquimbo,4.0,Illapel,4201.0,32801.0,2020-04-10,39.6
+334,Coquimbo,4.0,Illapel,4201.0,32801.0,2020-04-13,51.8
+335,Coquimbo,4.0,Illapel,4201.0,32801.0,2020-04-15,57.9
+336,Coquimbo,4.0,La Higuera,4104.0,4450.0,2020-03-30,0.0
+337,Coquimbo,4.0,La Higuera,4104.0,4450.0,2020-04-01,0.0
+338,Coquimbo,4.0,La Higuera,4104.0,4450.0,2020-04-03,0.0
+339,Coquimbo,4.0,La Higuera,4104.0,4450.0,2020-04-06,0.0
+340,Coquimbo,4.0,La Higuera,4104.0,4450.0,2020-04-08,0.0
+341,Coquimbo,4.0,La Higuera,4104.0,4450.0,2020-04-10,0.0
+342,Coquimbo,4.0,La Higuera,4104.0,4450.0,2020-04-13,0.0
+343,Coquimbo,4.0,La Higuera,4104.0,4450.0,2020-04-15,0.0
+344,Coquimbo,4.0,La Serena,4101.0,249656.0,2020-03-30,0.8
+345,Coquimbo,4.0,La Serena,4101.0,249656.0,2020-04-01,1.2
+346,Coquimbo,4.0,La Serena,4101.0,249656.0,2020-04-03,3.2
+347,Coquimbo,4.0,La Serena,4101.0,249656.0,2020-04-06,4.8
+348,Coquimbo,4.0,La Serena,4101.0,249656.0,2020-04-08,4.8
+349,Coquimbo,4.0,La Serena,4101.0,249656.0,2020-04-10,4.8
+350,Coquimbo,4.0,La Serena,4101.0,249656.0,2020-04-13,4.8
+351,Coquimbo,4.0,La Serena,4101.0,249656.0,2020-04-15,4.8
+352,Coquimbo,4.0,Los Vilos,4203.0,23374.0,2020-03-30,4.3
+353,Coquimbo,4.0,Los Vilos,4203.0,23374.0,2020-04-01,4.3
+354,Coquimbo,4.0,Los Vilos,4203.0,23374.0,2020-04-03,4.3
+355,Coquimbo,4.0,Los Vilos,4203.0,23374.0,2020-04-06,4.3
+356,Coquimbo,4.0,Los Vilos,4203.0,23374.0,2020-04-08,4.3
+357,Coquimbo,4.0,Los Vilos,4203.0,23374.0,2020-04-10,4.3
+358,Coquimbo,4.0,Los Vilos,4203.0,23374.0,2020-04-13,4.3
+359,Coquimbo,4.0,Los Vilos,4203.0,23374.0,2020-04-15,4.3
+360,Coquimbo,4.0,Monte Patria,4303.0,32527.0,2020-03-30,0.0
+361,Coquimbo,4.0,Monte Patria,4303.0,32527.0,2020-04-01,0.0
+362,Coquimbo,4.0,Monte Patria,4303.0,32527.0,2020-04-03,0.0
+363,Coquimbo,4.0,Monte Patria,4303.0,32527.0,2020-04-06,0.0
+364,Coquimbo,4.0,Monte Patria,4303.0,32527.0,2020-04-08,0.0
+365,Coquimbo,4.0,Monte Patria,4303.0,32527.0,2020-04-10,0.0
+366,Coquimbo,4.0,Monte Patria,4303.0,32527.0,2020-04-13,0.0
+367,Coquimbo,4.0,Monte Patria,4303.0,32527.0,2020-04-15,0.0
+368,Coquimbo,4.0,Ovalle,4301.0,121269.0,2020-03-30,3.3
+369,Coquimbo,4.0,Ovalle,4301.0,121269.0,2020-04-01,3.3
+370,Coquimbo,4.0,Ovalle,4301.0,121269.0,2020-04-03,3.3
+371,Coquimbo,4.0,Ovalle,4301.0,121269.0,2020-04-06,5.8
+372,Coquimbo,4.0,Ovalle,4301.0,121269.0,2020-04-08,5.8
+373,Coquimbo,4.0,Ovalle,4301.0,121269.0,2020-04-10,6.6
+374,Coquimbo,4.0,Ovalle,4301.0,121269.0,2020-04-13,6.6
+375,Coquimbo,4.0,Ovalle,4301.0,121269.0,2020-04-15,6.6
+376,Coquimbo,4.0,Paiguano,4105.0,4675.0,2020-03-30,0.0
+377,Coquimbo,4.0,Paiguano,4105.0,4675.0,2020-04-01,0.0
+378,Coquimbo,4.0,Paiguano,4105.0,4675.0,2020-04-03,0.0
+379,Coquimbo,4.0,Paiguano,4105.0,4675.0,2020-04-06,0.0
+380,Coquimbo,4.0,Paiguano,4105.0,4675.0,2020-04-08,0.0
+381,Coquimbo,4.0,Paiguano,4105.0,4675.0,2020-04-10,0.0
+382,Coquimbo,4.0,Paiguano,4105.0,4675.0,2020-04-13,0.0
+383,Coquimbo,4.0,Paiguano,4105.0,4675.0,2020-04-15,0.0
+384,Coquimbo,4.0,Punitaqui,4304.0,12165.0,2020-03-30,0.0
+385,Coquimbo,4.0,Punitaqui,4304.0,12165.0,2020-04-01,0.0
+386,Coquimbo,4.0,Punitaqui,4304.0,12165.0,2020-04-03,0.0
+387,Coquimbo,4.0,Punitaqui,4304.0,12165.0,2020-04-06,0.0
+388,Coquimbo,4.0,Punitaqui,4304.0,12165.0,2020-04-08,0.0
+389,Coquimbo,4.0,Punitaqui,4304.0,12165.0,2020-04-10,0.0
+390,Coquimbo,4.0,Punitaqui,4304.0,12165.0,2020-04-13,0.0
+391,Coquimbo,4.0,Punitaqui,4304.0,12165.0,2020-04-15,0.0
+392,Coquimbo,4.0,Rio Hurtado,4305.0,4372.0,2020-03-30,22.9
+393,Coquimbo,4.0,Rio Hurtado,4305.0,4372.0,2020-04-01,22.9
+394,Coquimbo,4.0,Rio Hurtado,4305.0,4372.0,2020-04-03,22.9
+395,Coquimbo,4.0,Rio Hurtado,4305.0,4372.0,2020-04-06,22.9
+396,Coquimbo,4.0,Rio Hurtado,4305.0,4372.0,2020-04-08,22.9
+397,Coquimbo,4.0,Rio Hurtado,4305.0,4372.0,2020-04-10,22.9
+398,Coquimbo,4.0,Rio Hurtado,4305.0,4372.0,2020-04-13,22.9
+399,Coquimbo,4.0,Rio Hurtado,4305.0,4372.0,2020-04-15,22.9
+400,Coquimbo,4.0,Salamanca,4204.0,29110.0,2020-03-30,6.9
+401,Coquimbo,4.0,Salamanca,4204.0,29110.0,2020-04-01,6.9
+402,Coquimbo,4.0,Salamanca,4204.0,29110.0,2020-04-03,6.9
+403,Coquimbo,4.0,Salamanca,4204.0,29110.0,2020-04-06,13.7
+404,Coquimbo,4.0,Salamanca,4204.0,29110.0,2020-04-08,13.7
+405,Coquimbo,4.0,Salamanca,4204.0,29110.0,2020-04-10,17.2
+406,Coquimbo,4.0,Salamanca,4204.0,29110.0,2020-04-13,20.6
+407,Coquimbo,4.0,Salamanca,4204.0,29110.0,2020-04-15,20.6
+408,Coquimbo,4.0,Vicuna,4106.0,29741.0,2020-03-30,0.0
+409,Coquimbo,4.0,Vicuna,4106.0,29741.0,2020-04-01,0.0
+410,Coquimbo,4.0,Vicuna,4106.0,29741.0,2020-04-03,0.0
+411,Coquimbo,4.0,Vicuna,4106.0,29741.0,2020-04-06,0.0
+412,Coquimbo,4.0,Vicuna,4106.0,29741.0,2020-04-08,0.0
+413,Coquimbo,4.0,Vicuna,4106.0,29741.0,2020-04-10,0.0
+414,Coquimbo,4.0,Vicuna,4106.0,29741.0,2020-04-13,0.0
+415,Coquimbo,4.0,Vicuna,4106.0,29741.0,2020-04-15,0.0
+416,Coquimbo,4.0,Total,,836096.0,2020-03-30,3.2
+417,Coquimbo,4.0,Total,,836096.0,2020-04-01,3.6
+418,Coquimbo,4.0,Total,,836096.0,2020-04-03,4.2
+419,Coquimbo,4.0,Total,,836096.0,2020-04-06,6.1
+420,Coquimbo,4.0,Total,,836096.0,2020-04-08,6.7
+421,Coquimbo,4.0,Total,,836096.0,2020-04-10,7.3
+422,Coquimbo,4.0,Total,,836096.0,2020-04-13,7.9
+423,Coquimbo,4.0,Total,,836096.0,2020-04-15,7.9
+424,,,,,,2020-03-30,
+425,,,,,,2020-04-01,
+426,,,,,,2020-04-03,
+427,,,,,,2020-04-06,
+428,,,,,,2020-04-08,
+429,,,,,,2020-04-10,
+430,,,,,,2020-04-13,
+431,,,,,,2020-04-15,
+432,Valparaiso,5.0,Algarrobo,5602.0,15174.0,2020-03-30,46.1
+433,Valparaiso,5.0,Algarrobo,5602.0,15174.0,2020-04-01,46.1
+434,Valparaiso,5.0,Algarrobo,5602.0,15174.0,2020-04-03,59.3
+435,Valparaiso,5.0,Algarrobo,5602.0,15174.0,2020-04-06,59.3
+436,Valparaiso,5.0,Algarrobo,5602.0,15174.0,2020-04-08,52.7
+437,Valparaiso,5.0,Algarrobo,5602.0,15174.0,2020-04-10,52.7
+438,Valparaiso,5.0,Algarrobo,5602.0,15174.0,2020-04-13,52.7
+439,Valparaiso,5.0,Algarrobo,5602.0,15174.0,2020-04-15,59.3
+440,Valparaiso,5.0,Cabildo,5402.0,20663.0,2020-03-30,0.0
+441,Valparaiso,5.0,Cabildo,5402.0,20663.0,2020-04-01,0.0
+442,Valparaiso,5.0,Cabildo,5402.0,20663.0,2020-04-03,0.0
+443,Valparaiso,5.0,Cabildo,5402.0,20663.0,2020-04-06,0.0
+444,Valparaiso,5.0,Cabildo,5402.0,20663.0,2020-04-08,0.0
+445,Valparaiso,5.0,Cabildo,5402.0,20663.0,2020-04-10,0.0
+446,Valparaiso,5.0,Cabildo,5402.0,20663.0,2020-04-13,0.0
+447,Valparaiso,5.0,Cabildo,5402.0,20663.0,2020-04-15,0.0
+448,Valparaiso,5.0,Calera,5502.0,53591.0,2020-03-30,11.2
+449,Valparaiso,5.0,Calera,5502.0,53591.0,2020-04-01,11.2
+450,Valparaiso,5.0,Calera,5502.0,53591.0,2020-04-03,13.1
+451,Valparaiso,5.0,Calera,5502.0,53591.0,2020-04-06,13.1
+452,Valparaiso,5.0,Calera,5502.0,53591.0,2020-04-08,16.8
+453,Valparaiso,5.0,Calera,5502.0,53591.0,2020-04-10,16.8
+454,Valparaiso,5.0,Calera,5502.0,53591.0,2020-04-13,16.8
+455,Valparaiso,5.0,Calera,5502.0,53591.0,2020-04-15,20.5
+456,Valparaiso,5.0,Calle Larga,5302.0,16482.0,2020-03-30,0.0
+457,Valparaiso,5.0,Calle Larga,5302.0,16482.0,2020-04-01,0.0
+458,Valparaiso,5.0,Calle Larga,5302.0,16482.0,2020-04-03,12.1
+459,Valparaiso,5.0,Calle Larga,5302.0,16482.0,2020-04-06,12.1
+460,Valparaiso,5.0,Calle Larga,5302.0,16482.0,2020-04-08,6.1
+461,Valparaiso,5.0,Calle Larga,5302.0,16482.0,2020-04-10,12.1
+462,Valparaiso,5.0,Calle Larga,5302.0,16482.0,2020-04-13,12.1
+463,Valparaiso,5.0,Calle Larga,5302.0,16482.0,2020-04-15,12.1
+464,Valparaiso,5.0,Cartagena,5603.0,25357.0,2020-03-30,0.0
+465,Valparaiso,5.0,Cartagena,5603.0,25357.0,2020-04-01,0.0
+466,Valparaiso,5.0,Cartagena,5603.0,25357.0,2020-04-03,0.0
+467,Valparaiso,5.0,Cartagena,5603.0,25357.0,2020-04-06,3.9
+468,Valparaiso,5.0,Cartagena,5603.0,25357.0,2020-04-08,0.0
+469,Valparaiso,5.0,Cartagena,5603.0,25357.0,2020-04-10,0.0
+470,Valparaiso,5.0,Cartagena,5603.0,25357.0,2020-04-13,7.9
+471,Valparaiso,5.0,Cartagena,5603.0,25357.0,2020-04-15,7.9
+472,Valparaiso,5.0,Casablanca,5102.0,29170.0,2020-03-30,3.4
+473,Valparaiso,5.0,Casablanca,5102.0,29170.0,2020-04-01,3.4
+474,Valparaiso,5.0,Casablanca,5102.0,29170.0,2020-04-03,6.9
+475,Valparaiso,5.0,Casablanca,5102.0,29170.0,2020-04-06,10.3
+476,Valparaiso,5.0,Casablanca,5102.0,29170.0,2020-04-08,6.9
+477,Valparaiso,5.0,Casablanca,5102.0,29170.0,2020-04-10,6.9
+478,Valparaiso,5.0,Casablanca,5102.0,29170.0,2020-04-13,10.3
+479,Valparaiso,5.0,Casablanca,5102.0,29170.0,2020-04-15,10.3
+480,Valparaiso,5.0,Catemu,5702.0,15213.0,2020-03-30,0.0
+481,Valparaiso,5.0,Catemu,5702.0,15213.0,2020-04-01,0.0
+482,Valparaiso,5.0,Catemu,5702.0,15213.0,2020-04-03,0.0
+483,Valparaiso,5.0,Catemu,5702.0,15213.0,2020-04-06,0.0
+484,Valparaiso,5.0,Catemu,5702.0,15213.0,2020-04-08,0.0
+485,Valparaiso,5.0,Catemu,5702.0,15213.0,2020-04-10,0.0
+486,Valparaiso,5.0,Catemu,5702.0,15213.0,2020-04-13,0.0
+487,Valparaiso,5.0,Catemu,5702.0,15213.0,2020-04-15,0.0
+488,Valparaiso,5.0,Concon,5103.0,45889.0,2020-03-30,2.2
+489,Valparaiso,5.0,Concon,5103.0,45889.0,2020-04-01,2.2
+490,Valparaiso,5.0,Concon,5103.0,45889.0,2020-04-03,15.3
+491,Valparaiso,5.0,Concon,5103.0,45889.0,2020-04-06,15.3
+492,Valparaiso,5.0,Concon,5103.0,45889.0,2020-04-08,6.5
+493,Valparaiso,5.0,Concon,5103.0,45889.0,2020-04-10,6.5
+494,Valparaiso,5.0,Concon,5103.0,45889.0,2020-04-13,13.1
+495,Valparaiso,5.0,Concon,5103.0,45889.0,2020-04-15,15.3
+496,Valparaiso,5.0,El Quisco,5604.0,17742.0,2020-03-30,0.0
+497,Valparaiso,5.0,El Quisco,5604.0,17742.0,2020-04-01,0.0
+498,Valparaiso,5.0,El Quisco,5604.0,17742.0,2020-04-03,5.6
+499,Valparaiso,5.0,El Quisco,5604.0,17742.0,2020-04-06,5.6
+500,Valparaiso,5.0,El Quisco,5604.0,17742.0,2020-04-08,5.6
+501,Valparaiso,5.0,El Quisco,5604.0,17742.0,2020-04-10,5.6
+502,Valparaiso,5.0,El Quisco,5604.0,17742.0,2020-04-13,16.9
+503,Valparaiso,5.0,El Quisco,5604.0,17742.0,2020-04-15,22.5
+504,Valparaiso,5.0,El Tabo,5605.0,14338.0,2020-03-30,7.0
+505,Valparaiso,5.0,El Tabo,5605.0,14338.0,2020-04-01,7.0
+506,Valparaiso,5.0,El Tabo,5605.0,14338.0,2020-04-03,20.9
+507,Valparaiso,5.0,El Tabo,5605.0,14338.0,2020-04-06,20.9
+508,Valparaiso,5.0,El Tabo,5605.0,14338.0,2020-04-08,13.9
+509,Valparaiso,5.0,El Tabo,5605.0,14338.0,2020-04-10,13.9
+510,Valparaiso,5.0,El Tabo,5605.0,14338.0,2020-04-13,13.9
+511,Valparaiso,5.0,El Tabo,5605.0,14338.0,2020-04-15,20.9
+512,Valparaiso,5.0,Hijuelas,5503.0,19099.0,2020-03-30,0.0
+513,Valparaiso,5.0,Hijuelas,5503.0,19099.0,2020-04-01,0.0
+514,Valparaiso,5.0,Hijuelas,5503.0,19099.0,2020-04-03,0.0
+515,Valparaiso,5.0,Hijuelas,5503.0,19099.0,2020-04-06,0.0
+516,Valparaiso,5.0,Hijuelas,5503.0,19099.0,2020-04-08,0.0
+517,Valparaiso,5.0,Hijuelas,5503.0,19099.0,2020-04-10,0.0
+518,Valparaiso,5.0,Hijuelas,5503.0,19099.0,2020-04-13,0.0
+519,Valparaiso,5.0,Hijuelas,5503.0,19099.0,2020-04-15,0.0
+520,Valparaiso,5.0,Isla de Pascua,5201.0,8277.0,2020-03-30,12.1
+521,Valparaiso,5.0,Isla de Pascua,5201.0,8277.0,2020-04-01,60.4
+522,Valparaiso,5.0,Isla de Pascua,5201.0,8277.0,2020-04-03,60.4
+523,Valparaiso,5.0,Isla de Pascua,5201.0,8277.0,2020-04-06,60.4
+524,Valparaiso,5.0,Isla de Pascua,5201.0,8277.0,2020-04-08,60.4
+525,Valparaiso,5.0,Isla de Pascua,5201.0,8277.0,2020-04-10,72.5
+526,Valparaiso,5.0,Isla de Pascua,5201.0,8277.0,2020-04-13,72.5
+527,Valparaiso,5.0,Isla de Pascua,5201.0,8277.0,2020-04-15,72.5
+528,Valparaiso,5.0,Juan Fernandez,5104.0,1033.0,2020-03-30,0.0
+529,Valparaiso,5.0,Juan Fernandez,5104.0,1033.0,2020-04-01,0.0
+530,Valparaiso,5.0,Juan Fernandez,5104.0,1033.0,2020-04-03,0.0
+531,Valparaiso,5.0,Juan Fernandez,5104.0,1033.0,2020-04-06,0.0
+532,Valparaiso,5.0,Juan Fernandez,5104.0,1033.0,2020-04-08,0.0
+533,Valparaiso,5.0,Juan Fernandez,5104.0,1033.0,2020-04-10,0.0
+534,Valparaiso,5.0,Juan Fernandez,5104.0,1033.0,2020-04-13,0.0
+535,Valparaiso,5.0,Juan Fernandez,5104.0,1033.0,2020-04-15,0.0
+536,Valparaiso,5.0,La Cruz,5504.0,25321.0,2020-03-30,0.0
+537,Valparaiso,5.0,La Cruz,5504.0,25321.0,2020-04-01,3.9
+538,Valparaiso,5.0,La Cruz,5504.0,25321.0,2020-04-03,11.8
+539,Valparaiso,5.0,La Cruz,5504.0,25321.0,2020-04-06,11.8
+540,Valparaiso,5.0,La Cruz,5504.0,25321.0,2020-04-08,7.9
+541,Valparaiso,5.0,La Cruz,5504.0,25321.0,2020-04-10,7.9
+542,Valparaiso,5.0,La Cruz,5504.0,25321.0,2020-04-13,19.7
+543,Valparaiso,5.0,La Cruz,5504.0,25321.0,2020-04-15,19.7
+544,Valparaiso,5.0,La Ligua,5401.0,37739.0,2020-03-30,5.3
+545,Valparaiso,5.0,La Ligua,5401.0,37739.0,2020-04-01,5.3
+546,Valparaiso,5.0,La Ligua,5401.0,37739.0,2020-04-03,5.3
+547,Valparaiso,5.0,La Ligua,5401.0,37739.0,2020-04-06,5.3
+548,Valparaiso,5.0,La Ligua,5401.0,37739.0,2020-04-08,5.3
+549,Valparaiso,5.0,La Ligua,5401.0,37739.0,2020-04-10,5.3
+550,Valparaiso,5.0,La Ligua,5401.0,37739.0,2020-04-13,5.3
+551,Valparaiso,5.0,La Ligua,5401.0,37739.0,2020-04-15,5.3
+552,Valparaiso,5.0,Limache,5802.0,49931.0,2020-03-30,4.0
+553,Valparaiso,5.0,Limache,5802.0,49931.0,2020-04-01,6.0
+554,Valparaiso,5.0,Limache,5802.0,49931.0,2020-04-03,6.0
+555,Valparaiso,5.0,Limache,5802.0,49931.0,2020-04-06,8.0
+556,Valparaiso,5.0,Limache,5802.0,49931.0,2020-04-08,10.0
+557,Valparaiso,5.0,Limache,5802.0,49931.0,2020-04-10,14.0
+558,Valparaiso,5.0,Limache,5802.0,49931.0,2020-04-13,16.0
+559,Valparaiso,5.0,Limache,5802.0,49931.0,2020-04-15,26.0
+560,Valparaiso,5.0,Llaillay,5703.0,26533.0,2020-03-30,0.0
+561,Valparaiso,5.0,Llaillay,5703.0,26533.0,2020-04-01,0.0
+562,Valparaiso,5.0,Llaillay,5703.0,26533.0,2020-04-03,3.8
+563,Valparaiso,5.0,Llaillay,5703.0,26533.0,2020-04-06,7.5
+564,Valparaiso,5.0,Llaillay,5703.0,26533.0,2020-04-08,7.5
+565,Valparaiso,5.0,Llaillay,5703.0,26533.0,2020-04-10,7.5
+566,Valparaiso,5.0,Llaillay,5703.0,26533.0,2020-04-13,7.5
+567,Valparaiso,5.0,Llaillay,5703.0,26533.0,2020-04-15,7.5
+568,Valparaiso,5.0,Los Andes,5301.0,68093.0,2020-03-30,2.9
+569,Valparaiso,5.0,Los Andes,5301.0,68093.0,2020-04-01,4.4
+570,Valparaiso,5.0,Los Andes,5301.0,68093.0,2020-04-03,2.9
+571,Valparaiso,5.0,Los Andes,5301.0,68093.0,2020-04-06,2.9
+572,Valparaiso,5.0,Los Andes,5301.0,68093.0,2020-04-08,8.8
+573,Valparaiso,5.0,Los Andes,5301.0,68093.0,2020-04-10,8.8
+574,Valparaiso,5.0,Los Andes,5301.0,68093.0,2020-04-13,8.8
+575,Valparaiso,5.0,Los Andes,5301.0,68093.0,2020-04-15,10.3
+576,Valparaiso,5.0,Nogales,5506.0,23490.0,2020-03-30,0.0
+577,Valparaiso,5.0,Nogales,5506.0,23490.0,2020-04-01,0.0
+578,Valparaiso,5.0,Nogales,5506.0,23490.0,2020-04-03,0.0
+579,Valparaiso,5.0,Nogales,5506.0,23490.0,2020-04-06,0.0
+580,Valparaiso,5.0,Nogales,5506.0,23490.0,2020-04-08,0.0
+581,Valparaiso,5.0,Nogales,5506.0,23490.0,2020-04-10,0.0
+582,Valparaiso,5.0,Nogales,5506.0,23490.0,2020-04-13,0.0
+583,Valparaiso,5.0,Nogales,5506.0,23490.0,2020-04-15,0.0
+584,Valparaiso,5.0,Olmue,5803.0,19266.0,2020-03-30,0.0
+585,Valparaiso,5.0,Olmue,5803.0,19266.0,2020-04-01,0.0
+586,Valparaiso,5.0,Olmue,5803.0,19266.0,2020-04-03,0.0
+587,Valparaiso,5.0,Olmue,5803.0,19266.0,2020-04-06,0.0
+588,Valparaiso,5.0,Olmue,5803.0,19266.0,2020-04-08,0.0
+589,Valparaiso,5.0,Olmue,5803.0,19266.0,2020-04-10,0.0
+590,Valparaiso,5.0,Olmue,5803.0,19266.0,2020-04-13,5.2
+591,Valparaiso,5.0,Olmue,5803.0,19266.0,2020-04-15,5.2
+592,Valparaiso,5.0,Panquehue,5704.0,7633.0,2020-03-30,0.0
+593,Valparaiso,5.0,Panquehue,5704.0,7633.0,2020-04-01,0.0
+594,Valparaiso,5.0,Panquehue,5704.0,7633.0,2020-04-03,0.0
+595,Valparaiso,5.0,Panquehue,5704.0,7633.0,2020-04-06,0.0
+596,Valparaiso,5.0,Panquehue,5704.0,7633.0,2020-04-08,0.0
+597,Valparaiso,5.0,Panquehue,5704.0,7633.0,2020-04-10,0.0
+598,Valparaiso,5.0,Panquehue,5704.0,7633.0,2020-04-13,0.0
+599,Valparaiso,5.0,Panquehue,5704.0,7633.0,2020-04-15,0.0
+600,Valparaiso,5.0,Papudo,5403.0,6201.0,2020-03-30,0.0
+601,Valparaiso,5.0,Papudo,5403.0,6201.0,2020-04-01,0.0
+602,Valparaiso,5.0,Papudo,5403.0,6201.0,2020-04-03,16.1
+603,Valparaiso,5.0,Papudo,5403.0,6201.0,2020-04-06,16.1
+604,Valparaiso,5.0,Papudo,5403.0,6201.0,2020-04-08,0.0
+605,Valparaiso,5.0,Papudo,5403.0,6201.0,2020-04-10,0.0
+606,Valparaiso,5.0,Papudo,5403.0,6201.0,2020-04-13,0.0
+607,Valparaiso,5.0,Papudo,5403.0,6201.0,2020-04-15,0.0
+608,Valparaiso,5.0,Petorca,5404.0,10558.0,2020-03-30,0.0
+609,Valparaiso,5.0,Petorca,5404.0,10558.0,2020-04-01,9.5
+610,Valparaiso,5.0,Petorca,5404.0,10558.0,2020-04-03,9.5
+611,Valparaiso,5.0,Petorca,5404.0,10558.0,2020-04-06,47.4
+612,Valparaiso,5.0,Petorca,5404.0,10558.0,2020-04-08,37.9
+613,Valparaiso,5.0,Petorca,5404.0,10558.0,2020-04-10,47.4
+614,Valparaiso,5.0,Petorca,5404.0,10558.0,2020-04-13,56.8
+615,Valparaiso,5.0,Petorca,5404.0,10558.0,2020-04-15,56.8
+616,Valparaiso,5.0,Puchuncavi,5105.0,20071.0,2020-03-30,0.0
+617,Valparaiso,5.0,Puchuncavi,5105.0,20071.0,2020-04-01,0.0
+618,Valparaiso,5.0,Puchuncavi,5105.0,20071.0,2020-04-03,0.0
+619,Valparaiso,5.0,Puchuncavi,5105.0,20071.0,2020-04-06,0.0
+620,Valparaiso,5.0,Puchuncavi,5105.0,20071.0,2020-04-08,0.0
+621,Valparaiso,5.0,Puchuncavi,5105.0,20071.0,2020-04-10,0.0
+622,Valparaiso,5.0,Puchuncavi,5105.0,20071.0,2020-04-13,0.0
+623,Valparaiso,5.0,Puchuncavi,5105.0,20071.0,2020-04-15,0.0
+624,Valparaiso,5.0,Putaendo,5705.0,17645.0,2020-03-30,5.7
+625,Valparaiso,5.0,Putaendo,5705.0,17645.0,2020-04-01,5.7
+626,Valparaiso,5.0,Putaendo,5705.0,17645.0,2020-04-03,5.7
+627,Valparaiso,5.0,Putaendo,5705.0,17645.0,2020-04-06,5.7
+628,Valparaiso,5.0,Putaendo,5705.0,17645.0,2020-04-08,5.7
+629,Valparaiso,5.0,Putaendo,5705.0,17645.0,2020-04-10,5.7
+630,Valparaiso,5.0,Putaendo,5705.0,17645.0,2020-04-13,5.7
+631,Valparaiso,5.0,Putaendo,5705.0,17645.0,2020-04-15,11.3
+632,Valparaiso,5.0,Quillota,5501.0,97572.0,2020-03-30,6.1
+633,Valparaiso,5.0,Quillota,5501.0,97572.0,2020-04-01,7.2
+634,Valparaiso,5.0,Quillota,5501.0,97572.0,2020-04-03,9.2
+635,Valparaiso,5.0,Quillota,5501.0,97572.0,2020-04-06,9.2
+636,Valparaiso,5.0,Quillota,5501.0,97572.0,2020-04-08,13.3
+637,Valparaiso,5.0,Quillota,5501.0,97572.0,2020-04-10,13.3
+638,Valparaiso,5.0,Quillota,5501.0,97572.0,2020-04-13,16.4
+639,Valparaiso,5.0,Quillota,5501.0,97572.0,2020-04-15,18.4
+640,Valparaiso,5.0,Quilpue,5801.0,167085.0,2020-03-30,6.6
+641,Valparaiso,5.0,Quilpue,5801.0,167085.0,2020-04-01,6.0
+642,Valparaiso,5.0,Quilpue,5801.0,167085.0,2020-04-03,6.6
+643,Valparaiso,5.0,Quilpue,5801.0,167085.0,2020-04-06,7.2
+644,Valparaiso,5.0,Quilpue,5801.0,167085.0,2020-04-08,9.0
+645,Valparaiso,5.0,Quilpue,5801.0,167085.0,2020-04-10,10.8
+646,Valparaiso,5.0,Quilpue,5801.0,167085.0,2020-04-13,12.0
+647,Valparaiso,5.0,Quilpue,5801.0,167085.0,2020-04-15,12.6
+648,Valparaiso,5.0,Quintero,5107.0,36135.0,2020-03-30,8.3
+649,Valparaiso,5.0,Quintero,5107.0,36135.0,2020-04-01,8.3
+650,Valparaiso,5.0,Quintero,5107.0,36135.0,2020-04-03,5.5
+651,Valparaiso,5.0,Quintero,5107.0,36135.0,2020-04-06,5.5
+652,Valparaiso,5.0,Quintero,5107.0,36135.0,2020-04-08,8.3
+653,Valparaiso,5.0,Quintero,5107.0,36135.0,2020-04-10,11.1
+654,Valparaiso,5.0,Quintero,5107.0,36135.0,2020-04-13,13.8
+655,Valparaiso,5.0,Quintero,5107.0,36135.0,2020-04-15,11.1
+656,Valparaiso,5.0,Rinconada,5303.0,11263.0,2020-03-30,0.0
+657,Valparaiso,5.0,Rinconada,5303.0,11263.0,2020-04-01,0.0
+658,Valparaiso,5.0,Rinconada,5303.0,11263.0,2020-04-03,0.0
+659,Valparaiso,5.0,Rinconada,5303.0,11263.0,2020-04-06,0.0
+660,Valparaiso,5.0,Rinconada,5303.0,11263.0,2020-04-08,8.9
+661,Valparaiso,5.0,Rinconada,5303.0,11263.0,2020-04-10,17.8
+662,Valparaiso,5.0,Rinconada,5303.0,11263.0,2020-04-13,17.8
+663,Valparaiso,5.0,Rinconada,5303.0,11263.0,2020-04-15,17.8
+664,Valparaiso,5.0,San Antonio,5601.0,96761.0,2020-03-30,2.1
+665,Valparaiso,5.0,San Antonio,5601.0,96761.0,2020-04-01,4.1
+666,Valparaiso,5.0,San Antonio,5601.0,96761.0,2020-04-03,8.3
+667,Valparaiso,5.0,San Antonio,5601.0,96761.0,2020-04-06,9.3
+668,Valparaiso,5.0,San Antonio,5601.0,96761.0,2020-04-08,9.3
+669,Valparaiso,5.0,San Antonio,5601.0,96761.0,2020-04-10,13.4
+670,Valparaiso,5.0,San Antonio,5601.0,96761.0,2020-04-13,17.6
+671,Valparaiso,5.0,San Antonio,5601.0,96761.0,2020-04-15,19.6
+672,Valparaiso,5.0,San Esteban,5304.0,20643.0,2020-03-30,0.0
+673,Valparaiso,5.0,San Esteban,5304.0,20643.0,2020-04-01,0.0
+674,Valparaiso,5.0,San Esteban,5304.0,20643.0,2020-04-03,0.0
+675,Valparaiso,5.0,San Esteban,5304.0,20643.0,2020-04-06,0.0
+676,Valparaiso,5.0,San Esteban,5304.0,20643.0,2020-04-08,0.0
+677,Valparaiso,5.0,San Esteban,5304.0,20643.0,2020-04-10,0.0
+678,Valparaiso,5.0,San Esteban,5304.0,20643.0,2020-04-13,0.0
+679,Valparaiso,5.0,San Esteban,5304.0,20643.0,2020-04-15,0.0
+680,Valparaiso,5.0,San Felipe,5701.0,83494.0,2020-03-30,3.6
+681,Valparaiso,5.0,San Felipe,5701.0,83494.0,2020-04-01,3.6
+682,Valparaiso,5.0,San Felipe,5701.0,83494.0,2020-04-03,6.0
+683,Valparaiso,5.0,San Felipe,5701.0,83494.0,2020-04-06,6.0
+684,Valparaiso,5.0,San Felipe,5701.0,83494.0,2020-04-08,7.2
+685,Valparaiso,5.0,San Felipe,5701.0,83494.0,2020-04-10,7.2
+686,Valparaiso,5.0,San Felipe,5701.0,83494.0,2020-04-13,7.2
+687,Valparaiso,5.0,San Felipe,5701.0,83494.0,2020-04-15,7.2
+688,Valparaiso,5.0,Santa Maria,5706.0,16367.0,2020-03-30,0.0
+689,Valparaiso,5.0,Santa Maria,5706.0,16367.0,2020-04-01,12.2
+690,Valparaiso,5.0,Santa Maria,5706.0,16367.0,2020-04-03,12.2
+691,Valparaiso,5.0,Santa Maria,5706.0,16367.0,2020-04-06,12.2
+692,Valparaiso,5.0,Santa Maria,5706.0,16367.0,2020-04-08,12.2
+693,Valparaiso,5.0,Santa Maria,5706.0,16367.0,2020-04-10,12.2
+694,Valparaiso,5.0,Santa Maria,5706.0,16367.0,2020-04-13,12.2
+695,Valparaiso,5.0,Santa Maria,5706.0,16367.0,2020-04-15,12.2
+696,Valparaiso,5.0,Santo Domingo,5606.0,11934.0,2020-03-30,16.8
+697,Valparaiso,5.0,Santo Domingo,5606.0,11934.0,2020-04-01,25.1
+698,Valparaiso,5.0,Santo Domingo,5606.0,11934.0,2020-04-03,8.4
+699,Valparaiso,5.0,Santo Domingo,5606.0,11934.0,2020-04-06,16.8
+700,Valparaiso,5.0,Santo Domingo,5606.0,11934.0,2020-04-08,41.9
+701,Valparaiso,5.0,Santo Domingo,5606.0,11934.0,2020-04-10,41.9
+702,Valparaiso,5.0,Santo Domingo,5606.0,11934.0,2020-04-13,41.9
+703,Valparaiso,5.0,Santo Domingo,5606.0,11934.0,2020-04-15,83.8
+704,Valparaiso,5.0,Valparaiso,5101.0,315732.0,2020-03-30,5.1
+705,Valparaiso,5.0,Valparaiso,5101.0,315732.0,2020-04-01,8.2
+706,Valparaiso,5.0,Valparaiso,5101.0,315732.0,2020-04-03,7.3
+707,Valparaiso,5.0,Valparaiso,5101.0,315732.0,2020-04-06,8.2
+708,Valparaiso,5.0,Valparaiso,5101.0,315732.0,2020-04-08,11.4
+709,Valparaiso,5.0,Valparaiso,5101.0,315732.0,2020-04-10,12.4
+710,Valparaiso,5.0,Valparaiso,5101.0,315732.0,2020-04-13,13.9
+711,Valparaiso,5.0,Valparaiso,5101.0,315732.0,2020-04-15,14.3
+712,Valparaiso,5.0,Villa Alemana,5804.0,139310.0,2020-03-30,4.3
+713,Valparaiso,5.0,Villa Alemana,5804.0,139310.0,2020-04-01,5.7
+714,Valparaiso,5.0,Villa Alemana,5804.0,139310.0,2020-04-03,7.9
+715,Valparaiso,5.0,Villa Alemana,5804.0,139310.0,2020-04-06,7.9
+716,Valparaiso,5.0,Villa Alemana,5804.0,139310.0,2020-04-08,8.6
+717,Valparaiso,5.0,Villa Alemana,5804.0,139310.0,2020-04-10,8.6
+718,Valparaiso,5.0,Villa Alemana,5804.0,139310.0,2020-04-13,8.6
+719,Valparaiso,5.0,Villa Alemana,5804.0,139310.0,2020-04-15,8.6
+720,Valparaiso,5.0,Vina del Mar,5109.0,361371.0,2020-03-30,8.0
+721,Valparaiso,5.0,Vina del Mar,5109.0,361371.0,2020-04-01,10.5
+722,Valparaiso,5.0,Vina del Mar,5109.0,361371.0,2020-04-03,13.0
+723,Valparaiso,5.0,Vina del Mar,5109.0,361371.0,2020-04-06,14.7
+724,Valparaiso,5.0,Vina del Mar,5109.0,361371.0,2020-04-08,18.3
+725,Valparaiso,5.0,Vina del Mar,5109.0,361371.0,2020-04-10,19.1
+726,Valparaiso,5.0,Vina del Mar,5109.0,361371.0,2020-04-13,19.9
+727,Valparaiso,5.0,Vina del Mar,5109.0,361371.0,2020-04-15,20.8
+728,Valparaiso,5.0,Zapallar,5405.0,7994.0,2020-03-30,0.0
+729,Valparaiso,5.0,Zapallar,5405.0,7994.0,2020-04-01,0.0
+730,Valparaiso,5.0,Zapallar,5405.0,7994.0,2020-04-03,0.0
+731,Valparaiso,5.0,Zapallar,5405.0,7994.0,2020-04-06,0.0
+732,Valparaiso,5.0,Zapallar,5405.0,7994.0,2020-04-08,0.0
+733,Valparaiso,5.0,Zapallar,5405.0,7994.0,2020-04-10,0.0
+734,Valparaiso,5.0,Zapallar,5405.0,7994.0,2020-04-13,0.0
+735,Valparaiso,5.0,Zapallar,5405.0,7994.0,2020-04-15,0.0
+736,Valparaiso,5.0,Total,,1960170.0,2020-03-30,5.2
+737,Valparaiso,5.0,Total,,1960170.0,2020-04-01,6.9
+738,Valparaiso,5.0,Total,,1960170.0,2020-04-03,9.0
+739,Valparaiso,5.0,Total,,1960170.0,2020-04-06,10.1
+740,Valparaiso,5.0,Total,,1960170.0,2020-04-08,11.5
+741,Valparaiso,5.0,Total,,1960170.0,2020-04-10,12.3
+742,Valparaiso,5.0,Total,,1960170.0,2020-04-13,13.9
+743,Valparaiso,5.0,Total,,1960170.0,2020-04-15,15.3
+744,,,,,,2020-03-30,
+745,,,,,,2020-04-01,
+746,,,,,,2020-04-03,
+747,,,,,,2020-04-06,
+748,,,,,,2020-04-08,
+749,,,,,,2020-04-10,
+750,,,,,,2020-04-13,
+751,,,,,,2020-04-15,
+752,Metropolitana,13.0,Alhue,13502.0,7405.0,2020-03-30,0.0
+753,Metropolitana,13.0,Alhue,13502.0,7405.0,2020-04-01,0.0
+754,Metropolitana,13.0,Alhue,13502.0,7405.0,2020-04-03,0.0
+755,Metropolitana,13.0,Alhue,13502.0,7405.0,2020-04-06,0.0
+756,Metropolitana,13.0,Alhue,13502.0,7405.0,2020-04-08,0.0
+757,Metropolitana,13.0,Alhue,13502.0,7405.0,2020-04-10,0.0
+758,Metropolitana,13.0,Alhue,13502.0,7405.0,2020-04-13,0.0
+759,Metropolitana,13.0,Alhue,13502.0,7405.0,2020-04-15,0.0
+760,Metropolitana,13.0,Buin,13402.0,109641.0,2020-03-30,6.4
+761,Metropolitana,13.0,Buin,13402.0,109641.0,2020-04-01,7.3
+762,Metropolitana,13.0,Buin,13402.0,109641.0,2020-04-03,12.8
+763,Metropolitana,13.0,Buin,13402.0,109641.0,2020-04-06,18.2
+764,Metropolitana,13.0,Buin,13402.0,109641.0,2020-04-08,18.2
+765,Metropolitana,13.0,Buin,13402.0,109641.0,2020-04-10,26.4
+766,Metropolitana,13.0,Buin,13402.0,109641.0,2020-04-13,32.8
+767,Metropolitana,13.0,Buin,13402.0,109641.0,2020-04-15,36.5
+768,Metropolitana,13.0,Calera de Tango,13403.0,28525.0,2020-03-30,21.0
+769,Metropolitana,13.0,Calera de Tango,13403.0,28525.0,2020-04-01,24.5
+770,Metropolitana,13.0,Calera de Tango,13403.0,28525.0,2020-04-03,24.5
+771,Metropolitana,13.0,Calera de Tango,13403.0,28525.0,2020-04-06,24.5
+772,Metropolitana,13.0,Calera de Tango,13403.0,28525.0,2020-04-08,28.0
+773,Metropolitana,13.0,Calera de Tango,13403.0,28525.0,2020-04-10,28.0
+774,Metropolitana,13.0,Calera de Tango,13403.0,28525.0,2020-04-13,35.1
+775,Metropolitana,13.0,Calera de Tango,13403.0,28525.0,2020-04-15,35.1
+776,Metropolitana,13.0,Cerrillos,13102.0,88956.0,2020-03-30,3.4
+777,Metropolitana,13.0,Cerrillos,13102.0,88956.0,2020-04-01,4.5
+778,Metropolitana,13.0,Cerrillos,13102.0,88956.0,2020-04-03,4.5
+779,Metropolitana,13.0,Cerrillos,13102.0,88956.0,2020-04-06,5.6
+780,Metropolitana,13.0,Cerrillos,13102.0,88956.0,2020-04-08,12.4
+781,Metropolitana,13.0,Cerrillos,13102.0,88956.0,2020-04-10,23.6
+782,Metropolitana,13.0,Cerrillos,13102.0,88956.0,2020-04-13,32.6
+783,Metropolitana,13.0,Cerrillos,13102.0,88956.0,2020-04-15,43.8
+784,Metropolitana,13.0,Cerro Navia,13103.0,142465.0,2020-03-30,13.3
+785,Metropolitana,13.0,Cerro Navia,13103.0,142465.0,2020-04-01,14.7
+786,Metropolitana,13.0,Cerro Navia,13103.0,142465.0,2020-04-03,18.3
+787,Metropolitana,13.0,Cerro Navia,13103.0,142465.0,2020-04-06,21.8
+788,Metropolitana,13.0,Cerro Navia,13103.0,142465.0,2020-04-08,25.3
+789,Metropolitana,13.0,Cerro Navia,13103.0,142465.0,2020-04-10,29.5
+790,Metropolitana,13.0,Cerro Navia,13103.0,142465.0,2020-04-13,40.0
+791,Metropolitana,13.0,Cerro Navia,13103.0,142465.0,2020-04-15,45.6
+792,Metropolitana,13.0,Colina,13301.0,180353.0,2020-03-30,17.7
+793,Metropolitana,13.0,Colina,13301.0,180353.0,2020-04-01,21.6
+794,Metropolitana,13.0,Colina,13301.0,180353.0,2020-04-03,26.1
+795,Metropolitana,13.0,Colina,13301.0,180353.0,2020-04-06,27.7
+796,Metropolitana,13.0,Colina,13301.0,180353.0,2020-04-08,34.4
+797,Metropolitana,13.0,Colina,13301.0,180353.0,2020-04-10,36.6
+798,Metropolitana,13.0,Colina,13301.0,180353.0,2020-04-13,41.0
+799,Metropolitana,13.0,Colina,13301.0,180353.0,2020-04-15,42.7
+800,Metropolitana,13.0,Conchali,13104.0,139195.0,2020-03-30,10.1
+801,Metropolitana,13.0,Conchali,13104.0,139195.0,2020-04-01,12.9
+802,Metropolitana,13.0,Conchali,13104.0,139195.0,2020-04-03,15.8
+803,Metropolitana,13.0,Conchali,13104.0,139195.0,2020-04-06,23.0
+804,Metropolitana,13.0,Conchali,13104.0,139195.0,2020-04-08,27.3
+805,Metropolitana,13.0,Conchali,13104.0,139195.0,2020-04-10,33.8
+806,Metropolitana,13.0,Conchali,13104.0,139195.0,2020-04-13,37.4
+807,Metropolitana,13.0,Conchali,13104.0,139195.0,2020-04-15,40.2
+808,Metropolitana,13.0,Curacavi,13503.0,36430.0,2020-03-30,13.7
+809,Metropolitana,13.0,Curacavi,13503.0,36430.0,2020-04-01,13.7
+810,Metropolitana,13.0,Curacavi,13503.0,36430.0,2020-04-03,13.7
+811,Metropolitana,13.0,Curacavi,13503.0,36430.0,2020-04-06,22.0
+812,Metropolitana,13.0,Curacavi,13503.0,36430.0,2020-04-08,24.7
+813,Metropolitana,13.0,Curacavi,13503.0,36430.0,2020-04-10,27.4
+814,Metropolitana,13.0,Curacavi,13503.0,36430.0,2020-04-13,35.7
+815,Metropolitana,13.0,Curacavi,13503.0,36430.0,2020-04-15,38.4
+816,Metropolitana,13.0,El Bosque,13105.0,172000.0,2020-03-30,10.5
+817,Metropolitana,13.0,El Bosque,13105.0,172000.0,2020-04-01,10.6
+818,Metropolitana,13.0,El Bosque,13105.0,172000.0,2020-04-03,20.3
+819,Metropolitana,13.0,El Bosque,13105.0,172000.0,2020-04-06,21.5
+820,Metropolitana,13.0,El Bosque,13105.0,172000.0,2020-04-08,26.7
+821,Metropolitana,13.0,El Bosque,13105.0,172000.0,2020-04-10,37.2
+822,Metropolitana,13.0,El Bosque,13105.0,172000.0,2020-04-13,48.3
+823,Metropolitana,13.0,El Bosque,13105.0,172000.0,2020-04-15,54.1
+824,Metropolitana,13.0,El Monte,13602.0,40014.0,2020-03-30,2.5
+825,Metropolitana,13.0,El Monte,13602.0,40014.0,2020-04-01,16.9
+826,Metropolitana,13.0,El Monte,13602.0,40014.0,2020-04-03,5.0
+827,Metropolitana,13.0,El Monte,13602.0,40014.0,2020-04-06,12.5
+828,Metropolitana,13.0,El Monte,13602.0,40014.0,2020-04-08,17.5
+829,Metropolitana,13.0,El Monte,13602.0,40014.0,2020-04-10,22.5
+830,Metropolitana,13.0,El Monte,13602.0,40014.0,2020-04-13,25.0
+831,Metropolitana,13.0,El Monte,13602.0,40014.0,2020-04-15,25.0
+832,Metropolitana,13.0,Estacion Central,13106.0,206792.0,2020-03-30,7.7
+833,Metropolitana,13.0,Estacion Central,13106.0,206792.0,2020-04-01,12.0
+834,Metropolitana,13.0,Estacion Central,13106.0,206792.0,2020-04-03,12.1
+835,Metropolitana,13.0,Estacion Central,13106.0,206792.0,2020-04-06,17.4
+836,Metropolitana,13.0,Estacion Central,13106.0,206792.0,2020-04-08,19.8
+837,Metropolitana,13.0,Estacion Central,13106.0,206792.0,2020-04-10,29.5
+838,Metropolitana,13.0,Estacion Central,13106.0,206792.0,2020-04-13,34.3
+839,Metropolitana,13.0,Estacion Central,13106.0,206792.0,2020-04-15,43.0
+840,Metropolitana,13.0,Huechuraba,13107.0,112528.0,2020-03-30,15.1
+841,Metropolitana,13.0,Huechuraba,13107.0,112528.0,2020-04-01,2.5
+842,Metropolitana,13.0,Huechuraba,13107.0,112528.0,2020-04-03,19.6
+843,Metropolitana,13.0,Huechuraba,13107.0,112528.0,2020-04-06,28.4
+844,Metropolitana,13.0,Huechuraba,13107.0,112528.0,2020-04-08,31.1
+845,Metropolitana,13.0,Huechuraba,13107.0,112528.0,2020-04-10,33.8
+846,Metropolitana,13.0,Huechuraba,13107.0,112528.0,2020-04-13,42.7
+847,Metropolitana,13.0,Huechuraba,13107.0,112528.0,2020-04-15,47.1
+848,Metropolitana,13.0,Independencia,13108.0,142065.0,2020-03-30,10.6
+849,Metropolitana,13.0,Independencia,13108.0,142065.0,2020-04-01,16.3
+850,Metropolitana,13.0,Independencia,13108.0,142065.0,2020-04-03,15.5
+851,Metropolitana,13.0,Independencia,13108.0,142065.0,2020-04-06,18.3
+852,Metropolitana,13.0,Independencia,13108.0,142065.0,2020-04-08,21.8
+853,Metropolitana,13.0,Independencia,13108.0,142065.0,2020-04-10,26.0
+854,Metropolitana,13.0,Independencia,13108.0,142065.0,2020-04-13,36.6
+855,Metropolitana,13.0,Independencia,13108.0,142065.0,2020-04-15,42.2
+856,Metropolitana,13.0,Isla de Maipo,13603.0,40171.0,2020-03-30,0.0
+857,Metropolitana,13.0,Isla de Maipo,13603.0,40171.0,2020-04-01,2.5
+858,Metropolitana,13.0,Isla de Maipo,13603.0,40171.0,2020-04-03,2.5
+859,Metropolitana,13.0,Isla de Maipo,13603.0,40171.0,2020-04-06,10.0
+860,Metropolitana,13.0,Isla de Maipo,13603.0,40171.0,2020-04-08,17.4
+861,Metropolitana,13.0,Isla de Maipo,13603.0,40171.0,2020-04-10,24.9
+862,Metropolitana,13.0,Isla de Maipo,13603.0,40171.0,2020-04-13,24.9
+863,Metropolitana,13.0,Isla de Maipo,13603.0,40171.0,2020-04-15,27.4
+864,Metropolitana,13.0,La Cisterna,13109.0,100434.0,2020-03-30,10.0
+865,Metropolitana,13.0,La Cisterna,13109.0,100434.0,2020-04-01,11.9
+866,Metropolitana,13.0,La Cisterna,13109.0,100434.0,2020-04-03,11.9
+867,Metropolitana,13.0,La Cisterna,13109.0,100434.0,2020-04-06,19.9
+868,Metropolitana,13.0,La Cisterna,13109.0,100434.0,2020-04-08,25.9
+869,Metropolitana,13.0,La Cisterna,13109.0,100434.0,2020-04-10,33.9
+870,Metropolitana,13.0,La Cisterna,13109.0,100434.0,2020-04-13,38.8
+871,Metropolitana,13.0,La Cisterna,13109.0,100434.0,2020-04-15,44.8
+872,Metropolitana,13.0,La Florida,13110.0,402433.0,2020-03-30,10.7
+873,Metropolitana,13.0,La Florida,13110.0,402433.0,2020-04-01,14.4
+874,Metropolitana,13.0,La Florida,13110.0,402433.0,2020-04-03,16.6
+875,Metropolitana,13.0,La Florida,13110.0,402433.0,2020-04-06,22.6
+876,Metropolitana,13.0,La Florida,13110.0,402433.0,2020-04-08,25.6
+877,Metropolitana,13.0,La Florida,13110.0,402433.0,2020-04-10,31.3
+878,Metropolitana,13.0,La Florida,13110.0,402433.0,2020-04-13,41.0
+879,Metropolitana,13.0,La Florida,13110.0,402433.0,2020-04-15,43.7
+880,Metropolitana,13.0,La Granja,13111.0,122557.0,2020-03-30,4.1
+881,Metropolitana,13.0,La Granja,13111.0,122557.0,2020-04-01,25.9
+882,Metropolitana,13.0,La Granja,13111.0,122557.0,2020-04-03,13.1
+883,Metropolitana,13.0,La Granja,13111.0,122557.0,2020-04-06,19.6
+884,Metropolitana,13.0,La Granja,13111.0,122557.0,2020-04-08,21.2
+885,Metropolitana,13.0,La Granja,13111.0,122557.0,2020-04-10,29.4
+886,Metropolitana,13.0,La Granja,13111.0,122557.0,2020-04-13,37.5
+887,Metropolitana,13.0,La Granja,13111.0,122557.0,2020-04-15,41.6
+888,Metropolitana,13.0,La Pintana,13112.0,189335.0,2020-03-30,1.1
+889,Metropolitana,13.0,La Pintana,13112.0,189335.0,2020-04-01,7.9
+890,Metropolitana,13.0,La Pintana,13112.0,189335.0,2020-04-03,6.9
+891,Metropolitana,13.0,La Pintana,13112.0,189335.0,2020-04-06,9.5
+892,Metropolitana,13.0,La Pintana,13112.0,189335.0,2020-04-08,13.2
+893,Metropolitana,13.0,La Pintana,13112.0,189335.0,2020-04-10,20.6
+894,Metropolitana,13.0,La Pintana,13112.0,189335.0,2020-04-13,29.0
+895,Metropolitana,13.0,La Pintana,13112.0,189335.0,2020-04-15,37.0
+896,Metropolitana,13.0,La Reina,13113.0,100252.0,2020-03-30,23.9
+897,Metropolitana,13.0,La Reina,13113.0,100252.0,2020-04-01,62.9
+898,Metropolitana,13.0,La Reina,13113.0,100252.0,2020-04-03,29.9
+899,Metropolitana,13.0,La Reina,13113.0,100252.0,2020-04-06,34.9
+900,Metropolitana,13.0,La Reina,13113.0,100252.0,2020-04-08,43.9
+901,Metropolitana,13.0,La Reina,13113.0,100252.0,2020-04-10,51.9
+902,Metropolitana,13.0,La Reina,13113.0,100252.0,2020-04-13,53.9
+903,Metropolitana,13.0,La Reina,13113.0,100252.0,2020-04-15,55.9
+904,Metropolitana,13.0,Lampa,13302.0,126898.0,2020-03-30,7.9
+905,Metropolitana,13.0,Lampa,13302.0,126898.0,2020-04-01,62.9
+906,Metropolitana,13.0,Lampa,13302.0,126898.0,2020-04-03,10.2
+907,Metropolitana,13.0,Lampa,13302.0,126898.0,2020-04-06,11.0
+908,Metropolitana,13.0,Lampa,13302.0,126898.0,2020-04-08,14.2
+909,Metropolitana,13.0,Lampa,13302.0,126898.0,2020-04-10,20.5
+910,Metropolitana,13.0,Lampa,13302.0,126898.0,2020-04-13,29.2
+911,Metropolitana,13.0,Lampa,13302.0,126898.0,2020-04-15,32.3
+912,Metropolitana,13.0,Las Condes,13114.0,330759.0,2020-03-30,54.7
+913,Metropolitana,13.0,Las Condes,13114.0,330759.0,2020-04-01,6.7
+914,Metropolitana,13.0,Las Condes,13114.0,330759.0,2020-04-03,67.7
+915,Metropolitana,13.0,Las Condes,13114.0,330759.0,2020-04-06,78.0
+916,Metropolitana,13.0,Las Condes,13114.0,330759.0,2020-04-08,80.4
+917,Metropolitana,13.0,Las Condes,13114.0,330759.0,2020-04-10,85.0
+918,Metropolitana,13.0,Las Condes,13114.0,330759.0,2020-04-13,89.5
+919,Metropolitana,13.0,Las Condes,13114.0,330759.0,2020-04-15,92.5
+920,Metropolitana,13.0,Lo Barnechea,13115.0,124076.0,2020-03-30,54.8
+921,Metropolitana,13.0,Lo Barnechea,13115.0,124076.0,2020-04-01,6.5
+922,Metropolitana,13.0,Lo Barnechea,13115.0,124076.0,2020-04-03,68.5
+923,Metropolitana,13.0,Lo Barnechea,13115.0,124076.0,2020-04-06,78.2
+924,Metropolitana,13.0,Lo Barnechea,13115.0,124076.0,2020-04-08,84.6
+925,Metropolitana,13.0,Lo Barnechea,13115.0,124076.0,2020-04-10,88.7
+926,Metropolitana,13.0,Lo Barnechea,13115.0,124076.0,2020-04-13,93.5
+927,Metropolitana,13.0,Lo Barnechea,13115.0,124076.0,2020-04-15,100.7
+928,Metropolitana,13.0,Lo Espejo,13116.0,103865.0,2020-03-30,3.9
+929,Metropolitana,13.0,Lo Espejo,13116.0,103865.0,2020-04-01,5.3
+930,Metropolitana,13.0,Lo Espejo,13116.0,103865.0,2020-04-03,8.7
+931,Metropolitana,13.0,Lo Espejo,13116.0,103865.0,2020-04-06,14.4
+932,Metropolitana,13.0,Lo Espejo,13116.0,103865.0,2020-04-08,22.1
+933,Metropolitana,13.0,Lo Espejo,13116.0,103865.0,2020-04-10,32.7
+934,Metropolitana,13.0,Lo Espejo,13116.0,103865.0,2020-04-13,46.2
+935,Metropolitana,13.0,Lo Espejo,13116.0,103865.0,2020-04-15,53.9
+936,Metropolitana,13.0,Lo Prado,13117.0,104403.0,2020-03-30,13.4
+937,Metropolitana,13.0,Lo Prado,13117.0,104403.0,2020-04-01,17.2
+938,Metropolitana,13.0,Lo Prado,13117.0,104403.0,2020-04-03,19.2
+939,Metropolitana,13.0,Lo Prado,13117.0,104403.0,2020-04-06,23.9
+940,Metropolitana,13.0,Lo Prado,13117.0,104403.0,2020-04-08,30.7
+941,Metropolitana,13.0,Lo Prado,13117.0,104403.0,2020-04-10,33.5
+942,Metropolitana,13.0,Lo Prado,13117.0,104403.0,2020-04-13,41.2
+943,Metropolitana,13.0,Lo Prado,13117.0,104403.0,2020-04-15,45.0
+944,Metropolitana,13.0,Macul,13118.0,134635.0,2020-03-30,7.4
+945,Metropolitana,13.0,Macul,13118.0,134635.0,2020-04-01,11.1
+946,Metropolitana,13.0,Macul,13118.0,134635.0,2020-04-03,17.1
+947,Metropolitana,13.0,Macul,13118.0,134635.0,2020-04-06,25.3
+948,Metropolitana,13.0,Macul,13118.0,134635.0,2020-04-08,27.5
+949,Metropolitana,13.0,Macul,13118.0,134635.0,2020-04-10,31.9
+950,Metropolitana,13.0,Macul,13118.0,134635.0,2020-04-13,36.4
+951,Metropolitana,13.0,Macul,13118.0,134635.0,2020-04-15,37.9
+952,Metropolitana,13.0,Maipu,13119.0,578605.0,2020-03-30,7.4
+953,Metropolitana,13.0,Maipu,13119.0,578605.0,2020-04-01,9.5
+954,Metropolitana,13.0,Maipu,13119.0,578605.0,2020-04-03,11.1
+955,Metropolitana,13.0,Maipu,13119.0,578605.0,2020-04-06,14.3
+956,Metropolitana,13.0,Maipu,13119.0,578605.0,2020-04-08,18.3
+957,Metropolitana,13.0,Maipu,13119.0,578605.0,2020-04-10,28.9
+958,Metropolitana,13.0,Maipu,13119.0,578605.0,2020-04-13,35.1
+959,Metropolitana,13.0,Maipu,13119.0,578605.0,2020-04-15,41.7
+960,Metropolitana,13.0,Maria Pinto,13504.0,14926.0,2020-03-30,0.0
+961,Metropolitana,13.0,Maria Pinto,13504.0,14926.0,2020-04-01,0.0
+962,Metropolitana,13.0,Maria Pinto,13504.0,14926.0,2020-04-03,0.0
+963,Metropolitana,13.0,Maria Pinto,13504.0,14926.0,2020-04-06,0.0
+964,Metropolitana,13.0,Maria Pinto,13504.0,14926.0,2020-04-08,0.0
+965,Metropolitana,13.0,Maria Pinto,13504.0,14926.0,2020-04-10,0.0
+966,Metropolitana,13.0,Maria Pinto,13504.0,14926.0,2020-04-13,0.0
+967,Metropolitana,13.0,Maria Pinto,13504.0,14926.0,2020-04-15,0.0
+968,Metropolitana,13.0,Melipilla,13501.0,141612.0,2020-03-30,4.2
+969,Metropolitana,13.0,Melipilla,13501.0,141612.0,2020-04-01,5.6
+970,Metropolitana,13.0,Melipilla,13501.0,141612.0,2020-04-03,6.4
+971,Metropolitana,13.0,Melipilla,13501.0,141612.0,2020-04-06,7.8
+972,Metropolitana,13.0,Melipilla,13501.0,141612.0,2020-04-08,8.5
+973,Metropolitana,13.0,Melipilla,13501.0,141612.0,2020-04-10,11.3
+974,Metropolitana,13.0,Melipilla,13501.0,141612.0,2020-04-13,12.0
+975,Metropolitana,13.0,Melipilla,13501.0,141612.0,2020-04-15,13.4
+976,Metropolitana,13.0,Nunoa,13120.0,250192.0,2020-03-30,26.8
+977,Metropolitana,13.0,Nunoa,13120.0,250192.0,2020-04-01,33.6
+978,Metropolitana,13.0,Nunoa,13120.0,250192.0,2020-04-03,37.2
+979,Metropolitana,13.0,Nunoa,13120.0,250192.0,2020-04-06,42.8
+980,Metropolitana,13.0,Nunoa,13120.0,250192.0,2020-04-08,47.2
+981,Metropolitana,13.0,Nunoa,13120.0,250192.0,2020-04-10,62.0
+982,Metropolitana,13.0,Nunoa,13120.0,250192.0,2020-04-13,68.3
+983,Metropolitana,13.0,Nunoa,13120.0,250192.0,2020-04-15,75.1
+984,Metropolitana,13.0,Padre Hurtado,13604.0,74188.0,2020-03-30,13.5
+985,Metropolitana,13.0,Padre Hurtado,13604.0,74188.0,2020-04-01,14.8
+986,Metropolitana,13.0,Padre Hurtado,13604.0,74188.0,2020-04-03,18.9
+987,Metropolitana,13.0,Padre Hurtado,13604.0,74188.0,2020-04-06,21.6
+988,Metropolitana,13.0,Padre Hurtado,13604.0,74188.0,2020-04-08,24.3
+989,Metropolitana,13.0,Padre Hurtado,13604.0,74188.0,2020-04-10,27.0
+990,Metropolitana,13.0,Padre Hurtado,13604.0,74188.0,2020-04-13,35.0
+991,Metropolitana,13.0,Padre Hurtado,13604.0,74188.0,2020-04-15,36.4
+992,Metropolitana,13.0,Paine,13404.0,82766.0,2020-03-30,3.6
+993,Metropolitana,13.0,Paine,13404.0,82766.0,2020-04-01,3.6
+994,Metropolitana,13.0,Paine,13404.0,82766.0,2020-04-03,3.6
+995,Metropolitana,13.0,Paine,13404.0,82766.0,2020-04-06,3.6
+996,Metropolitana,13.0,Paine,13404.0,82766.0,2020-04-08,3.6
+997,Metropolitana,13.0,Paine,13404.0,82766.0,2020-04-10,8.5
+998,Metropolitana,13.0,Paine,13404.0,82766.0,2020-04-13,9.7
+999,Metropolitana,13.0,Paine,13404.0,82766.0,2020-04-15,10.9
+1000,Metropolitana,13.0,Pedro Aguirre Cerda,13121.0,107803.0,2020-03-30,6.5
+1001,Metropolitana,13.0,Pedro Aguirre Cerda,13121.0,107803.0,2020-04-01,12.1
+1002,Metropolitana,13.0,Pedro Aguirre Cerda,13121.0,107803.0,2020-04-03,12.1
+1003,Metropolitana,13.0,Pedro Aguirre Cerda,13121.0,107803.0,2020-04-06,14.8
+1004,Metropolitana,13.0,Pedro Aguirre Cerda,13121.0,107803.0,2020-04-08,17.6
+1005,Metropolitana,13.0,Pedro Aguirre Cerda,13121.0,107803.0,2020-04-10,33.4
+1006,Metropolitana,13.0,Pedro Aguirre Cerda,13121.0,107803.0,2020-04-13,50.1
+1007,Metropolitana,13.0,Pedro Aguirre Cerda,13121.0,107803.0,2020-04-15,64.9
+1008,Metropolitana,13.0,Penaflor,13605.0,101058.0,2020-03-30,9.9
+1009,Metropolitana,13.0,Penaflor,13605.0,101058.0,2020-04-01,12.9
+1010,Metropolitana,13.0,Penaflor,13605.0,101058.0,2020-04-03,12.9
+1011,Metropolitana,13.0,Penaflor,13605.0,101058.0,2020-04-06,17.8
+1012,Metropolitana,13.0,Penaflor,13605.0,101058.0,2020-04-08,17.8
+1013,Metropolitana,13.0,Penaflor,13605.0,101058.0,2020-04-10,19.8
+1014,Metropolitana,13.0,Penaflor,13605.0,101058.0,2020-04-13,24.7
+1015,Metropolitana,13.0,Penaflor,13605.0,101058.0,2020-04-15,25.7
+1016,Metropolitana,13.0,Penalolen,13122.0,266798.0,2020-03-30,11.6
+1017,Metropolitana,13.0,Penalolen,13122.0,266798.0,2020-04-01,17.2
+1018,Metropolitana,13.0,Penalolen,13122.0,266798.0,2020-04-03,20.2
+1019,Metropolitana,13.0,Penalolen,13122.0,266798.0,2020-04-06,24.4
+1020,Metropolitana,13.0,Penalolen,13122.0,266798.0,2020-04-08,29.2
+1021,Metropolitana,13.0,Penalolen,13122.0,266798.0,2020-04-10,36.7
+1022,Metropolitana,13.0,Penalolen,13122.0,266798.0,2020-04-13,49.1
+1023,Metropolitana,13.0,Penalolen,13122.0,266798.0,2020-04-15,51.3
+1024,Metropolitana,13.0,Pirque,13202.0,30433.0,2020-03-30,0.0
+1025,Metropolitana,13.0,Pirque,13202.0,30433.0,2020-04-01,6.6
+1026,Metropolitana,13.0,Pirque,13202.0,30433.0,2020-04-03,6.6
+1027,Metropolitana,13.0,Pirque,13202.0,30433.0,2020-04-06,13.1
+1028,Metropolitana,13.0,Pirque,13202.0,30433.0,2020-04-08,13.1
+1029,Metropolitana,13.0,Pirque,13202.0,30433.0,2020-04-10,29.6
+1030,Metropolitana,13.0,Pirque,13202.0,30433.0,2020-04-13,32.9
+1031,Metropolitana,13.0,Pirque,13202.0,30433.0,2020-04-15,39.4
+1032,Metropolitana,13.0,Providencia,13123.0,157749.0,2020-03-30,52.0
+1033,Metropolitana,13.0,Providencia,13123.0,157749.0,2020-04-01,55.2
+1034,Metropolitana,13.0,Providencia,13123.0,157749.0,2020-04-03,59.6
+1035,Metropolitana,13.0,Providencia,13123.0,157749.0,2020-04-06,65.9
+1036,Metropolitana,13.0,Providencia,13123.0,157749.0,2020-04-08,72.9
+1037,Metropolitana,13.0,Providencia,13123.0,157749.0,2020-04-10,81.8
+1038,Metropolitana,13.0,Providencia,13123.0,157749.0,2020-04-13,86.2
+1039,Metropolitana,13.0,Providencia,13123.0,157749.0,2020-04-15,93.2
+1040,Metropolitana,13.0,Pudahuel,13124.0,253139.0,2020-03-30,6.7
+1041,Metropolitana,13.0,Pudahuel,13124.0,253139.0,2020-04-01,9.9
+1042,Metropolitana,13.0,Pudahuel,13124.0,253139.0,2020-04-03,12.6
+1043,Metropolitana,13.0,Pudahuel,13124.0,253139.0,2020-04-06,17.4
+1044,Metropolitana,13.0,Pudahuel,13124.0,253139.0,2020-04-08,20.5
+1045,Metropolitana,13.0,Pudahuel,13124.0,253139.0,2020-04-10,26.5
+1046,Metropolitana,13.0,Pudahuel,13124.0,253139.0,2020-04-13,30.8
+1047,Metropolitana,13.0,Pudahuel,13124.0,253139.0,2020-04-15,34.8
+1048,Metropolitana,13.0,Puente Alto,13201.0,645909.0,2020-03-30,7.0
+1049,Metropolitana,13.0,Puente Alto,13201.0,645909.0,2020-04-01,9.0
+1050,Metropolitana,13.0,Puente Alto,13201.0,645909.0,2020-04-03,11.8
+1051,Metropolitana,13.0,Puente Alto,13201.0,645909.0,2020-04-06,18.4
+1052,Metropolitana,13.0,Puente Alto,13201.0,645909.0,2020-04-08,25.7
+1053,Metropolitana,13.0,Puente Alto,13201.0,645909.0,2020-04-10,37.0
+1054,Metropolitana,13.0,Puente Alto,13201.0,645909.0,2020-04-13,49.9
+1055,Metropolitana,13.0,Puente Alto,13201.0,645909.0,2020-04-15,57.9
+1056,Metropolitana,13.0,Quilicura,13125.0,254694.0,2020-03-30,6.7
+1057,Metropolitana,13.0,Quilicura,13125.0,254694.0,2020-04-01,11.4
+1058,Metropolitana,13.0,Quilicura,13125.0,254694.0,2020-04-03,13.0
+1059,Metropolitana,13.0,Quilicura,13125.0,254694.0,2020-04-06,20.0
+1060,Metropolitana,13.0,Quilicura,13125.0,254694.0,2020-04-08,22.4
+1061,Metropolitana,13.0,Quilicura,13125.0,254694.0,2020-04-10,31.0
+1062,Metropolitana,13.0,Quilicura,13125.0,254694.0,2020-04-13,36.9
+1063,Metropolitana,13.0,Quilicura,13125.0,254694.0,2020-04-15,39.7
+1064,Metropolitana,13.0,Quinta Normal,13126.0,136368.0,2020-03-30,15.4
+1065,Metropolitana,13.0,Quinta Normal,13126.0,136368.0,2020-04-01,18.3
+1066,Metropolitana,13.0,Quinta Normal,13126.0,136368.0,2020-04-03,25.7
+1067,Metropolitana,13.0,Quinta Normal,13126.0,136368.0,2020-04-06,30.1
+1068,Metropolitana,13.0,Quinta Normal,13126.0,136368.0,2020-04-08,41.8
+1069,Metropolitana,13.0,Quinta Normal,13126.0,136368.0,2020-04-10,50.6
+1070,Metropolitana,13.0,Quinta Normal,13126.0,136368.0,2020-04-13,61.6
+1071,Metropolitana,13.0,Quinta Normal,13126.0,136368.0,2020-04-15,77.0
+1072,Metropolitana,13.0,Recoleta,13127.0,190075.0,2020-03-30,8.9
+1073,Metropolitana,13.0,Recoleta,13127.0,190075.0,2020-04-01,12.1
+1074,Metropolitana,13.0,Recoleta,13127.0,190075.0,2020-04-03,16.8
+1075,Metropolitana,13.0,Recoleta,13127.0,190075.0,2020-04-06,23.1
+1076,Metropolitana,13.0,Recoleta,13127.0,190075.0,2020-04-08,27.4
+1077,Metropolitana,13.0,Recoleta,13127.0,190075.0,2020-04-10,32.1
+1078,Metropolitana,13.0,Recoleta,13127.0,190075.0,2020-04-13,38.4
+1079,Metropolitana,13.0,Recoleta,13127.0,190075.0,2020-04-15,42.6
+1080,Metropolitana,13.0,Renca,13128.0,160847.0,2020-03-30,5.6
+1081,Metropolitana,13.0,Renca,13128.0,160847.0,2020-04-01,8.7
+1082,Metropolitana,13.0,Renca,13128.0,160847.0,2020-04-03,11.2
+1083,Metropolitana,13.0,Renca,13128.0,160847.0,2020-04-06,11.8
+1084,Metropolitana,13.0,Renca,13128.0,160847.0,2020-04-08,13.7
+1085,Metropolitana,13.0,Renca,13128.0,160847.0,2020-04-10,17.4
+1086,Metropolitana,13.0,Renca,13128.0,160847.0,2020-04-13,26.1
+1087,Metropolitana,13.0,Renca,13128.0,160847.0,2020-04-15,31.1
+1088,Metropolitana,13.0,San Bernardo,13401.0,334836.0,2020-03-30,9.6
+1089,Metropolitana,13.0,San Bernardo,13401.0,334836.0,2020-04-01,12.2
+1090,Metropolitana,13.0,San Bernardo,13401.0,334836.0,2020-04-03,15.8
+1091,Metropolitana,13.0,San Bernardo,13401.0,334836.0,2020-04-06,22.1
+1092,Metropolitana,13.0,San Bernardo,13401.0,334836.0,2020-04-08,23.6
+1093,Metropolitana,13.0,San Bernardo,13401.0,334836.0,2020-04-10,34.9
+1094,Metropolitana,13.0,San Bernardo,13401.0,334836.0,2020-04-13,41.8
+1095,Metropolitana,13.0,San Bernardo,13401.0,334836.0,2020-04-15,46.6
+1096,Metropolitana,13.0,San Joaquin,13129.0,103485.0,2020-03-30,12.6
+1097,Metropolitana,13.0,San Joaquin,13129.0,103485.0,2020-04-01,23.2
+1098,Metropolitana,13.0,San Joaquin,13129.0,103485.0,2020-04-03,27.1
+1099,Metropolitana,13.0,San Joaquin,13129.0,103485.0,2020-04-06,34.8
+1100,Metropolitana,13.0,San Joaquin,13129.0,103485.0,2020-04-08,40.6
+1101,Metropolitana,13.0,San Joaquin,13129.0,103485.0,2020-04-10,50.2
+1102,Metropolitana,13.0,San Joaquin,13129.0,103485.0,2020-04-13,56.0
+1103,Metropolitana,13.0,San Joaquin,13129.0,103485.0,2020-04-15,65.7
+1104,Metropolitana,13.0,San Jose de Maipo,13203.0,18644.0,2020-03-30,10.7
+1105,Metropolitana,13.0,San Jose de Maipo,13203.0,18644.0,2020-04-01,10.7
+1106,Metropolitana,13.0,San Jose de Maipo,13203.0,18644.0,2020-04-03,10.7
+1107,Metropolitana,13.0,San Jose de Maipo,13203.0,18644.0,2020-04-06,16.1
+1108,Metropolitana,13.0,San Jose de Maipo,13203.0,18644.0,2020-04-08,16.1
+1109,Metropolitana,13.0,San Jose de Maipo,13203.0,18644.0,2020-04-10,21.5
+1110,Metropolitana,13.0,San Jose de Maipo,13203.0,18644.0,2020-04-13,21.5
+1111,Metropolitana,13.0,San Jose de Maipo,13203.0,18644.0,2020-04-15,21.5
+1112,Metropolitana,13.0,San Miguel,13130.0,133059.0,2020-03-30,18.8
+1113,Metropolitana,13.0,San Miguel,13130.0,133059.0,2020-04-01,24.0
+1114,Metropolitana,13.0,San Miguel,13130.0,133059.0,2020-04-03,29.3
+1115,Metropolitana,13.0,San Miguel,13130.0,133059.0,2020-04-06,36.8
+1116,Metropolitana,13.0,San Miguel,13130.0,133059.0,2020-04-08,42.1
+1117,Metropolitana,13.0,San Miguel,13130.0,133059.0,2020-04-10,51.9
+1118,Metropolitana,13.0,San Miguel,13130.0,133059.0,2020-04-13,64.6
+1119,Metropolitana,13.0,San Miguel,13130.0,133059.0,2020-04-15,72.9
+1120,Metropolitana,13.0,San Pedro,13505.0,11953.0,2020-03-30,0.0
+1121,Metropolitana,13.0,San Pedro,13505.0,11953.0,2020-04-01,0.0
+1122,Metropolitana,13.0,San Pedro,13505.0,11953.0,2020-04-03,0.0
+1123,Metropolitana,13.0,San Pedro,13505.0,11953.0,2020-04-06,0.0
+1124,Metropolitana,13.0,San Pedro,13505.0,11953.0,2020-04-08,0.0
+1125,Metropolitana,13.0,San Pedro,13505.0,11953.0,2020-04-10,0.0
+1126,Metropolitana,13.0,San Pedro,13505.0,11953.0,2020-04-13,0.0
+1127,Metropolitana,13.0,San Pedro,13505.0,11953.0,2020-04-15,0.0
+1128,Metropolitana,13.0,San Ramon,13131.0,86510.0,2020-03-30,1.2
+1129,Metropolitana,13.0,San Ramon,13131.0,86510.0,2020-04-01,6.9
+1130,Metropolitana,13.0,San Ramon,13131.0,86510.0,2020-04-03,10.4
+1131,Metropolitana,13.0,San Ramon,13131.0,86510.0,2020-04-06,10.4
+1132,Metropolitana,13.0,San Ramon,13131.0,86510.0,2020-04-08,13.9
+1133,Metropolitana,13.0,San Ramon,13131.0,86510.0,2020-04-10,20.8
+1134,Metropolitana,13.0,San Ramon,13131.0,86510.0,2020-04-13,23.1
+1135,Metropolitana,13.0,San Ramon,13131.0,86510.0,2020-04-15,31.2
+1136,Metropolitana,13.0,Santiago,13101.0,503147.0,2020-03-30,25.2
+1137,Metropolitana,13.0,Santiago,13101.0,503147.0,2020-04-01,31.0
+1138,Metropolitana,13.0,Santiago,13101.0,503147.0,2020-04-03,34.4
+1139,Metropolitana,13.0,Santiago,13101.0,503147.0,2020-04-06,46.5
+1140,Metropolitana,13.0,Santiago,13101.0,503147.0,2020-04-08,53.9
+1141,Metropolitana,13.0,Santiago,13101.0,503147.0,2020-04-10,63.8
+1142,Metropolitana,13.0,Santiago,13101.0,503147.0,2020-04-13,74.5
+1143,Metropolitana,13.0,Santiago,13101.0,503147.0,2020-04-15,80.3
+1144,Metropolitana,13.0,Talagante,13601.0,81838.0,2020-03-30,3.7
+1145,Metropolitana,13.0,Talagante,13601.0,81838.0,2020-04-01,6.1
+1146,Metropolitana,13.0,Talagante,13601.0,81838.0,2020-04-03,7.3
+1147,Metropolitana,13.0,Talagante,13601.0,81838.0,2020-04-06,13.4
+1148,Metropolitana,13.0,Talagante,13601.0,81838.0,2020-04-08,17.1
+1149,Metropolitana,13.0,Talagante,13601.0,81838.0,2020-04-10,22.0
+1150,Metropolitana,13.0,Talagante,13601.0,81838.0,2020-04-13,25.7
+1151,Metropolitana,13.0,Talagante,13601.0,81838.0,2020-04-15,29.3
+1152,Metropolitana,13.0,Tiltil,13303.0,21477.0,2020-03-30,9.3
+1153,Metropolitana,13.0,Tiltil,13303.0,21477.0,2020-04-01,9.3
+1154,Metropolitana,13.0,Tiltil,13303.0,21477.0,2020-04-03,14.0
+1155,Metropolitana,13.0,Tiltil,13303.0,21477.0,2020-04-06,14.0
+1156,Metropolitana,13.0,Tiltil,13303.0,21477.0,2020-04-08,18.6
+1157,Metropolitana,13.0,Tiltil,13303.0,21477.0,2020-04-10,18.6
+1158,Metropolitana,13.0,Tiltil,13303.0,21477.0,2020-04-13,18.6
+1159,Metropolitana,13.0,Tiltil,13303.0,21477.0,2020-04-15,18.6
+1160,Metropolitana,13.0,Vitacura,13132.0,96774.0,2020-03-30,85.8
+1161,Metropolitana,13.0,Vitacura,13132.0,96774.0,2020-04-01,93.0
+1162,Metropolitana,13.0,Vitacura,13132.0,96774.0,2020-04-03,103.3
+1163,Metropolitana,13.0,Vitacura,13132.0,96774.0,2020-04-06,117.8
+1164,Metropolitana,13.0,Vitacura,13132.0,96774.0,2020-04-08,117.8
+1165,Metropolitana,13.0,Vitacura,13132.0,96774.0,2020-04-10,123.0
+1166,Metropolitana,13.0,Vitacura,13132.0,96774.0,2020-04-13,131.2
+1167,Metropolitana,13.0,Vitacura,13132.0,96774.0,2020-04-15,132.3
+1168,Metropolitana,13.0,Total,,8125072.0,2020-03-30,14.7
+1169,Metropolitana,13.0,Total,,8125072.0,2020-04-01,18.7
+1170,Metropolitana,13.0,Total,,8125072.0,2020-04-03,21.4
+1171,Metropolitana,13.0,Total,,8125072.0,2020-04-06,27.6
+1172,Metropolitana,13.0,Total,,8125072.0,2020-04-08,31.4
+1173,Metropolitana,13.0,Total,,8125072.0,2020-04-10,39.3
+1174,Metropolitana,13.0,Total,,8125072.0,2020-04-13,46.8
+1175,Metropolitana,13.0,Total,,8125072.0,2020-04-15,53.3
+1176,,,,,,2020-03-30,
+1177,,,,,,2020-04-01,
+1178,,,,,,2020-04-03,
+1179,,,,,,2020-04-06,
+1180,,,,,,2020-04-08,
+1181,,,,,,2020-04-10,
+1182,,,,,,2020-04-13,
+1183,,,,,,2020-04-15,
+1184,Del Libertador General Bernardo O’Higgins,6.0,Chepica,6302.0,15925.0,2020-03-30,0.0
+1185,Del Libertador General Bernardo O’Higgins,6.0,Chepica,6302.0,15925.0,2020-04-01,0.0
+1186,Del Libertador General Bernardo O’Higgins,6.0,Chepica,6302.0,15925.0,2020-04-03,0.0
+1187,Del Libertador General Bernardo O’Higgins,6.0,Chepica,6302.0,15925.0,2020-04-06,0.0
+1188,Del Libertador General Bernardo O’Higgins,6.0,Chepica,6302.0,15925.0,2020-04-08,0.0
+1189,Del Libertador General Bernardo O’Higgins,6.0,Chepica,6302.0,15925.0,2020-04-10,0.0
+1190,Del Libertador General Bernardo O’Higgins,6.0,Chepica,6302.0,15925.0,2020-04-13,0.0
+1191,Del Libertador General Bernardo O’Higgins,6.0,Chepica,6302.0,15925.0,2020-04-15,0.0
+1192,Del Libertador General Bernardo O’Higgins,6.0,Chimbarongo,6303.0,37696.0,2020-03-30,0.0
+1193,Del Libertador General Bernardo O’Higgins,6.0,Chimbarongo,6303.0,37696.0,2020-04-01,5.3
+1194,Del Libertador General Bernardo O’Higgins,6.0,Chimbarongo,6303.0,37696.0,2020-04-03,5.3
+1195,Del Libertador General Bernardo O’Higgins,6.0,Chimbarongo,6303.0,37696.0,2020-04-06,5.3
+1196,Del Libertador General Bernardo O’Higgins,6.0,Chimbarongo,6303.0,37696.0,2020-04-08,5.3
+1197,Del Libertador General Bernardo O’Higgins,6.0,Chimbarongo,6303.0,37696.0,2020-04-10,5.3
+1198,Del Libertador General Bernardo O’Higgins,6.0,Chimbarongo,6303.0,37696.0,2020-04-13,5.3
+1199,Del Libertador General Bernardo O’Higgins,6.0,Chimbarongo,6303.0,37696.0,2020-04-15,10.6
+1200,Del Libertador General Bernardo O’Higgins,6.0,Codegua,6102.0,14096.0,2020-03-30,0.0
+1201,Del Libertador General Bernardo O’Higgins,6.0,Codegua,6102.0,14096.0,2020-04-01,0.0
+1202,Del Libertador General Bernardo O’Higgins,6.0,Codegua,6102.0,14096.0,2020-04-03,0.0
+1203,Del Libertador General Bernardo O’Higgins,6.0,Codegua,6102.0,14096.0,2020-04-06,0.0
+1204,Del Libertador General Bernardo O’Higgins,6.0,Codegua,6102.0,14096.0,2020-04-08,0.0
+1205,Del Libertador General Bernardo O’Higgins,6.0,Codegua,6102.0,14096.0,2020-04-10,0.0
+1206,Del Libertador General Bernardo O’Higgins,6.0,Codegua,6102.0,14096.0,2020-04-13,0.0
+1207,Del Libertador General Bernardo O’Higgins,6.0,Codegua,6102.0,14096.0,2020-04-15,0.0
+1208,Del Libertador General Bernardo O’Higgins,6.0,Coinco,6103.0,7831.0,2020-03-30,0.0
+1209,Del Libertador General Bernardo O’Higgins,6.0,Coinco,6103.0,7831.0,2020-04-01,0.0
+1210,Del Libertador General Bernardo O’Higgins,6.0,Coinco,6103.0,7831.0,2020-04-03,0.0
+1211,Del Libertador General Bernardo O’Higgins,6.0,Coinco,6103.0,7831.0,2020-04-06,0.0
+1212,Del Libertador General Bernardo O’Higgins,6.0,Coinco,6103.0,7831.0,2020-04-08,0.0
+1213,Del Libertador General Bernardo O’Higgins,6.0,Coinco,6103.0,7831.0,2020-04-10,0.0
+1214,Del Libertador General Bernardo O’Higgins,6.0,Coinco,6103.0,7831.0,2020-04-13,0.0
+1215,Del Libertador General Bernardo O’Higgins,6.0,Coinco,6103.0,7831.0,2020-04-15,0.0
+1216,Del Libertador General Bernardo O’Higgins,6.0,Coltauco,6104.0,21263.0,2020-03-30,0.0
+1217,Del Libertador General Bernardo O’Higgins,6.0,Coltauco,6104.0,21263.0,2020-04-01,0.0
+1218,Del Libertador General Bernardo O’Higgins,6.0,Coltauco,6104.0,21263.0,2020-04-03,0.0
+1219,Del Libertador General Bernardo O’Higgins,6.0,Coltauco,6104.0,21263.0,2020-04-06,0.0
+1220,Del Libertador General Bernardo O’Higgins,6.0,Coltauco,6104.0,21263.0,2020-04-08,0.0
+1221,Del Libertador General Bernardo O’Higgins,6.0,Coltauco,6104.0,21263.0,2020-04-10,0.0
+1222,Del Libertador General Bernardo O’Higgins,6.0,Coltauco,6104.0,21263.0,2020-04-13,0.0
+1223,Del Libertador General Bernardo O’Higgins,6.0,Coltauco,6104.0,21263.0,2020-04-15,0.0
+1224,Del Libertador General Bernardo O’Higgins,6.0,Donihue,6105.0,22700.0,2020-03-30,0.0
+1225,Del Libertador General Bernardo O’Higgins,6.0,Donihue,6105.0,22700.0,2020-04-01,0.0
+1226,Del Libertador General Bernardo O’Higgins,6.0,Donihue,6105.0,22700.0,2020-04-03,0.0
+1227,Del Libertador General Bernardo O’Higgins,6.0,Donihue,6105.0,22700.0,2020-04-06,0.0
+1228,Del Libertador General Bernardo O’Higgins,6.0,Donihue,6105.0,22700.0,2020-04-08,0.0
+1229,Del Libertador General Bernardo O’Higgins,6.0,Donihue,6105.0,22700.0,2020-04-10,0.0
+1230,Del Libertador General Bernardo O’Higgins,6.0,Donihue,6105.0,22700.0,2020-04-13,0.0
+1231,Del Libertador General Bernardo O’Higgins,6.0,Donihue,6105.0,22700.0,2020-04-15,0.0
+1232,Del Libertador General Bernardo O’Higgins,6.0,Graneros,6106.0,36504.0,2020-03-30,0.0
+1233,Del Libertador General Bernardo O’Higgins,6.0,Graneros,6106.0,36504.0,2020-04-01,0.0
+1234,Del Libertador General Bernardo O’Higgins,6.0,Graneros,6106.0,36504.0,2020-04-03,0.0
+1235,Del Libertador General Bernardo O’Higgins,6.0,Graneros,6106.0,36504.0,2020-04-06,0.0
+1236,Del Libertador General Bernardo O’Higgins,6.0,Graneros,6106.0,36504.0,2020-04-08,0.0
+1237,Del Libertador General Bernardo O’Higgins,6.0,Graneros,6106.0,36504.0,2020-04-10,0.0
+1238,Del Libertador General Bernardo O’Higgins,6.0,Graneros,6106.0,36504.0,2020-04-13,0.0
+1239,Del Libertador General Bernardo O’Higgins,6.0,Graneros,6106.0,36504.0,2020-04-15,0.0
+1240,Del Libertador General Bernardo O’Higgins,6.0,La Estrella,6202.0,3114.0,2020-03-30,0.0
+1241,Del Libertador General Bernardo O’Higgins,6.0,La Estrella,6202.0,3114.0,2020-04-01,0.0
+1242,Del Libertador General Bernardo O’Higgins,6.0,La Estrella,6202.0,3114.0,2020-04-03,0.0
+1243,Del Libertador General Bernardo O’Higgins,6.0,La Estrella,6202.0,3114.0,2020-04-06,0.0
+1244,Del Libertador General Bernardo O’Higgins,6.0,La Estrella,6202.0,3114.0,2020-04-08,0.0
+1245,Del Libertador General Bernardo O’Higgins,6.0,La Estrella,6202.0,3114.0,2020-04-10,0.0
+1246,Del Libertador General Bernardo O’Higgins,6.0,La Estrella,6202.0,3114.0,2020-04-13,0.0
+1247,Del Libertador General Bernardo O’Higgins,6.0,La Estrella,6202.0,3114.0,2020-04-15,0.0
+1248,Del Libertador General Bernardo O’Higgins,6.0,Las Cabras,6107.0,26749.0,2020-03-30,0.0
+1249,Del Libertador General Bernardo O’Higgins,6.0,Las Cabras,6107.0,26749.0,2020-04-01,0.0
+1250,Del Libertador General Bernardo O’Higgins,6.0,Las Cabras,6107.0,26749.0,2020-04-03,0.0
+1251,Del Libertador General Bernardo O’Higgins,6.0,Las Cabras,6107.0,26749.0,2020-04-06,0.0
+1252,Del Libertador General Bernardo O’Higgins,6.0,Las Cabras,6107.0,26749.0,2020-04-08,0.0
+1253,Del Libertador General Bernardo O’Higgins,6.0,Las Cabras,6107.0,26749.0,2020-04-10,0.0
+1254,Del Libertador General Bernardo O’Higgins,6.0,Las Cabras,6107.0,26749.0,2020-04-13,0.0
+1255,Del Libertador General Bernardo O’Higgins,6.0,Las Cabras,6107.0,26749.0,2020-04-15,3.7
+1256,Del Libertador General Bernardo O’Higgins,6.0,Litueche,6203.0,6765.0,2020-03-30,0.0
+1257,Del Libertador General Bernardo O’Higgins,6.0,Litueche,6203.0,6765.0,2020-04-01,10.0
+1258,Del Libertador General Bernardo O’Higgins,6.0,Litueche,6203.0,6765.0,2020-04-03,0.0
+1259,Del Libertador General Bernardo O’Higgins,6.0,Litueche,6203.0,6765.0,2020-04-06,0.0
+1260,Del Libertador General Bernardo O’Higgins,6.0,Litueche,6203.0,6765.0,2020-04-08,0.0
+1261,Del Libertador General Bernardo O’Higgins,6.0,Litueche,6203.0,6765.0,2020-04-10,0.0
+1262,Del Libertador General Bernardo O’Higgins,6.0,Litueche,6203.0,6765.0,2020-04-13,0.0
+1263,Del Libertador General Bernardo O’Higgins,6.0,Litueche,6203.0,6765.0,2020-04-15,0.0
+1264,Del Libertador General Bernardo O’Higgins,6.0,Lolol,6304.0,7289.0,2020-03-30,0.0
+1265,Del Libertador General Bernardo O’Higgins,6.0,Lolol,6304.0,7289.0,2020-04-01,0.0
+1266,Del Libertador General Bernardo O’Higgins,6.0,Lolol,6304.0,7289.0,2020-04-03,0.0
+1267,Del Libertador General Bernardo O’Higgins,6.0,Lolol,6304.0,7289.0,2020-04-06,0.0
+1268,Del Libertador General Bernardo O’Higgins,6.0,Lolol,6304.0,7289.0,2020-04-08,0.0
+1269,Del Libertador General Bernardo O’Higgins,6.0,Lolol,6304.0,7289.0,2020-04-10,0.0
+1270,Del Libertador General Bernardo O’Higgins,6.0,Lolol,6304.0,7289.0,2020-04-13,0.0
+1271,Del Libertador General Bernardo O’Higgins,6.0,Lolol,6304.0,7289.0,2020-04-15,0.0
+1272,Del Libertador General Bernardo O’Higgins,6.0,Machali,6108.0,59913.0,2020-03-30,5.0
+1273,Del Libertador General Bernardo O’Higgins,6.0,Machali,6108.0,59913.0,2020-04-01,0.0
+1274,Del Libertador General Bernardo O’Higgins,6.0,Machali,6108.0,59913.0,2020-04-03,11.7
+1275,Del Libertador General Bernardo O’Higgins,6.0,Machali,6108.0,59913.0,2020-04-06,13.4
+1276,Del Libertador General Bernardo O’Higgins,6.0,Machali,6108.0,59913.0,2020-04-08,13.4
+1277,Del Libertador General Bernardo O’Higgins,6.0,Machali,6108.0,59913.0,2020-04-10,13.4
+1278,Del Libertador General Bernardo O’Higgins,6.0,Machali,6108.0,59913.0,2020-04-13,13.4
+1279,Del Libertador General Bernardo O’Higgins,6.0,Machali,6108.0,59913.0,2020-04-15,13.4
+1280,Del Libertador General Bernardo O’Higgins,6.0,Malloa,6109.0,14163.0,2020-03-30,0.0
+1281,Del Libertador General Bernardo O’Higgins,6.0,Malloa,6109.0,14163.0,2020-04-01,0.0
+1282,Del Libertador General Bernardo O’Higgins,6.0,Malloa,6109.0,14163.0,2020-04-03,0.0
+1283,Del Libertador General Bernardo O’Higgins,6.0,Malloa,6109.0,14163.0,2020-04-06,0.0
+1284,Del Libertador General Bernardo O’Higgins,6.0,Malloa,6109.0,14163.0,2020-04-08,0.0
+1285,Del Libertador General Bernardo O’Higgins,6.0,Malloa,6109.0,14163.0,2020-04-10,0.0
+1286,Del Libertador General Bernardo O’Higgins,6.0,Malloa,6109.0,14163.0,2020-04-13,0.0
+1287,Del Libertador General Bernardo O’Higgins,6.0,Malloa,6109.0,14163.0,2020-04-15,0.0
+1288,Del Libertador General Bernardo O’Higgins,6.0,Marchihue,6204.0,7632.0,2020-03-30,0.0
+1289,Del Libertador General Bernardo O’Higgins,6.0,Marchihue,6204.0,7632.0,2020-04-01,0.0
+1290,Del Libertador General Bernardo O’Higgins,6.0,Marchihue,6204.0,7632.0,2020-04-03,0.0
+1291,Del Libertador General Bernardo O’Higgins,6.0,Marchihue,6204.0,7632.0,2020-04-06,0.0
+1292,Del Libertador General Bernardo O’Higgins,6.0,Marchihue,6204.0,7632.0,2020-04-08,0.0
+1293,Del Libertador General Bernardo O’Higgins,6.0,Marchihue,6204.0,7632.0,2020-04-10,0.0
+1294,Del Libertador General Bernardo O’Higgins,6.0,Marchihue,6204.0,7632.0,2020-04-13,0.0
+1295,Del Libertador General Bernardo O’Higgins,6.0,Marchihue,6204.0,7632.0,2020-04-15,0.0
+1296,Del Libertador General Bernardo O’Higgins,6.0,Mostazal,6110.0,27462.0,2020-03-30,0.0
+1297,Del Libertador General Bernardo O’Higgins,6.0,Mostazal,6110.0,27462.0,2020-04-01,0.0
+1298,Del Libertador General Bernardo O’Higgins,6.0,Mostazal,6110.0,27462.0,2020-04-03,0.0
+1299,Del Libertador General Bernardo O’Higgins,6.0,Mostazal,6110.0,27462.0,2020-04-06,0.0
+1300,Del Libertador General Bernardo O’Higgins,6.0,Mostazal,6110.0,27462.0,2020-04-08,0.0
+1301,Del Libertador General Bernardo O’Higgins,6.0,Mostazal,6110.0,27462.0,2020-04-10,0.0
+1302,Del Libertador General Bernardo O’Higgins,6.0,Mostazal,6110.0,27462.0,2020-04-13,0.0
+1303,Del Libertador General Bernardo O’Higgins,6.0,Mostazal,6110.0,27462.0,2020-04-15,0.0
+1304,Del Libertador General Bernardo O’Higgins,6.0,Nancagua,6305.0,19141.0,2020-03-30,0.0
+1305,Del Libertador General Bernardo O’Higgins,6.0,Nancagua,6305.0,19141.0,2020-04-01,0.0
+1306,Del Libertador General Bernardo O’Higgins,6.0,Nancagua,6305.0,19141.0,2020-04-03,0.0
+1307,Del Libertador General Bernardo O’Higgins,6.0,Nancagua,6305.0,19141.0,2020-04-06,0.0
+1308,Del Libertador General Bernardo O’Higgins,6.0,Nancagua,6305.0,19141.0,2020-04-08,0.0
+1309,Del Libertador General Bernardo O’Higgins,6.0,Nancagua,6305.0,19141.0,2020-04-10,0.0
+1310,Del Libertador General Bernardo O’Higgins,6.0,Nancagua,6305.0,19141.0,2020-04-13,0.0
+1311,Del Libertador General Bernardo O’Higgins,6.0,Nancagua,6305.0,19141.0,2020-04-15,0.0
+1312,Del Libertador General Bernardo O’Higgins,6.0,Navidad,6205.0,6904.0,2020-03-30,0.0
+1313,Del Libertador General Bernardo O’Higgins,6.0,Navidad,6205.0,6904.0,2020-04-01,0.0
+1314,Del Libertador General Bernardo O’Higgins,6.0,Navidad,6205.0,6904.0,2020-04-03,0.0
+1315,Del Libertador General Bernardo O’Higgins,6.0,Navidad,6205.0,6904.0,2020-04-06,0.0
+1316,Del Libertador General Bernardo O’Higgins,6.0,Navidad,6205.0,6904.0,2020-04-08,0.0
+1317,Del Libertador General Bernardo O’Higgins,6.0,Navidad,6205.0,6904.0,2020-04-10,0.0
+1318,Del Libertador General Bernardo O’Higgins,6.0,Navidad,6205.0,6904.0,2020-04-13,0.0
+1319,Del Libertador General Bernardo O’Higgins,6.0,Navidad,6205.0,6904.0,2020-04-15,0.0
+1320,Del Libertador General Bernardo O’Higgins,6.0,Olivar,6111.0,14624.0,2020-03-30,0.0
+1321,Del Libertador General Bernardo O’Higgins,6.0,Olivar,6111.0,14624.0,2020-04-01,0.0
+1322,Del Libertador General Bernardo O’Higgins,6.0,Olivar,6111.0,14624.0,2020-04-03,13.7
+1323,Del Libertador General Bernardo O’Higgins,6.0,Olivar,6111.0,14624.0,2020-04-06,13.7
+1324,Del Libertador General Bernardo O’Higgins,6.0,Olivar,6111.0,14624.0,2020-04-08,13.7
+1325,Del Libertador General Bernardo O’Higgins,6.0,Olivar,6111.0,14624.0,2020-04-10,20.5
+1326,Del Libertador General Bernardo O’Higgins,6.0,Olivar,6111.0,14624.0,2020-04-13,41.0
+1327,Del Libertador General Bernardo O’Higgins,6.0,Olivar,6111.0,14624.0,2020-04-15,47.9
+1328,Del Libertador General Bernardo O’Higgins,6.0,Palmilla,6306.0,13299.0,2020-03-30,0.0
+1329,Del Libertador General Bernardo O’Higgins,6.0,Palmilla,6306.0,13299.0,2020-04-01,0.0
+1330,Del Libertador General Bernardo O’Higgins,6.0,Palmilla,6306.0,13299.0,2020-04-03,0.0
+1331,Del Libertador General Bernardo O’Higgins,6.0,Palmilla,6306.0,13299.0,2020-04-06,0.0
+1332,Del Libertador General Bernardo O’Higgins,6.0,Palmilla,6306.0,13299.0,2020-04-08,0.0
+1333,Del Libertador General Bernardo O’Higgins,6.0,Palmilla,6306.0,13299.0,2020-04-10,0.0
+1334,Del Libertador General Bernardo O’Higgins,6.0,Palmilla,6306.0,13299.0,2020-04-13,0.0
+1335,Del Libertador General Bernardo O’Higgins,6.0,Palmilla,6306.0,13299.0,2020-04-15,0.0
+1336,Del Libertador General Bernardo O’Higgins,6.0,Paredones,6206.0,6349.0,2020-03-30,0.0
+1337,Del Libertador General Bernardo O’Higgins,6.0,Paredones,6206.0,6349.0,2020-04-01,0.0
+1338,Del Libertador General Bernardo O’Higgins,6.0,Paredones,6206.0,6349.0,2020-04-03,0.0
+1339,Del Libertador General Bernardo O’Higgins,6.0,Paredones,6206.0,6349.0,2020-04-06,0.0
+1340,Del Libertador General Bernardo O’Higgins,6.0,Paredones,6206.0,6349.0,2020-04-08,0.0
+1341,Del Libertador General Bernardo O’Higgins,6.0,Paredones,6206.0,6349.0,2020-04-10,0.0
+1342,Del Libertador General Bernardo O’Higgins,6.0,Paredones,6206.0,6349.0,2020-04-13,0.0
+1343,Del Libertador General Bernardo O’Higgins,6.0,Paredones,6206.0,6349.0,2020-04-15,0.0
+1344,Del Libertador General Bernardo O’Higgins,6.0,Peralillo,6307.0,11848.0,2020-03-30,0.0
+1345,Del Libertador General Bernardo O’Higgins,6.0,Peralillo,6307.0,11848.0,2020-04-01,0.0
+1346,Del Libertador General Bernardo O’Higgins,6.0,Peralillo,6307.0,11848.0,2020-04-03,0.0
+1347,Del Libertador General Bernardo O’Higgins,6.0,Peralillo,6307.0,11848.0,2020-04-06,0.0
+1348,Del Libertador General Bernardo O’Higgins,6.0,Peralillo,6307.0,11848.0,2020-04-08,0.0
+1349,Del Libertador General Bernardo O’Higgins,6.0,Peralillo,6307.0,11848.0,2020-04-10,0.0
+1350,Del Libertador General Bernardo O’Higgins,6.0,Peralillo,6307.0,11848.0,2020-04-13,0.0
+1351,Del Libertador General Bernardo O’Higgins,6.0,Peralillo,6307.0,11848.0,2020-04-15,0.0
+1352,Del Libertador General Bernardo O’Higgins,6.0,Peumo,6112.0,14952.0,2020-03-30,0.0
+1353,Del Libertador General Bernardo O’Higgins,6.0,Peumo,6112.0,14952.0,2020-04-01,0.0
+1354,Del Libertador General Bernardo O’Higgins,6.0,Peumo,6112.0,14952.0,2020-04-03,0.0
+1355,Del Libertador General Bernardo O’Higgins,6.0,Peumo,6112.0,14952.0,2020-04-06,6.7
+1356,Del Libertador General Bernardo O’Higgins,6.0,Peumo,6112.0,14952.0,2020-04-08,6.7
+1357,Del Libertador General Bernardo O’Higgins,6.0,Peumo,6112.0,14952.0,2020-04-10,6.7
+1358,Del Libertador General Bernardo O’Higgins,6.0,Peumo,6112.0,14952.0,2020-04-13,6.7
+1359,Del Libertador General Bernardo O’Higgins,6.0,Peumo,6112.0,14952.0,2020-04-15,6.7
+1360,Del Libertador General Bernardo O’Higgins,6.0,Pichidegua,6113.0,20743.0,2020-03-30,0.0
+1361,Del Libertador General Bernardo O’Higgins,6.0,Pichidegua,6113.0,20743.0,2020-04-01,6.8
+1362,Del Libertador General Bernardo O’Higgins,6.0,Pichidegua,6113.0,20743.0,2020-04-03,0.0
+1363,Del Libertador General Bernardo O’Higgins,6.0,Pichidegua,6113.0,20743.0,2020-04-06,0.0
+1364,Del Libertador General Bernardo O’Higgins,6.0,Pichidegua,6113.0,20743.0,2020-04-08,0.0
+1365,Del Libertador General Bernardo O’Higgins,6.0,Pichidegua,6113.0,20743.0,2020-04-10,0.0
+1366,Del Libertador General Bernardo O’Higgins,6.0,Pichidegua,6113.0,20743.0,2020-04-13,0.0
+1367,Del Libertador General Bernardo O’Higgins,6.0,Pichidegua,6113.0,20743.0,2020-04-15,0.0
+1368,Del Libertador General Bernardo O’Higgins,6.0,Pichilemu,6201.0,17882.0,2020-03-30,0.0
+1369,Del Libertador General Bernardo O’Higgins,6.0,Pichilemu,6201.0,17882.0,2020-04-01,0.0
+1370,Del Libertador General Bernardo O’Higgins,6.0,Pichilemu,6201.0,17882.0,2020-04-03,0.0
+1371,Del Libertador General Bernardo O’Higgins,6.0,Pichilemu,6201.0,17882.0,2020-04-06,0.0
+1372,Del Libertador General Bernardo O’Higgins,6.0,Pichilemu,6201.0,17882.0,2020-04-08,0.0
+1373,Del Libertador General Bernardo O’Higgins,6.0,Pichilemu,6201.0,17882.0,2020-04-10,0.0
+1374,Del Libertador General Bernardo O’Higgins,6.0,Pichilemu,6201.0,17882.0,2020-04-13,0.0
+1375,Del Libertador General Bernardo O’Higgins,6.0,Pichilemu,6201.0,17882.0,2020-04-15,0.0
+1376,Del Libertador General Bernardo O’Higgins,6.0,Placilla,6308.0,9164.0,2020-03-30,0.0
+1377,Del Libertador General Bernardo O’Higgins,6.0,Placilla,6308.0,9164.0,2020-04-01,10.9
+1378,Del Libertador General Bernardo O’Higgins,6.0,Placilla,6308.0,9164.0,2020-04-03,10.9
+1379,Del Libertador General Bernardo O’Higgins,6.0,Placilla,6308.0,9164.0,2020-04-06,10.9
+1380,Del Libertador General Bernardo O’Higgins,6.0,Placilla,6308.0,9164.0,2020-04-08,10.9
+1381,Del Libertador General Bernardo O’Higgins,6.0,Placilla,6308.0,9164.0,2020-04-10,10.9
+1382,Del Libertador General Bernardo O’Higgins,6.0,Placilla,6308.0,9164.0,2020-04-13,10.9
+1383,Del Libertador General Bernardo O’Higgins,6.0,Placilla,6308.0,9164.0,2020-04-15,21.8
+1384,Del Libertador General Bernardo O’Higgins,6.0,Pumanque,6309.0,3531.0,2020-03-30,0.0
+1385,Del Libertador General Bernardo O’Higgins,6.0,Pumanque,6309.0,3531.0,2020-04-01,0.0
+1386,Del Libertador General Bernardo O’Higgins,6.0,Pumanque,6309.0,3531.0,2020-04-03,0.0
+1387,Del Libertador General Bernardo O’Higgins,6.0,Pumanque,6309.0,3531.0,2020-04-06,0.0
+1388,Del Libertador General Bernardo O’Higgins,6.0,Pumanque,6309.0,3531.0,2020-04-08,0.0
+1389,Del Libertador General Bernardo O’Higgins,6.0,Pumanque,6309.0,3531.0,2020-04-10,0.0
+1390,Del Libertador General Bernardo O’Higgins,6.0,Pumanque,6309.0,3531.0,2020-04-13,0.0
+1391,Del Libertador General Bernardo O’Higgins,6.0,Pumanque,6309.0,3531.0,2020-04-15,0.0
+1392,Del Libertador General Bernardo O’Higgins,6.0,Quinta de Tilcoco,6114.0,13877.0,2020-03-30,7.2
+1393,Del Libertador General Bernardo O’Higgins,6.0,Quinta de Tilcoco,6114.0,13877.0,2020-04-01,14.4
+1394,Del Libertador General Bernardo O’Higgins,6.0,Quinta de Tilcoco,6114.0,13877.0,2020-04-03,14.4
+1395,Del Libertador General Bernardo O’Higgins,6.0,Quinta de Tilcoco,6114.0,13877.0,2020-04-06,14.4
+1396,Del Libertador General Bernardo O’Higgins,6.0,Quinta de Tilcoco,6114.0,13877.0,2020-04-08,14.4
+1397,Del Libertador General Bernardo O’Higgins,6.0,Quinta de Tilcoco,6114.0,13877.0,2020-04-10,14.4
+1398,Del Libertador General Bernardo O’Higgins,6.0,Quinta de Tilcoco,6114.0,13877.0,2020-04-13,21.6
+1399,Del Libertador General Bernardo O’Higgins,6.0,Quinta de Tilcoco,6114.0,13877.0,2020-04-15,21.6
+1400,Del Libertador General Bernardo O’Higgins,6.0,Rancagua,6101.0,265211.0,2020-03-30,2.6
+1401,Del Libertador General Bernardo O’Higgins,6.0,Rancagua,6101.0,265211.0,2020-04-01,2.6
+1402,Del Libertador General Bernardo O’Higgins,6.0,Rancagua,6101.0,265211.0,2020-04-03,3.4
+1403,Del Libertador General Bernardo O’Higgins,6.0,Rancagua,6101.0,265211.0,2020-04-06,5.7
+1404,Del Libertador General Bernardo O’Higgins,6.0,Rancagua,6101.0,265211.0,2020-04-08,5.7
+1405,Del Libertador General Bernardo O’Higgins,6.0,Rancagua,6101.0,265211.0,2020-04-10,5.7
+1406,Del Libertador General Bernardo O’Higgins,6.0,Rancagua,6101.0,265211.0,2020-04-13,5.7
+1407,Del Libertador General Bernardo O’Higgins,6.0,Rancagua,6101.0,265211.0,2020-04-15,5.7
+1408,Del Libertador General Bernardo O’Higgins,6.0,Rengo,6115.0,63710.0,2020-03-30,1.6
+1409,Del Libertador General Bernardo O’Higgins,6.0,Rengo,6115.0,63710.0,2020-04-01,1.6
+1410,Del Libertador General Bernardo O’Higgins,6.0,Rengo,6115.0,63710.0,2020-04-03,1.6
+1411,Del Libertador General Bernardo O’Higgins,6.0,Rengo,6115.0,63710.0,2020-04-06,1.6
+1412,Del Libertador General Bernardo O’Higgins,6.0,Rengo,6115.0,63710.0,2020-04-08,1.6
+1413,Del Libertador General Bernardo O’Higgins,6.0,Rengo,6115.0,63710.0,2020-04-10,1.6
+1414,Del Libertador General Bernardo O’Higgins,6.0,Rengo,6115.0,63710.0,2020-04-13,1.6
+1415,Del Libertador General Bernardo O’Higgins,6.0,Rengo,6115.0,63710.0,2020-04-15,1.6
+1416,Del Libertador General Bernardo O’Higgins,6.0,Requinoa,6116.0,30371.0,2020-03-30,6.6
+1417,Del Libertador General Bernardo O’Higgins,6.0,Requinoa,6116.0,30371.0,2020-04-01,3.3
+1418,Del Libertador General Bernardo O’Higgins,6.0,Requinoa,6116.0,30371.0,2020-04-03,3.3
+1419,Del Libertador General Bernardo O’Higgins,6.0,Requinoa,6116.0,30371.0,2020-04-06,3.3
+1420,Del Libertador General Bernardo O’Higgins,6.0,Requinoa,6116.0,30371.0,2020-04-08,3.3
+1421,Del Libertador General Bernardo O’Higgins,6.0,Requinoa,6116.0,30371.0,2020-04-10,3.3
+1422,Del Libertador General Bernardo O’Higgins,6.0,Requinoa,6116.0,30371.0,2020-04-13,3.3
+1423,Del Libertador General Bernardo O’Higgins,6.0,Requinoa,6116.0,30371.0,2020-04-15,3.3
+1424,Del Libertador General Bernardo O’Higgins,6.0,San Fernando,6301.0,78642.0,2020-03-30,2.5
+1425,Del Libertador General Bernardo O’Higgins,6.0,San Fernando,6301.0,78642.0,2020-04-01,5.1
+1426,Del Libertador General Bernardo O’Higgins,6.0,San Fernando,6301.0,78642.0,2020-04-03,5.1
+1427,Del Libertador General Bernardo O’Higgins,6.0,San Fernando,6301.0,78642.0,2020-04-06,5.1
+1428,Del Libertador General Bernardo O’Higgins,6.0,San Fernando,6301.0,78642.0,2020-04-08,5.1
+1429,Del Libertador General Bernardo O’Higgins,6.0,San Fernando,6301.0,78642.0,2020-04-10,5.1
+1430,Del Libertador General Bernardo O’Higgins,6.0,San Fernando,6301.0,78642.0,2020-04-13,5.1
+1431,Del Libertador General Bernardo O’Higgins,6.0,San Fernando,6301.0,78642.0,2020-04-15,6.4
+1432,Del Libertador General Bernardo O’Higgins,6.0,San Vicente,6117.0,50617.0,2020-03-30,0.0
+1433,Del Libertador General Bernardo O’Higgins,6.0,San Vicente,6117.0,50617.0,2020-04-01,2.0
+1434,Del Libertador General Bernardo O’Higgins,6.0,San Vicente,6117.0,50617.0,2020-04-03,7.9
+1435,Del Libertador General Bernardo O’Higgins,6.0,San Vicente,6117.0,50617.0,2020-04-06,7.9
+1436,Del Libertador General Bernardo O’Higgins,6.0,San Vicente,6117.0,50617.0,2020-04-08,7.9
+1437,Del Libertador General Bernardo O’Higgins,6.0,San Vicente,6117.0,50617.0,2020-04-10,7.9
+1438,Del Libertador General Bernardo O’Higgins,6.0,San Vicente,6117.0,50617.0,2020-04-13,7.9
+1439,Del Libertador General Bernardo O’Higgins,6.0,San Vicente,6117.0,50617.0,2020-04-15,7.9
+1440,Del Libertador General Bernardo O’Higgins,6.0,Santa Cruz,6310.0,41096.0,2020-03-30,0.0
+1441,Del Libertador General Bernardo O’Higgins,6.0,Santa Cruz,6310.0,41096.0,2020-04-01,0.0
+1442,Del Libertador General Bernardo O’Higgins,6.0,Santa Cruz,6310.0,41096.0,2020-04-03,0.0
+1443,Del Libertador General Bernardo O’Higgins,6.0,Santa Cruz,6310.0,41096.0,2020-04-06,2.4
+1444,Del Libertador General Bernardo O’Higgins,6.0,Santa Cruz,6310.0,41096.0,2020-04-08,4.9
+1445,Del Libertador General Bernardo O’Higgins,6.0,Santa Cruz,6310.0,41096.0,2020-04-10,4.9
+1446,Del Libertador General Bernardo O’Higgins,6.0,Santa Cruz,6310.0,41096.0,2020-04-13,4.9
+1447,Del Libertador General Bernardo O’Higgins,6.0,Santa Cruz,6310.0,41096.0,2020-04-15,4.9
+1448,Del Libertador General Bernardo O’Higgins,6.0,Total,,991063.0,2020-03-30,1.6
+1449,Del Libertador General Bernardo O’Higgins,6.0,Total,,991063.0,2020-04-01,2.6
+1450,Del Libertador General Bernardo O’Higgins,6.0,Total,,991063.0,2020-04-03,3.3
+1451,Del Libertador General Bernardo O’Higgins,6.0,Total,,991063.0,2020-04-06,4.2
+1452,Del Libertador General Bernardo O’Higgins,6.0,Total,,991063.0,2020-04-08,4.3
+1453,Del Libertador General Bernardo O’Higgins,6.0,Total,,991063.0,2020-04-10,4.4
+1454,Del Libertador General Bernardo O’Higgins,6.0,Total,,991063.0,2020-04-13,4.8
+1455,Del Libertador General Bernardo O’Higgins,6.0,Total,,991063.0,2020-04-15,5.4
+1456,,,,,,2020-03-30,
+1457,,,,,,2020-04-01,
+1458,,,,,,2020-04-03,
+1459,,,,,,2020-04-06,
+1460,,,,,,2020-04-08,
+1461,,,,,,2020-04-10,
+1462,,,,,,2020-04-13,
+1463,,,,,,2020-04-15,
+1464,Maule,7.0,Cauquenes,7201.0,44143.0,2020-03-30,2.3
+1465,Maule,7.0,Cauquenes,7201.0,44143.0,2020-04-01,2.3
+1466,Maule,7.0,Cauquenes,7201.0,44143.0,2020-04-03,6.8
+1467,Maule,7.0,Cauquenes,7201.0,44143.0,2020-04-06,9.1
+1468,Maule,7.0,Cauquenes,7201.0,44143.0,2020-04-08,9.1
+1469,Maule,7.0,Cauquenes,7201.0,44143.0,2020-04-10,9.1
+1470,Maule,7.0,Cauquenes,7201.0,44143.0,2020-04-13,9.1
+1471,Maule,7.0,Cauquenes,7201.0,44143.0,2020-04-15,9.1
+1472,Maule,7.0,Chanco,7202.0,9331.0,2020-03-30,0.0
+1473,Maule,7.0,Chanco,7202.0,9331.0,2020-04-01,0.0
+1474,Maule,7.0,Chanco,7202.0,9331.0,2020-04-03,0.0
+1475,Maule,7.0,Chanco,7202.0,9331.0,2020-04-06,0.0
+1476,Maule,7.0,Chanco,7202.0,9331.0,2020-04-08,0.0
+1477,Maule,7.0,Chanco,7202.0,9331.0,2020-04-10,0.0
+1478,Maule,7.0,Chanco,7202.0,9331.0,2020-04-13,0.0
+1479,Maule,7.0,Chanco,7202.0,9331.0,2020-04-15,0.0
+1480,Maule,7.0,Colbun,7402.0,22565.0,2020-03-30,4.4
+1481,Maule,7.0,Colbun,7402.0,22565.0,2020-04-01,17.7
+1482,Maule,7.0,Colbun,7402.0,22565.0,2020-04-03,17.7
+1483,Maule,7.0,Colbun,7402.0,22565.0,2020-04-06,22.2
+1484,Maule,7.0,Colbun,7402.0,22565.0,2020-04-08,22.2
+1485,Maule,7.0,Colbun,7402.0,22565.0,2020-04-10,22.2
+1486,Maule,7.0,Colbun,7402.0,22565.0,2020-04-13,22.2
+1487,Maule,7.0,Colbun,7402.0,22565.0,2020-04-15,22.2
+1488,Maule,7.0,Constitucion,7102.0,50348.0,2020-03-30,0.0
+1489,Maule,7.0,Constitucion,7102.0,50348.0,2020-04-01,2.0
+1490,Maule,7.0,Constitucion,7102.0,50348.0,2020-04-03,6.0
+1491,Maule,7.0,Constitucion,7102.0,50348.0,2020-04-06,6.0
+1492,Maule,7.0,Constitucion,7102.0,50348.0,2020-04-08,9.9
+1493,Maule,7.0,Constitucion,7102.0,50348.0,2020-04-10,9.9
+1494,Maule,7.0,Constitucion,7102.0,50348.0,2020-04-13,9.9
+1495,Maule,7.0,Constitucion,7102.0,50348.0,2020-04-15,7.9
+1496,Maule,7.0,Curepto,7103.0,9426.0,2020-03-30,0.0
+1497,Maule,7.0,Curepto,7103.0,9426.0,2020-04-01,0.0
+1498,Maule,7.0,Curepto,7103.0,9426.0,2020-04-03,0.0
+1499,Maule,7.0,Curepto,7103.0,9426.0,2020-04-06,0.0
+1500,Maule,7.0,Curepto,7103.0,9426.0,2020-04-08,21.2
+1501,Maule,7.0,Curepto,7103.0,9426.0,2020-04-10,31.8
+1502,Maule,7.0,Curepto,7103.0,9426.0,2020-04-13,31.8
+1503,Maule,7.0,Curepto,7103.0,9426.0,2020-04-15,31.8
+1504,Maule,7.0,Curico,7301.0,163626.0,2020-03-30,3.7
+1505,Maule,7.0,Curico,7301.0,163626.0,2020-04-01,4.9
+1506,Maule,7.0,Curico,7301.0,163626.0,2020-04-03,6.7
+1507,Maule,7.0,Curico,7301.0,163626.0,2020-04-06,7.9
+1508,Maule,7.0,Curico,7301.0,163626.0,2020-04-08,7.9
+1509,Maule,7.0,Curico,7301.0,163626.0,2020-04-10,10.4
+1510,Maule,7.0,Curico,7301.0,163626.0,2020-04-13,12.2
+1511,Maule,7.0,Curico,7301.0,163626.0,2020-04-15,14.1
+1512,Maule,7.0,Empedrado,7104.0,4206.0,2020-03-30,0.0
+1513,Maule,7.0,Empedrado,7104.0,4206.0,2020-04-01,0.0
+1514,Maule,7.0,Empedrado,7104.0,4206.0,2020-04-03,0.0
+1515,Maule,7.0,Empedrado,7104.0,4206.0,2020-04-06,0.0
+1516,Maule,7.0,Empedrado,7104.0,4206.0,2020-04-08,0.0
+1517,Maule,7.0,Empedrado,7104.0,4206.0,2020-04-10,0.0
+1518,Maule,7.0,Empedrado,7104.0,4206.0,2020-04-13,0.0
+1519,Maule,7.0,Empedrado,7104.0,4206.0,2020-04-15,0.0
+1520,Maule,7.0,Hualane,7302.0,10222.0,2020-03-30,0.0
+1521,Maule,7.0,Hualane,7302.0,10222.0,2020-04-01,0.0
+1522,Maule,7.0,Hualane,7302.0,10222.0,2020-04-03,0.0
+1523,Maule,7.0,Hualane,7302.0,10222.0,2020-04-06,0.0
+1524,Maule,7.0,Hualane,7302.0,10222.0,2020-04-08,0.0
+1525,Maule,7.0,Hualane,7302.0,10222.0,2020-04-10,0.0
+1526,Maule,7.0,Hualane,7302.0,10222.0,2020-04-13,0.0
+1527,Maule,7.0,Hualane,7302.0,10222.0,2020-04-15,0.0
+1528,Maule,7.0,Licanten,7303.0,6989.0,2020-03-30,0.0
+1529,Maule,7.0,Licanten,7303.0,6989.0,2020-04-01,0.0
+1530,Maule,7.0,Licanten,7303.0,6989.0,2020-04-03,0.0
+1531,Maule,7.0,Licanten,7303.0,6989.0,2020-04-06,0.0
+1532,Maule,7.0,Licanten,7303.0,6989.0,2020-04-08,0.0
+1533,Maule,7.0,Licanten,7303.0,6989.0,2020-04-10,0.0
+1534,Maule,7.0,Licanten,7303.0,6989.0,2020-04-13,0.0
+1535,Maule,7.0,Licanten,7303.0,6989.0,2020-04-15,0.0
+1536,Maule,7.0,Linares,7401.0,101073.0,2020-03-30,4.0
+1537,Maule,7.0,Linares,7401.0,101073.0,2020-04-01,5.9
+1538,Maule,7.0,Linares,7401.0,101073.0,2020-04-03,9.9
+1539,Maule,7.0,Linares,7401.0,101073.0,2020-04-06,10.9
+1540,Maule,7.0,Linares,7401.0,101073.0,2020-04-08,11.9
+1541,Maule,7.0,Linares,7401.0,101073.0,2020-04-10,12.9
+1542,Maule,7.0,Linares,7401.0,101073.0,2020-04-13,12.9
+1543,Maule,7.0,Linares,7401.0,101073.0,2020-04-15,12.9
+1544,Maule,7.0,Longavi,7403.0,32810.0,2020-03-30,3.0
+1545,Maule,7.0,Longavi,7403.0,32810.0,2020-04-01,3.0
+1546,Maule,7.0,Longavi,7403.0,32810.0,2020-04-03,3.0
+1547,Maule,7.0,Longavi,7403.0,32810.0,2020-04-06,6.1
+1548,Maule,7.0,Longavi,7403.0,32810.0,2020-04-08,6.1
+1549,Maule,7.0,Longavi,7403.0,32810.0,2020-04-10,6.1
+1550,Maule,7.0,Longavi,7403.0,32810.0,2020-04-13,6.1
+1551,Maule,7.0,Longavi,7403.0,32810.0,2020-04-15,6.1
+1552,Maule,7.0,Maule,7105.0,60000.0,2020-03-30,3.3
+1553,Maule,7.0,Maule,7105.0,60000.0,2020-04-01,3.3
+1554,Maule,7.0,Maule,7105.0,60000.0,2020-04-03,3.3
+1555,Maule,7.0,Maule,7105.0,60000.0,2020-04-06,3.3
+1556,Maule,7.0,Maule,7105.0,60000.0,2020-04-08,5.0
+1557,Maule,7.0,Maule,7105.0,60000.0,2020-04-10,5.0
+1558,Maule,7.0,Maule,7105.0,60000.0,2020-04-13,6.7
+1559,Maule,7.0,Maule,7105.0,60000.0,2020-04-15,8.3
+1560,Maule,7.0,Molina,7304.0,49800.0,2020-03-30,4.0
+1561,Maule,7.0,Molina,7304.0,49800.0,2020-04-01,6.0
+1562,Maule,7.0,Molina,7304.0,49800.0,2020-04-03,6.0
+1563,Maule,7.0,Molina,7304.0,49800.0,2020-04-06,6.0
+1564,Maule,7.0,Molina,7304.0,49800.0,2020-04-08,6.0
+1565,Maule,7.0,Molina,7304.0,49800.0,2020-04-10,6.0
+1566,Maule,7.0,Molina,7304.0,49800.0,2020-04-13,6.0
+1567,Maule,7.0,Molina,7304.0,49800.0,2020-04-15,6.0
+1568,Maule,7.0,Parral,7404.0,44544.0,2020-03-30,9.0
+1569,Maule,7.0,Parral,7404.0,44544.0,2020-04-01,6.7
+1570,Maule,7.0,Parral,7404.0,44544.0,2020-04-03,6.7
+1571,Maule,7.0,Parral,7404.0,44544.0,2020-04-06,6.7
+1572,Maule,7.0,Parral,7404.0,44544.0,2020-04-08,9.0
+1573,Maule,7.0,Parral,7404.0,44544.0,2020-04-10,11.2
+1574,Maule,7.0,Parral,7404.0,44544.0,2020-04-13,13.5
+1575,Maule,7.0,Parral,7404.0,44544.0,2020-04-15,13.5
+1576,Maule,7.0,Pelarco,7106.0,9083.0,2020-03-30,0.0
+1577,Maule,7.0,Pelarco,7106.0,9083.0,2020-04-01,0.0
+1578,Maule,7.0,Pelarco,7106.0,9083.0,2020-04-03,0.0
+1579,Maule,7.0,Pelarco,7106.0,9083.0,2020-04-06,0.0
+1580,Maule,7.0,Pelarco,7106.0,9083.0,2020-04-08,0.0
+1581,Maule,7.0,Pelarco,7106.0,9083.0,2020-04-10,0.0
+1582,Maule,7.0,Pelarco,7106.0,9083.0,2020-04-13,33.0
+1583,Maule,7.0,Pelarco,7106.0,9083.0,2020-04-15,33.0
+1584,Maule,7.0,Pelluhue,7203.0,8092.0,2020-03-30,12.4
+1585,Maule,7.0,Pelluhue,7203.0,8092.0,2020-04-01,12.4
+1586,Maule,7.0,Pelluhue,7203.0,8092.0,2020-04-03,12.4
+1587,Maule,7.0,Pelluhue,7203.0,8092.0,2020-04-06,12.4
+1588,Maule,7.0,Pelluhue,7203.0,8092.0,2020-04-08,12.4
+1589,Maule,7.0,Pelluhue,7203.0,8092.0,2020-04-10,12.4
+1590,Maule,7.0,Pelluhue,7203.0,8092.0,2020-04-13,12.4
+1591,Maule,7.0,Pelluhue,7203.0,8092.0,2020-04-15,12.4
+1592,Maule,7.0,Pencahue,7107.0,8601.0,2020-03-30,0.0
+1593,Maule,7.0,Pencahue,7107.0,8601.0,2020-04-01,0.0
+1594,Maule,7.0,Pencahue,7107.0,8601.0,2020-04-03,0.0
+1595,Maule,7.0,Pencahue,7107.0,8601.0,2020-04-06,0.0
+1596,Maule,7.0,Pencahue,7107.0,8601.0,2020-04-08,0.0
+1597,Maule,7.0,Pencahue,7107.0,8601.0,2020-04-10,0.0
+1598,Maule,7.0,Pencahue,7107.0,8601.0,2020-04-13,0.0
+1599,Maule,7.0,Pencahue,7107.0,8601.0,2020-04-15,0.0
+1600,Maule,7.0,Rauco,7305.0,11248.0,2020-03-30,0.0
+1601,Maule,7.0,Rauco,7305.0,11248.0,2020-04-01,0.0
+1602,Maule,7.0,Rauco,7305.0,11248.0,2020-04-03,8.9
+1603,Maule,7.0,Rauco,7305.0,11248.0,2020-04-06,8.9
+1604,Maule,7.0,Rauco,7305.0,11248.0,2020-04-08,8.9
+1605,Maule,7.0,Rauco,7305.0,11248.0,2020-04-10,17.8
+1606,Maule,7.0,Rauco,7305.0,11248.0,2020-04-13,17.8
+1607,Maule,7.0,Rauco,7305.0,11248.0,2020-04-15,17.8
+1608,Maule,7.0,Retiro,7405.0,21071.0,2020-03-30,0.0
+1609,Maule,7.0,Retiro,7405.0,21071.0,2020-04-01,0.0
+1610,Maule,7.0,Retiro,7405.0,21071.0,2020-04-03,0.0
+1611,Maule,7.0,Retiro,7405.0,21071.0,2020-04-06,0.0
+1612,Maule,7.0,Retiro,7405.0,21071.0,2020-04-08,0.0
+1613,Maule,7.0,Retiro,7405.0,21071.0,2020-04-10,0.0
+1614,Maule,7.0,Retiro,7405.0,21071.0,2020-04-13,4.7
+1615,Maule,7.0,Retiro,7405.0,21071.0,2020-04-15,4.7
+1616,Maule,7.0,Rio Claro,7108.0,14753.0,2020-03-30,6.8
+1617,Maule,7.0,Rio Claro,7108.0,14753.0,2020-04-01,6.8
+1618,Maule,7.0,Rio Claro,7108.0,14753.0,2020-04-03,6.8
+1619,Maule,7.0,Rio Claro,7108.0,14753.0,2020-04-06,6.8
+1620,Maule,7.0,Rio Claro,7108.0,14753.0,2020-04-08,13.6
+1621,Maule,7.0,Rio Claro,7108.0,14753.0,2020-04-10,20.3
+1622,Maule,7.0,Rio Claro,7108.0,14753.0,2020-04-13,20.3
+1623,Maule,7.0,Rio Claro,7108.0,14753.0,2020-04-15,20.3
+1624,Maule,7.0,Romeral,7306.0,16170.0,2020-03-30,6.2
+1625,Maule,7.0,Romeral,7306.0,16170.0,2020-04-01,12.4
+1626,Maule,7.0,Romeral,7306.0,16170.0,2020-04-03,12.4
+1627,Maule,7.0,Romeral,7306.0,16170.0,2020-04-06,12.4
+1628,Maule,7.0,Romeral,7306.0,16170.0,2020-04-08,12.4
+1629,Maule,7.0,Romeral,7306.0,16170.0,2020-04-10,18.6
+1630,Maule,7.0,Romeral,7306.0,16170.0,2020-04-13,18.6
+1631,Maule,7.0,Romeral,7306.0,16170.0,2020-04-15,24.7
+1632,Maule,7.0,Sagrada Familia,7307.0,19469.0,2020-03-30,0.0
+1633,Maule,7.0,Sagrada Familia,7307.0,19469.0,2020-04-01,0.0
+1634,Maule,7.0,Sagrada Familia,7307.0,19469.0,2020-04-03,0.0
+1635,Maule,7.0,Sagrada Familia,7307.0,19469.0,2020-04-06,5.1
+1636,Maule,7.0,Sagrada Familia,7307.0,19469.0,2020-04-08,5.1
+1637,Maule,7.0,Sagrada Familia,7307.0,19469.0,2020-04-10,5.1
+1638,Maule,7.0,Sagrada Familia,7307.0,19469.0,2020-04-13,5.1
+1639,Maule,7.0,Sagrada Familia,7307.0,19469.0,2020-04-15,5.1
+1640,Maule,7.0,San Clemente,7109.0,46292.0,2020-03-30,0.0
+1641,Maule,7.0,San Clemente,7109.0,46292.0,2020-04-01,0.0
+1642,Maule,7.0,San Clemente,7109.0,46292.0,2020-04-03,0.0
+1643,Maule,7.0,San Clemente,7109.0,46292.0,2020-04-06,0.0
+1644,Maule,7.0,San Clemente,7109.0,46292.0,2020-04-08,0.0
+1645,Maule,7.0,San Clemente,7109.0,46292.0,2020-04-10,0.0
+1646,Maule,7.0,San Clemente,7109.0,46292.0,2020-04-13,0.0
+1647,Maule,7.0,San Clemente,7109.0,46292.0,2020-04-15,0.0
+1648,Maule,7.0,San Javier,7406.0,49451.0,2020-03-30,0.0
+1649,Maule,7.0,San Javier,7406.0,49451.0,2020-04-01,2.0
+1650,Maule,7.0,San Javier,7406.0,49451.0,2020-04-03,2.0
+1651,Maule,7.0,San Javier,7406.0,49451.0,2020-04-06,14.2
+1652,Maule,7.0,San Javier,7406.0,49451.0,2020-04-08,14.2
+1653,Maule,7.0,San Javier,7406.0,49451.0,2020-04-10,16.2
+1654,Maule,7.0,San Javier,7406.0,49451.0,2020-04-13,16.2
+1655,Maule,7.0,San Javier,7406.0,49451.0,2020-04-15,18.2
+1656,Maule,7.0,San Rafael,7110.0,9959.0,2020-03-30,0.0
+1657,Maule,7.0,San Rafael,7110.0,9959.0,2020-04-01,0.0
+1658,Maule,7.0,San Rafael,7110.0,9959.0,2020-04-03,10.0
+1659,Maule,7.0,San Rafael,7110.0,9959.0,2020-04-06,10.0
+1660,Maule,7.0,San Rafael,7110.0,9959.0,2020-04-08,10.0
+1661,Maule,7.0,San Rafael,7110.0,9959.0,2020-04-10,10.0
+1662,Maule,7.0,San Rafael,7110.0,9959.0,2020-04-13,20.1
+1663,Maule,7.0,San Rafael,7110.0,9959.0,2020-04-15,20.1
+1664,Maule,7.0,Talca,7101.0,236724.0,2020-03-30,14.4
+1665,Maule,7.0,Talca,7101.0,236724.0,2020-04-01,15.6
+1666,Maule,7.0,Talca,7101.0,236724.0,2020-04-03,17.7
+1667,Maule,7.0,Talca,7101.0,236724.0,2020-04-06,20.3
+1668,Maule,7.0,Talca,7101.0,236724.0,2020-04-08,21.5
+1669,Maule,7.0,Talca,7101.0,236724.0,2020-04-10,21.5
+1670,Maule,7.0,Talca,7101.0,236724.0,2020-04-13,21.5
+1671,Maule,7.0,Talca,7101.0,236724.0,2020-04-15,24.1
+1672,Maule,7.0,Teno,7308.0,30850.0,2020-03-30,0.0
+1673,Maule,7.0,Teno,7308.0,30850.0,2020-04-01,0.0
+1674,Maule,7.0,Teno,7308.0,30850.0,2020-04-03,0.0
+1675,Maule,7.0,Teno,7308.0,30850.0,2020-04-06,0.0
+1676,Maule,7.0,Teno,7308.0,30850.0,2020-04-08,0.0
+1677,Maule,7.0,Teno,7308.0,30850.0,2020-04-10,3.2
+1678,Maule,7.0,Teno,7308.0,30850.0,2020-04-13,3.2
+1679,Maule,7.0,Teno,7308.0,30850.0,2020-04-15,3.2
+1680,Maule,7.0,Vichuquen,7309.0,4381.0,2020-03-30,0.0
+1681,Maule,7.0,Vichuquen,7309.0,4381.0,2020-04-01,0.0
+1682,Maule,7.0,Vichuquen,7309.0,4381.0,2020-04-03,0.0
+1683,Maule,7.0,Vichuquen,7309.0,4381.0,2020-04-06,0.0
+1684,Maule,7.0,Vichuquen,7309.0,4381.0,2020-04-08,0.0
+1685,Maule,7.0,Vichuquen,7309.0,4381.0,2020-04-10,0.0
+1686,Maule,7.0,Vichuquen,7309.0,4381.0,2020-04-13,0.0
+1687,Maule,7.0,Vichuquen,7309.0,4381.0,2020-04-15,0.0
+1688,Maule,7.0,Villa Alegre,7407.0,17512.0,2020-03-30,0.0
+1689,Maule,7.0,Villa Alegre,7407.0,17512.0,2020-04-01,0.0
+1690,Maule,7.0,Villa Alegre,7407.0,17512.0,2020-04-03,0.0
+1691,Maule,7.0,Villa Alegre,7407.0,17512.0,2020-04-06,0.0
+1692,Maule,7.0,Villa Alegre,7407.0,17512.0,2020-04-08,0.0
+1693,Maule,7.0,Villa Alegre,7407.0,17512.0,2020-04-10,0.0
+1694,Maule,7.0,Villa Alegre,7407.0,17512.0,2020-04-13,0.0
+1695,Maule,7.0,Villa Alegre,7407.0,17512.0,2020-04-15,0.0
+1696,Maule,7.0,Yerbas Buenas,7408.0,19200.0,2020-03-30,0.0
+1697,Maule,7.0,Yerbas Buenas,7408.0,19200.0,2020-04-01,0.0
+1698,Maule,7.0,Yerbas Buenas,7408.0,19200.0,2020-04-03,0.0
+1699,Maule,7.0,Yerbas Buenas,7408.0,19200.0,2020-04-06,0.0
+1700,Maule,7.0,Yerbas Buenas,7408.0,19200.0,2020-04-08,0.0
+1701,Maule,7.0,Yerbas Buenas,7408.0,19200.0,2020-04-10,0.0
+1702,Maule,7.0,Yerbas Buenas,7408.0,19200.0,2020-04-13,0.0
+1703,Maule,7.0,Yerbas Buenas,7408.0,19200.0,2020-04-15,0.0
+1704,Maule,7.0,Total,,1131939.0,2020-03-30,5.1
+1705,Maule,7.0,Total,,1131939.0,2020-04-01,6.3
+1706,Maule,7.0,Total,,1131939.0,2020-04-03,7.9
+1707,Maule,7.0,Total,,1131939.0,2020-04-06,9.5
+1708,Maule,7.0,Total,,1131939.0,2020-04-08,10.5
+1709,Maule,7.0,Total,,1131939.0,2020-04-10,11.6
+1710,Maule,7.0,Total,,1131939.0,2020-04-13,12.5
+1711,Maule,7.0,Total,,1131939.0,2020-04-15,13.4
+1712,,,,,,2020-03-30,
+1713,,,,,,2020-04-01,
+1714,,,,,,2020-04-03,
+1715,,,,,,2020-04-06,
+1716,,,,,,2020-04-08,
+1717,,,,,,2020-04-10,
+1718,,,,,,2020-04-13,
+1719,,,,,,2020-04-15,
+1720,Nuble,16.0,Bulnes,16102.0,22607.0,2020-03-30,53.1
+1721,Nuble,16.0,Bulnes,16102.0,22607.0,2020-04-01,79.6
+1722,Nuble,16.0,Bulnes,16102.0,22607.0,2020-04-03,141.5
+1723,Nuble,16.0,Bulnes,16102.0,22607.0,2020-04-06,159.2
+1724,Nuble,16.0,Bulnes,16102.0,22607.0,2020-04-08,199.1
+1725,Nuble,16.0,Bulnes,16102.0,22607.0,2020-04-10,212.3
+1726,Nuble,16.0,Bulnes,16102.0,22607.0,2020-04-13,212.3
+1727,Nuble,16.0,Bulnes,16102.0,22607.0,2020-04-15,212.3
+1728,Nuble,16.0,Chillan,16101.0,198624.0,2020-03-30,57.4
+1729,Nuble,16.0,Chillan,16101.0,198624.0,2020-04-01,87.1
+1730,Nuble,16.0,Chillan,16101.0,198624.0,2020-04-03,120.8
+1731,Nuble,16.0,Chillan,16101.0,198624.0,2020-04-06,146.5
+1732,Nuble,16.0,Chillan,16101.0,198624.0,2020-04-08,164.6
+1733,Nuble,16.0,Chillan,16101.0,198624.0,2020-04-10,172.2
+1734,Nuble,16.0,Chillan,16101.0,198624.0,2020-04-13,178.7
+1735,Nuble,16.0,Chillan,16101.0,198624.0,2020-04-15,187.8
+1736,Nuble,16.0,Chillan Viejo,16103.0,33827.0,2020-03-30,38.4
+1737,Nuble,16.0,Chillan Viejo,16103.0,33827.0,2020-04-01,65.0
+1738,Nuble,16.0,Chillan Viejo,16103.0,33827.0,2020-04-03,76.9
+1739,Nuble,16.0,Chillan Viejo,16103.0,33827.0,2020-04-06,88.7
+1740,Nuble,16.0,Chillan Viejo,16103.0,33827.0,2020-04-08,100.5
+1741,Nuble,16.0,Chillan Viejo,16103.0,33827.0,2020-04-10,118.2
+1742,Nuble,16.0,Chillan Viejo,16103.0,33827.0,2020-04-13,130.1
+1743,Nuble,16.0,Chillan Viejo,16103.0,33827.0,2020-04-15,133.0
+1744,Nuble,16.0,Cobquecura,16202.0,5275.0,2020-03-30,0.0
+1745,Nuble,16.0,Cobquecura,16202.0,5275.0,2020-04-01,0.0
+1746,Nuble,16.0,Cobquecura,16202.0,5275.0,2020-04-03,0.0
+1747,Nuble,16.0,Cobquecura,16202.0,5275.0,2020-04-06,0.0
+1748,Nuble,16.0,Cobquecura,16202.0,5275.0,2020-04-08,0.0
+1749,Nuble,16.0,Cobquecura,16202.0,5275.0,2020-04-10,0.0
+1750,Nuble,16.0,Cobquecura,16202.0,5275.0,2020-04-13,0.0
+1751,Nuble,16.0,Cobquecura,16202.0,5275.0,2020-04-15,0.0
+1752,Nuble,16.0,Coelemu,16203.0,16845.0,2020-03-30,0.0
+1753,Nuble,16.0,Coelemu,16203.0,16845.0,2020-04-01,5.9
+1754,Nuble,16.0,Coelemu,16203.0,16845.0,2020-04-03,11.9
+1755,Nuble,16.0,Coelemu,16203.0,16845.0,2020-04-06,17.8
+1756,Nuble,16.0,Coelemu,16203.0,16845.0,2020-04-08,23.7
+1757,Nuble,16.0,Coelemu,16203.0,16845.0,2020-04-10,23.7
+1758,Nuble,16.0,Coelemu,16203.0,16845.0,2020-04-13,23.7
+1759,Nuble,16.0,Coelemu,16203.0,16845.0,2020-04-15,23.7
+1760,Nuble,16.0,Coihueco,16302.0,28375.0,2020-03-30,10.6
+1761,Nuble,16.0,Coihueco,16302.0,28375.0,2020-04-01,10.6
+1762,Nuble,16.0,Coihueco,16302.0,28375.0,2020-04-03,10.6
+1763,Nuble,16.0,Coihueco,16302.0,28375.0,2020-04-06,21.1
+1764,Nuble,16.0,Coihueco,16302.0,28375.0,2020-04-08,24.7
+1765,Nuble,16.0,Coihueco,16302.0,28375.0,2020-04-10,28.2
+1766,Nuble,16.0,Coihueco,16302.0,28375.0,2020-04-13,38.8
+1767,Nuble,16.0,Coihueco,16302.0,28375.0,2020-04-15,38.8
+1768,Nuble,16.0,El Carmen,16104.0,12334.0,2020-03-30,8.1
+1769,Nuble,16.0,El Carmen,16104.0,12334.0,2020-04-01,16.2
+1770,Nuble,16.0,El Carmen,16104.0,12334.0,2020-04-03,16.2
+1771,Nuble,16.0,El Carmen,16104.0,12334.0,2020-04-06,16.2
+1772,Nuble,16.0,El Carmen,16104.0,12334.0,2020-04-08,24.3
+1773,Nuble,16.0,El Carmen,16104.0,12334.0,2020-04-10,24.3
+1774,Nuble,16.0,El Carmen,16104.0,12334.0,2020-04-13,24.3
+1775,Nuble,16.0,El Carmen,16104.0,12334.0,2020-04-15,24.3
+1776,Nuble,16.0,Ninhue,16204.0,5414.0,2020-03-30,0.0
+1777,Nuble,16.0,Ninhue,16204.0,5414.0,2020-04-01,0.0
+1778,Nuble,16.0,Ninhue,16204.0,5414.0,2020-04-03,0.0
+1779,Nuble,16.0,Ninhue,16204.0,5414.0,2020-04-06,0.0
+1780,Nuble,16.0,Ninhue,16204.0,5414.0,2020-04-08,18.5
+1781,Nuble,16.0,Ninhue,16204.0,5414.0,2020-04-10,18.5
+1782,Nuble,16.0,Ninhue,16204.0,5414.0,2020-04-13,36.9
+1783,Nuble,16.0,Ninhue,16204.0,5414.0,2020-04-15,55.4
+1784,Nuble,16.0,Niquen,16303.0,11567.0,2020-03-30,0.0
+1785,Nuble,16.0,Niquen,16303.0,11567.0,2020-04-01,0.0
+1786,Nuble,16.0,Niquen,16303.0,11567.0,2020-04-03,0.0
+1787,Nuble,16.0,Niquen,16303.0,11567.0,2020-04-06,0.0
+1788,Nuble,16.0,Niquen,16303.0,11567.0,2020-04-08,17.3
+1789,Nuble,16.0,Niquen,16303.0,11567.0,2020-04-10,17.3
+1790,Nuble,16.0,Niquen,16303.0,11567.0,2020-04-13,17.3
+1791,Nuble,16.0,Niquen,16303.0,11567.0,2020-04-15,17.3
+1792,Nuble,16.0,Pemuco,16105.0,8639.0,2020-03-30,0.0
+1793,Nuble,16.0,Pemuco,16105.0,8639.0,2020-04-01,0.0
+1794,Nuble,16.0,Pemuco,16105.0,8639.0,2020-04-03,0.0
+1795,Nuble,16.0,Pemuco,16105.0,8639.0,2020-04-06,23.2
+1796,Nuble,16.0,Pemuco,16105.0,8639.0,2020-04-08,34.7
+1797,Nuble,16.0,Pemuco,16105.0,8639.0,2020-04-10,34.7
+1798,Nuble,16.0,Pemuco,16105.0,8639.0,2020-04-13,46.3
+1799,Nuble,16.0,Pemuco,16105.0,8639.0,2020-04-15,46.3
+1800,Nuble,16.0,Pinto,16106.0,11880.0,2020-03-30,8.4
+1801,Nuble,16.0,Pinto,16106.0,11880.0,2020-04-01,16.8
+1802,Nuble,16.0,Pinto,16106.0,11880.0,2020-04-03,50.5
+1803,Nuble,16.0,Pinto,16106.0,11880.0,2020-04-06,75.8
+1804,Nuble,16.0,Pinto,16106.0,11880.0,2020-04-08,84.2
+1805,Nuble,16.0,Pinto,16106.0,11880.0,2020-04-10,84.2
+1806,Nuble,16.0,Pinto,16106.0,11880.0,2020-04-13,84.2
+1807,Nuble,16.0,Pinto,16106.0,11880.0,2020-04-15,84.2
+1808,Nuble,16.0,Portezuelo,16205.0,4940.0,2020-03-30,0.0
+1809,Nuble,16.0,Portezuelo,16205.0,4940.0,2020-04-01,0.0
+1810,Nuble,16.0,Portezuelo,16205.0,4940.0,2020-04-03,0.0
+1811,Nuble,16.0,Portezuelo,16205.0,4940.0,2020-04-06,0.0
+1812,Nuble,16.0,Portezuelo,16205.0,4940.0,2020-04-08,0.0
+1813,Nuble,16.0,Portezuelo,16205.0,4940.0,2020-04-10,0.0
+1814,Nuble,16.0,Portezuelo,16205.0,4940.0,2020-04-13,20.2
+1815,Nuble,16.0,Portezuelo,16205.0,4940.0,2020-04-15,0.0
+1816,Nuble,16.0,Quillon,16107.0,18777.0,2020-03-30,21.3
+1817,Nuble,16.0,Quillon,16107.0,18777.0,2020-04-01,37.3
+1818,Nuble,16.0,Quillon,16107.0,18777.0,2020-04-03,79.9
+1819,Nuble,16.0,Quillon,16107.0,18777.0,2020-04-06,90.5
+1820,Nuble,16.0,Quillon,16107.0,18777.0,2020-04-08,117.2
+1821,Nuble,16.0,Quillon,16107.0,18777.0,2020-04-10,117.2
+1822,Nuble,16.0,Quillon,16107.0,18777.0,2020-04-13,122.5
+1823,Nuble,16.0,Quillon,16107.0,18777.0,2020-04-15,122.5
+1824,Nuble,16.0,Quirihue,16201.0,12192.0,2020-03-30,0.0
+1825,Nuble,16.0,Quirihue,16201.0,12192.0,2020-04-01,0.0
+1826,Nuble,16.0,Quirihue,16201.0,12192.0,2020-04-03,0.0
+1827,Nuble,16.0,Quirihue,16201.0,12192.0,2020-04-06,8.2
+1828,Nuble,16.0,Quirihue,16201.0,12192.0,2020-04-08,32.8
+1829,Nuble,16.0,Quirihue,16201.0,12192.0,2020-04-10,32.8
+1830,Nuble,16.0,Quirihue,16201.0,12192.0,2020-04-13,32.8
+1831,Nuble,16.0,Quirihue,16201.0,12192.0,2020-04-15,16.4
+1832,Nuble,16.0,Ranquil,16206.0,6261.0,2020-03-30,0.0
+1833,Nuble,16.0,Ranquil,16206.0,6261.0,2020-04-01,16.0
+1834,Nuble,16.0,Ranquil,16206.0,6261.0,2020-04-03,79.9
+1835,Nuble,16.0,Ranquil,16206.0,6261.0,2020-04-06,111.8
+1836,Nuble,16.0,Ranquil,16206.0,6261.0,2020-04-08,143.7
+1837,Nuble,16.0,Ranquil,16206.0,6261.0,2020-04-10,143.7
+1838,Nuble,16.0,Ranquil,16206.0,6261.0,2020-04-13,159.7
+1839,Nuble,16.0,Ranquil,16206.0,6261.0,2020-04-15,143.7
+1840,Nuble,16.0,San Carlos,16301.0,56252.0,2020-03-30,14.2
+1841,Nuble,16.0,San Carlos,16301.0,56252.0,2020-04-01,23.1
+1842,Nuble,16.0,San Carlos,16301.0,56252.0,2020-04-03,23.1
+1843,Nuble,16.0,San Carlos,16301.0,56252.0,2020-04-06,33.8
+1844,Nuble,16.0,San Carlos,16301.0,56252.0,2020-04-08,49.8
+1845,Nuble,16.0,San Carlos,16301.0,56252.0,2020-04-10,51.6
+1846,Nuble,16.0,San Carlos,16301.0,56252.0,2020-04-13,55.1
+1847,Nuble,16.0,San Carlos,16301.0,56252.0,2020-04-15,55.1
+1848,Nuble,16.0,San Fabian,16304.0,4654.0,2020-03-30,64.5
+1849,Nuble,16.0,San Fabian,16304.0,4654.0,2020-04-01,107.4
+1850,Nuble,16.0,San Fabian,16304.0,4654.0,2020-04-03,128.9
+1851,Nuble,16.0,San Fabian,16304.0,4654.0,2020-04-06,128.9
+1852,Nuble,16.0,San Fabian,16304.0,4654.0,2020-04-08,128.9
+1853,Nuble,16.0,San Fabian,16304.0,4654.0,2020-04-10,128.9
+1854,Nuble,16.0,San Fabian,16304.0,4654.0,2020-04-13,128.9
+1855,Nuble,16.0,San Fabian,16304.0,4654.0,2020-04-15,128.9
+1856,Nuble,16.0,San Ignacio,16108.0,16624.0,2020-03-30,6.0
+1857,Nuble,16.0,San Ignacio,16108.0,16624.0,2020-04-01,6.0
+1858,Nuble,16.0,San Ignacio,16108.0,16624.0,2020-04-03,18.0
+1859,Nuble,16.0,San Ignacio,16108.0,16624.0,2020-04-06,36.1
+1860,Nuble,16.0,San Ignacio,16108.0,16624.0,2020-04-08,36.1
+1861,Nuble,16.0,San Ignacio,16108.0,16624.0,2020-04-10,36.1
+1862,Nuble,16.0,San Ignacio,16108.0,16624.0,2020-04-13,36.1
+1863,Nuble,16.0,San Ignacio,16108.0,16624.0,2020-04-15,24.1
+1864,Nuble,16.0,San Nicolas,16305.0,12172.0,2020-03-30,8.2
+1865,Nuble,16.0,San Nicolas,16305.0,12172.0,2020-04-01,16.4
+1866,Nuble,16.0,San Nicolas,16305.0,12172.0,2020-04-03,32.9
+1867,Nuble,16.0,San Nicolas,16305.0,12172.0,2020-04-06,82.2
+1868,Nuble,16.0,San Nicolas,16305.0,12172.0,2020-04-08,90.4
+1869,Nuble,16.0,San Nicolas,16305.0,12172.0,2020-04-10,98.6
+1870,Nuble,16.0,San Nicolas,16305.0,12172.0,2020-04-13,98.6
+1871,Nuble,16.0,San Nicolas,16305.0,12172.0,2020-04-15,115.0
+1872,Nuble,16.0,Treguaco,16207.0,5696.0,2020-03-30,0.0
+1873,Nuble,16.0,Treguaco,16207.0,5696.0,2020-04-01,0.0
+1874,Nuble,16.0,Treguaco,16207.0,5696.0,2020-04-03,0.0
+1875,Nuble,16.0,Treguaco,16207.0,5696.0,2020-04-06,0.0
+1876,Nuble,16.0,Treguaco,16207.0,5696.0,2020-04-08,0.0
+1877,Nuble,16.0,Treguaco,16207.0,5696.0,2020-04-10,0.0
+1878,Nuble,16.0,Treguaco,16207.0,5696.0,2020-04-13,0.0
+1879,Nuble,16.0,Treguaco,16207.0,5696.0,2020-04-15,0.0
+1880,Nuble,16.0,Yungay,16109.0,18596.0,2020-03-30,5.4
+1881,Nuble,16.0,Yungay,16109.0,18596.0,2020-04-01,37.6
+1882,Nuble,16.0,Yungay,16109.0,18596.0,2020-04-03,53.8
+1883,Nuble,16.0,Yungay,16109.0,18596.0,2020-04-06,139.8
+1884,Nuble,16.0,Yungay,16109.0,18596.0,2020-04-08,199.0
+1885,Nuble,16.0,Yungay,16109.0,18596.0,2020-04-10,204.3
+1886,Nuble,16.0,Yungay,16109.0,18596.0,2020-04-13,225.9
+1887,Nuble,16.0,Yungay,16109.0,18596.0,2020-04-15,225.9
+1888,Nuble,16.0,Total,,511551.0,2020-03-30,31.7
+1889,Nuble,16.0,Total,,511551.0,2020-04-01,50.6
+1890,Nuble,16.0,Total,,511551.0,2020-04-03,72.3
+1891,Nuble,16.0,Total,,511551.0,2020-04-06,92.7
+1892,Nuble,16.0,Total,,511551.0,2020-04-08,109.7
+1893,Nuble,16.0,Total,,511551.0,2020-04-10,115.1
+1894,Nuble,16.0,Total,,511551.0,2020-04-13,120.8
+1895,Nuble,16.0,Total,,511551.0,2020-04-15,123.9
+1896,,,,,,2020-03-30,
+1897,,,,,,2020-04-01,
+1898,,,,,,2020-04-03,
+1899,,,,,,2020-04-06,
+1900,,,,,,2020-04-08,
+1901,,,,,,2020-04-10,
+1902,,,,,,2020-04-13,
+1903,,,,,,2020-04-15,
+1904,Biobio,8.0,Alto Biobio,8314.0,6775.0,2020-03-30,14.8
+1905,Biobio,8.0,Alto Biobio,8314.0,6775.0,2020-04-01,0.0
+1906,Biobio,8.0,Alto Biobio,8314.0,6775.0,2020-04-03,0.0
+1907,Biobio,8.0,Alto Biobio,8314.0,6775.0,2020-04-06,0.0
+1908,Biobio,8.0,Alto Biobio,8314.0,6775.0,2020-04-08,0.0
+1909,Biobio,8.0,Alto Biobio,8314.0,6775.0,2020-04-10,0.0
+1910,Biobio,8.0,Alto Biobio,8314.0,6775.0,2020-04-13,0.0
+1911,Biobio,8.0,Alto Biobio,8314.0,6775.0,2020-04-15,14.8
+1912,Biobio,8.0,Antuco,8302.0,4306.0,2020-03-30,0.0
+1913,Biobio,8.0,Antuco,8302.0,4306.0,2020-04-01,0.0
+1914,Biobio,8.0,Antuco,8302.0,4306.0,2020-04-03,0.0
+1915,Biobio,8.0,Antuco,8302.0,4306.0,2020-04-06,0.0
+1916,Biobio,8.0,Antuco,8302.0,4306.0,2020-04-08,0.0
+1917,Biobio,8.0,Antuco,8302.0,4306.0,2020-04-10,0.0
+1918,Biobio,8.0,Antuco,8302.0,4306.0,2020-04-13,0.0
+1919,Biobio,8.0,Antuco,8302.0,4306.0,2020-04-15,0.0
+1920,Biobio,8.0,Arauco,8202.0,38679.0,2020-03-30,5.2
+1921,Biobio,8.0,Arauco,8202.0,38679.0,2020-04-01,12.9
+1922,Biobio,8.0,Arauco,8202.0,38679.0,2020-04-03,15.5
+1923,Biobio,8.0,Arauco,8202.0,38679.0,2020-04-06,15.5
+1924,Biobio,8.0,Arauco,8202.0,38679.0,2020-04-08,15.5
+1925,Biobio,8.0,Arauco,8202.0,38679.0,2020-04-10,15.5
+1926,Biobio,8.0,Arauco,8202.0,38679.0,2020-04-13,15.5
+1927,Biobio,8.0,Arauco,8202.0,38679.0,2020-04-15,12.9
+1928,Biobio,8.0,Cabrero,8303.0,30725.0,2020-03-30,0.0
+1929,Biobio,8.0,Cabrero,8303.0,30725.0,2020-04-01,0.0
+1930,Biobio,8.0,Cabrero,8303.0,30725.0,2020-04-03,3.3
+1931,Biobio,8.0,Cabrero,8303.0,30725.0,2020-04-06,3.3
+1932,Biobio,8.0,Cabrero,8303.0,30725.0,2020-04-08,3.3
+1933,Biobio,8.0,Cabrero,8303.0,30725.0,2020-04-10,13.0
+1934,Biobio,8.0,Cabrero,8303.0,30725.0,2020-04-13,22.8
+1935,Biobio,8.0,Cabrero,8303.0,30725.0,2020-04-15,26.0
+1936,Biobio,8.0,Canete,8203.0,37003.0,2020-03-30,0.0
+1937,Biobio,8.0,Canete,8203.0,37003.0,2020-04-01,0.0
+1938,Biobio,8.0,Canete,8203.0,37003.0,2020-04-03,0.0
+1939,Biobio,8.0,Canete,8203.0,37003.0,2020-04-06,0.0
+1940,Biobio,8.0,Canete,8203.0,37003.0,2020-04-08,0.0
+1941,Biobio,8.0,Canete,8203.0,37003.0,2020-04-10,0.0
+1942,Biobio,8.0,Canete,8203.0,37003.0,2020-04-13,0.0
+1943,Biobio,8.0,Canete,8203.0,37003.0,2020-04-15,0.0
+1944,Biobio,8.0,Chiguayante,8103.0,91180.0,2020-03-30,6.6
+1945,Biobio,8.0,Chiguayante,8103.0,91180.0,2020-04-01,19.7
+1946,Biobio,8.0,Chiguayante,8103.0,91180.0,2020-04-03,28.5
+1947,Biobio,8.0,Chiguayante,8103.0,91180.0,2020-04-06,35.1
+1948,Biobio,8.0,Chiguayante,8103.0,91180.0,2020-04-08,38.4
+1949,Biobio,8.0,Chiguayante,8103.0,91180.0,2020-04-10,43.9
+1950,Biobio,8.0,Chiguayante,8103.0,91180.0,2020-04-13,45.0
+1951,Biobio,8.0,Chiguayante,8103.0,91180.0,2020-04-15,40.6
+1952,Biobio,8.0,Concepcion,8101.0,238092.0,2020-03-30,11.8
+1953,Biobio,8.0,Concepcion,8101.0,238092.0,2020-04-01,19.7
+1954,Biobio,8.0,Concepcion,8101.0,238092.0,2020-04-03,22.3
+1955,Biobio,8.0,Concepcion,8101.0,238092.0,2020-04-06,29.4
+1956,Biobio,8.0,Concepcion,8101.0,238092.0,2020-04-08,30.7
+1957,Biobio,8.0,Concepcion,8101.0,238092.0,2020-04-10,34.0
+1958,Biobio,8.0,Concepcion,8101.0,238092.0,2020-04-13,38.6
+1959,Biobio,8.0,Concepcion,8101.0,238092.0,2020-04-15,54.6
+1960,Biobio,8.0,Contulmo,8204.0,6330.0,2020-03-30,0.0
+1961,Biobio,8.0,Contulmo,8204.0,6330.0,2020-04-01,0.0
+1962,Biobio,8.0,Contulmo,8204.0,6330.0,2020-04-03,0.0
+1963,Biobio,8.0,Contulmo,8204.0,6330.0,2020-04-06,0.0
+1964,Biobio,8.0,Contulmo,8204.0,6330.0,2020-04-08,0.0
+1965,Biobio,8.0,Contulmo,8204.0,6330.0,2020-04-10,0.0
+1966,Biobio,8.0,Contulmo,8204.0,6330.0,2020-04-13,0.0
+1967,Biobio,8.0,Contulmo,8204.0,6330.0,2020-04-15,0.0
+1968,Biobio,8.0,Coronel,8102.0,125829.0,2020-03-30,0.0
+1969,Biobio,8.0,Coronel,8102.0,125829.0,2020-04-01,8.7
+1970,Biobio,8.0,Coronel,8102.0,125829.0,2020-04-03,9.5
+1971,Biobio,8.0,Coronel,8102.0,125829.0,2020-04-06,10.3
+1972,Biobio,8.0,Coronel,8102.0,125829.0,2020-04-08,14.3
+1973,Biobio,8.0,Coronel,8102.0,125829.0,2020-04-10,14.3
+1974,Biobio,8.0,Coronel,8102.0,125829.0,2020-04-13,14.3
+1975,Biobio,8.0,Coronel,8102.0,125829.0,2020-04-15,11.9
+1976,Biobio,8.0,Curanilahue,8205.0,33892.0,2020-03-30,0.0
+1977,Biobio,8.0,Curanilahue,8205.0,33892.0,2020-04-01,3.0
+1978,Biobio,8.0,Curanilahue,8205.0,33892.0,2020-04-03,3.0
+1979,Biobio,8.0,Curanilahue,8205.0,33892.0,2020-04-06,3.0
+1980,Biobio,8.0,Curanilahue,8205.0,33892.0,2020-04-08,3.0
+1981,Biobio,8.0,Curanilahue,8205.0,33892.0,2020-04-10,3.0
+1982,Biobio,8.0,Curanilahue,8205.0,33892.0,2020-04-13,3.0
+1983,Biobio,8.0,Curanilahue,8205.0,33892.0,2020-04-15,3.0
+1984,Biobio,8.0,Florida,8104.0,11841.0,2020-03-30,0.0
+1985,Biobio,8.0,Florida,8104.0,11841.0,2020-04-01,0.0
+1986,Biobio,8.0,Florida,8104.0,11841.0,2020-04-03,16.9
+1987,Biobio,8.0,Florida,8104.0,11841.0,2020-04-06,16.9
+1988,Biobio,8.0,Florida,8104.0,11841.0,2020-04-08,16.9
+1989,Biobio,8.0,Florida,8104.0,11841.0,2020-04-10,16.9
+1990,Biobio,8.0,Florida,8104.0,11841.0,2020-04-13,16.9
+1991,Biobio,8.0,Florida,8104.0,11841.0,2020-04-15,33.8
+1992,Biobio,8.0,Hualpen,8112.0,97273.0,2020-03-30,1.0
+1993,Biobio,8.0,Hualpen,8112.0,97273.0,2020-04-01,40.1
+1994,Biobio,8.0,Hualpen,8112.0,97273.0,2020-04-03,51.4
+1995,Biobio,8.0,Hualpen,8112.0,97273.0,2020-04-06,68.9
+1996,Biobio,8.0,Hualpen,8112.0,97273.0,2020-04-08,76.1
+1997,Biobio,8.0,Hualpen,8112.0,97273.0,2020-04-10,85.3
+1998,Biobio,8.0,Hualpen,8112.0,97273.0,2020-04-13,95.6
+1999,Biobio,8.0,Hualpen,8112.0,97273.0,2020-04-15,66.8
+2000,Biobio,8.0,Hualqui,8105.0,26201.0,2020-03-30,7.6
+2001,Biobio,8.0,Hualqui,8105.0,26201.0,2020-04-01,11.4
+2002,Biobio,8.0,Hualqui,8105.0,26201.0,2020-04-03,11.4
+2003,Biobio,8.0,Hualqui,8105.0,26201.0,2020-04-06,26.7
+2004,Biobio,8.0,Hualqui,8105.0,26201.0,2020-04-08,26.7
+2005,Biobio,8.0,Hualqui,8105.0,26201.0,2020-04-10,26.7
+2006,Biobio,8.0,Hualqui,8105.0,26201.0,2020-04-13,30.5
+2007,Biobio,8.0,Hualqui,8105.0,26201.0,2020-04-15,34.3
+2008,Biobio,8.0,Laja,8304.0,23873.0,2020-03-30,4.2
+2009,Biobio,8.0,Laja,8304.0,23873.0,2020-04-01,8.4
+2010,Biobio,8.0,Laja,8304.0,23873.0,2020-04-03,12.6
+2011,Biobio,8.0,Laja,8304.0,23873.0,2020-04-06,20.9
+2012,Biobio,8.0,Laja,8304.0,23873.0,2020-04-08,20.9
+2013,Biobio,8.0,Laja,8304.0,23873.0,2020-04-10,20.9
+2014,Biobio,8.0,Laja,8304.0,23873.0,2020-04-13,25.1
+2015,Biobio,8.0,Laja,8304.0,23873.0,2020-04-15,29.3
+2016,Biobio,8.0,Lebu,8201.0,27100.0,2020-03-30,0.0
+2017,Biobio,8.0,Lebu,8201.0,27100.0,2020-04-01,0.0
+2018,Biobio,8.0,Lebu,8201.0,27100.0,2020-04-03,0.0
+2019,Biobio,8.0,Lebu,8201.0,27100.0,2020-04-06,0.0
+2020,Biobio,8.0,Lebu,8201.0,27100.0,2020-04-08,0.0
+2021,Biobio,8.0,Lebu,8201.0,27100.0,2020-04-10,0.0
+2022,Biobio,8.0,Lebu,8201.0,27100.0,2020-04-13,0.0
+2023,Biobio,8.0,Lebu,8201.0,27100.0,2020-04-15,0.0
+2024,Biobio,8.0,Los Alamos,8206.0,22524.0,2020-03-30,0.0
+2025,Biobio,8.0,Los Alamos,8206.0,22524.0,2020-04-01,0.0
+2026,Biobio,8.0,Los Alamos,8206.0,22524.0,2020-04-03,0.0
+2027,Biobio,8.0,Los Alamos,8206.0,22524.0,2020-04-06,0.0
+2028,Biobio,8.0,Los Alamos,8206.0,22524.0,2020-04-08,0.0
+2029,Biobio,8.0,Los Alamos,8206.0,22524.0,2020-04-10,0.0
+2030,Biobio,8.0,Los Alamos,8206.0,22524.0,2020-04-13,0.0
+2031,Biobio,8.0,Los Alamos,8206.0,22524.0,2020-04-15,0.0
+2032,Biobio,8.0,Los Angeles,8301.0,218515.0,2020-03-30,5.0
+2033,Biobio,8.0,Los Angeles,8301.0,218515.0,2020-04-01,6.9
+2034,Biobio,8.0,Los Angeles,8301.0,218515.0,2020-04-03,5.5
+2035,Biobio,8.0,Los Angeles,8301.0,218515.0,2020-04-06,7.8
+2036,Biobio,8.0,Los Angeles,8301.0,218515.0,2020-04-08,10.1
+2037,Biobio,8.0,Los Angeles,8301.0,218515.0,2020-04-10,10.1
+2038,Biobio,8.0,Los Angeles,8301.0,218515.0,2020-04-13,10.1
+2039,Biobio,8.0,Los Angeles,8301.0,218515.0,2020-04-15,11.4
+2040,Biobio,8.0,Lota,8106.0,45750.0,2020-03-30,0.0
+2041,Biobio,8.0,Lota,8106.0,45750.0,2020-04-01,0.0
+2042,Biobio,8.0,Lota,8106.0,45750.0,2020-04-03,2.2
+2043,Biobio,8.0,Lota,8106.0,45750.0,2020-04-06,2.2
+2044,Biobio,8.0,Lota,8106.0,45750.0,2020-04-08,2.2
+2045,Biobio,8.0,Lota,8106.0,45750.0,2020-04-10,2.2
+2046,Biobio,8.0,Lota,8106.0,45750.0,2020-04-13,2.2
+2047,Biobio,8.0,Lota,8106.0,45750.0,2020-04-15,2.2
+2048,Biobio,8.0,Mulchen,8305.0,31041.0,2020-03-30,6.4
+2049,Biobio,8.0,Mulchen,8305.0,31041.0,2020-04-01,16.1
+2050,Biobio,8.0,Mulchen,8305.0,31041.0,2020-04-03,16.1
+2051,Biobio,8.0,Mulchen,8305.0,31041.0,2020-04-06,16.1
+2052,Biobio,8.0,Mulchen,8305.0,31041.0,2020-04-08,16.1
+2053,Biobio,8.0,Mulchen,8305.0,31041.0,2020-04-10,16.1
+2054,Biobio,8.0,Mulchen,8305.0,31041.0,2020-04-13,16.1
+2055,Biobio,8.0,Mulchen,8305.0,31041.0,2020-04-15,16.1
+2056,Biobio,8.0,Nacimiento,8306.0,27944.0,2020-03-30,3.6
+2057,Biobio,8.0,Nacimiento,8306.0,27944.0,2020-04-01,7.2
+2058,Biobio,8.0,Nacimiento,8306.0,27944.0,2020-04-03,7.2
+2059,Biobio,8.0,Nacimiento,8306.0,27944.0,2020-04-06,7.2
+2060,Biobio,8.0,Nacimiento,8306.0,27944.0,2020-04-08,14.3
+2061,Biobio,8.0,Nacimiento,8306.0,27944.0,2020-04-10,17.9
+2062,Biobio,8.0,Nacimiento,8306.0,27944.0,2020-04-13,32.2
+2063,Biobio,8.0,Nacimiento,8306.0,27944.0,2020-04-15,35.8
+2064,Biobio,8.0,Negrete,8307.0,10429.0,2020-03-30,0.0
+2065,Biobio,8.0,Negrete,8307.0,10429.0,2020-04-01,0.0
+2066,Biobio,8.0,Negrete,8307.0,10429.0,2020-04-03,0.0
+2067,Biobio,8.0,Negrete,8307.0,10429.0,2020-04-06,9.6
+2068,Biobio,8.0,Negrete,8307.0,10429.0,2020-04-08,19.2
+2069,Biobio,8.0,Negrete,8307.0,10429.0,2020-04-10,19.2
+2070,Biobio,8.0,Negrete,8307.0,10429.0,2020-04-13,19.2
+2071,Biobio,8.0,Negrete,8307.0,10429.0,2020-04-15,19.2
+2072,Biobio,8.0,Penco,8107.0,49865.0,2020-03-30,0.0
+2073,Biobio,8.0,Penco,8107.0,49865.0,2020-04-01,2.0
+2074,Biobio,8.0,Penco,8107.0,49865.0,2020-04-03,6.0
+2075,Biobio,8.0,Penco,8107.0,49865.0,2020-04-06,10.0
+2076,Biobio,8.0,Penco,8107.0,49865.0,2020-04-08,10.0
+2077,Biobio,8.0,Penco,8107.0,49865.0,2020-04-10,10.0
+2078,Biobio,8.0,Penco,8107.0,49865.0,2020-04-13,18.0
+2079,Biobio,8.0,Penco,8107.0,49865.0,2020-04-15,22.1
+2080,Biobio,8.0,Quilaco,8308.0,4179.0,2020-03-30,0.0
+2081,Biobio,8.0,Quilaco,8308.0,4179.0,2020-04-01,0.0
+2082,Biobio,8.0,Quilaco,8308.0,4179.0,2020-04-03,0.0
+2083,Biobio,8.0,Quilaco,8308.0,4179.0,2020-04-06,0.0
+2084,Biobio,8.0,Quilaco,8308.0,4179.0,2020-04-08,0.0
+2085,Biobio,8.0,Quilaco,8308.0,4179.0,2020-04-10,0.0
+2086,Biobio,8.0,Quilaco,8308.0,4179.0,2020-04-13,0.0
+2087,Biobio,8.0,Quilaco,8308.0,4179.0,2020-04-15,0.0
+2088,Biobio,8.0,Quilleco,8309.0,10032.0,2020-03-30,0.0
+2089,Biobio,8.0,Quilleco,8309.0,10032.0,2020-04-01,0.0
+2090,Biobio,8.0,Quilleco,8309.0,10032.0,2020-04-03,0.0
+2091,Biobio,8.0,Quilleco,8309.0,10032.0,2020-04-06,0.0
+2092,Biobio,8.0,Quilleco,8309.0,10032.0,2020-04-08,0.0
+2093,Biobio,8.0,Quilleco,8309.0,10032.0,2020-04-10,0.0
+2094,Biobio,8.0,Quilleco,8309.0,10032.0,2020-04-13,0.0
+2095,Biobio,8.0,Quilleco,8309.0,10032.0,2020-04-15,0.0
+2096,Biobio,8.0,San Pedro de la Paz,8108.0,145906.0,2020-03-30,12.3
+2097,Biobio,8.0,San Pedro de la Paz,8108.0,145906.0,2020-04-01,34.3
+2098,Biobio,8.0,San Pedro de la Paz,8108.0,145906.0,2020-04-03,38.4
+2099,Biobio,8.0,San Pedro de la Paz,8108.0,145906.0,2020-04-06,43.2
+2100,Biobio,8.0,San Pedro de la Paz,8108.0,145906.0,2020-04-08,48.7
+2101,Biobio,8.0,San Pedro de la Paz,8108.0,145906.0,2020-04-10,50.0
+2102,Biobio,8.0,San Pedro de la Paz,8108.0,145906.0,2020-04-13,54.8
+2103,Biobio,8.0,San Pedro de la Paz,8108.0,145906.0,2020-04-15,51.4
+2104,Biobio,8.0,San Rosendo,8310.0,3611.0,2020-03-30,0.0
+2105,Biobio,8.0,San Rosendo,8310.0,3611.0,2020-04-01,0.0
+2106,Biobio,8.0,San Rosendo,8310.0,3611.0,2020-04-03,0.0
+2107,Biobio,8.0,San Rosendo,8310.0,3611.0,2020-04-06,0.0
+2108,Biobio,8.0,San Rosendo,8310.0,3611.0,2020-04-08,0.0
+2109,Biobio,8.0,San Rosendo,8310.0,3611.0,2020-04-10,0.0
+2110,Biobio,8.0,San Rosendo,8310.0,3611.0,2020-04-13,0.0
+2111,Biobio,8.0,San Rosendo,8310.0,3611.0,2020-04-15,0.0
+2112,Biobio,8.0,Santa Barbara,8311.0,14592.0,2020-03-30,6.9
+2113,Biobio,8.0,Santa Barbara,8311.0,14592.0,2020-04-01,13.7
+2114,Biobio,8.0,Santa Barbara,8311.0,14592.0,2020-04-03,13.7
+2115,Biobio,8.0,Santa Barbara,8311.0,14592.0,2020-04-06,13.7
+2116,Biobio,8.0,Santa Barbara,8311.0,14592.0,2020-04-08,13.7
+2117,Biobio,8.0,Santa Barbara,8311.0,14592.0,2020-04-10,13.7
+2118,Biobio,8.0,Santa Barbara,8311.0,14592.0,2020-04-13,13.7
+2119,Biobio,8.0,Santa Barbara,8311.0,14592.0,2020-04-15,20.6
+2120,Biobio,8.0,Santa Juana,8109.0,14779.0,2020-03-30,0.0
+2121,Biobio,8.0,Santa Juana,8109.0,14779.0,2020-04-01,0.0
+2122,Biobio,8.0,Santa Juana,8109.0,14779.0,2020-04-03,0.0
+2123,Biobio,8.0,Santa Juana,8109.0,14779.0,2020-04-06,0.0
+2124,Biobio,8.0,Santa Juana,8109.0,14779.0,2020-04-08,0.0
+2125,Biobio,8.0,Santa Juana,8109.0,14779.0,2020-04-10,0.0
+2126,Biobio,8.0,Santa Juana,8109.0,14779.0,2020-04-13,0.0
+2127,Biobio,8.0,Santa Juana,8109.0,14779.0,2020-04-15,0.0
+2128,Biobio,8.0,Talcahuano,8110.0,158345.0,2020-03-30,1.3
+2129,Biobio,8.0,Talcahuano,8110.0,158345.0,2020-04-01,14.5
+2130,Biobio,8.0,Talcahuano,8110.0,158345.0,2020-04-03,18.3
+2131,Biobio,8.0,Talcahuano,8110.0,158345.0,2020-04-06,22.7
+2132,Biobio,8.0,Talcahuano,8110.0,158345.0,2020-04-08,28.4
+2133,Biobio,8.0,Talcahuano,8110.0,158345.0,2020-04-10,29.1
+2134,Biobio,8.0,Talcahuano,8110.0,158345.0,2020-04-13,35.4
+2135,Biobio,8.0,Talcahuano,8110.0,158345.0,2020-04-15,51.8
+2136,Biobio,8.0,Tirua,8207.0,11019.0,2020-03-30,0.0
+2137,Biobio,8.0,Tirua,8207.0,11019.0,2020-04-01,0.0
+2138,Biobio,8.0,Tirua,8207.0,11019.0,2020-04-03,18.2
+2139,Biobio,8.0,Tirua,8207.0,11019.0,2020-04-06,36.3
+2140,Biobio,8.0,Tirua,8207.0,11019.0,2020-04-08,36.3
+2141,Biobio,8.0,Tirua,8207.0,11019.0,2020-04-10,36.3
+2142,Biobio,8.0,Tirua,8207.0,11019.0,2020-04-13,36.3
+2143,Biobio,8.0,Tirua,8207.0,11019.0,2020-04-15,36.3
+2144,Biobio,8.0,Tome,8111.0,58729.0,2020-03-30,6.8
+2145,Biobio,8.0,Tome,8111.0,58729.0,2020-04-01,10.2
+2146,Biobio,8.0,Tome,8111.0,58729.0,2020-04-03,15.3
+2147,Biobio,8.0,Tome,8111.0,58729.0,2020-04-06,42.6
+2148,Biobio,8.0,Tome,8111.0,58729.0,2020-04-08,51.1
+2149,Biobio,8.0,Tome,8111.0,58729.0,2020-04-10,51.1
+2150,Biobio,8.0,Tome,8111.0,58729.0,2020-04-13,63.0
+2151,Biobio,8.0,Tome,8111.0,58729.0,2020-04-15,63.0
+2152,Biobio,8.0,Tucapel,8312.0,15205.0,2020-03-30,0.0
+2153,Biobio,8.0,Tucapel,8312.0,15205.0,2020-04-01,0.0
+2154,Biobio,8.0,Tucapel,8312.0,15205.0,2020-04-03,0.0
+2155,Biobio,8.0,Tucapel,8312.0,15205.0,2020-04-06,0.0
+2156,Biobio,8.0,Tucapel,8312.0,15205.0,2020-04-08,6.6
+2157,Biobio,8.0,Tucapel,8312.0,15205.0,2020-04-10,6.6
+2158,Biobio,8.0,Tucapel,8312.0,15205.0,2020-04-13,6.6
+2159,Biobio,8.0,Tucapel,8312.0,15205.0,2020-04-15,0.0
+2160,Biobio,8.0,Yumbel,8313.0,22132.0,2020-03-30,22.6
+2161,Biobio,8.0,Yumbel,8313.0,22132.0,2020-04-01,22.6
+2162,Biobio,8.0,Yumbel,8313.0,22132.0,2020-04-03,22.6
+2163,Biobio,8.0,Yumbel,8313.0,22132.0,2020-04-06,22.6
+2164,Biobio,8.0,Yumbel,8313.0,22132.0,2020-04-08,22.6
+2165,Biobio,8.0,Yumbel,8313.0,22132.0,2020-04-10,22.6
+2166,Biobio,8.0,Yumbel,8313.0,22132.0,2020-04-13,22.6
+2167,Biobio,8.0,Yumbel,8313.0,22132.0,2020-04-15,22.6
+2168,Biobio,8.0,Total,,1663696.0,2020-03-30,5.1
+2169,Biobio,8.0,Total,,1663696.0,2020-04-01,14.4
+2170,Biobio,8.0,Total,,1663696.0,2020-04-03,18.2
+2171,Biobio,8.0,Total,,1663696.0,2020-04-06,23.0
+2172,Biobio,8.0,Total,,1663696.0,2020-04-08,26.4
+2173,Biobio,8.0,Total,,1663696.0,2020-04-10,28.5
+2174,Biobio,8.0,Total,,1663696.0,2020-04-13,30.8
+2175,Biobio,8.0,Total,,1663696.0,2020-04-15,32.6
+2176,,,,,,2020-03-30,
+2177,,,,,,2020-04-01,
+2178,,,,,,2020-04-03,
+2179,,,,,,2020-04-06,
+2180,,,,,,2020-04-08,
+2181,,,,,,2020-04-10,
+2182,,,,,,2020-04-13,
+2183,,,,,,2020-04-15,
+2184,La Araucania,9.0,Angol,9201.0,56058.0,2020-03-30,12.5
+2185,La Araucania,9.0,Angol,9201.0,56058.0,2020-04-01,23.2
+2186,La Araucania,9.0,Angol,9201.0,56058.0,2020-04-03,21.4
+2187,La Araucania,9.0,Angol,9201.0,56058.0,2020-04-06,26.8
+2188,La Araucania,9.0,Angol,9201.0,56058.0,2020-04-08,41.0
+2189,La Araucania,9.0,Angol,9201.0,56058.0,2020-04-10,42.8
+2190,La Araucania,9.0,Angol,9201.0,56058.0,2020-04-13,49.9
+2191,La Araucania,9.0,Angol,9201.0,56058.0,2020-04-15,64.2
+2192,La Araucania,9.0,Carahue,9102.0,25486.0,2020-03-30,3.9
+2193,La Araucania,9.0,Carahue,9102.0,25486.0,2020-04-01,7.8
+2194,La Araucania,9.0,Carahue,9102.0,25486.0,2020-04-03,7.8
+2195,La Araucania,9.0,Carahue,9102.0,25486.0,2020-04-06,11.8
+2196,La Araucania,9.0,Carahue,9102.0,25486.0,2020-04-08,23.5
+2197,La Araucania,9.0,Carahue,9102.0,25486.0,2020-04-10,23.5
+2198,La Araucania,9.0,Carahue,9102.0,25486.0,2020-04-13,70.6
+2199,La Araucania,9.0,Carahue,9102.0,25486.0,2020-04-15,78.5
+2200,La Araucania,9.0,Cholchol,9121.0,12341.0,2020-03-30,8.1
+2201,La Araucania,9.0,Cholchol,9121.0,12341.0,2020-04-01,16.2
+2202,La Araucania,9.0,Cholchol,9121.0,12341.0,2020-04-03,24.3
+2203,La Araucania,9.0,Cholchol,9121.0,12341.0,2020-04-06,16.2
+2204,La Araucania,9.0,Cholchol,9121.0,12341.0,2020-04-08,24.3
+2205,La Araucania,9.0,Cholchol,9121.0,12341.0,2020-04-10,32.4
+2206,La Araucania,9.0,Cholchol,9121.0,12341.0,2020-04-13,32.4
+2207,La Araucania,9.0,Cholchol,9121.0,12341.0,2020-04-15,32.4
+2208,La Araucania,9.0,Collipulli,9202.0,26148.0,2020-03-30,0.0
+2209,La Araucania,9.0,Collipulli,9202.0,26148.0,2020-04-01,0.0
+2210,La Araucania,9.0,Collipulli,9202.0,26148.0,2020-04-03,0.0
+2211,La Araucania,9.0,Collipulli,9202.0,26148.0,2020-04-06,0.0
+2212,La Araucania,9.0,Collipulli,9202.0,26148.0,2020-04-08,0.0
+2213,La Araucania,9.0,Collipulli,9202.0,26148.0,2020-04-10,0.0
+2214,La Araucania,9.0,Collipulli,9202.0,26148.0,2020-04-13,3.8
+2215,La Araucania,9.0,Collipulli,9202.0,26148.0,2020-04-15,3.8
+2216,La Araucania,9.0,Cunco,9103.0,18055.0,2020-03-30,0.0
+2217,La Araucania,9.0,Cunco,9103.0,18055.0,2020-04-01,0.0
+2218,La Araucania,9.0,Cunco,9103.0,18055.0,2020-04-03,0.0
+2219,La Araucania,9.0,Cunco,9103.0,18055.0,2020-04-06,27.7
+2220,La Araucania,9.0,Cunco,9103.0,18055.0,2020-04-08,27.7
+2221,La Araucania,9.0,Cunco,9103.0,18055.0,2020-04-10,27.7
+2222,La Araucania,9.0,Cunco,9103.0,18055.0,2020-04-13,27.7
+2223,La Araucania,9.0,Cunco,9103.0,18055.0,2020-04-15,33.2
+2224,La Araucania,9.0,Curacautin,9203.0,18178.0,2020-03-30,0.0
+2225,La Araucania,9.0,Curacautin,9203.0,18178.0,2020-04-01,0.0
+2226,La Araucania,9.0,Curacautin,9203.0,18178.0,2020-04-03,0.0
+2227,La Araucania,9.0,Curacautin,9203.0,18178.0,2020-04-06,11.0
+2228,La Araucania,9.0,Curacautin,9203.0,18178.0,2020-04-08,16.5
+2229,La Araucania,9.0,Curacautin,9203.0,18178.0,2020-04-10,27.5
+2230,La Araucania,9.0,Curacautin,9203.0,18178.0,2020-04-13,27.5
+2231,La Araucania,9.0,Curacautin,9203.0,18178.0,2020-04-15,27.5
+2232,La Araucania,9.0,Curarrehue,9104.0,7802.0,2020-03-30,12.8
+2233,La Araucania,9.0,Curarrehue,9104.0,7802.0,2020-04-01,25.6
+2234,La Araucania,9.0,Curarrehue,9104.0,7802.0,2020-04-03,38.5
+2235,La Araucania,9.0,Curarrehue,9104.0,7802.0,2020-04-06,38.5
+2236,La Araucania,9.0,Curarrehue,9104.0,7802.0,2020-04-08,51.3
+2237,La Araucania,9.0,Curarrehue,9104.0,7802.0,2020-04-10,51.3
+2238,La Araucania,9.0,Curarrehue,9104.0,7802.0,2020-04-13,51.3
+2239,La Araucania,9.0,Curarrehue,9104.0,7802.0,2020-04-15,51.3
+2240,La Araucania,9.0,Ercilla,9204.0,8458.0,2020-03-30,0.0
+2241,La Araucania,9.0,Ercilla,9204.0,8458.0,2020-04-01,0.0
+2242,La Araucania,9.0,Ercilla,9204.0,8458.0,2020-04-03,0.0
+2243,La Araucania,9.0,Ercilla,9204.0,8458.0,2020-04-06,0.0
+2244,La Araucania,9.0,Ercilla,9204.0,8458.0,2020-04-08,23.6
+2245,La Araucania,9.0,Ercilla,9204.0,8458.0,2020-04-10,23.6
+2246,La Araucania,9.0,Ercilla,9204.0,8458.0,2020-04-13,35.5
+2247,La Araucania,9.0,Ercilla,9204.0,8458.0,2020-04-15,35.5
+2248,La Araucania,9.0,Freire,9105.0,25446.0,2020-03-30,7.9
+2249,La Araucania,9.0,Freire,9105.0,25446.0,2020-04-01,7.9
+2250,La Araucania,9.0,Freire,9105.0,25446.0,2020-04-03,19.6
+2251,La Araucania,9.0,Freire,9105.0,25446.0,2020-04-06,19.6
+2252,La Araucania,9.0,Freire,9105.0,25446.0,2020-04-08,19.6
+2253,La Araucania,9.0,Freire,9105.0,25446.0,2020-04-10,19.6
+2254,La Araucania,9.0,Freire,9105.0,25446.0,2020-04-13,19.6
+2255,La Araucania,9.0,Freire,9105.0,25446.0,2020-04-15,19.6
+2256,La Araucania,9.0,Galvarino,9106.0,12633.0,2020-03-30,7.9
+2257,La Araucania,9.0,Galvarino,9106.0,12633.0,2020-04-01,39.6
+2258,La Araucania,9.0,Galvarino,9106.0,12633.0,2020-04-03,7.9
+2259,La Araucania,9.0,Galvarino,9106.0,12633.0,2020-04-06,15.8
+2260,La Araucania,9.0,Galvarino,9106.0,12633.0,2020-04-08,15.8
+2261,La Araucania,9.0,Galvarino,9106.0,12633.0,2020-04-10,15.8
+2262,La Araucania,9.0,Galvarino,9106.0,12633.0,2020-04-13,15.8
+2263,La Araucania,9.0,Galvarino,9106.0,12633.0,2020-04-15,15.8
+2264,La Araucania,9.0,Gorbea,9107.0,15148.0,2020-03-30,26.4
+2265,La Araucania,9.0,Gorbea,9107.0,15148.0,2020-04-01,19.6
+2266,La Araucania,9.0,Gorbea,9107.0,15148.0,2020-04-03,46.2
+2267,La Araucania,9.0,Gorbea,9107.0,15148.0,2020-04-06,66.0
+2268,La Araucania,9.0,Gorbea,9107.0,15148.0,2020-04-08,66.0
+2269,La Araucania,9.0,Gorbea,9107.0,15148.0,2020-04-10,66.0
+2270,La Araucania,9.0,Gorbea,9107.0,15148.0,2020-04-13,66.0
+2271,La Araucania,9.0,Gorbea,9107.0,15148.0,2020-04-15,66.0
+2272,La Araucania,9.0,Lautaro,9108.0,40746.0,2020-03-30,4.9
+2273,La Araucania,9.0,Lautaro,9108.0,40746.0,2020-04-01,8.1
+2274,La Araucania,9.0,Lautaro,9108.0,40746.0,2020-04-03,24.5
+2275,La Araucania,9.0,Lautaro,9108.0,40746.0,2020-04-06,39.3
+2276,La Araucania,9.0,Lautaro,9108.0,40746.0,2020-04-08,46.6
+2277,La Araucania,9.0,Lautaro,9108.0,40746.0,2020-04-10,46.6
+2278,La Araucania,9.0,Lautaro,9108.0,40746.0,2020-04-13,54.0
+2279,La Araucania,9.0,Lautaro,9108.0,40746.0,2020-04-15,61.4
+2280,La Araucania,9.0,Loncoche,9109.0,24739.0,2020-03-30,8.1
+2281,La Araucania,9.0,Loncoche,9109.0,24739.0,2020-04-01,0.0
+2282,La Araucania,9.0,Loncoche,9109.0,24739.0,2020-04-03,16.2
+2283,La Araucania,9.0,Loncoche,9109.0,24739.0,2020-04-06,16.2
+2284,La Araucania,9.0,Loncoche,9109.0,24739.0,2020-04-08,24.3
+2285,La Araucania,9.0,Loncoche,9109.0,24739.0,2020-04-10,24.3
+2286,La Araucania,9.0,Loncoche,9109.0,24739.0,2020-04-13,24.3
+2287,La Araucania,9.0,Loncoche,9109.0,24739.0,2020-04-15,36.4
+2288,La Araucania,9.0,Lonquimay,9205.0,11049.0,2020-03-30,0.0
+2289,La Araucania,9.0,Lonquimay,9205.0,11049.0,2020-04-01,7.9
+2290,La Araucania,9.0,Lonquimay,9205.0,11049.0,2020-04-03,0.0
+2291,La Araucania,9.0,Lonquimay,9205.0,11049.0,2020-04-06,0.0
+2292,La Araucania,9.0,Lonquimay,9205.0,11049.0,2020-04-08,0.0
+2293,La Araucania,9.0,Lonquimay,9205.0,11049.0,2020-04-10,0.0
+2294,La Araucania,9.0,Lonquimay,9205.0,11049.0,2020-04-13,0.0
+2295,La Araucania,9.0,Lonquimay,9205.0,11049.0,2020-04-15,0.0
+2296,La Araucania,9.0,Los Sauces,9206.0,7517.0,2020-03-30,0.0
+2297,La Araucania,9.0,Los Sauces,9206.0,7517.0,2020-04-01,0.0
+2298,La Araucania,9.0,Los Sauces,9206.0,7517.0,2020-04-03,0.0
+2299,La Araucania,9.0,Los Sauces,9206.0,7517.0,2020-04-06,0.0
+2300,La Araucania,9.0,Los Sauces,9206.0,7517.0,2020-04-08,0.0
+2301,La Araucania,9.0,Los Sauces,9206.0,7517.0,2020-04-10,0.0
+2302,La Araucania,9.0,Los Sauces,9206.0,7517.0,2020-04-13,0.0
+2303,La Araucania,9.0,Los Sauces,9206.0,7517.0,2020-04-15,0.0
+2304,La Araucania,9.0,Lumaco,9207.0,10050.0,2020-03-30,0.0
+2305,La Araucania,9.0,Lumaco,9207.0,10050.0,2020-04-01,0.0
+2306,La Araucania,9.0,Lumaco,9207.0,10050.0,2020-04-03,0.0
+2307,La Araucania,9.0,Lumaco,9207.0,10050.0,2020-04-06,0.0
+2308,La Araucania,9.0,Lumaco,9207.0,10050.0,2020-04-08,0.0
+2309,La Araucania,9.0,Lumaco,9207.0,10050.0,2020-04-10,0.0
+2310,La Araucania,9.0,Lumaco,9207.0,10050.0,2020-04-13,0.0
+2311,La Araucania,9.0,Lumaco,9207.0,10050.0,2020-04-15,0.0
+2312,La Araucania,9.0,Melipeuco,9110.0,6265.0,2020-03-30,0.0
+2313,La Araucania,9.0,Melipeuco,9110.0,6265.0,2020-04-01,0.0
+2314,La Araucania,9.0,Melipeuco,9110.0,6265.0,2020-04-03,0.0
+2315,La Araucania,9.0,Melipeuco,9110.0,6265.0,2020-04-06,0.0
+2316,La Araucania,9.0,Melipeuco,9110.0,6265.0,2020-04-08,0.0
+2317,La Araucania,9.0,Melipeuco,9110.0,6265.0,2020-04-10,0.0
+2318,La Araucania,9.0,Melipeuco,9110.0,6265.0,2020-04-13,0.0
+2319,La Araucania,9.0,Melipeuco,9110.0,6265.0,2020-04-15,0.0
+2320,La Araucania,9.0,Nueva Imperial,9111.0,33777.0,2020-03-30,0.0
+2321,La Araucania,9.0,Nueva Imperial,9111.0,33777.0,2020-04-01,17.1
+2322,La Araucania,9.0,Nueva Imperial,9111.0,33777.0,2020-04-03,32.6
+2323,La Araucania,9.0,Nueva Imperial,9111.0,33777.0,2020-04-06,47.4
+2324,La Araucania,9.0,Nueva Imperial,9111.0,33777.0,2020-04-08,59.2
+2325,La Araucania,9.0,Nueva Imperial,9111.0,33777.0,2020-04-10,65.1
+2326,La Araucania,9.0,Nueva Imperial,9111.0,33777.0,2020-04-13,74.0
+2327,La Araucania,9.0,Nueva Imperial,9111.0,33777.0,2020-04-15,94.7
+2328,La Araucania,9.0,Padre Las Casas,9112.0,82110.0,2020-03-30,11.0
+2329,La Araucania,9.0,Padre Las Casas,9112.0,82110.0,2020-04-01,13.8
+2330,La Araucania,9.0,Padre Las Casas,9112.0,82110.0,2020-04-03,40.2
+2331,La Araucania,9.0,Padre Las Casas,9112.0,82110.0,2020-04-06,53.6
+2332,La Araucania,9.0,Padre Las Casas,9112.0,82110.0,2020-04-08,59.7
+2333,La Araucania,9.0,Padre Las Casas,9112.0,82110.0,2020-04-10,59.7
+2334,La Araucania,9.0,Padre Las Casas,9112.0,82110.0,2020-04-13,59.7
+2335,La Araucania,9.0,Padre Las Casas,9112.0,82110.0,2020-04-15,63.3
+2336,La Araucania,9.0,Perquenco,9113.0,7223.0,2020-03-30,13.8
+2337,La Araucania,9.0,Perquenco,9113.0,7223.0,2020-04-01,23.0
+2338,La Araucania,9.0,Perquenco,9113.0,7223.0,2020-04-03,27.7
+2339,La Araucania,9.0,Perquenco,9113.0,7223.0,2020-04-06,13.8
+2340,La Araucania,9.0,Perquenco,9113.0,7223.0,2020-04-08,27.7
+2341,La Araucania,9.0,Perquenco,9113.0,7223.0,2020-04-10,27.7
+2342,La Araucania,9.0,Perquenco,9113.0,7223.0,2020-04-13,41.5
+2343,La Araucania,9.0,Perquenco,9113.0,7223.0,2020-04-15,41.5
+2344,La Araucania,9.0,Pitrufquen,9114.0,26096.0,2020-03-30,15.3
+2345,La Araucania,9.0,Pitrufquen,9114.0,26096.0,2020-04-01,10.1
+2346,La Araucania,9.0,Pitrufquen,9114.0,26096.0,2020-04-03,26.8
+2347,La Araucania,9.0,Pitrufquen,9114.0,26096.0,2020-04-06,42.2
+2348,La Araucania,9.0,Pitrufquen,9114.0,26096.0,2020-04-08,46.0
+2349,La Araucania,9.0,Pitrufquen,9114.0,26096.0,2020-04-10,46.0
+2350,La Araucania,9.0,Pitrufquen,9114.0,26096.0,2020-04-13,61.3
+2351,La Araucania,9.0,Pitrufquen,9114.0,26096.0,2020-04-15,69.0
+2352,La Araucania,9.0,Pucon,9115.0,29782.0,2020-03-30,10.1
+2353,La Araucania,9.0,Pucon,9115.0,29782.0,2020-04-01,8.2
+2354,La Araucania,9.0,Pucon,9115.0,29782.0,2020-04-03,10.1
+2355,La Araucania,9.0,Pucon,9115.0,29782.0,2020-04-06,13.4
+2356,La Araucania,9.0,Pucon,9115.0,29782.0,2020-04-08,16.8
+2357,La Araucania,9.0,Pucon,9115.0,29782.0,2020-04-10,16.8
+2358,La Araucania,9.0,Pucon,9115.0,29782.0,2020-04-13,16.8
+2359,La Araucania,9.0,Pucon,9115.0,29782.0,2020-04-15,20.1
+2360,La Araucania,9.0,Puren,9208.0,12188.0,2020-03-30,0.0
+2361,La Araucania,9.0,Puren,9208.0,12188.0,2020-04-01,5.9
+2362,La Araucania,9.0,Puren,9208.0,12188.0,2020-04-03,8.2
+2363,La Araucania,9.0,Puren,9208.0,12188.0,2020-04-06,16.4
+2364,La Araucania,9.0,Puren,9208.0,12188.0,2020-04-08,16.4
+2365,La Araucania,9.0,Puren,9208.0,12188.0,2020-04-10,16.4
+2366,La Araucania,9.0,Puren,9208.0,12188.0,2020-04-13,16.4
+2367,La Araucania,9.0,Puren,9208.0,12188.0,2020-04-15,16.4
+2368,La Araucania,9.0,Renaico,9209.0,10833.0,2020-03-30,0.0
+2369,La Araucania,9.0,Renaico,9209.0,10833.0,2020-04-01,0.0
+2370,La Araucania,9.0,Renaico,9209.0,10833.0,2020-04-03,0.0
+2371,La Araucania,9.0,Renaico,9209.0,10833.0,2020-04-06,0.0
+2372,La Araucania,9.0,Renaico,9209.0,10833.0,2020-04-08,9.2
+2373,La Araucania,9.0,Renaico,9209.0,10833.0,2020-04-10,9.2
+2374,La Araucania,9.0,Renaico,9209.0,10833.0,2020-04-13,18.5
+2375,La Araucania,9.0,Renaico,9209.0,10833.0,2020-04-15,18.5
+2376,La Araucania,9.0,Saavedra,9116.0,12793.0,2020-03-30,0.0
+2377,La Araucania,9.0,Saavedra,9116.0,12793.0,2020-04-01,0.0
+2378,La Araucania,9.0,Saavedra,9116.0,12793.0,2020-04-03,7.8
+2379,La Araucania,9.0,Saavedra,9116.0,12793.0,2020-04-06,7.8
+2380,La Araucania,9.0,Saavedra,9116.0,12793.0,2020-04-08,7.8
+2381,La Araucania,9.0,Saavedra,9116.0,12793.0,2020-04-10,7.8
+2382,La Araucania,9.0,Saavedra,9116.0,12793.0,2020-04-13,7.8
+2383,La Araucania,9.0,Saavedra,9116.0,12793.0,2020-04-15,0.0
+2384,La Araucania,9.0,Temuco,9101.0,302931.0,2020-03-30,50.8
+2385,La Araucania,9.0,Temuco,9101.0,302931.0,2020-04-01,74.3
+2386,La Araucania,9.0,Temuco,9101.0,302931.0,2020-04-03,96.7
+2387,La Araucania,9.0,Temuco,9101.0,302931.0,2020-04-06,120.5
+2388,La Araucania,9.0,Temuco,9101.0,302931.0,2020-04-08,134.4
+2389,La Araucania,9.0,Temuco,9101.0,302931.0,2020-04-10,146.2
+2390,La Araucania,9.0,Temuco,9101.0,302931.0,2020-04-13,155.5
+2391,La Araucania,9.0,Temuco,9101.0,302931.0,2020-04-15,167.0
+2392,La Araucania,9.0,Teodoro Schmidt,9117.0,15786.0,2020-03-30,0.0
+2393,La Araucania,9.0,Teodoro Schmidt,9117.0,15786.0,2020-04-01,25.3
+2394,La Araucania,9.0,Teodoro Schmidt,9117.0,15786.0,2020-04-03,12.7
+2395,La Araucania,9.0,Teodoro Schmidt,9117.0,15786.0,2020-04-06,19.0
+2396,La Araucania,9.0,Teodoro Schmidt,9117.0,15786.0,2020-04-08,19.0
+2397,La Araucania,9.0,Teodoro Schmidt,9117.0,15786.0,2020-04-10,25.3
+2398,La Araucania,9.0,Teodoro Schmidt,9117.0,15786.0,2020-04-13,31.7
+2399,La Araucania,9.0,Teodoro Schmidt,9117.0,15786.0,2020-04-15,31.7
+2400,La Araucania,9.0,Tolten,9118.0,10055.0,2020-03-30,9.9
+2401,La Araucania,9.0,Tolten,9118.0,10055.0,2020-04-01,29.8
+2402,La Araucania,9.0,Tolten,9118.0,10055.0,2020-04-03,39.8
+2403,La Araucania,9.0,Tolten,9118.0,10055.0,2020-04-06,49.7
+2404,La Araucania,9.0,Tolten,9118.0,10055.0,2020-04-08,69.6
+2405,La Araucania,9.0,Tolten,9118.0,10055.0,2020-04-10,69.6
+2406,La Araucania,9.0,Tolten,9118.0,10055.0,2020-04-13,69.6
+2407,La Araucania,9.0,Tolten,9118.0,10055.0,2020-04-15,59.7
+2408,La Araucania,9.0,Traiguen,9210.0,19314.0,2020-03-30,0.0
+2409,La Araucania,9.0,Traiguen,9210.0,19314.0,2020-04-01,0.0
+2410,La Araucania,9.0,Traiguen,9210.0,19314.0,2020-04-03,0.0
+2411,La Araucania,9.0,Traiguen,9210.0,19314.0,2020-04-06,0.0
+2412,La Araucania,9.0,Traiguen,9210.0,19314.0,2020-04-08,0.0
+2413,La Araucania,9.0,Traiguen,9210.0,19314.0,2020-04-10,5.2
+2414,La Araucania,9.0,Traiguen,9210.0,19314.0,2020-04-13,10.4
+2415,La Araucania,9.0,Traiguen,9210.0,19314.0,2020-04-15,10.4
+2416,La Araucania,9.0,Victoria,9211.0,35467.0,2020-03-30,14.1
+2417,La Araucania,9.0,Victoria,9211.0,35467.0,2020-04-01,19.7
+2418,La Araucania,9.0,Victoria,9211.0,35467.0,2020-04-03,31.0
+2419,La Araucania,9.0,Victoria,9211.0,35467.0,2020-04-06,33.8
+2420,La Araucania,9.0,Victoria,9211.0,35467.0,2020-04-08,42.3
+2421,La Araucania,9.0,Victoria,9211.0,35467.0,2020-04-10,42.3
+2422,La Araucania,9.0,Victoria,9211.0,35467.0,2020-04-13,42.3
+2423,La Araucania,9.0,Victoria,9211.0,35467.0,2020-04-15,36.7
+2424,La Araucania,9.0,Vilcun,9119.0,30766.0,2020-03-30,13.0
+2425,La Araucania,9.0,Vilcun,9119.0,30766.0,2020-04-01,16.3
+2426,La Araucania,9.0,Vilcun,9119.0,30766.0,2020-04-03,35.8
+2427,La Araucania,9.0,Vilcun,9119.0,30766.0,2020-04-06,58.5
+2428,La Araucania,9.0,Vilcun,9119.0,30766.0,2020-04-08,65.0
+2429,La Araucania,9.0,Vilcun,9119.0,30766.0,2020-04-10,65.0
+2430,La Araucania,9.0,Vilcun,9119.0,30766.0,2020-04-13,78.0
+2431,La Araucania,9.0,Vilcun,9119.0,30766.0,2020-04-15,87.8
+2432,La Araucania,9.0,Villarrica,9120.0,59103.0,2020-03-30,1.7
+2433,La Araucania,9.0,Villarrica,9120.0,59103.0,2020-04-01,6.8
+2434,La Araucania,9.0,Villarrica,9120.0,59103.0,2020-04-03,10.2
+2435,La Araucania,9.0,Villarrica,9120.0,59103.0,2020-04-06,18.6
+2436,La Araucania,9.0,Villarrica,9120.0,59103.0,2020-04-08,25.4
+2437,La Araucania,9.0,Villarrica,9120.0,59103.0,2020-04-10,25.4
+2438,La Araucania,9.0,Villarrica,9120.0,59103.0,2020-04-13,30.5
+2439,La Araucania,9.0,Villarrica,9120.0,59103.0,2020-04-15,32.1
+2440,La Araucania,9.0,Total,,1014343.0,2020-03-30,20.0
+2441,La Araucania,9.0,Total,,1014343.0,2020-04-01,33.8
+2442,La Araucania,9.0,Total,,1014343.0,2020-04-03,42.6
+2443,La Araucania,9.0,Total,,1014343.0,2020-04-06,55.4
+2444,La Araucania,9.0,Total,,1014343.0,2020-04-08,66.0
+2445,La Araucania,9.0,Total,,1014343.0,2020-04-10,70.2
+2446,La Araucania,9.0,Total,,1014343.0,2020-04-13,78.4
+2447,La Araucania,9.0,Total,,1014343.0,2020-04-15,81.4
+2448,,,,,,2020-03-30,
+2449,,,,,,2020-04-01,
+2450,,,,,,2020-04-03,
+2451,,,,,,2020-04-06,
+2452,,,,,,2020-04-08,
+2453,,,,,,2020-04-10,
+2454,,,,,,2020-04-13,
+2455,,,,,,2020-04-15,
+2456,Los Rios,14.0,Corral,14102.0,5447.0,2020-03-30,0.0
+2457,Los Rios,14.0,Corral,14102.0,5447.0,2020-04-01,0.0
+2458,Los Rios,14.0,Corral,14102.0,5447.0,2020-04-03,0.0
+2459,Los Rios,14.0,Corral,14102.0,5447.0,2020-04-06,0.0
+2460,Los Rios,14.0,Corral,14102.0,5447.0,2020-04-08,0.0
+2461,Los Rios,14.0,Corral,14102.0,5447.0,2020-04-10,0.0
+2462,Los Rios,14.0,Corral,14102.0,5447.0,2020-04-13,0.0
+2463,Los Rios,14.0,Corral,14102.0,5447.0,2020-04-15,18.4
+2464,Los Rios,14.0,Futrono,14202.0,15261.0,2020-03-30,0.0
+2465,Los Rios,14.0,Futrono,14202.0,15261.0,2020-04-01,13.1
+2466,Los Rios,14.0,Futrono,14202.0,15261.0,2020-04-03,13.1
+2467,Los Rios,14.0,Futrono,14202.0,15261.0,2020-04-06,32.8
+2468,Los Rios,14.0,Futrono,14202.0,15261.0,2020-04-08,32.8
+2469,Los Rios,14.0,Futrono,14202.0,15261.0,2020-04-10,32.8
+2470,Los Rios,14.0,Futrono,14202.0,15261.0,2020-04-13,32.8
+2471,Los Rios,14.0,Futrono,14202.0,15261.0,2020-04-15,32.8
+2472,Los Rios,14.0,La Union,14201.0,39538.0,2020-03-30,2.5
+2473,Los Rios,14.0,La Union,14201.0,39538.0,2020-04-01,22.8
+2474,Los Rios,14.0,La Union,14201.0,39538.0,2020-04-03,25.3
+2475,Los Rios,14.0,La Union,14201.0,39538.0,2020-04-06,43.0
+2476,Los Rios,14.0,La Union,14201.0,39538.0,2020-04-08,45.5
+2477,Los Rios,14.0,La Union,14201.0,39538.0,2020-04-10,45.5
+2478,Los Rios,14.0,La Union,14201.0,39538.0,2020-04-13,45.5
+2479,Los Rios,14.0,La Union,14201.0,39538.0,2020-04-15,58.2
+2480,Los Rios,14.0,Lago Ranco,14203.0,10292.0,2020-03-30,0.0
+2481,Los Rios,14.0,Lago Ranco,14203.0,10292.0,2020-04-01,9.7
+2482,Los Rios,14.0,Lago Ranco,14203.0,10292.0,2020-04-03,9.7
+2483,Los Rios,14.0,Lago Ranco,14203.0,10292.0,2020-04-06,19.4
+2484,Los Rios,14.0,Lago Ranco,14203.0,10292.0,2020-04-08,19.4
+2485,Los Rios,14.0,Lago Ranco,14203.0,10292.0,2020-04-10,19.4
+2486,Los Rios,14.0,Lago Ranco,14203.0,10292.0,2020-04-13,19.4
+2487,Los Rios,14.0,Lago Ranco,14203.0,10292.0,2020-04-15,19.4
+2488,Los Rios,14.0,Lanco,14103.0,17652.0,2020-03-30,0.0
+2489,Los Rios,14.0,Lanco,14103.0,17652.0,2020-04-01,5.7
+2490,Los Rios,14.0,Lanco,14103.0,17652.0,2020-04-03,5.7
+2491,Los Rios,14.0,Lanco,14103.0,17652.0,2020-04-06,11.3
+2492,Los Rios,14.0,Lanco,14103.0,17652.0,2020-04-08,11.3
+2493,Los Rios,14.0,Lanco,14103.0,17652.0,2020-04-10,11.3
+2494,Los Rios,14.0,Lanco,14103.0,17652.0,2020-04-13,11.3
+2495,Los Rios,14.0,Lanco,14103.0,17652.0,2020-04-15,22.7
+2496,Los Rios,14.0,Los Lagos,14104.0,20518.0,2020-03-30,0.0
+2497,Los Rios,14.0,Los Lagos,14104.0,20518.0,2020-04-01,0.0
+2498,Los Rios,14.0,Los Lagos,14104.0,20518.0,2020-04-03,0.0
+2499,Los Rios,14.0,Los Lagos,14104.0,20518.0,2020-04-06,0.0
+2500,Los Rios,14.0,Los Lagos,14104.0,20518.0,2020-04-08,0.0
+2501,Los Rios,14.0,Los Lagos,14104.0,20518.0,2020-04-10,0.0
+2502,Los Rios,14.0,Los Lagos,14104.0,20518.0,2020-04-13,0.0
+2503,Los Rios,14.0,Los Lagos,14104.0,20518.0,2020-04-15,0.0
+2504,Los Rios,14.0,Mafil,14105.0,7389.0,2020-03-30,13.5
+2505,Los Rios,14.0,Mafil,14105.0,7389.0,2020-04-01,13.5
+2506,Los Rios,14.0,Mafil,14105.0,7389.0,2020-04-03,13.5
+2507,Los Rios,14.0,Mafil,14105.0,7389.0,2020-04-06,13.5
+2508,Los Rios,14.0,Mafil,14105.0,7389.0,2020-04-08,13.5
+2509,Los Rios,14.0,Mafil,14105.0,7389.0,2020-04-10,13.5
+2510,Los Rios,14.0,Mafil,14105.0,7389.0,2020-04-13,13.5
+2511,Los Rios,14.0,Mafil,14105.0,7389.0,2020-04-15,13.5
+2512,Los Rios,14.0,Mariquina,14106.0,23250.0,2020-03-30,0.0
+2513,Los Rios,14.0,Mariquina,14106.0,23250.0,2020-04-01,8.6
+2514,Los Rios,14.0,Mariquina,14106.0,23250.0,2020-04-03,12.9
+2515,Los Rios,14.0,Mariquina,14106.0,23250.0,2020-04-06,25.8
+2516,Los Rios,14.0,Mariquina,14106.0,23250.0,2020-04-08,34.4
+2517,Los Rios,14.0,Mariquina,14106.0,23250.0,2020-04-10,34.4
+2518,Los Rios,14.0,Mariquina,14106.0,23250.0,2020-04-13,34.4
+2519,Los Rios,14.0,Mariquina,14106.0,23250.0,2020-04-15,38.7
+2520,Los Rios,14.0,Paillaco,14107.0,20798.0,2020-03-30,0.0
+2521,Los Rios,14.0,Paillaco,14107.0,20798.0,2020-04-01,4.8
+2522,Los Rios,14.0,Paillaco,14107.0,20798.0,2020-04-03,4.8
+2523,Los Rios,14.0,Paillaco,14107.0,20798.0,2020-04-06,4.8
+2524,Los Rios,14.0,Paillaco,14107.0,20798.0,2020-04-08,4.8
+2525,Los Rios,14.0,Paillaco,14107.0,20798.0,2020-04-10,4.8
+2526,Los Rios,14.0,Paillaco,14107.0,20798.0,2020-04-13,4.8
+2527,Los Rios,14.0,Paillaco,14107.0,20798.0,2020-04-15,4.8
+2528,Los Rios,14.0,Panguipulli,14108.0,35991.0,2020-03-30,0.0
+2529,Los Rios,14.0,Panguipulli,14108.0,35991.0,2020-04-01,0.0
+2530,Los Rios,14.0,Panguipulli,14108.0,35991.0,2020-04-03,0.0
+2531,Los Rios,14.0,Panguipulli,14108.0,35991.0,2020-04-06,0.0
+2532,Los Rios,14.0,Panguipulli,14108.0,35991.0,2020-04-08,0.0
+2533,Los Rios,14.0,Panguipulli,14108.0,35991.0,2020-04-10,0.0
+2534,Los Rios,14.0,Panguipulli,14108.0,35991.0,2020-04-13,5.6
+2535,Los Rios,14.0,Panguipulli,14108.0,35991.0,2020-04-15,0.0
+2536,Los Rios,14.0,Rio Bueno,14204.0,32925.0,2020-03-30,6.1
+2537,Los Rios,14.0,Rio Bueno,14204.0,32925.0,2020-04-01,6.1
+2538,Los Rios,14.0,Rio Bueno,14204.0,32925.0,2020-04-03,6.1
+2539,Los Rios,14.0,Rio Bueno,14204.0,32925.0,2020-04-06,15.2
+2540,Los Rios,14.0,Rio Bueno,14204.0,32925.0,2020-04-08,15.2
+2541,Los Rios,14.0,Rio Bueno,14204.0,32925.0,2020-04-10,15.2
+2542,Los Rios,14.0,Rio Bueno,14204.0,32925.0,2020-04-13,30.4
+2543,Los Rios,14.0,Rio Bueno,14204.0,32925.0,2020-04-15,21.3
+2544,Los Rios,14.0,Valdivia,14101.0,176774.0,2020-03-30,6.8
+2545,Los Rios,14.0,Valdivia,14101.0,176774.0,2020-04-01,25.5
+2546,Los Rios,14.0,Valdivia,14101.0,176774.0,2020-04-03,26.6
+2547,Los Rios,14.0,Valdivia,14101.0,176774.0,2020-04-06,36.8
+2548,Los Rios,14.0,Valdivia,14101.0,176774.0,2020-04-08,40.7
+2549,Los Rios,14.0,Valdivia,14101.0,176774.0,2020-04-10,46.4
+2550,Los Rios,14.0,Valdivia,14101.0,176774.0,2020-04-13,49.8
+2551,Los Rios,14.0,Valdivia,14101.0,176774.0,2020-04-15,54.9
+2552,Los Rios,14.0,Total,,405835.0,2020-03-30,3.9
+2553,Los Rios,14.0,Total,,405835.0,2020-04-01,15.8
+2554,Los Rios,14.0,Total,,405835.0,2020-04-03,19.2
+2555,Los Rios,14.0,Total,,405835.0,2020-04-06,25.6
+2556,Los Rios,14.0,Total,,405835.0,2020-04-08,28.1
+2557,Los Rios,14.0,Total,,405835.0,2020-04-10,30.6
+2558,Los Rios,14.0,Total,,405835.0,2020-04-13,34.0
+2559,Los Rios,14.0,Total,,405835.0,2020-04-15,37.0
+2560,,,,,,2020-03-30,
+2561,,,,,,2020-04-01,
+2562,,,,,,2020-04-03,
+2563,,,,,,2020-04-06,
+2564,,,,,,2020-04-08,
+2565,,,,,,2020-04-10,
+2566,,,,,,2020-04-13,
+2567,,,,,,2020-04-15,
+2568,Los Lagos,10.0,Ancud,10202.0,42458.0,2020-03-30,0.0
+2569,Los Lagos,10.0,Ancud,10202.0,42458.0,2020-04-01,0.0
+2570,Los Lagos,10.0,Ancud,10202.0,42458.0,2020-04-03,0.0
+2571,Los Lagos,10.0,Ancud,10202.0,42458.0,2020-04-06,0.0
+2572,Los Lagos,10.0,Ancud,10202.0,42458.0,2020-04-08,4.7
+2573,Los Lagos,10.0,Ancud,10202.0,42458.0,2020-04-10,7.1
+2574,Los Lagos,10.0,Ancud,10202.0,42458.0,2020-04-13,7.1
+2575,Los Lagos,10.0,Ancud,10202.0,42458.0,2020-04-15,7.1
+2576,Los Lagos,10.0,Calbuco,10102.0,36744.0,2020-03-30,10.9
+2577,Los Lagos,10.0,Calbuco,10102.0,36744.0,2020-04-01,13.6
+2578,Los Lagos,10.0,Calbuco,10102.0,36744.0,2020-04-03,13.6
+2579,Los Lagos,10.0,Calbuco,10102.0,36744.0,2020-04-06,13.6
+2580,Los Lagos,10.0,Calbuco,10102.0,36744.0,2020-04-08,13.6
+2581,Los Lagos,10.0,Calbuco,10102.0,36744.0,2020-04-10,13.6
+2582,Los Lagos,10.0,Calbuco,10102.0,36744.0,2020-04-13,19.1
+2583,Los Lagos,10.0,Calbuco,10102.0,36744.0,2020-04-15,13.6
+2584,Los Lagos,10.0,Castro,10201.0,47607.0,2020-03-30,2.1
+2585,Los Lagos,10.0,Castro,10201.0,47607.0,2020-04-01,2.1
+2586,Los Lagos,10.0,Castro,10201.0,47607.0,2020-04-03,2.1
+2587,Los Lagos,10.0,Castro,10201.0,47607.0,2020-04-06,8.4
+2588,Los Lagos,10.0,Castro,10201.0,47607.0,2020-04-08,12.6
+2589,Los Lagos,10.0,Castro,10201.0,47607.0,2020-04-10,14.7
+2590,Los Lagos,10.0,Castro,10201.0,47607.0,2020-04-13,14.7
+2591,Los Lagos,10.0,Castro,10201.0,47607.0,2020-04-15,14.7
+2592,Los Lagos,10.0,Chaiten,10401.0,5020.0,2020-03-30,0.0
+2593,Los Lagos,10.0,Chaiten,10401.0,5020.0,2020-04-01,19.9
+2594,Los Lagos,10.0,Chaiten,10401.0,5020.0,2020-04-03,19.9
+2595,Los Lagos,10.0,Chaiten,10401.0,5020.0,2020-04-06,19.9
+2596,Los Lagos,10.0,Chaiten,10401.0,5020.0,2020-04-08,19.9
+2597,Los Lagos,10.0,Chaiten,10401.0,5020.0,2020-04-10,19.9
+2598,Los Lagos,10.0,Chaiten,10401.0,5020.0,2020-04-13,19.9
+2599,Los Lagos,10.0,Chaiten,10401.0,5020.0,2020-04-15,19.9
+2600,Los Lagos,10.0,Chonchi,10203.0,16013.0,2020-03-30,0.0
+2601,Los Lagos,10.0,Chonchi,10203.0,16013.0,2020-04-01,0.0
+2602,Los Lagos,10.0,Chonchi,10203.0,16013.0,2020-04-03,0.0
+2603,Los Lagos,10.0,Chonchi,10203.0,16013.0,2020-04-06,0.0
+2604,Los Lagos,10.0,Chonchi,10203.0,16013.0,2020-04-08,0.0
+2605,Los Lagos,10.0,Chonchi,10203.0,16013.0,2020-04-10,0.0
+2606,Los Lagos,10.0,Chonchi,10203.0,16013.0,2020-04-13,0.0
+2607,Los Lagos,10.0,Chonchi,10203.0,16013.0,2020-04-15,0.0
+2608,Los Lagos,10.0,Cochamo,10103.0,4006.0,2020-03-30,0.0
+2609,Los Lagos,10.0,Cochamo,10103.0,4006.0,2020-04-01,0.0
+2610,Los Lagos,10.0,Cochamo,10103.0,4006.0,2020-04-03,0.0
+2611,Los Lagos,10.0,Cochamo,10103.0,4006.0,2020-04-06,0.0
+2612,Los Lagos,10.0,Cochamo,10103.0,4006.0,2020-04-08,0.0
+2613,Los Lagos,10.0,Cochamo,10103.0,4006.0,2020-04-10,0.0
+2614,Los Lagos,10.0,Cochamo,10103.0,4006.0,2020-04-13,0.0
+2615,Los Lagos,10.0,Cochamo,10103.0,4006.0,2020-04-15,0.0
+2616,Los Lagos,10.0,Curaco de Velez,10204.0,4066.0,2020-03-30,0.0
+2617,Los Lagos,10.0,Curaco de Velez,10204.0,4066.0,2020-04-01,0.0
+2618,Los Lagos,10.0,Curaco de Velez,10204.0,4066.0,2020-04-03,0.0
+2619,Los Lagos,10.0,Curaco de Velez,10204.0,4066.0,2020-04-06,0.0
+2620,Los Lagos,10.0,Curaco de Velez,10204.0,4066.0,2020-04-08,0.0
+2621,Los Lagos,10.0,Curaco de Velez,10204.0,4066.0,2020-04-10,0.0
+2622,Los Lagos,10.0,Curaco de Velez,10204.0,4066.0,2020-04-13,0.0
+2623,Los Lagos,10.0,Curaco de Velez,10204.0,4066.0,2020-04-15,0.0
+2624,Los Lagos,10.0,Dalcahue,10205.0,15069.0,2020-03-30,0.0
+2625,Los Lagos,10.0,Dalcahue,10205.0,15069.0,2020-04-01,0.0
+2626,Los Lagos,10.0,Dalcahue,10205.0,15069.0,2020-04-03,0.0
+2627,Los Lagos,10.0,Dalcahue,10205.0,15069.0,2020-04-06,0.0
+2628,Los Lagos,10.0,Dalcahue,10205.0,15069.0,2020-04-08,0.0
+2629,Los Lagos,10.0,Dalcahue,10205.0,15069.0,2020-04-10,0.0
+2630,Los Lagos,10.0,Dalcahue,10205.0,15069.0,2020-04-13,0.0
+2631,Los Lagos,10.0,Dalcahue,10205.0,15069.0,2020-04-15,0.0
+2632,Los Lagos,10.0,Fresia,10104.0,12656.0,2020-03-30,0.0
+2633,Los Lagos,10.0,Fresia,10104.0,12656.0,2020-04-01,0.0
+2634,Los Lagos,10.0,Fresia,10104.0,12656.0,2020-04-03,0.0
+2635,Los Lagos,10.0,Fresia,10104.0,12656.0,2020-04-06,0.0
+2636,Los Lagos,10.0,Fresia,10104.0,12656.0,2020-04-08,0.0
+2637,Los Lagos,10.0,Fresia,10104.0,12656.0,2020-04-10,0.0
+2638,Los Lagos,10.0,Fresia,10104.0,12656.0,2020-04-13,0.0
+2639,Los Lagos,10.0,Fresia,10104.0,12656.0,2020-04-15,0.0
+2640,Los Lagos,10.0,Frutillar,10105.0,20223.0,2020-03-30,0.0
+2641,Los Lagos,10.0,Frutillar,10105.0,20223.0,2020-04-01,0.0
+2642,Los Lagos,10.0,Frutillar,10105.0,20223.0,2020-04-03,4.9
+2643,Los Lagos,10.0,Frutillar,10105.0,20223.0,2020-04-06,14.8
+2644,Los Lagos,10.0,Frutillar,10105.0,20223.0,2020-04-08,14.8
+2645,Los Lagos,10.0,Frutillar,10105.0,20223.0,2020-04-10,14.8
+2646,Los Lagos,10.0,Frutillar,10105.0,20223.0,2020-04-13,24.7
+2647,Los Lagos,10.0,Frutillar,10105.0,20223.0,2020-04-15,29.7
+2648,Los Lagos,10.0,Futaleufu,10402.0,2806.0,2020-03-30,0.0
+2649,Los Lagos,10.0,Futaleufu,10402.0,2806.0,2020-04-01,0.0
+2650,Los Lagos,10.0,Futaleufu,10402.0,2806.0,2020-04-03,0.0
+2651,Los Lagos,10.0,Futaleufu,10402.0,2806.0,2020-04-06,0.0
+2652,Los Lagos,10.0,Futaleufu,10402.0,2806.0,2020-04-08,0.0
+2653,Los Lagos,10.0,Futaleufu,10402.0,2806.0,2020-04-10,0.0
+2654,Los Lagos,10.0,Futaleufu,10402.0,2806.0,2020-04-13,0.0
+2655,Los Lagos,10.0,Futaleufu,10402.0,2806.0,2020-04-15,0.0
+2656,Los Lagos,10.0,Hualaihue,10403.0,9525.0,2020-03-30,10.5
+2657,Los Lagos,10.0,Hualaihue,10403.0,9525.0,2020-04-01,31.5
+2658,Los Lagos,10.0,Hualaihue,10403.0,9525.0,2020-04-03,31.5
+2659,Los Lagos,10.0,Hualaihue,10403.0,9525.0,2020-04-06,31.5
+2660,Los Lagos,10.0,Hualaihue,10403.0,9525.0,2020-04-08,31.5
+2661,Los Lagos,10.0,Hualaihue,10403.0,9525.0,2020-04-10,31.5
+2662,Los Lagos,10.0,Hualaihue,10403.0,9525.0,2020-04-13,31.5
+2663,Los Lagos,10.0,Hualaihue,10403.0,9525.0,2020-04-15,31.5
+2664,Los Lagos,10.0,Llanquihue,10107.0,18621.0,2020-03-30,0.0
+2665,Los Lagos,10.0,Llanquihue,10107.0,18621.0,2020-04-01,0.0
+2666,Los Lagos,10.0,Llanquihue,10107.0,18621.0,2020-04-03,0.0
+2667,Los Lagos,10.0,Llanquihue,10107.0,18621.0,2020-04-06,0.0
+2668,Los Lagos,10.0,Llanquihue,10107.0,18621.0,2020-04-08,0.0
+2669,Los Lagos,10.0,Llanquihue,10107.0,18621.0,2020-04-10,0.0
+2670,Los Lagos,10.0,Llanquihue,10107.0,18621.0,2020-04-13,16.1
+2671,Los Lagos,10.0,Llanquihue,10107.0,18621.0,2020-04-15,5.4
+2672,Los Lagos,10.0,Los Muermos,10106.0,17817.0,2020-03-30,5.6
+2673,Los Lagos,10.0,Los Muermos,10106.0,17817.0,2020-04-01,5.6
+2674,Los Lagos,10.0,Los Muermos,10106.0,17817.0,2020-04-03,5.6
+2675,Los Lagos,10.0,Los Muermos,10106.0,17817.0,2020-04-06,5.6
+2676,Los Lagos,10.0,Los Muermos,10106.0,17817.0,2020-04-08,5.6
+2677,Los Lagos,10.0,Los Muermos,10106.0,17817.0,2020-04-10,5.6
+2678,Los Lagos,10.0,Los Muermos,10106.0,17817.0,2020-04-13,5.6
+2679,Los Lagos,10.0,Los Muermos,10106.0,17817.0,2020-04-15,5.6
+2680,Los Lagos,10.0,Maullin,10108.0,14894.0,2020-03-30,0.0
+2681,Los Lagos,10.0,Maullin,10108.0,14894.0,2020-04-01,0.0
+2682,Los Lagos,10.0,Maullin,10108.0,14894.0,2020-04-03,0.0
+2683,Los Lagos,10.0,Maullin,10108.0,14894.0,2020-04-06,0.0
+2684,Los Lagos,10.0,Maullin,10108.0,14894.0,2020-04-08,0.0
+2685,Los Lagos,10.0,Maullin,10108.0,14894.0,2020-04-10,6.7
+2686,Los Lagos,10.0,Maullin,10108.0,14894.0,2020-04-13,6.7
+2687,Los Lagos,10.0,Maullin,10108.0,14894.0,2020-04-15,6.7
+2688,Los Lagos,10.0,Osorno,10301.0,173410.0,2020-03-30,38.1
+2689,Los Lagos,10.0,Osorno,10301.0,173410.0,2020-04-01,69.2
+2690,Los Lagos,10.0,Osorno,10301.0,173410.0,2020-04-03,94.0
+2691,Los Lagos,10.0,Osorno,10301.0,173410.0,2020-04-06,109.6
+2692,Los Lagos,10.0,Osorno,10301.0,173410.0,2020-04-08,119.4
+2693,Los Lagos,10.0,Osorno,10301.0,173410.0,2020-04-10,126.9
+2694,Los Lagos,10.0,Osorno,10301.0,173410.0,2020-04-13,133.8
+2695,Los Lagos,10.0,Osorno,10301.0,173410.0,2020-04-15,139.0
+2696,Los Lagos,10.0,Palena,10404.0,1827.0,2020-03-30,0.0
+2697,Los Lagos,10.0,Palena,10404.0,1827.0,2020-04-01,0.0
+2698,Los Lagos,10.0,Palena,10404.0,1827.0,2020-04-03,0.0
+2699,Los Lagos,10.0,Palena,10404.0,1827.0,2020-04-06,0.0
+2700,Los Lagos,10.0,Palena,10404.0,1827.0,2020-04-08,0.0
+2701,Los Lagos,10.0,Palena,10404.0,1827.0,2020-04-10,0.0
+2702,Los Lagos,10.0,Palena,10404.0,1827.0,2020-04-13,0.0
+2703,Los Lagos,10.0,Palena,10404.0,1827.0,2020-04-15,0.0
+2704,Los Lagos,10.0,Puerto Montt,10101.0,269398.0,2020-03-30,12.6
+2705,Los Lagos,10.0,Puerto Montt,10101.0,269398.0,2020-04-01,16.3
+2706,Los Lagos,10.0,Puerto Montt,10101.0,269398.0,2020-04-03,9.3
+2707,Los Lagos,10.0,Puerto Montt,10101.0,269398.0,2020-04-06,13.0
+2708,Los Lagos,10.0,Puerto Montt,10101.0,269398.0,2020-04-08,13.7
+2709,Los Lagos,10.0,Puerto Montt,10101.0,269398.0,2020-04-10,14.5
+2710,Los Lagos,10.0,Puerto Montt,10101.0,269398.0,2020-04-13,25.2
+2711,Los Lagos,10.0,Puerto Montt,10101.0,269398.0,2020-04-15,27.1
+2712,Los Lagos,10.0,Puerto Octay,10302.0,9192.0,2020-03-30,10.9
+2713,Los Lagos,10.0,Puerto Octay,10302.0,9192.0,2020-04-01,10.9
+2714,Los Lagos,10.0,Puerto Octay,10302.0,9192.0,2020-04-03,10.9
+2715,Los Lagos,10.0,Puerto Octay,10302.0,9192.0,2020-04-06,10.9
+2716,Los Lagos,10.0,Puerto Octay,10302.0,9192.0,2020-04-08,10.9
+2717,Los Lagos,10.0,Puerto Octay,10302.0,9192.0,2020-04-10,10.9
+2718,Los Lagos,10.0,Puerto Octay,10302.0,9192.0,2020-04-13,10.9
+2719,Los Lagos,10.0,Puerto Octay,10302.0,9192.0,2020-04-15,10.9
+2720,Los Lagos,10.0,Puerto Varas,10109.0,48620.0,2020-03-30,2.1
+2721,Los Lagos,10.0,Puerto Varas,10109.0,48620.0,2020-04-01,2.1
+2722,Los Lagos,10.0,Puerto Varas,10109.0,48620.0,2020-04-03,4.1
+2723,Los Lagos,10.0,Puerto Varas,10109.0,48620.0,2020-04-06,8.2
+2724,Los Lagos,10.0,Puerto Varas,10109.0,48620.0,2020-04-08,6.2
+2725,Los Lagos,10.0,Puerto Varas,10109.0,48620.0,2020-04-10,6.2
+2726,Los Lagos,10.0,Puerto Varas,10109.0,48620.0,2020-04-13,12.3
+2727,Los Lagos,10.0,Puerto Varas,10109.0,48620.0,2020-04-15,14.4
+2728,Los Lagos,10.0,Puqueldon,10206.0,4201.0,2020-03-30,0.0
+2729,Los Lagos,10.0,Puqueldon,10206.0,4201.0,2020-04-01,0.0
+2730,Los Lagos,10.0,Puqueldon,10206.0,4201.0,2020-04-03,0.0
+2731,Los Lagos,10.0,Puqueldon,10206.0,4201.0,2020-04-06,0.0
+2732,Los Lagos,10.0,Puqueldon,10206.0,4201.0,2020-04-08,0.0
+2733,Los Lagos,10.0,Puqueldon,10206.0,4201.0,2020-04-10,0.0
+2734,Los Lagos,10.0,Puqueldon,10206.0,4201.0,2020-04-13,0.0
+2735,Los Lagos,10.0,Puqueldon,10206.0,4201.0,2020-04-15,0.0
+2736,Los Lagos,10.0,Purranque,10303.0,21080.0,2020-03-30,0.0
+2737,Los Lagos,10.0,Purranque,10303.0,21080.0,2020-04-01,4.7
+2738,Los Lagos,10.0,Purranque,10303.0,21080.0,2020-04-03,23.7
+2739,Los Lagos,10.0,Purranque,10303.0,21080.0,2020-04-06,23.7
+2740,Los Lagos,10.0,Purranque,10303.0,21080.0,2020-04-08,52.2
+2741,Los Lagos,10.0,Purranque,10303.0,21080.0,2020-04-10,75.9
+2742,Los Lagos,10.0,Purranque,10303.0,21080.0,2020-04-13,75.9
+2743,Los Lagos,10.0,Purranque,10303.0,21080.0,2020-04-15,75.9
+2744,Los Lagos,10.0,Puyehue,10304.0,11787.0,2020-03-30,8.5
+2745,Los Lagos,10.0,Puyehue,10304.0,11787.0,2020-04-01,8.5
+2746,Los Lagos,10.0,Puyehue,10304.0,11787.0,2020-04-03,8.5
+2747,Los Lagos,10.0,Puyehue,10304.0,11787.0,2020-04-06,8.5
+2748,Los Lagos,10.0,Puyehue,10304.0,11787.0,2020-04-08,17.0
+2749,Los Lagos,10.0,Puyehue,10304.0,11787.0,2020-04-10,17.0
+2750,Los Lagos,10.0,Puyehue,10304.0,11787.0,2020-04-13,17.0
+2751,Los Lagos,10.0,Puyehue,10304.0,11787.0,2020-04-15,8.5
+2752,Los Lagos,10.0,Queilen,10207.0,5543.0,2020-03-30,0.0
+2753,Los Lagos,10.0,Queilen,10207.0,5543.0,2020-04-01,0.0
+2754,Los Lagos,10.0,Queilen,10207.0,5543.0,2020-04-03,0.0
+2755,Los Lagos,10.0,Queilen,10207.0,5543.0,2020-04-06,0.0
+2756,Los Lagos,10.0,Queilen,10207.0,5543.0,2020-04-08,0.0
+2757,Los Lagos,10.0,Queilen,10207.0,5543.0,2020-04-10,0.0
+2758,Los Lagos,10.0,Queilen,10207.0,5543.0,2020-04-13,0.0
+2759,Los Lagos,10.0,Queilen,10207.0,5543.0,2020-04-15,0.0
+2760,Los Lagos,10.0,Quellon,10208.0,29309.0,2020-03-30,0.0
+2761,Los Lagos,10.0,Quellon,10208.0,29309.0,2020-04-01,0.0
+2762,Los Lagos,10.0,Quellon,10208.0,29309.0,2020-04-03,0.0
+2763,Los Lagos,10.0,Quellon,10208.0,29309.0,2020-04-06,0.0
+2764,Los Lagos,10.0,Quellon,10208.0,29309.0,2020-04-08,0.0
+2765,Los Lagos,10.0,Quellon,10208.0,29309.0,2020-04-10,0.0
+2766,Los Lagos,10.0,Quellon,10208.0,29309.0,2020-04-13,0.0
+2767,Los Lagos,10.0,Quellon,10208.0,29309.0,2020-04-15,0.0
+2768,Los Lagos,10.0,Quemchi,10209.0,8783.0,2020-03-30,0.0
+2769,Los Lagos,10.0,Quemchi,10209.0,8783.0,2020-04-01,0.0
+2770,Los Lagos,10.0,Quemchi,10209.0,8783.0,2020-04-03,0.0
+2771,Los Lagos,10.0,Quemchi,10209.0,8783.0,2020-04-06,0.0
+2772,Los Lagos,10.0,Quemchi,10209.0,8783.0,2020-04-08,0.0
+2773,Los Lagos,10.0,Quemchi,10209.0,8783.0,2020-04-10,0.0
+2774,Los Lagos,10.0,Quemchi,10209.0,8783.0,2020-04-13,0.0
+2775,Los Lagos,10.0,Quemchi,10209.0,8783.0,2020-04-15,0.0
+2776,Los Lagos,10.0,Quinchao,10210.0,8298.0,2020-03-30,12.1
+2777,Los Lagos,10.0,Quinchao,10210.0,8298.0,2020-04-01,12.1
+2778,Los Lagos,10.0,Quinchao,10210.0,8298.0,2020-04-03,12.1
+2779,Los Lagos,10.0,Quinchao,10210.0,8298.0,2020-04-06,12.1
+2780,Los Lagos,10.0,Quinchao,10210.0,8298.0,2020-04-08,12.1
+2781,Los Lagos,10.0,Quinchao,10210.0,8298.0,2020-04-10,12.1
+2782,Los Lagos,10.0,Quinchao,10210.0,8298.0,2020-04-13,12.1
+2783,Los Lagos,10.0,Quinchao,10210.0,8298.0,2020-04-15,12.1
+2784,Los Lagos,10.0,Rio Negro,10305.0,14275.0,2020-03-30,0.0
+2785,Los Lagos,10.0,Rio Negro,10305.0,14275.0,2020-04-01,0.0
+2786,Los Lagos,10.0,Rio Negro,10305.0,14275.0,2020-04-03,7.0
+2787,Los Lagos,10.0,Rio Negro,10305.0,14275.0,2020-04-06,7.0
+2788,Los Lagos,10.0,Rio Negro,10305.0,14275.0,2020-04-08,7.0
+2789,Los Lagos,10.0,Rio Negro,10305.0,14275.0,2020-04-10,14.0
+2790,Los Lagos,10.0,Rio Negro,10305.0,14275.0,2020-04-13,21.0
+2791,Los Lagos,10.0,Rio Negro,10305.0,14275.0,2020-04-15,21.0
+2792,Los Lagos,10.0,San Juan de la Costa,10306.0,7639.0,2020-03-30,0.0
+2793,Los Lagos,10.0,San Juan de la Costa,10306.0,7639.0,2020-04-01,0.0
+2794,Los Lagos,10.0,San Juan de la Costa,10306.0,7639.0,2020-04-03,0.0
+2795,Los Lagos,10.0,San Juan de la Costa,10306.0,7639.0,2020-04-06,91.6
+2796,Los Lagos,10.0,San Juan de la Costa,10306.0,7639.0,2020-04-08,144.0
+2797,Los Lagos,10.0,San Juan de la Costa,10306.0,7639.0,2020-04-10,144.0
+2798,Los Lagos,10.0,San Juan de la Costa,10306.0,7639.0,2020-04-13,183.3
+2799,Los Lagos,10.0,San Juan de la Costa,10306.0,7639.0,2020-04-15,170.2
+2800,Los Lagos,10.0,San Pablo,10307.0,10553.0,2020-03-30,9.5
+2801,Los Lagos,10.0,San Pablo,10307.0,10553.0,2020-04-01,9.5
+2802,Los Lagos,10.0,San Pablo,10307.0,10553.0,2020-04-03,19.0
+2803,Los Lagos,10.0,San Pablo,10307.0,10553.0,2020-04-06,19.0
+2804,Los Lagos,10.0,San Pablo,10307.0,10553.0,2020-04-08,56.9
+2805,Los Lagos,10.0,San Pablo,10307.0,10553.0,2020-04-10,56.9
+2806,Los Lagos,10.0,San Pablo,10307.0,10553.0,2020-04-13,56.9
+2807,Los Lagos,10.0,San Pablo,10307.0,10553.0,2020-04-15,56.9
+2808,Los Lagos,10.0,Total,,891440.0,2020-03-30,12.6
+2809,Los Lagos,10.0,Total,,891440.0,2020-04-01,20.3
+2810,Los Lagos,10.0,Total,,891440.0,2020-04-03,26.2
+2811,Los Lagos,10.0,Total,,891440.0,2020-04-06,32.1
+2812,Los Lagos,10.0,Total,,891440.0,2020-04-08,36.5
+2813,Los Lagos,10.0,Total,,891440.0,2020-04-10,39.2
+2814,Los Lagos,10.0,Total,,891440.0,2020-04-13,42.6
+2815,Los Lagos,10.0,Total,,891440.0,2020-04-15,43.7
+2816,,,,,,2020-03-30,
+2817,,,,,,2020-04-01,
+2818,,,,,,2020-04-03,
+2819,,,,,,2020-04-06,
+2820,,,,,,2020-04-08,
+2821,,,,,,2020-04-10,
+2822,,,,,,2020-04-13,
+2823,,,,,,2020-04-15,
+2824,Aisen,11.0,Aisen,11201.0,25002.0,2020-03-30,4.0
+2825,Aisen,11.0,Aisen,11201.0,25002.0,2020-04-01,4.0
+2826,Aisen,11.0,Aisen,11201.0,25002.0,2020-04-03,16.0
+2827,Aisen,11.0,Aisen,11201.0,25002.0,2020-04-06,20.0
+2828,Aisen,11.0,Aisen,11201.0,25002.0,2020-04-08,16.0
+2829,Aisen,11.0,Aisen,11201.0,25002.0,2020-04-10,16.0
+2830,Aisen,11.0,Aisen,11201.0,25002.0,2020-04-13,16.0
+2831,Aisen,11.0,Aisen,11201.0,25002.0,2020-04-15,12.0
+2832,Aisen,11.0,Chile Chico,11401.0,5121.0,2020-03-30,0.0
+2833,Aisen,11.0,Chile Chico,11401.0,5121.0,2020-04-01,0.0
+2834,Aisen,11.0,Chile Chico,11401.0,5121.0,2020-04-03,0.0
+2835,Aisen,11.0,Chile Chico,11401.0,5121.0,2020-04-06,19.5
+2836,Aisen,11.0,Chile Chico,11401.0,5121.0,2020-04-08,19.5
+2837,Aisen,11.0,Chile Chico,11401.0,5121.0,2020-04-10,19.5
+2838,Aisen,11.0,Chile Chico,11401.0,5121.0,2020-04-13,19.5
+2839,Aisen,11.0,Chile Chico,11401.0,5121.0,2020-04-15,19.5
+2840,Aisen,11.0,Cisnes,11202.0,5828.0,2020-03-30,0.0
+2841,Aisen,11.0,Cisnes,11202.0,5828.0,2020-04-01,0.0
+2842,Aisen,11.0,Cisnes,11202.0,5828.0,2020-04-03,0.0
+2843,Aisen,11.0,Cisnes,11202.0,5828.0,2020-04-06,0.0
+2844,Aisen,11.0,Cisnes,11202.0,5828.0,2020-04-08,0.0
+2845,Aisen,11.0,Cisnes,11202.0,5828.0,2020-04-10,0.0
+2846,Aisen,11.0,Cisnes,11202.0,5828.0,2020-04-13,0.0
+2847,Aisen,11.0,Cisnes,11202.0,5828.0,2020-04-15,0.0
+2848,Aisen,11.0,Cochrane,11301.0,3685.0,2020-03-30,0.0
+2849,Aisen,11.0,Cochrane,11301.0,3685.0,2020-04-01,0.0
+2850,Aisen,11.0,Cochrane,11301.0,3685.0,2020-04-03,0.0
+2851,Aisen,11.0,Cochrane,11301.0,3685.0,2020-04-06,0.0
+2852,Aisen,11.0,Cochrane,11301.0,3685.0,2020-04-08,0.0
+2853,Aisen,11.0,Cochrane,11301.0,3685.0,2020-04-10,0.0
+2854,Aisen,11.0,Cochrane,11301.0,3685.0,2020-04-13,0.0
+2855,Aisen,11.0,Cochrane,11301.0,3685.0,2020-04-15,0.0
+2856,Aisen,11.0,Coyhaique,,61210.0,2020-03-30,3.3
+2857,Aisen,11.0,Coyhaique,,61210.0,2020-04-01,3.3
+2858,Aisen,11.0,Coyhaique,,61210.0,2020-04-03,3.3
+2859,Aisen,11.0,Coyhaique,,61210.0,2020-04-06,1.6
+2860,Aisen,11.0,Coyhaique,,61210.0,2020-04-08,1.6
+2861,Aisen,11.0,Coyhaique,,61210.0,2020-04-10,1.6
+2862,Aisen,11.0,Coyhaique,,61210.0,2020-04-13,1.6
+2863,Aisen,11.0,Coyhaique,,61210.0,2020-04-15,3.3
+2864,Aisen,11.0,Guaitecas,11203.0,1599.0,2020-03-30,0.0
+2865,Aisen,11.0,Guaitecas,11203.0,1599.0,2020-04-01,0.0
+2866,Aisen,11.0,Guaitecas,11203.0,1599.0,2020-04-03,0.0
+2867,Aisen,11.0,Guaitecas,11203.0,1599.0,2020-04-06,0.0
+2868,Aisen,11.0,Guaitecas,11203.0,1599.0,2020-04-08,0.0
+2869,Aisen,11.0,Guaitecas,11203.0,1599.0,2020-04-10,0.0
+2870,Aisen,11.0,Guaitecas,11203.0,1599.0,2020-04-13,0.0
+2871,Aisen,11.0,Guaitecas,11203.0,1599.0,2020-04-15,0.0
+2872,Aisen,11.0,Lago Verde,11102.0,920.0,2020-03-30,0.0
+2873,Aisen,11.0,Lago Verde,11102.0,920.0,2020-04-01,0.0
+2874,Aisen,11.0,Lago Verde,11102.0,920.0,2020-04-03,0.0
+2875,Aisen,11.0,Lago Verde,11102.0,920.0,2020-04-06,0.0
+2876,Aisen,11.0,Lago Verde,11102.0,920.0,2020-04-08,0.0
+2877,Aisen,11.0,Lago Verde,11102.0,920.0,2020-04-10,0.0
+2878,Aisen,11.0,Lago Verde,11102.0,920.0,2020-04-13,0.0
+2879,Aisen,11.0,Lago Verde,11102.0,920.0,2020-04-15,0.0
+2880,Aisen,11.0,OHiggins,,661.0,2020-03-30,0.0
+2881,Aisen,11.0,OHiggins,,661.0,2020-04-01,0.0
+2882,Aisen,11.0,OHiggins,,661.0,2020-04-03,0.0
+2883,Aisen,11.0,OHiggins,,661.0,2020-04-06,0.0
+2884,Aisen,11.0,OHiggins,,661.0,2020-04-08,0.0
+2885,Aisen,11.0,OHiggins,,661.0,2020-04-10,0.0
+2886,Aisen,11.0,OHiggins,,661.0,2020-04-13,0.0
+2887,Aisen,11.0,OHiggins,,661.0,2020-04-15,0.0
+2888,Aisen,11.0,Rio Ibanez,11402.0,2699.0,2020-03-30,0.0
+2889,Aisen,11.0,Rio Ibanez,11402.0,2699.0,2020-04-01,0.0
+2890,Aisen,11.0,Rio Ibanez,11402.0,2699.0,2020-04-03,0.0
+2891,Aisen,11.0,Rio Ibanez,11402.0,2699.0,2020-04-06,0.0
+2892,Aisen,11.0,Rio Ibanez,11402.0,2699.0,2020-04-08,0.0
+2893,Aisen,11.0,Rio Ibanez,11402.0,2699.0,2020-04-10,0.0
+2894,Aisen,11.0,Rio Ibanez,11402.0,2699.0,2020-04-13,0.0
+2895,Aisen,11.0,Rio Ibanez,11402.0,2699.0,2020-04-15,0.0
+2896,Aisen,11.0,Tortel,11303.0,572.0,2020-03-30,0.0
+2897,Aisen,11.0,Tortel,11303.0,572.0,2020-04-01,0.0
+2898,Aisen,11.0,Tortel,11303.0,572.0,2020-04-03,0.0
+2899,Aisen,11.0,Tortel,11303.0,572.0,2020-04-06,0.0
+2900,Aisen,11.0,Tortel,11303.0,572.0,2020-04-08,174.8
+2901,Aisen,11.0,Tortel,11303.0,572.0,2020-04-10,174.8
+2902,Aisen,11.0,Tortel,11303.0,572.0,2020-04-13,174.8
+2903,Aisen,11.0,Tortel,11303.0,572.0,2020-04-15,174.8
+2904,Aisen,11.0,Total,,107297.0,2020-03-30,2.8
+2905,Aisen,11.0,Total,,107297.0,2020-04-01,2.8
+2906,Aisen,11.0,Total,,107297.0,2020-04-03,5.6
+2907,Aisen,11.0,Total,,107297.0,2020-04-06,6.5
+2908,Aisen,11.0,Total,,107297.0,2020-04-08,6.5
+2909,Aisen,11.0,Total,,107297.0,2020-04-10,6.5
+2910,Aisen,11.0,Total,,107297.0,2020-04-13,6.5
+2911,Aisen,11.0,Total,,107297.0,2020-04-15,6.5
+2912,,,,,,2020-03-30,
+2913,,,,,,2020-04-01,
+2914,,,,,,2020-04-03,
+2915,,,,,,2020-04-06,
+2916,,,,,,2020-04-08,
+2917,,,,,,2020-04-10,
+2918,,,,,,2020-04-13,
+2919,,,,,,2020-04-15,
+2920,Magallanes y la Antartica,12.0,Antartica,12202.0,137.0,2020-03-30,0.0
+2921,Magallanes y la Antartica,12.0,Antartica,12202.0,137.0,2020-04-01,0.0
+2922,Magallanes y la Antartica,12.0,Antartica,12202.0,137.0,2020-04-03,0.0
+2923,Magallanes y la Antartica,12.0,Antartica,12202.0,137.0,2020-04-06,0.0
+2924,Magallanes y la Antartica,12.0,Antartica,12202.0,137.0,2020-04-08,0.0
+2925,Magallanes y la Antartica,12.0,Antartica,12202.0,137.0,2020-04-10,0.0
+2926,Magallanes y la Antartica,12.0,Antartica,12202.0,137.0,2020-04-13,0.0
+2927,Magallanes y la Antartica,12.0,Antartica,12202.0,137.0,2020-04-15,0.0
+2928,Magallanes y la Antartica,12.0,Cabo de Hornos,12201.0,1983.0,2020-03-30,252.1
+2929,Magallanes y la Antartica,12.0,Cabo de Hornos,12201.0,1983.0,2020-04-01,302.6
+2930,Magallanes y la Antartica,12.0,Cabo de Hornos,12201.0,1983.0,2020-04-03,302.6
+2931,Magallanes y la Antartica,12.0,Cabo de Hornos,12201.0,1983.0,2020-04-06,504.3
+2932,Magallanes y la Antartica,12.0,Cabo de Hornos,12201.0,1983.0,2020-04-08,554.7
+2933,Magallanes y la Antartica,12.0,Cabo de Hornos,12201.0,1983.0,2020-04-10,655.6
+2934,Magallanes y la Antartica,12.0,Cabo de Hornos,12201.0,1983.0,2020-04-13,907.7
+2935,Magallanes y la Antartica,12.0,Cabo de Hornos,12201.0,1983.0,2020-04-15,907.7
+2936,Magallanes y la Antartica,12.0,Laguna Blanca,12102.0,264.0,2020-03-30,0.0
+2937,Magallanes y la Antartica,12.0,Laguna Blanca,12102.0,264.0,2020-04-01,0.0
+2938,Magallanes y la Antartica,12.0,Laguna Blanca,12102.0,264.0,2020-04-03,0.0
+2939,Magallanes y la Antartica,12.0,Laguna Blanca,12102.0,264.0,2020-04-06,0.0
+2940,Magallanes y la Antartica,12.0,Laguna Blanca,12102.0,264.0,2020-04-08,0.0
+2941,Magallanes y la Antartica,12.0,Laguna Blanca,12102.0,264.0,2020-04-10,0.0
+2942,Magallanes y la Antartica,12.0,Laguna Blanca,12102.0,264.0,2020-04-13,0.0
+2943,Magallanes y la Antartica,12.0,Laguna Blanca,12102.0,264.0,2020-04-15,0.0
+2944,Magallanes y la Antartica,12.0,Natales,12401.0,23782.0,2020-03-30,4.2
+2945,Magallanes y la Antartica,12.0,Natales,12401.0,23782.0,2020-04-01,16.8
+2946,Magallanes y la Antartica,12.0,Natales,12401.0,23782.0,2020-04-03,21.0
+2947,Magallanes y la Antartica,12.0,Natales,12401.0,23782.0,2020-04-06,21.0
+2948,Magallanes y la Antartica,12.0,Natales,12401.0,23782.0,2020-04-08,21.0
+2949,Magallanes y la Antartica,12.0,Natales,12401.0,23782.0,2020-04-10,25.2
+2950,Magallanes y la Antartica,12.0,Natales,12401.0,23782.0,2020-04-13,25.2
+2951,Magallanes y la Antartica,12.0,Natales,12401.0,23782.0,2020-04-15,25.2
+2952,Magallanes y la Antartica,12.0,Porvenir,12301.0,7323.0,2020-03-30,0.0
+2953,Magallanes y la Antartica,12.0,Porvenir,12301.0,7323.0,2020-04-01,27.3
+2954,Magallanes y la Antartica,12.0,Porvenir,12301.0,7323.0,2020-04-03,27.3
+2955,Magallanes y la Antartica,12.0,Porvenir,12301.0,7323.0,2020-04-06,41.0
+2956,Magallanes y la Antartica,12.0,Porvenir,12301.0,7323.0,2020-04-08,41.0
+2957,Magallanes y la Antartica,12.0,Porvenir,12301.0,7323.0,2020-04-10,41.0
+2958,Magallanes y la Antartica,12.0,Porvenir,12301.0,7323.0,2020-04-13,54.6
+2959,Magallanes y la Antartica,12.0,Porvenir,12301.0,7323.0,2020-04-15,54.6
+2960,Magallanes y la Antartica,12.0,Primavera,12302.0,694.0,2020-03-30,0.0
+2961,Magallanes y la Antartica,12.0,Primavera,12302.0,694.0,2020-04-01,0.0
+2962,Magallanes y la Antartica,12.0,Primavera,12302.0,694.0,2020-04-03,0.0
+2963,Magallanes y la Antartica,12.0,Primavera,12302.0,694.0,2020-04-06,0.0
+2964,Magallanes y la Antartica,12.0,Primavera,12302.0,694.0,2020-04-08,0.0
+2965,Magallanes y la Antartica,12.0,Primavera,12302.0,694.0,2020-04-10,0.0
+2966,Magallanes y la Antartica,12.0,Primavera,12302.0,694.0,2020-04-13,0.0
+2967,Magallanes y la Antartica,12.0,Primavera,12302.0,694.0,2020-04-15,0.0
+2968,Magallanes y la Antartica,12.0,Punta Arenas,12101.0,141984.0,2020-03-30,20.4
+2969,Magallanes y la Antartica,12.0,Punta Arenas,12101.0,141984.0,2020-04-01,61.3
+2970,Magallanes y la Antartica,12.0,Punta Arenas,12101.0,141984.0,2020-04-03,100.7
+2971,Magallanes y la Antartica,12.0,Punta Arenas,12101.0,141984.0,2020-04-06,143.0
+2972,Magallanes y la Antartica,12.0,Punta Arenas,12101.0,141984.0,2020-04-08,145.8
+2973,Magallanes y la Antartica,12.0,Punta Arenas,12101.0,141984.0,2020-04-10,210.6
+2974,Magallanes y la Antartica,12.0,Punta Arenas,12101.0,141984.0,2020-04-13,272.6
+2975,Magallanes y la Antartica,12.0,Punta Arenas,12101.0,141984.0,2020-04-15,293.0
+2976,Magallanes y la Antartica,12.0,Rio Verde,12103.0,211.0,2020-03-30,0.0
+2977,Magallanes y la Antartica,12.0,Rio Verde,12103.0,211.0,2020-04-01,0.0
+2978,Magallanes y la Antartica,12.0,Rio Verde,12103.0,211.0,2020-04-03,0.0
+2979,Magallanes y la Antartica,12.0,Rio Verde,12103.0,211.0,2020-04-06,0.0
+2980,Magallanes y la Antartica,12.0,Rio Verde,12103.0,211.0,2020-04-08,0.0
+2981,Magallanes y la Antartica,12.0,Rio Verde,12103.0,211.0,2020-04-10,0.0
+2982,Magallanes y la Antartica,12.0,Rio Verde,12103.0,211.0,2020-04-13,0.0
+2983,Magallanes y la Antartica,12.0,Rio Verde,12103.0,211.0,2020-04-15,0.0
+2984,Magallanes y la Antartica,12.0,San Gregorio,12104.0,681.0,2020-03-30,0.0
+2985,Magallanes y la Antartica,12.0,San Gregorio,12104.0,681.0,2020-04-01,0.0
+2986,Magallanes y la Antartica,12.0,San Gregorio,12104.0,681.0,2020-04-03,0.0
+2987,Magallanes y la Antartica,12.0,San Gregorio,12104.0,681.0,2020-04-06,0.0
+2988,Magallanes y la Antartica,12.0,San Gregorio,12104.0,681.0,2020-04-08,0.0
+2989,Magallanes y la Antartica,12.0,San Gregorio,12104.0,681.0,2020-04-10,0.0
+2990,Magallanes y la Antartica,12.0,San Gregorio,12104.0,681.0,2020-04-13,0.0
+2991,Magallanes y la Antartica,12.0,San Gregorio,12104.0,681.0,2020-04-15,0.0
+2992,Magallanes y la Antartica,12.0,Timaukel,12303.0,282.0,2020-03-30,0.0
+2993,Magallanes y la Antartica,12.0,Timaukel,12303.0,282.0,2020-04-01,0.0
+2994,Magallanes y la Antartica,12.0,Timaukel,12303.0,282.0,2020-04-03,0.0
+2995,Magallanes y la Antartica,12.0,Timaukel,12303.0,282.0,2020-04-06,0.0
+2996,Magallanes y la Antartica,12.0,Timaukel,12303.0,282.0,2020-04-08,0.0
+2997,Magallanes y la Antartica,12.0,Timaukel,12303.0,282.0,2020-04-10,0.0
+2998,Magallanes y la Antartica,12.0,Timaukel,12303.0,282.0,2020-04-13,0.0
+2999,Magallanes y la Antartica,12.0,Timaukel,12303.0,282.0,2020-04-15,0.0
+3000,Magallanes y la Antartica,12.0,Torres del Paine,12402.0,1021.0,2020-03-30,0.0
+3001,Magallanes y la Antartica,12.0,Torres del Paine,12402.0,1021.0,2020-04-01,0.0
+3002,Magallanes y la Antartica,12.0,Torres del Paine,12402.0,1021.0,2020-04-03,0.0
+3003,Magallanes y la Antartica,12.0,Torres del Paine,12402.0,1021.0,2020-04-06,0.0
+3004,Magallanes y la Antartica,12.0,Torres del Paine,12402.0,1021.0,2020-04-08,0.0
+3005,Magallanes y la Antartica,12.0,Torres del Paine,12402.0,1021.0,2020-04-10,0.0
+3006,Magallanes y la Antartica,12.0,Torres del Paine,12402.0,1021.0,2020-04-13,0.0
+3007,Magallanes y la Antartica,12.0,Torres del Paine,12402.0,1021.0,2020-04-15,0.0
+3008,Magallanes y la Antartica,12.0,Total,,178362.0,2020-03-30,19.6
+3009,Magallanes y la Antartica,12.0,Total,,178362.0,2020-04-01,55.5
+3010,Magallanes y la Antartica,12.0,Total,,178362.0,2020-04-03,87.5
+3011,Magallanes y la Antartica,12.0,Total,,178362.0,2020-04-06,123.9
+3012,Magallanes y la Antartica,12.0,Total,,178362.0,2020-04-08,149.1
+3013,Magallanes y la Antartica,12.0,Total,,178362.0,2020-04-10,185.6
+3014,Magallanes y la Antartica,12.0,Total,,178362.0,2020-04-13,232.7
+3015,Magallanes y la Antartica,12.0,Total,,178362.0,2020-04-15,248.9
