@@ -756,7 +756,8 @@ def bingNews(pais = "Chile"):
     #pais = "Chile"
     headers = {
         # Request headers
-        'Ocp-Apim-Subscription-Key': 'b091fbaeb9f94255b542befc3ecff8b8',
+        #'Ocp-Apim-Subscription-Key': 'b091fbaeb9f94255b542befc3ecff8b8',
+        'Ocp-Apim-Subscription-Key': 'a9b5b1527a7b43929d7e15a383b1583a',
     }
 
     params = urllib.parse.urlencode({
@@ -769,7 +770,8 @@ def bingNews(pais = "Chile"):
         "sortBy": "Date"
     })
 
-    conn = http.client.HTTPSConnection('api.cognitive.microsoft.com')
+    #conn = http.client.HTTPSConnection('api.cognitive.microsoft.com')
+    conn = http.client.HTTPSConnection('dataintelligence.cognitiveservices.azure.com')
     conn.request("GET", "/bing/v7.0/news/search?%s" % params, "{body}", headers)
     response = conn.getresponse()
     #data = response.read()
