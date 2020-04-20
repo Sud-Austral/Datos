@@ -14574,9 +14574,9 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 14573,20-04-2020,15.0,Chile,Arica y Parinacota,,,,Arica,,,Confirmado,-18.5321930844,-69.9714910871
 14574,20-04-2020,15.0,Chile,Arica y Parinacota,,,,Arica,,,Confirmado,-18.5321930844,-69.9714910871
 14575,20-04-2020,15.0,Chile,Arica y Parinacota,,,,Arica,,,Confirmado,-18.5321930844,-69.9714910871
-14576,20-04-2020,1.0,Chile,Tarapacá,,,,No Informado,,,Confirmado,-20.2133874287,-69.3928397127
-14577,20-04-2020,1.0,Chile,Tarapacá,,,,No Informado,,,Confirmado,-20.2133874287,-69.3928397127
-14578,20-04-2020,1.0,Chile,Tarapacá,,,,No Informado,,,Confirmado,-20.2133874287,-69.3928397127
+14576,20-04-2020,1.0,Chile,Tarapacá,,,,Alto Hospicio,,,Confirmado,-20.1899464527,-70.0109621438
+14577,20-04-2020,1.0,Chile,Tarapacá,,,,Alto Hospicio,,,Confirmado,-20.1899464527,-70.0109621438
+14578,20-04-2020,1.0,Chile,Tarapacá,,,,Pica,,,Confirmado,-20.4789531968,-68.9122031293
 14579,20-04-2020,2.0,Chile,Antofagasta,,,,Antofagasta,,,Confirmado,-24.2767223957,-69.4100886557
 14580,20-04-2020,2.0,Chile,Antofagasta,,,,Antofagasta,,,Confirmado,-24.2767223957,-69.4100886557
 14581,20-04-2020,2.0,Chile,Antofagasta,,,,Antofagasta,,,Confirmado,-24.2767223957,-69.4100886557
@@ -14861,7 +14861,7 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 14860,20-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
 14861,20-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
 14862,20-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-14863,20-04-2020,6.0,Chile,O’Higgins,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+14863,20-04-2020,6.0,Chile,O’Higgins,Masculino,65.0,Hospital Regional de Rancagua,Machalí,,,Confirmado,-34.3204980754,-70.319487195
 14864,20-04-2020,7.0,Chile,Maule,,,,Cauquenes,,,Confirmado,-35.9712438036,-72.2804905385
 14865,20-04-2020,7.0,Chile,Maule,,,,Cauquenes,,,Confirmado,-35.9712438036,-72.2804905385
 14866,20-04-2020,16.0,Chile,Ñuble,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
@@ -14883,102 +14883,102 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 14882,20-04-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
 14883,20-04-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
 14884,20-04-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
-14885,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14886,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14887,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14888,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14889,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14890,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14891,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14892,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14893,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14894,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14895,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14896,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14897,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14898,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14899,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14900,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14901,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14902,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14903,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14904,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14905,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14906,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14907,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14908,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14909,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14910,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14911,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14912,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14913,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14914,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14915,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14916,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14917,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14918,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14919,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14920,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14921,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14922,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14923,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14924,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14925,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14926,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14927,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14928,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14929,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14930,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14931,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14932,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14933,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14934,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14935,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14936,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14937,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14938,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14939,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14940,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14941,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14942,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14943,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14944,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14945,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14946,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14947,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14948,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14949,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14950,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14951,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14952,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14953,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14954,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14955,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14956,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+14885,20-04-2020,9.0,Chile,La Araucanía,,,,Angol,,,Confirmado,-37.7687124996,-72.7957142527
+14886,20-04-2020,9.0,Chile,La Araucanía,,,,Angol,,,Confirmado,-37.7687124996,-72.7957142527
+14887,20-04-2020,9.0,Chile,La Araucanía,,,,Angol,,,Confirmado,-37.7687124996,-72.7957142527
+14888,20-04-2020,9.0,Chile,La Araucanía,,,,Angol,,,Confirmado,-37.7687124996,-72.7957142527
+14889,20-04-2020,9.0,Chile,La Araucanía,,,,Angol,,,Confirmado,-37.7687124996,-72.7957142527
+14890,20-04-2020,9.0,Chile,La Araucanía,,,,Angol,,,Confirmado,-37.7687124996,-72.7957142527
+14891,20-04-2020,9.0,Chile,La Araucanía,,,,Angol,,,Confirmado,-37.7687124996,-72.7957142527
+14892,20-04-2020,9.0,Chile,La Araucanía,,,,Angol,,,Confirmado,-37.7687124996,-72.7957142527
+14893,20-04-2020,9.0,Chile,La Araucanía,,,,Angol,,,Confirmado,-37.7687124996,-72.7957142527
+14894,20-04-2020,9.0,Chile,La Araucanía,,,,Angol,,,Confirmado,-37.7687124996,-72.7957142527
+14895,20-04-2020,9.0,Chile,La Araucanía,,,,Ercilla,,,Confirmado,-38.0828410497,-72.3531374892
+14896,20-04-2020,9.0,Chile,La Araucanía,,,,Ercilla,,,Confirmado,-38.0828410497,-72.3531374892
+14897,20-04-2020,9.0,Chile,La Araucanía,,,,Lautaro,,,Confirmado,-38.5433593257,-72.289099197
+14898,20-04-2020,9.0,Chile,La Araucanía,,,,Lautaro,,,Confirmado,-38.5433593257,-72.289099197
+14899,20-04-2020,9.0,Chile,La Araucanía,,,,Nueva Imperial,,,Confirmado,-38.7515999667,-72.9720610851
+14900,20-04-2020,9.0,Chile,La Araucanía,,,,Nueva Imperial,,,Confirmado,-38.7515999667,-72.9720610851
+14901,20-04-2020,9.0,Chile,La Araucanía,,,,Padre las Casas,,,Confirmado,-38.7917117043,-72.5788411915
+14902,20-04-2020,9.0,Chile,La Araucanía,,,,Padre las Casas,,,Confirmado,-38.7917117043,-72.5788411915
+14903,20-04-2020,9.0,Chile,La Araucanía,,,,Padre las Casas,,,Confirmado,-38.7917117043,-72.5788411915
+14904,20-04-2020,9.0,Chile,La Araucanía,,,,Padre las Casas,,,Confirmado,-38.7917117043,-72.5788411915
+14905,20-04-2020,9.0,Chile,La Araucanía,,,,Padre las Casas,,,Confirmado,-38.7917117043,-72.5788411915
+14906,20-04-2020,9.0,Chile,La Araucanía,,,,Padre las Casas,,,Confirmado,-38.7917117043,-72.5788411915
+14907,20-04-2020,9.0,Chile,La Araucanía,,,,Padre las Casas,,,Confirmado,-38.7917117043,-72.5788411915
+14908,20-04-2020,9.0,Chile,La Araucanía,,,,Padre las Casas,,,Confirmado,-38.7917117043,-72.5788411915
+14909,20-04-2020,9.0,Chile,La Araucanía,,,,Perquenco,,,Confirmado,-38.428277539,-72.4366359412
+14910,20-04-2020,9.0,Chile,La Araucanía,,,,Renaico,,,Confirmado,-37.7175856821,-72.5755910381
+14911,20-04-2020,9.0,Chile,La Araucanía,,,,Saavedra,,,Confirmado,-38.8325547451,-73.2955377625
+14912,20-04-2020,9.0,Chile,La Araucanía,,,,Saavedra,,,Confirmado,-38.8325547451,-73.2955377625
+14913,20-04-2020,9.0,Chile,La Araucanía,,,,Temuco,,,Confirmado,-38.6732629809,-72.6677671889
+14914,20-04-2020,9.0,Chile,La Araucanía,,,,Temuco,,,Confirmado,-38.6732629809,-72.6677671889
+14915,20-04-2020,9.0,Chile,La Araucanía,,,,Temuco,,,Confirmado,-38.6732629809,-72.6677671889
+14916,20-04-2020,9.0,Chile,La Araucanía,,,,Temuco,,,Confirmado,-38.6732629809,-72.6677671889
+14917,20-04-2020,9.0,Chile,La Araucanía,,,,Temuco,,,Confirmado,-38.6732629809,-72.6677671889
+14918,20-04-2020,9.0,Chile,La Araucanía,,,,Temuco,,,Confirmado,-38.6732629809,-72.6677671889
+14919,20-04-2020,9.0,Chile,La Araucanía,,,,Temuco,,,Confirmado,-38.6732629809,-72.6677671889
+14920,20-04-2020,9.0,Chile,La Araucanía,,,,Temuco,,,Confirmado,-38.6732629809,-72.6677671889
+14921,20-04-2020,9.0,Chile,La Araucanía,,,,Temuco,,,Confirmado,-38.6732629809,-72.6677671889
+14922,20-04-2020,9.0,Chile,La Araucanía,,,,Temuco,,,Confirmado,-38.6732629809,-72.6677671889
+14923,20-04-2020,9.0,Chile,La Araucanía,,,,Temuco,,,Confirmado,-38.6732629809,-72.6677671889
+14924,20-04-2020,9.0,Chile,La Araucanía,,,,Temuco,,,Confirmado,-38.6732629809,-72.6677671889
+14925,20-04-2020,9.0,Chile,La Araucanía,,,,Temuco,,,Confirmado,-38.6732629809,-72.6677671889
+14926,20-04-2020,9.0,Chile,La Araucanía,,,,Temuco,,,Confirmado,-38.6732629809,-72.6677671889
+14927,20-04-2020,9.0,Chile,La Araucanía,,,,Temuco,,,Confirmado,-38.6732629809,-72.6677671889
+14928,20-04-2020,9.0,Chile,La Araucanía,,,,Temuco,,,Confirmado,-38.6732629809,-72.6677671889
+14929,20-04-2020,9.0,Chile,La Araucanía,,,,Temuco,,,Confirmado,-38.6732629809,-72.6677671889
+14930,20-04-2020,9.0,Chile,La Araucanía,,,,Temuco,,,Confirmado,-38.6732629809,-72.6677671889
+14931,20-04-2020,9.0,Chile,La Araucanía,,,,Temuco,,,Confirmado,-38.6732629809,-72.6677671889
+14932,20-04-2020,9.0,Chile,La Araucanía,,,,Temuco,,,Confirmado,-38.6732629809,-72.6677671889
+14933,20-04-2020,9.0,Chile,La Araucanía,,,,Temuco,,,Confirmado,-38.6732629809,-72.6677671889
+14934,20-04-2020,9.0,Chile,La Araucanía,,,,Temuco,,,Confirmado,-38.6732629809,-72.6677671889
+14935,20-04-2020,9.0,Chile,La Araucanía,,,,Temuco,,,Confirmado,-38.6732629809,-72.6677671889
+14936,20-04-2020,9.0,Chile,La Araucanía,,,,Traiguén,,,Confirmado,-38.2469164278,-72.6549810073
+14937,20-04-2020,9.0,Chile,La Araucanía,,,,Victoria,,,Confirmado,-38.2806140753,-72.2335936461
+14938,20-04-2020,9.0,Chile,La Araucanía,,,,Victoria,,,Confirmado,-38.2806140753,-72.2335936461
+14939,20-04-2020,9.0,Chile,La Araucanía,,,,Victoria,,,Confirmado,-38.2806140753,-72.2335936461
+14940,20-04-2020,9.0,Chile,La Araucanía,,,,Victoria,,,Confirmado,-38.2806140753,-72.2335936461
+14941,20-04-2020,9.0,Chile,La Araucanía,,,,Victoria,,,Confirmado,-38.2806140753,-72.2335936461
+14942,20-04-2020,9.0,Chile,La Araucanía,,,,Victoria,,,Confirmado,-38.2806140753,-72.2335936461
+14943,20-04-2020,9.0,Chile,La Araucanía,,,,Victoria,,,Confirmado,-38.2806140753,-72.2335936461
+14944,20-04-2020,9.0,Chile,La Araucanía,,,,Victoria,,,Confirmado,-38.2806140753,-72.2335936461
+14945,20-04-2020,9.0,Chile,La Araucanía,,,,Victoria,,,Confirmado,-38.2806140753,-72.2335936461
+14946,20-04-2020,9.0,Chile,La Araucanía,,,,Victoria,,,Confirmado,-38.2806140753,-72.2335936461
+14947,20-04-2020,9.0,Chile,La Araucanía,,,,Victoria,,,Confirmado,-38.2806140753,-72.2335936461
+14948,20-04-2020,9.0,Chile,La Araucanía,,,,Victoria,,,Confirmado,-38.2806140753,-72.2335936461
+14949,20-04-2020,9.0,Chile,La Araucanía,,,,Victoria,,,Confirmado,-38.2806140753,-72.2335936461
+14950,20-04-2020,9.0,Chile,La Araucanía,,,,Victoria,,,Confirmado,-38.2806140753,-72.2335936461
+14951,20-04-2020,9.0,Chile,La Araucanía,,,,Vilcún,,,Confirmado,-38.7047212019,-72.116504654
+14952,20-04-2020,9.0,Chile,La Araucanía,,,,Vilcún,,,Confirmado,-38.7047212019,-72.116504654
+14953,20-04-2020,9.0,Chile,La Araucanía,,,,Vilcún,,,Confirmado,-38.7047212019,-72.116504654
+14954,20-04-2020,9.0,Chile,La Araucanía,,,,Vilcún,,,Confirmado,-38.7047212019,-72.116504654
+14955,20-04-2020,9.0,Chile,La Araucanía,,,,Villarrica,,,Confirmado,-39.3008669518,-72.1828309674
+14956,20-04-2020,9.0,Chile,La Araucanía,,,,Villarrica,,,Confirmado,-39.3008669518,-72.1828309674
 14957,20-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
-14958,20-04-2020,14.0,Chile,Los Ríos,,,,No Informado,,,Confirmado,-40.0034147045,-72.5764331101
-14959,20-04-2020,14.0,Chile,Los Ríos,,,,No Informado,,,Confirmado,-40.0034147045,-72.5764331101
-14960,20-04-2020,14.0,Chile,Los Ríos,,,,No Informado,,,Confirmado,-40.0034147045,-72.5764331101
-14961,20-04-2020,14.0,Chile,Los Ríos,,,,No Informado,,,Confirmado,-40.0034147045,-72.5764331101
-14962,20-04-2020,14.0,Chile,Los Ríos,,,,No Informado,,,Confirmado,-40.0034147045,-72.5764331101
+14958,20-04-2020,14.0,Chile,Los Ríos,Masculino,58.0,,Valdivia,,,Confirmado,-39.8177863595,-73.1746908864
+14959,20-04-2020,14.0,Chile,Los Ríos,Masculino,59.0,,Valdivia,,,Confirmado,-39.8177863595,-73.1746908864
+14960,20-04-2020,14.0,Chile,Los Ríos,Femenino,24.0,,Valdivia,,,Confirmado,-39.8177863595,-73.1746908864
+14961,20-04-2020,14.0,Chile,Los Ríos,Femenino,60.0,,Valdivia,,,Confirmado,-39.8177863595,-73.1746908864
+14962,20-04-2020,14.0,Chile,Los Ríos,Femenino,85.0,,Máfil,,,Confirmado,-39.6920999834,-72.8639087599
 14963,20-04-2020,10.0,Chile,Los Lagos,,,,Calbuco,,,Confirmado,-41.722765597,-73.1948686881
 14964,20-04-2020,10.0,Chile,Los Lagos,,,,Osorno,,,Confirmado,-40.6118925181,-73.0867453662
 14965,20-04-2020,10.0,Chile,Los Lagos,,,,Puyehue,,,Confirmado,-40.7258239494,-72.384008281
-14966,20-04-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
-14967,20-04-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
-14968,20-04-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
-14969,20-04-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
-14970,20-04-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
-14971,20-04-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
-14972,20-04-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
-14973,20-04-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
-14974,20-04-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
-14975,20-04-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
-14976,20-04-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
-14977,20-04-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
-14978,20-04-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
-14979,20-04-2020,7.0,Chile,Maule,,,,No Informado,,,Muerte,-35.6203720727,-71.4463212218
-14980,20-04-2020,7.0,Chile,Maule,,,,No Informado,,,Muerte,-35.6203720727,-71.4463212218
+14966,20-04-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
+14967,20-04-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
+14968,20-04-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
+14969,20-04-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
+14970,20-04-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
+14971,20-04-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
+14972,20-04-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
+14973,20-04-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
+14974,20-04-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
+14975,20-04-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
+14976,20-04-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
+14977,20-04-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
+14978,20-04-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
+14979,20-04-2020,7.0,Chile,Maule,Masculino,52.0,Hospital Regional de Talca,Talca,,,Muerte,-35.4278227385,-71.6021975979
+14980,20-04-2020,7.0,Chile,Maule,Masculino,77.0,,Río Claro,,,Muerte,-35.2606233799,-71.2688621061
 14981,20-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
 14982,20-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
 14983,20-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
