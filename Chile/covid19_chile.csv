@@ -14592,13 +14592,13 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 14591,20-04-2020,2.0,Chile,Antofagasta,,,,Antofagasta,,,Confirmado,-24.2767223957,-69.4100886557
 14592,20-04-2020,2.0,Chile,Antofagasta,,,,No Informado,,,Confirmado,-23.5278557228,-69.1155677706
 14593,20-04-2020,4.0,Chile,Coquimbo,,36.0,,La Serena,,,Confirmado,-29.7891138006,-71.0608208619
-14594,20-04-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
-14595,20-04-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
-14596,20-04-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
-14597,20-04-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
-14598,20-04-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
-14599,20-04-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
-14600,20-04-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+14594,20-04-2020,5.0,Chile,Valparaíso,Femenino,57.0,Hospital San Francisco de LLay LLay,Puente Alto,,,Confirmado,-33.5911737357,-70.5579820209
+14595,20-04-2020,5.0,Chile,Valparaíso,Masculino,32.0,,Valparaíso,,,Confirmado,-32.9978836561,-71.7533398553
+14596,20-04-2020,5.0,Chile,Valparaíso,Femenino,89.0,Hospital Naval,Viña del Mar,,,Confirmado,-33.0288002963,-71.5154312157
+14597,20-04-2020,5.0,Chile,Valparaíso,Femenino,34.0,Hospital Claudio Vicuña,San Antonio,,,Confirmado,-33.6671475155,-71.4869305281
+14598,20-04-2020,5.0,Chile,Valparaíso,Femenino,41.0,SEREMI Salud Valparaíso,Valparaíso,,,Confirmado,-32.9978836561,-71.7533398553
+14599,20-04-2020,5.0,Chile,Valparaíso,Femenino,46.0,CESFAM El Quisco,El Quisco,,,Confirmado,-33.4150669686,-71.651188756
+14600,20-04-2020,5.0,Chile,Valparaíso,Femenino,60.0,Hospital Claudio Vicuña,El Quisco,,,Confirmado,-33.4150669686,-71.651188756
 14601,20-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
 14602,20-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
 14603,20-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
@@ -14864,24 +14864,24 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 14863,20-04-2020,6.0,Chile,O’Higgins,Masculino,65.0,Hospital Regional de Rancagua,Machalí,,,Confirmado,-34.3204980754,-70.319487195
 14864,20-04-2020,7.0,Chile,Maule,,,,Cauquenes,,,Confirmado,-35.9712438036,-72.2804905385
 14865,20-04-2020,7.0,Chile,Maule,,,,Cauquenes,,,Confirmado,-35.9712438036,-72.2804905385
-14866,20-04-2020,16.0,Chile,Ñuble,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
-14867,20-04-2020,16.0,Chile,Ñuble,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
-14868,20-04-2020,16.0,Chile,Ñuble,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
-14869,20-04-2020,16.0,Chile,Ñuble,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
-14870,20-04-2020,16.0,Chile,Ñuble,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
-14871,20-04-2020,16.0,Chile,Ñuble,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
-14872,20-04-2020,16.0,Chile,Ñuble,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
-14873,20-04-2020,16.0,Chile,Ñuble,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
-14874,20-04-2020,16.0,Chile,Ñuble,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
-14875,20-04-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
-14876,20-04-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
-14877,20-04-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
-14878,20-04-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
-14879,20-04-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
-14880,20-04-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
-14881,20-04-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
-14882,20-04-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
-14883,20-04-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+14866,20-04-2020,16.0,Chile,Ñuble,,,,Chillán,,,Confirmado,-36.6174916649,-72.1287244312
+14867,20-04-2020,16.0,Chile,Ñuble,,,,Chillán,,,Confirmado,-36.6174916649,-72.1287244312
+14868,20-04-2020,16.0,Chile,Ñuble,,,,Chillán,,,Confirmado,-36.6174916649,-72.1287244312
+14869,20-04-2020,16.0,Chile,Ñuble,,,,Chillán,,,Confirmado,-36.6174916649,-72.1287244312
+14870,20-04-2020,16.0,Chile,Ñuble,,,,Chillán,,,Confirmado,-36.6174916649,-72.1287244312
+14871,20-04-2020,16.0,Chile,Ñuble,,,,Chillán,,,Confirmado,-36.6174916649,-72.1287244312
+14872,20-04-2020,16.0,Chile,Ñuble,,,,Bulnes,,,Confirmado,-36.7904030424,-72.2900215842
+14873,20-04-2020,16.0,Chile,Ñuble,,,,Bulnes,,,Confirmado,-36.7904030424,-72.2900215842
+14874,20-04-2020,16.0,Chile,Ñuble,,,,Coihueco,,,Confirmado,-36.7019154417,-71.5817371361
+14875,20-04-2020,8.0,Chile,Biobío,,,,Talcahuano,,,Confirmado,-36.7154060838,-73.099437088
+14876,20-04-2020,8.0,Chile,Biobío,,,,Talcahuano,,,Confirmado,-36.7154060838,-73.099437088
+14877,20-04-2020,8.0,Chile,Biobío,,,,Chiguayante,,,Confirmado,-36.9007781691,-73.0051869676
+14878,20-04-2020,8.0,Chile,Biobío,,,,Chiguayante,,,Confirmado,-36.9007781691,-73.0051869676
+14879,20-04-2020,8.0,Chile,Biobío,,,,Tomé,,,Confirmado,-36.6166323796,-72.8580501099
+14880,20-04-2020,8.0,Chile,Biobío,,,,Tomé,,,Confirmado,-36.6166323796,-72.8580501099
+14881,20-04-2020,8.0,Chile,Biobío,,,,Los Angelés,,,Confirmado,-37.3539275137,-72.2634281286
+14882,20-04-2020,8.0,Chile,Biobío,,,,Hualqui,,,Confirmado,-37.0447673918,-72.8710349587
+14883,20-04-2020,8.0,Chile,Biobío,,,,Hualqui,,,Confirmado,-37.0447673918,-72.8710349587
 14884,20-04-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
 14885,20-04-2020,9.0,Chile,La Araucanía,,,,Angol,,,Confirmado,-37.7687124996,-72.7957142527
 14886,20-04-2020,9.0,Chile,La Araucanía,,,,Angol,,,Confirmado,-37.7687124996,-72.7957142527
