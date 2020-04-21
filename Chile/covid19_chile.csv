@@ -15330,17 +15330,17 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 15329,21-04-2020,15.0,Chile,Arica y Parinacota,,,,Arica,,,Confirmado,-18.5321930844,-69.9714910871
 15330,21-04-2020,15.0,Chile,Arica y Parinacota,,,,Arica,,,Confirmado,-18.5321930844,-69.9714910871
 15331,21-04-2020,15.0,Chile,Arica y Parinacota,,,,Arica,,,Confirmado,-18.5321930844,-69.9714910871
-15332,21-04-2020,1.0,Chile,Tarapacá,,,,,,,Confirmado,-20.2133874287,-69.3928397127
-15333,21-04-2020,1.0,Chile,Tarapacá,,,,,,,Confirmado,-20.2133874287,-69.3928397127
-15334,21-04-2020,1.0,Chile,Tarapacá,,,,,,,Confirmado,-20.2133874287,-69.3928397127
-15335,21-04-2020,1.0,Chile,Tarapacá,,,,,,,Confirmado,-20.2133874287,-69.3928397127
-15336,21-04-2020,1.0,Chile,Tarapacá,,,,,,,Confirmado,-20.2133874287,-69.3928397127
-15337,21-04-2020,1.0,Chile,Tarapacá,,,,,,,Confirmado,-20.2133874287,-69.3928397127
-15338,21-04-2020,1.0,Chile,Tarapacá,,,,,,,Confirmado,-20.2133874287,-69.3928397127
-15339,21-04-2020,1.0,Chile,Tarapacá,,,,,,,Confirmado,-20.2133874287,-69.3928397127
-15340,21-04-2020,1.0,Chile,Tarapacá,,,,,,,Confirmado,-20.2133874287,-69.3928397127
-15341,21-04-2020,1.0,Chile,Tarapacá,,,,,,,Confirmado,-20.2133874287,-69.3928397127
-15342,21-04-2020,1.0,Chile,Tarapacá,,,,,,,Confirmado,-20.2133874287,-69.3928397127
+15332,21-04-2020,1.0,Chile,Tarapacá,,,,Iquique,,,Confirmado,-20.9406151208,-70.041538352
+15333,21-04-2020,1.0,Chile,Tarapacá,,,,Iquique,,,Confirmado,-20.9406151208,-70.041538352
+15334,21-04-2020,1.0,Chile,Tarapacá,,,,Iquique,,,Confirmado,-20.9406151208,-70.041538352
+15335,21-04-2020,1.0,Chile,Tarapacá,,,,Iquique,,,Confirmado,-20.9406151208,-70.041538352
+15336,21-04-2020,1.0,Chile,Tarapacá,,,,Alto Hospicio,,,Confirmado,-20.1899464527,-70.0109621438
+15337,21-04-2020,1.0,Chile,Tarapacá,,,,Alto Hospicio,,,Confirmado,-20.1899464527,-70.0109621438
+15338,21-04-2020,1.0,Chile,Tarapacá,,,,Alto Hospicio,,,Confirmado,-20.1899464527,-70.0109621438
+15339,21-04-2020,1.0,Chile,Tarapacá,,,,Alto Hospicio,,,Confirmado,-20.1899464527,-70.0109621438
+15340,21-04-2020,1.0,Chile,Tarapacá,,,,Alto Hospicio,,,Confirmado,-20.1899464527,-70.0109621438
+15341,21-04-2020,1.0,Chile,Tarapacá,,,,Pica,,,Confirmado,-20.4789531968,-68.9122031293
+15342,21-04-2020,1.0,Chile,Tarapacá,,,,Pica,,,Confirmado,-20.4789531968,-68.9122031293
 15343,21-04-2020,2.0,Chile,Antofagasta,,,,Antofagasta,,,Confirmado,-24.2767223957,-69.4100886557
 15344,21-04-2020,2.0,Chile,Antofagasta,,,,Antofagasta,,,Confirmado,-24.2767223957,-69.4100886557
 15345,21-04-2020,2.0,Chile,Antofagasta,,,,Antofagasta,,,Confirmado,-24.2767223957,-69.4100886557
@@ -15369,21 +15369,21 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 15368,21-04-2020,2.0,Chile,Antofagasta,,,,Calama,,,Confirmado,-22.1621189149,-68.6297098246
 15369,21-04-2020,2.0,Chile,Antofagasta,,,,Calama,,,Confirmado,-22.1621189149,-68.6297098246
 15370,21-04-2020,2.0,Chile,Antofagasta,,,,Calama,,,Confirmado,-22.1621189149,-68.6297098246
-15371,21-04-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
-15372,21-04-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
-15373,21-04-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
-15374,21-04-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
-15375,21-04-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
-15376,21-04-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
-15377,21-04-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
-15378,21-04-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
-15379,21-04-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
-15380,21-04-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
-15381,21-04-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
-15382,21-04-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
-15383,21-04-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
-15384,21-04-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
-15385,21-04-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+15371,21-04-2020,5.0,Chile,Valparaíso,Masculino,43.0,,Viña del Mar,,,Confirmado,-33.0288002963,-71.5154312157
+15372,21-04-2020,5.0,Chile,Valparaíso,Femenino,44.0,,Viña del Mar,,,Confirmado,-33.0288002963,-71.5154312157
+15373,21-04-2020,5.0,Chile,Valparaíso,Masculino,24.0,,Viña del Mar,,,Confirmado,-33.0288002963,-71.5154312157
+15374,21-04-2020,5.0,Chile,Valparaíso,Femenino,43.0,IST Viña del Mar,Quilpue,,,Confirmado,-32.4993565791,-70.8915740187
+15375,21-04-2020,5.0,Chile,Valparaíso,Masculino,59.0,IST Viña del Mar,Viña del Mar,,,Confirmado,-33.0288002963,-71.5154312157
+15376,21-04-2020,5.0,Chile,Valparaíso,Masculino,42.0,,Limache,,,Confirmado,-33.0307721107,-71.2789117691
+15377,21-04-2020,5.0,Chile,Valparaíso,Masculino,39.0,,Quintero,,,Confirmado,-32.8431808329,-71.4732304592
+15378,21-04-2020,5.0,Chile,Valparaíso,Masculino,30.0,,Quilpue,,,Confirmado,-32.4993565791,-70.8915740187
+15379,21-04-2020,5.0,Chile,Valparaíso,Femenino,57.0,Hospital Gustavo Fricke,Viña del Mar,,,Confirmado,-33.0288002963,-71.5154312157
+15380,21-04-2020,5.0,Chile,Valparaíso,Masculino,32.0,Laboratorio Endoclin,Valparaíso,,,Confirmado,-32.9978836561,-71.7533398553
+15381,21-04-2020,5.0,Chile,Valparaíso,Femenino,46.0,Posta Salud rural de Cuncumen ,San Antonio,,,Confirmado,-33.6671475155,-71.4869305281
+15382,21-04-2020,5.0,Chile,Valparaíso,Femenino,34.0,Hospital Claudio Vicuña,San Antonio,,,Confirmado,-33.6671475155,-71.4869305281
+15383,21-04-2020,5.0,Chile,Valparaíso,Masculino,42.0,Hospital Claudio Vicuña,San Antonio,,,Confirmado,-33.6671475155,-71.4869305281
+15384,21-04-2020,5.0,Chile,Valparaíso,Femenino,53.0,Posta Salud rural de Cuncumen ,San Antonio,,,Confirmado,-33.6671475155,-71.4869305281
+15385,21-04-2020,5.0,Chile,Valparaíso,Femenino,9.0,CESFAM El Quisco,El Quisco,,,Confirmado,-33.4150669686,-71.651188756
 15386,21-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
 15387,21-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
 15388,21-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
@@ -15542,13 +15542,13 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 15541,21-04-2020,7.0,Chile,Maule,,,,Curicó,,,Confirmado,-35.198494361,-70.8973707757
 15542,21-04-2020,7.0,Chile,Maule,,,,Constitución,,,Confirmado,-35.3630360324,-72.2757990108
 15543,21-04-2020,7.0,Chile,Maule,,,,Longaví,,,Confirmado,-36.1104406227,-71.4419609374
-15544,21-04-2020,16.0,Chile,Ñuble,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
-15545,21-04-2020,16.0,Chile,Ñuble,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
-15546,21-04-2020,16.0,Chile,Ñuble,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
-15547,21-04-2020,16.0,Chile,Ñuble,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
-15548,21-04-2020,16.0,Chile,Ñuble,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
-15549,21-04-2020,16.0,Chile,Ñuble,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
-15550,21-04-2020,16.0,Chile,Ñuble,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+15544,21-04-2020,16.0,Chile,Ñuble,,,,Chillán,,,Confirmado,-36.6174916649,-72.1287244312
+15545,21-04-2020,16.0,Chile,Ñuble,,,,Chillán,,,Confirmado,-36.6174916649,-72.1287244312
+15546,21-04-2020,16.0,Chile,Ñuble,,,,Bulnés,,,Confirmado,-37.3539275137,-72.2634281286
+15547,21-04-2020,16.0,Chile,Ñuble,,,,Chillán Viejo,,,Confirmado,-36.6803542471,-72.1988051799
+15548,21-04-2020,16.0,Chile,Ñuble,,,,Chillán Viejo,,,Confirmado,-36.6803542471,-72.1988051799
+15549,21-04-2020,16.0,Chile,Ñuble,,,,Ranquill,,,Confirmado,-37.3539275137,-72.2634281286
+15550,21-04-2020,16.0,Chile,Ñuble,,,,Quirihue,,,Confirmado,-36.2355993306,-72.5436475817
 15551,21-04-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
 15552,21-04-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
 15553,21-04-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
@@ -15619,39 +15619,39 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 15618,21-04-2020,10.0,Chile,Los Lagos,,,,Osorno,,,Confirmado,-40.6118925181,-73.0867453662
 15619,21-04-2020,10.0,Chile,Los Lagos,,,,Osorno,,,Confirmado,-40.6118925181,-73.0867453662
 15620,21-04-2020,10.0,Chile,Los Lagos,,,,Osorno,,,Confirmado,-40.6118925181,-73.0867453662
-15621,21-04-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
-15622,21-04-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
-15623,21-04-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
-15624,21-04-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
-15625,21-04-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
-15626,21-04-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
-15627,21-04-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
-15628,21-04-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
-15629,21-04-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
-15630,21-04-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
-15631,21-04-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
-15632,21-04-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
-15633,21-04-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
-15634,21-04-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
-15635,21-04-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
-15636,21-04-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
-15637,21-04-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
-15638,21-04-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
-15639,21-04-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
-15640,21-04-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
-15641,21-04-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
-15642,21-04-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
-15643,21-04-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
-15644,21-04-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
-15645,21-04-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
-15646,21-04-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
-15647,21-04-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
-15648,21-04-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Muerte,-32.4993565791,-70.8915740187
+15621,21-04-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
+15622,21-04-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
+15623,21-04-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
+15624,21-04-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
+15625,21-04-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
+15626,21-04-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
+15627,21-04-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
+15628,21-04-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
+15629,21-04-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
+15630,21-04-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
+15631,21-04-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
+15632,21-04-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
+15633,21-04-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
+15634,21-04-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
+15635,21-04-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
+15636,21-04-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
+15637,21-04-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
+15638,21-04-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
+15639,21-04-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
+15640,21-04-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
+15641,21-04-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
+15642,21-04-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
+15643,21-04-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
+15644,21-04-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
+15645,21-04-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
+15646,21-04-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
+15647,21-04-2020,12.0,Chile,Magallanes,,,,Puerto Natales,,,Confirmado,-52.2809432987,-70.0516354499
+15648,21-04-2020,5.0,Chile,Valparaíso,Femenino,89.0,Hospital Naval Almirante NEF,Viña del Mar,,,Muerte,-33.0288002963,-71.5154312157
 15649,21-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
 15650,21-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
 15651,21-04-2020,6.0,Chile,O’Higgins,Masculino,26.0,Clínica Isamédica de Rancagua,Rancagua,,,Muerte,-34.1257615173,-70.816747872
 15652,21-04-2020,8.0,Chile,Biobío,Masculino,56.0,,Concepción,,,Muerte,-36.8343032785,-72.9508292392
-15653,21-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Muerte,-38.6482295784,-72.276375641
+15653,21-04-2020,9.0,Chile,La Araucanía,Masculino,56.0,Hospital Dr. Mauricio Heyermann,Collipulli,,,Muerte,-38.026440001,-72.1247823882
 15654,21-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Muerte,-38.6482295784,-72.276375641
 15655,21-04-2020,12.0,Chile,Magallanes,,,,No Informado,,,Muerte,-52.2809432987,-70.0516354499
 15656,21-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
