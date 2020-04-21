@@ -4091,7 +4091,7 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 4090,03-04-2020,12.0,Chile,Magallanes,,,,Natales,,,Confirmado,-50.647579808,-73.9834575532
 4091,03-04-2020,13.0,Chile,Metropolitana,,87.0,,Santiago,,,Muerte,-33.4537511827,-70.6569543965
 4092,03-04-2020,13.0,Chile,Metropolitana,,70.0,,Santiago,,,Muerte,-33.4537511827,-70.6569543965
-4093,03-04-2020,12.0,Chile,Magallanes,Femenino,86.0,Hospital Clinico de Magallanes,Punta Arenas,,,Muerte,-53.6467902489,-72.0254461498
+4093,03-04-2020,12.0,Chile,Magallanes,Femenino,86.0,Hospital Clínico de Magallanes,Punta Arenas,,,Muerte,-53.6467902489,-72.0254461498
 4094,03-04-2020,16.0,Chile,Ñuble,Masculino,79.0,Hospital Clínico Herminda Martin,Chillán,,,Muerte,-36.6174916649,-72.1287244312
 4095,03-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
 4096,03-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
@@ -15653,7 +15653,7 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 15652,21-04-2020,8.0,Chile,Biobío,Masculino,56.0,,Concepción,,,Muerte,-36.8343032785,-72.9508292392
 15653,21-04-2020,9.0,Chile,La Araucanía,Masculino,56.0,Hospital Dr. Mauricio Heyermann,Collipulli,,,Muerte,-38.026440001,-72.1247823882
 15654,21-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Muerte,-38.6482295784,-72.276375641
-15655,21-04-2020,12.0,Chile,Magallanes,,,,No Informado,,,Muerte,-52.2809432987,-70.0516354499
+15655,21-04-2020,12.0,Chile,Magallanes,Masculino,58.0,Hospital Clínico de Magallanes,Punta Arenas,,,Muerte,-53.6467902489,-72.0254461498
 15656,21-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
 15657,21-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
 15658,21-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
