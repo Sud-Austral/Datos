@@ -15384,34 +15384,34 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 15383.0,21-04-2020,5.0,Chile,Valparaíso,Masculino,42.0,Hospital Claudio Vicuña,San Antonio,,,Confirmado,-33.6671475155,-71.4869305281
 15384.0,21-04-2020,5.0,Chile,Valparaíso,Femenino,53.0,Posta Salud rural de Cuncumen ,San Antonio,,,Confirmado,-33.6671475155,-71.4869305281
 15385.0,21-04-2020,5.0,Chile,Valparaíso,Femenino,9.0,CESFAM de El Quisco,El Quisco,,,Confirmado,-33.4150669686,-71.651188756
-15386.0,21-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-15387.0,21-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-15388.0,21-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-15389.0,21-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-15390.0,21-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-15391.0,21-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-15392.0,21-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-15393.0,21-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-15394.0,21-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-15395.0,21-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-15396.0,21-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-15397.0,21-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-15398.0,21-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-15399.0,21-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-15400.0,21-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-15401.0,21-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-15402.0,21-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-15403.0,21-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-15404.0,21-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-15405.0,21-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-15406.0,21-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-15407.0,21-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-15408.0,21-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-15409.0,21-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-15410.0,21-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-15411.0,21-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-15412.0,21-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-15413.0,21-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+15386.0,21-04-2020,13.0,Chile,Metropolitana,,,,Buin,,,Confirmado,-33.7480620996,-70.7389422429
+15387.0,21-04-2020,13.0,Chile,Metropolitana,,,,Maipú,,,Confirmado,-33.5069808741,-70.8097575548
+15388.0,21-04-2020,13.0,Chile,Metropolitana,,,,Maipú,,,Confirmado,-33.5069808741,-70.8097575548
+15389.0,21-04-2020,13.0,Chile,Metropolitana,,,,Maipú,,,Confirmado,-33.5069808741,-70.8097575548
+15390.0,21-04-2020,13.0,Chile,Metropolitana,,,,Maipú,,,Confirmado,-33.5069808741,-70.8097575548
+15391.0,21-04-2020,13.0,Chile,Metropolitana,,,,Maipú,,,Confirmado,-33.5069808741,-70.8097575548
+15392.0,21-04-2020,13.0,Chile,Metropolitana,,,,Maipú,,,Confirmado,-33.5069808741,-70.8097575548
+15393.0,21-04-2020,13.0,Chile,Metropolitana,,,,Maipú,,,Confirmado,-33.5069808741,-70.8097575548
+15394.0,21-04-2020,13.0,Chile,Metropolitana,,,,Maipú,,,Confirmado,-33.5069808741,-70.8097575548
+15395.0,21-04-2020,13.0,Chile,Metropolitana,,,,Maipú,,,Confirmado,-33.5069808741,-70.8097575548
+15396.0,21-04-2020,13.0,Chile,Metropolitana,,,,Maipú,,,Confirmado,-33.5069808741,-70.8097575548
+15397.0,21-04-2020,13.0,Chile,Metropolitana,,,,Maipú,,,Confirmado,-33.5069808741,-70.8097575548
+15398.0,21-04-2020,13.0,Chile,Metropolitana,,,,Maipú,,,Confirmado,-33.5069808741,-70.8097575548
+15399.0,21-04-2020,13.0,Chile,Metropolitana,,,,Maipú,,,Confirmado,-33.5069808741,-70.8097575548
+15400.0,21-04-2020,13.0,Chile,Metropolitana,,,,Maipú,,,Confirmado,-33.5069808741,-70.8097575548
+15401.0,21-04-2020,13.0,Chile,Metropolitana,,,,Maipú,,,Confirmado,-33.5069808741,-70.8097575548
+15402.0,21-04-2020,13.0,Chile,Metropolitana,,,,Maipú,,,Confirmado,-33.5069808741,-70.8097575548
+15403.0,21-04-2020,13.0,Chile,Metropolitana,,,,Maipú,,,Confirmado,-33.5069808741,-70.8097575548
+15404.0,21-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
+15405.0,21-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
+15406.0,21-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
+15407.0,21-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
+15408.0,21-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
+15409.0,21-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
+15410.0,21-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
+15411.0,21-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
+15412.0,21-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
+15413.0,21-04-2020,13.0,Chile,Metropolitana,,,,Renca,,,Confirmado,-33.4019186431,-70.727935172
 15414.0,21-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
 15415.0,21-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
 15416.0,21-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
