@@ -26,6 +26,11 @@ def UpdateDatabase():
     except:
         print("Error a cargar nuevos datos minsal")
     try:
+        guardarDataCovid()
+        print("Cargar datos de la organización completo...")
+    except:
+        print("Error a cargar datos de la organización")
+    try:
         bingNews()
         print("Bing News completo...")
     except:
@@ -883,6 +888,44 @@ def organizarMinCienciaInput():
     
     return
 #************************************Actualizar organizarMinCienciaInput*******************************************
+#************************************Actualizar Datos de la organizacion*******************************************
+def guardarDataCovid():
+    url = "https://onedrive.live.com/download?cid=9f999e057ad8c646&page=view&resid=9F999E057AD8C646!62342&parId=9F999E057AD8C646!62390&authkey=!AgJICaWKd7tHakw&app=Excel"
+    urllib.request.urlretrieve(url, "datacovidChile/BASE CALCULO COMUNA.xlsx")
+
+    url = "https://onedrive.live.com/download?cid=9f999e057ad8c646&page=view&resid=9F999E057AD8C646!62359&parId=9F999E057AD8C646!62390&authkey=!AgJICaWKd7tHakw&app=Excel"
+    urllib.request.urlretrieve(url, "datacovidChile/casos por comuna listos.xlsx")
+
+    url = "https://onedrive.live.com/download?cid=9f999e057ad8c646&page=view&resid=9F999E057AD8C646!62361&parId=9F999E057AD8C646!62390&authkey=!AgJICaWKd7tHakw&app=Excel"
+    urllib.request.urlretrieve(url, "datacovidChile/Covid Chile V2.xlsx")
+
+
+    url = "https://onedrive.live.com/download?cid=9f999e057ad8c646&page=view&resid=9F999E057AD8C646!62377&parId=9F999E057AD8C646!62371&authkey=!Au8PrBa4C6_6k_M&app=Excel"
+    urllib.request.urlretrieve(url, "datacovidhn/00 DATACOVID Trabajo_HN.xlsx")
+
+    url = "https://onedrive.live.com/download?cid=9f999e057ad8c646&page=view&resid=9F999E057AD8C646!62380&parId=9F999E057AD8C646!62371&authkey=!Au8PrBa4C6_6k_M&app=Excel"
+    urllib.request.urlretrieve(url, "datacovidhn/00 DATACOVID_HN_CUARENTENA.xlsx")
+
+    url = "https://onedrive.live.com/download?cid=9f999e057ad8c646&page=view&resid=9F999E057AD8C646!62388&parId=9F999E057AD8C646!62371&authkey=!Au8PrBa4C6_6k_M&app=Excel"
+    urllib.request.urlretrieve(url, "datacovidhn/ALIMENTACION_HN.xlsx")
+
+    url = "https://onedrive.live.com/download?cid=9f999e057ad8c646&page=view&resid=9F999E057AD8C646!62372&parId=9F999E057AD8C646!62371&authkey=!Au8PrBa4C6_6k_M&app=Excel"
+    urllib.request.urlretrieve(url, "datacovidhn/Covid HN.xlsx")
+
+    url = "https://onedrive.live.com/download?cid=9f999e057ad8c646&page=view&resid=9F999E057AD8C646!62386&parId=9F999E057AD8C646!62371&authkey=!Au8PrBa4C6_6k_M&app=Excel"
+    urllib.request.urlretrieve(url, "datacovidhn/FARMACIAS_HN.xlsx")
+
+    url = "https://onedrive.live.com/download?cid=9f999e057ad8c646&page=view&resid=9F999E057AD8C646!62378&parId=9F999E057AD8C646!62371&authkey=!Au8PrBa4C6_6k_M&app=Excel"
+    urllib.request.urlretrieve(url, "datacovidhn/LOCALIZA HN.xlsx")
+
+    url = "https://onedrive.live.com/download?cid=9f999e057ad8c646&page=view&resid=9F999E057AD8C646!62384&parId=9F999E057AD8C646!62371&authkey=!Au8PrBa4C6_6k_M&app=Excel"
+    urllib.request.urlretrieve(url, "datacovidhn/SALUD_HN.xlsx")
+
+    url = "https://onedrive.live.com/download?cid=9f999e057ad8c646&page=view&resid=9F999E057AD8C646!62381&parId=9F999E057AD8C646!62371&authkey=!Au8PrBa4C6_6k_M&app=Excel"
+    urllib.request.urlretrieve(url, "datacovidhn/Tabla_INSTALACIONES_Honduras_v1.xlsx")
+    
+    return
+#************************************Actualizar Datos de la organizacion*******************************************
 
 
 
