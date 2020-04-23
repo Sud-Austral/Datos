@@ -16871,20 +16871,20 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 16870.0,23-04-2020,15.0,Chile,Arica y Parinacota,,,,Arica,,,Confirmado,-18.5321930844,-69.9714910871
 16871.0,23-04-2020,15.0,Chile,Arica y Parinacota,,,,Arica,,,Confirmado,-18.5321930844,-69.9714910871
 16872.0,23-04-2020,15.0,Chile,Arica y Parinacota,,,,Arica,,,Confirmado,-18.5321930844,-69.9714910871
-16873.0,23-04-2020,1.0,Chile,Tarapacá,,,,,,,Confirmado,-20.2133874287,-69.3928397127
-16874.0,23-04-2020,1.0,Chile,Tarapacá,,,,,,,Confirmado,-20.2133874287,-69.3928397127
-16875.0,23-04-2020,1.0,Chile,Tarapacá,,,,,,,Confirmado,-20.2133874287,-69.3928397127
-16876.0,23-04-2020,1.0,Chile,Tarapacá,,,,,,,Confirmado,-20.2133874287,-69.3928397127
-16877.0,23-04-2020,1.0,Chile,Tarapacá,,,,,,,Confirmado,-20.2133874287,-69.3928397127
-16878.0,23-04-2020,1.0,Chile,Tarapacá,,,,,,,Confirmado,-20.2133874287,-69.3928397127
-16879.0,23-04-2020,1.0,Chile,Tarapacá,,,,,,,Confirmado,-20.2133874287,-69.3928397127
-16880.0,23-04-2020,1.0,Chile,Tarapacá,,,,,,,Confirmado,-20.2133874287,-69.3928397127
-16881.0,23-04-2020,1.0,Chile,Tarapacá,,,,,,,Confirmado,-20.2133874287,-69.3928397127
-16882.0,23-04-2020,1.0,Chile,Tarapacá,,,,,,,Confirmado,-20.2133874287,-69.3928397127
-16883.0,23-04-2020,1.0,Chile,Tarapacá,,,,,,,Confirmado,-20.2133874287,-69.3928397127
-16884.0,23-04-2020,1.0,Chile,Tarapacá,,,,,,,Confirmado,-20.2133874287,-69.3928397127
-16885.0,23-04-2020,1.0,Chile,Tarapacá,,,,,,,Confirmado,-20.2133874287,-69.3928397127
-16886.0,23-04-2020,1.0,Chile,Tarapacá,,,,,,,Confirmado,-20.2133874287,-69.3928397127
+16873.0,23-04-2020,1.0,Chile,Tarapacá,,,,Iquique,,,Confirmado,-20.9406151208,-70.041538352
+16874.0,23-04-2020,1.0,Chile,Tarapacá,,,,Iquique,,,Confirmado,-20.9406151208,-70.041538352
+16875.0,23-04-2020,1.0,Chile,Tarapacá,,,,Iquique,,,Confirmado,-20.9406151208,-70.041538352
+16876.0,23-04-2020,1.0,Chile,Tarapacá,,,,Iquique,,,Confirmado,-20.9406151208,-70.041538352
+16877.0,23-04-2020,1.0,Chile,Tarapacá,,,,Iquique,,,Confirmado,-20.9406151208,-70.041538352
+16878.0,23-04-2020,1.0,Chile,Tarapacá,,,,Iquique,,,Confirmado,-20.9406151208,-70.041538352
+16879.0,23-04-2020,1.0,Chile,Tarapacá,,,,Iquique,,,Confirmado,-20.9406151208,-70.041538352
+16880.0,23-04-2020,1.0,Chile,Tarapacá,,,,Iquique,,,Confirmado,-20.9406151208,-70.041538352
+16881.0,23-04-2020,1.0,Chile,Tarapacá,,,,Iquique,,,Confirmado,-20.9406151208,-70.041538352
+16882.0,23-04-2020,1.0,Chile,Tarapacá,,,,Iquique,,,Confirmado,-20.9406151208,-70.041538352
+16883.0,23-04-2020,1.0,Chile,Tarapacá,,,,Iquique,,,Confirmado,-20.9406151208,-70.041538352
+16884.0,23-04-2020,1.0,Chile,Tarapacá,,,,Alto Hospicio,,,Confirmado,-20.1899464527,-70.0109621438
+16885.0,23-04-2020,1.0,Chile,Tarapacá,,,,Alto Hospicio,,,Confirmado,-20.1899464527,-70.0109621438
+16886.0,23-04-2020,1.0,Chile,Tarapacá,,,,Alto Hospicio,,,Confirmado,-20.1899464527,-70.0109621438
 16887.0,23-04-2020,2.0,Chile,Antofagasta,,,,Antofagasta,,,Confirmado,-24.2767223957,-69.4100886557
 16888.0,23-04-2020,2.0,Chile,Antofagasta,,,,Antofagasta,,,Confirmado,-24.2767223957,-69.4100886557
 16889.0,23-04-2020,2.0,Chile,Antofagasta,,,,Antofagasta,,,Confirmado,-24.2767223957,-69.4100886557
@@ -16904,14 +16904,14 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 16903.0,23-04-2020,3.0,Chile,Atacama,Femenino,25.0,,Vallenar,,,Confirmado,-28.5932109853,-70.6017299627
 16904.0,23-04-2020,3.0,Chile,Atacama,Femenino,,,Vallenar,,,Confirmado,-28.5932109853,-70.6017299627
 16905.0,23-04-2020,3.0,Chile,Atacama,Masculino,68.0,,Tierra Amarilla,,,Confirmado,-27.8635434,-69.670693015
-16906.0,23-04-2020,5.0,Chile,Valparaíso,Masculino,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
-16907.0,23-04-2020,5.0,Chile,Valparaíso,Masculino,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
-16908.0,23-04-2020,5.0,Chile,Valparaíso,Femenino,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
-16909.0,23-04-2020,5.0,Chile,Valparaíso,Femenino,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
-16910.0,23-04-2020,5.0,Chile,Valparaíso,Masculino,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
-16911.0,23-04-2020,5.0,Chile,Valparaíso,Femenino,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
-16912.0,23-04-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
-16913.0,23-04-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+16906.0,23-04-2020,5.0,Chile,Valparaíso,Masculino,,,Concón,,,Confirmado,-32.9532977141,-71.4678670083
+16907.0,23-04-2020,5.0,Chile,Valparaíso,Masculino,,,Concón,,,Confirmado,-32.9532977141,-71.4678670083
+16908.0,23-04-2020,5.0,Chile,Valparaíso,Femenino,,,San Antonio,,,Confirmado,-33.6671475155,-71.4869305281
+16909.0,23-04-2020,5.0,Chile,Valparaíso,Femenino,,,Quintero,,,Confirmado,-32.8431808329,-71.4732304592
+16910.0,23-04-2020,5.0,Chile,Valparaíso,Masculino,,,Quintero,,,Confirmado,-32.8431808329,-71.4732304592
+16911.0,23-04-2020,5.0,Chile,Valparaíso,Femenino,,,Quilpué,,,Confirmado,-33.1473777099,-71.2540917137
+16912.0,23-04-2020,5.0,Chile,Valparaíso,Masculino,,,Valparaíso,,,Confirmado,-32.9978836561,-71.7533398553
+16913.0,23-04-2020,5.0,Chile,Valparaíso,Femenino,,,San Antonio,,,Confirmado,-33.6671475155,-71.4869305281
 16914.0,23-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
 16915.0,23-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
 16916.0,23-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
