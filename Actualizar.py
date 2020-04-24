@@ -24,7 +24,7 @@ def UpdateDatabase():
         descargarProductos()
         print("Productos avanzados completos...")
     except:
-        print()
+        print("Error a cargar productos avanzados")
     try:
         organizarMinCienciaInput()
         print("Nuevos datos minsal completo...")
