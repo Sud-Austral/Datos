@@ -21,6 +21,11 @@ import http.client, urllib.request, urllib.parse, urllib.error, base64
 def UpdateDatabase():
     print("Comenzo...")
     try:
+        descargarProductos()
+        print("Productos avanzados completos...")
+    except:
+        print()
+    try:
         organizarMinCienciaInput()
         print("Nuevos datos minsal completo...")
     except:
@@ -932,6 +937,20 @@ def guardarDataCovid():
     
     return
 #************************************Actualizar Datos de la organizacion*******************************************
+#************************************Actualizar Datos Productos avanzados*******************************************
+def descargarProductos():
+    archivos = [
+                "producto19/CasosActivosPorComuna.csv",
+                "producto20/NumeroVentiladores.csv",
+                "producto21/SintomasHospitalizados.csv",
+                "producto21/SintomasCasosConfirmados.csv",
+                "producto24/CamasHospital_Diario.csv"                
+                ]
+    url = "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/"
+    for i in archivos:
+        pd.read_csv(url + i).to_csv("Chile/MinCiencia/Productos/" + i.replace("/","-"), index=False)
+    return
+#************************************Actualizar Datos Productos avanzados*******************************************
 
 
 
