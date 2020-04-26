@@ -26,7 +26,7 @@ def UpdateDatabase():
     except:
         print("Error a cargar productos avanzados")
     try:
-        organizarMinCienciaInput()
+        #organizarMinCienciaInput()
         print("Nuevos datos minsal completo...")
     except:
         print("Error a cargar nuevos datos minsal")
