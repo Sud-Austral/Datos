@@ -120,6 +120,7 @@ def UpdateDatabase():
         print("KoBoToolbox completo...")
     except:
         print("Error a cargar a KoBoToolbox") 
+    gc.collect()
     return
 #************************************Actualizar Database**************************************************
 
