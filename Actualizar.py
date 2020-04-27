@@ -35,6 +35,11 @@ def UpdateDatabase():
         print("Productos avanzados completos...")
     except:
         print("Error a cargar productos avanzados")
+    try:
+        minSal3Carpeta()
+        print("3 carpetas del MinSal completos...")
+    except:
+        print("Error al cargar 3 carpetas del MinSal")
     #try:
     #    organizarMinCienciaInput()
     #    print("Nuevos datos minsal completo...")
@@ -1063,3 +1068,39 @@ def datasetFinalTweet():
 #tweepy.Cursor(api.mentions_timeline, user_id=user_id, count=200).items()
 #######https://developer.twitter.com/en/docs/tweets/data-dictionary/overview/tweet-object
 #************************************Actualizar Datos Twiter*******************************************
+#************************************Actualizar Datos MinSal 3 carpetas*******************************************
+def minSal3Carpeta():
+    minsalud = [
+        #InformeEpidemiologico
+        "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/InformeEpidemiologico/CasosActivosPorComuna.csv",
+        "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/InformeEpidemiologico/CasosActualesPorComuna.csv",
+        "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/InformeEpidemiologico/CasosAcumuladosPorComuna.csv",
+        "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/InformeEpidemiologico/CasosGeneroEtario.csv",
+        "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/InformeEpidemiologico/FechaInicioSintomas.csv",
+        "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/InformeEpidemiologico/SemanasEpidemiologicas.csv",
+        "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/InformeEpidemiologico/Tasadeincidencia.csv",
+        #InformeSituacionCOVID19
+        "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/InformeSituacionCOVID19/HospitalizadosEtario_Acumulado_Post20200422.csv",
+        "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/InformeSituacionCOVID19/HospitalizadosGeneroEtario_Acumulado.csv",
+        "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/InformeSituacionCOVID19/HospitalizadosUCI_Acumulado.csv",
+        "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/InformeSituacionCOVID19/HospitalizadosUCI_Acumulado_Post20200422.csv",
+        "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/InformeSituacionCOVID19/SintomasCasosConfirmados.csv",
+        "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/InformeSituacionCOVID19/SintomasHospitalizados.csv",
+        #
+        "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/ReporteDiario/CamasHospital_Diario.csv",
+        "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/ReporteDiario/FallecidosEtario.csv",
+        "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/ReporteDiario/HospitalizadosUCIEtario.csv",
+        "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/ReporteDiario/NumeroVentiladores.csv",
+        "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/ReporteDiario/PCR.csv",
+        "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/ReporteDiario/PCREstablecimiento.csv",
+        "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/ReporteDiario/PacientesCriticos.csv",
+        "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/ReporteDiario/UCI.csv"
+        ]
+    ruta = "Chile/MinCiencia/Input-minCiencia/"
+    #ruta = ""
+    for i in minsalud:
+        data = pd.read_csv(i)
+        archivo = ruta + i.split("/")[-2] + "/" + i.split("/")[-1]
+        data.to_csv(archivo, index=False)
+        #print(i.split("/")[-2] + "/" + i.split("/")[-1])
+#************************************Actualizar Datos MinSal 3 carpetas*******************************************
