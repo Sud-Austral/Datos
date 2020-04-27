@@ -35,11 +35,11 @@ def UpdateDatabase():
         print("Productos avanzados completos...")
     except:
         print("Error a cargar productos avanzados")
-    try:
-        organizarMinCienciaInput()
-        print("Nuevos datos minsal completo...")
-    except:
-        print("Error a cargar nuevos datos minsal")
+    #try:
+    #    organizarMinCienciaInput()
+    #    print("Nuevos datos minsal completo...")
+    #except:
+    #    print("Error a cargar nuevos datos minsal")
     try:
         guardarDataCovid()
         print("Cargar datos de la organización completo...")
