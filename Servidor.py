@@ -44,11 +44,6 @@ def UpdateDatabase():
     except:
         print("Error al cargar 3 carpetas del MinSal")
     gc.collect()
-    #try:
-    #    organizarMinCienciaInput()
-    #    print("Nuevos datos minsal completo...")
-    #except:
-    #    print("Error a cargar nuevos datos minsal")
     try:
         guardarDataCovid()
         print("Cargar datos de la organización completo...")
