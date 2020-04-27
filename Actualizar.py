@@ -21,6 +21,7 @@ from tweepy import OAuthHandler
 from tweepy import Stream
 import re
 import tweepy
+import gc
 #from datetime import datetime
 #************************************Actualizar Database**************************************************
 def UpdateDatabase():
@@ -30,16 +31,19 @@ def UpdateDatabase():
         print("Twiter completos...")
     except:
         print("Error a cargar Twiter")
+    gc.collect()
     try:
         descargarProductos()
         print("Productos avanzados completos...")
     except:
         print("Error a cargar productos avanzados")
+    gc.collect()
     try:
         minSal3Carpeta()
         print("3 carpetas del MinSal completos...")
     except:
         print("Error al cargar 3 carpetas del MinSal")
+    gc.collect()
     #try:
     #    organizarMinCienciaInput()
     #    print("Nuevos datos minsal completo...")
@@ -50,31 +54,37 @@ def UpdateDatabase():
         print("Cargar datos de la organización completo...")
     except:
         print("Error a cargar datos de la organización")
+    gc.collect()
     try:
         bingNews()
         print("Bing News completo...")
     except:
         print("Error a cargar a Bing News")
+    gc.collect()
     try:
         minsal()
         print("Minsal completo...")
     except:
         print("Error a cargar a Minsal")
+    gc.collect()
     try:
         Farmacias()
         print("Farmacias completo...")
     except:
         print("Error a cargar a Farmacias")
+    gc.collect()
     try:
         Chile()    
         print("Chile completo...")
     except:
         print("Error a cargar a Chile")
+    gc.collect()
     try:
         johnsHopkinsCovid19Diario()
         print("Hopkins diario completo...")
     except:
         print("Error a cargar a Hopkins diario")
+    gc.collect()
     try:
         johnsHopkinsCovid19Series()
         print("Hopkins serie (acumulado) completo...")
