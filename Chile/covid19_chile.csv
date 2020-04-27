@@ -20610,418 +20610,730 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 20609,27-04-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
 20610,27-04-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
 20611,27-04-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
-20612,27-04-2020,,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20613,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20614,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20615,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20616,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20617,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20618,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20619,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20620,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20621,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20622,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20623,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20624,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20625,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20626,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20627,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20628,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20629,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20630,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20631,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20632,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20633,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20634,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20635,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20636,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20637,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20638,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20639,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20640,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20641,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20642,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20643,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20644,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20645,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20646,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20647,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20648,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20649,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20650,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20651,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20652,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20653,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20654,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20655,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20656,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20657,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20658,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20659,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20660,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20661,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20662,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20663,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20664,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20665,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20666,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20667,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20668,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20669,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20670,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20671,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20672,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20673,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20674,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20675,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20676,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20677,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20678,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20679,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20680,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20681,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20682,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20683,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20684,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20685,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20686,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20687,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20688,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20689,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20690,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20691,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20692,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20693,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20694,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20695,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20696,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20697,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20698,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20699,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20700,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20701,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20702,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20703,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20704,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20705,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20706,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20707,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20708,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20709,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20710,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20711,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20712,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20713,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20714,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20715,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20716,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20717,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20718,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20719,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20720,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20721,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20722,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20723,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20724,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20725,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20726,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20727,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20728,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20729,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20730,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20731,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20732,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20733,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20734,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20735,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20736,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20737,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20738,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20739,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20740,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20741,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20742,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20743,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20744,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20745,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20746,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20747,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20748,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20749,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20750,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20751,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20752,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20753,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20754,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20755,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20756,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20757,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20758,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20759,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20760,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20761,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20762,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20763,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20764,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20765,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20766,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20767,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20768,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20769,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20770,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20771,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20772,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20773,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20774,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20775,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20776,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20777,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20778,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20779,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20780,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20781,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20782,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20783,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20784,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20785,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20786,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20787,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20788,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20789,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20790,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20791,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20792,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20793,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20794,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20795,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20796,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20797,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20798,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20799,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20800,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20801,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20802,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20803,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20804,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20805,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20806,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20807,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20808,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20809,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20810,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20811,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20812,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20813,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20814,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20815,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20816,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20817,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20818,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20819,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20820,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20821,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20822,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20823,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20824,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20825,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20826,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20827,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20828,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20829,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20830,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20831,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20832,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20833,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20834,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20835,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20836,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20837,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20838,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20839,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20840,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20841,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20842,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20843,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20844,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20845,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20846,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20847,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20848,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20849,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20850,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20851,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20852,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20853,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20854,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20855,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20856,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20857,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20858,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20859,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20860,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20861,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20862,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20863,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20864,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20865,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20866,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20867,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20868,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20869,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20870,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20871,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20872,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20873,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20874,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20875,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20876,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20877,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20878,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20879,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20880,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20881,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20882,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20883,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20884,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20885,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20886,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20887,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20888,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20889,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20890,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20891,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20892,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20893,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20894,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20895,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20896,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20897,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20898,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20899,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20900,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20901,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20902,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20903,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20904,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20905,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20906,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20907,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20908,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20909,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20910,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20911,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20912,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20913,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20914,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20915,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20916,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20917,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20918,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20919,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20920,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20921,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20922,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20923,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20924,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20925,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20926,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20927,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20928,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20929,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20930,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20931,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20932,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20933,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20934,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20935,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20936,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20937,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20938,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20939,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20940,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20941,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20942,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20943,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20944,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20945,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20946,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20947,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20948,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20949,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20950,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20951,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20952,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20953,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20954,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20955,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20956,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20957,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20958,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20959,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20960,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20961,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20962,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20963,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20964,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20965,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20966,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20967,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20968,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20969,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20970,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20971,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20972,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20973,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20974,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20975,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20976,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20977,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20978,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20979,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20980,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20981,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20982,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20983,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20984,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20985,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20986,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20987,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20988,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20989,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20990,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20991,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20992,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20993,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20994,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20995,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20996,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20997,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20998,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-20999,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-21000,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-21001,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-21002,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-21003,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-21004,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-21005,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-21006,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-21007,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-21008,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-21009,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-21010,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-21011,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-21012,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-21013,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-21014,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-21015,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-21016,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-21017,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-21018,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-21019,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-21020,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-21021,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-21022,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-21023,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-21024,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-21025,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-21026,27-04-2020,,Chile,,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20612,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20613,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20614,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20615,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20616,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20617,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20618,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20619,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20620,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20621,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20622,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20623,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20624,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20625,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20626,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20627,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20628,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20629,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20630,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20631,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20632,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20633,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20634,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20635,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20636,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20637,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20638,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20639,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20640,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20641,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20642,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20643,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20644,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20645,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20646,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20647,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20648,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20649,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20650,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20651,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20652,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20653,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20654,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20655,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20656,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20657,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20658,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20659,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20660,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20661,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20662,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20663,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20664,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20665,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20666,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20667,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20668,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20669,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20670,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20671,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20672,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20673,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20674,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20675,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20676,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20677,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20678,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20679,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20680,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20681,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20682,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20683,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20684,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20685,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20686,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20687,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20688,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20689,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20690,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20691,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20692,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20693,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20694,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20695,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20696,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20697,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20698,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20699,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20700,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20701,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20702,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20703,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20704,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20705,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20706,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20707,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20708,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20709,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20710,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20711,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20712,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20713,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20714,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20715,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20716,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20717,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20718,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20719,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20720,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20721,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20722,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20723,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20724,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20725,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20726,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20727,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20728,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20729,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20730,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20731,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20732,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20733,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20734,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20735,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20736,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20737,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20738,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20739,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20740,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20741,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20742,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20743,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20744,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20745,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20746,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20747,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20748,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20749,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20750,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20751,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20752,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20753,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20754,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20755,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20756,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20757,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20758,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20759,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20760,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20761,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20762,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20763,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20764,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20765,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20766,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20767,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20768,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20769,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20770,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20771,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20772,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20773,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20774,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20775,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20776,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20777,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20778,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20779,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20780,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20781,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20782,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20783,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20784,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20785,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20786,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20787,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20788,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20789,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20790,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20791,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20792,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20793,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20794,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20795,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20796,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20797,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20798,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20799,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20800,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20801,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20802,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20803,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20804,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20805,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20806,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20807,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20808,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20809,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20810,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20811,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20812,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20813,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20814,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20815,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20816,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20817,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20818,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20819,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20820,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20821,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20822,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20823,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20824,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20825,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20826,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20827,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20828,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20829,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20830,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20831,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20832,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20833,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20834,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20835,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20836,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20837,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20838,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20839,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20840,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20841,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20842,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20843,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20844,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20845,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20846,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20847,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20848,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20849,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20850,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20851,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20852,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20853,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20854,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20855,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20856,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20857,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20858,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20859,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20860,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20861,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20862,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20863,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20864,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20865,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20866,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20867,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20868,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20869,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20870,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20871,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20872,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20873,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20874,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20875,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20876,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20877,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20878,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20879,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20880,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20881,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20882,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20883,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20884,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20885,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20886,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20887,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20888,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20889,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20890,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20891,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20892,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20893,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20894,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20895,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20896,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20897,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20898,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20899,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20900,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20901,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20902,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20903,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20904,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20905,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20906,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20907,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20908,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20909,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20910,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20911,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20912,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20913,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20914,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20915,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20916,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20917,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20918,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20919,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20920,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20921,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20922,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20923,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20924,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20925,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20926,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20927,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20928,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20929,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20930,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20931,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20932,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20933,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20934,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20935,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20936,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20937,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20938,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20939,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20940,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20941,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20942,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20943,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20944,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20945,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20946,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20947,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20948,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20949,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20950,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20951,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20952,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20953,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20954,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20955,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20956,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20957,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20958,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20959,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20960,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20961,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20962,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20963,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20964,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20965,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20966,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20967,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20968,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20969,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20970,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20971,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20972,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20973,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20974,27-04-2020,6.0,Chile,O´Higgins,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20975,27-04-2020,6.0,Chile,O´Higgins,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+20976,27-04-2020,7.0,Chile,Maule,,,,No Informado,,,Confirmado,-35.6203720727,-71.4463212218
+20977,27-04-2020,7.0,Chile,Maule,,,,No Informado,,,Confirmado,-35.6203720727,-71.4463212218
+20978,27-04-2020,7.0,Chile,Maule,,,,No Informado,,,Confirmado,-35.6203720727,-71.4463212218
+20979,27-04-2020,7.0,Chile,Maule,,,,No Informado,,,Confirmado,-35.6203720727,-71.4463212218
+20980,27-04-2020,7.0,Chile,Maule,,,,No Informado,,,Confirmado,-35.6203720727,-71.4463212218
+20981,27-04-2020,7.0,Chile,Maule,,,,No Informado,,,Confirmado,-35.6203720727,-71.4463212218
+20982,27-04-2020,7.0,Chile,Maule,,,,No Informado,,,Confirmado,-35.6203720727,-71.4463212218
+20983,27-04-2020,7.0,Chile,Maule,,,,No Informado,,,Confirmado,-35.6203720727,-71.4463212218
+20984,27-04-2020,7.0,Chile,Maule,,,,No Informado,,,Confirmado,-35.6203720727,-71.4463212218
+20985,27-04-2020,16.0,Chile,Ñuble,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+20986,27-04-2020,16.0,Chile,Ñuble,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+20987,27-04-2020,16.0,Chile,Ñuble,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+20988,27-04-2020,16.0,Chile,Ñuble,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+20989,27-04-2020,16.0,Chile,Ñuble,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+20990,27-04-2020,16.0,Chile,Ñuble,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+20991,27-04-2020,16.0,Chile,Ñuble,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+20992,27-04-2020,16.0,Chile,Ñuble,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+20993,27-04-2020,16.0,Chile,Ñuble,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+20994,27-04-2020,16.0,Chile,Ñuble,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+20995,27-04-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+20996,27-04-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+20997,27-04-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+20998,27-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+20999,27-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+21000,27-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+21001,27-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+21002,27-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+21003,27-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+21004,27-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+21005,27-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+21006,27-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+21007,27-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+21008,27-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+21009,27-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+21010,27-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+21011,27-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+21012,27-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+21013,27-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+21014,27-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+21015,27-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+21016,27-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+21017,27-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+21018,27-04-2020,14.0,Chile,Los Ríos,,,,No Informado,,,Confirmado,-40.0034147045,-72.5764331101
+21019,27-04-2020,14.0,Chile,Los Ríos,,,,No Informado,,,Confirmado,-40.0034147045,-72.5764331101
+21020,27-04-2020,10.0,Chile,Los Lagos,,,,No Informado,,,Confirmado,-43.2683956584,-72.2068049418
+21021,27-04-2020,10.0,Chile,Los Lagos,,,,No Informado,,,Confirmado,-43.2683956584,-72.2068049418
+21022,27-04-2020,10.0,Chile,Los Lagos,,,,No Informado,,,Confirmado,-43.2683956584,-72.2068049418
+21023,27-04-2020,10.0,Chile,Los Lagos,,,,No Informado,,,Confirmado,-43.2683956584,-72.2068049418
+21024,27-04-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
+21025,27-04-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
+21026,27-04-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
+21027,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
+21028,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
+21029,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
+21030,27-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
+21031,27-04-2020,7.0,Chile,Maule,,,,No Informado,,,Muerte,-35.6203720727,-71.4463212218
+21032,27-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Muerte,-38.6482295784,-72.276375641
+21033,27-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Muerte,-38.6482295784,-72.276375641
+21034,27-04-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Muerte,-38.6482295784,-72.276375641
+21035,27-04-2020,12.0,Chile,Magallanes,,,,No Informado,,,Muerte,-52.2809432987,-70.0516354499
+21036,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21037,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21038,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21039,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21040,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21041,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21042,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21043,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21044,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21045,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21046,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21047,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21048,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21049,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21050,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21051,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21052,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21053,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21054,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21055,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21056,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21057,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21058,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21059,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21060,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21061,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21062,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21063,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21064,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21065,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21066,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21067,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21068,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21069,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21070,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21071,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21072,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21073,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21074,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21075,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21076,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21077,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21078,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21079,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21080,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21081,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21082,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21083,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21084,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21085,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21086,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21087,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21088,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21089,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21090,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21091,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21092,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21093,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21094,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21095,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21096,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21097,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21098,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21099,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21100,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21101,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21102,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21103,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21104,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21105,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21106,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21107,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21108,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21109,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21110,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21111,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21112,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21113,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21114,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21115,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21116,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21117,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21118,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21119,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21120,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21121,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21122,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21123,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21124,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21125,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21126,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21127,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21128,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21129,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21130,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21131,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21132,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21133,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21134,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21135,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21136,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21137,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21138,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21139,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21140,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21141,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21142,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21143,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21144,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21145,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21146,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21147,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21148,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21149,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21150,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21151,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21152,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21153,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21154,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21155,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21156,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21157,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21158,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21159,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21160,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21161,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21162,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21163,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21164,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21165,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21166,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21167,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21168,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21169,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21170,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21171,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21172,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21173,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21174,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21175,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21176,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21177,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21178,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21179,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21180,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21181,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21182,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21183,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21184,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21185,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21186,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21187,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21188,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21189,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21190,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21191,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21192,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21193,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21194,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21195,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21196,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21197,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21198,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21199,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21200,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21201,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21202,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21203,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21204,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21205,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21206,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21207,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21208,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21209,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21210,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21211,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21212,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21213,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21214,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21215,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21216,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21217,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21218,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21219,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21220,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21221,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21222,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21223,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21224,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21225,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21226,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21227,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21228,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21229,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21230,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21231,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21232,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21233,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21234,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21235,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21236,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21237,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21238,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21239,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21240,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21241,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21242,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21243,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21244,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21245,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21246,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21247,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21248,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21249,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21250,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21251,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21252,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21253,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21254,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21255,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21256,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21257,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21258,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21259,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21260,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21261,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21262,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21263,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21264,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21265,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21266,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21267,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21268,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21269,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21270,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21271,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21272,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21273,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21274,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21275,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21276,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21277,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21278,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21279,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21280,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21281,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21282,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21283,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21284,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21285,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21286,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21287,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21288,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21289,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21290,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21291,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21292,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21293,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21294,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21295,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21296,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21297,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21298,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21299,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21300,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21301,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21302,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21303,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21304,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21305,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21306,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21307,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21308,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21309,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21310,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21311,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21312,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21313,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21314,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21315,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21316,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21317,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21318,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21319,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21320,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21321,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21322,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21323,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21324,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21325,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21326,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21327,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21328,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21329,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21330,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21331,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21332,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21333,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21334,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21335,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21336,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21337,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+21338,27-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
