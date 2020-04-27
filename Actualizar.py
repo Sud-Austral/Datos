@@ -1051,7 +1051,7 @@ def datasetFinalTweet():
     for i in cuentas:
         salida.append(definirDatasetPorCuenta(i))
     data = pd.concat(salida)
-    data.to_csv("Tweet.csv", index=False)
+    data.to_csv("Twitter/Tweet.csv", index=False)
     return data
     
 
