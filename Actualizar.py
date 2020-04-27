@@ -90,26 +90,31 @@ def UpdateDatabase():
         print("Hopkins serie (acumulado) completo...")
     except:
         print("Error a cargar a Hopkins Serie")
+    gc.collect()
     try:
         ecdcEuropa()
         print("ECDC Europa completo...")
     except:
         print("Error a cargar a Hopkins Serie")
+    gc.collect()
     try:
         worldometersInfo()
         print("WORLDMETER completo...")
     except:
         print("Error a cargar a Hopkins Worldmeter")
+    gc.collect()
     try:
         ourWorldInData()
         print("OurWorldInData completo...")
     except:
         print("Error a cargar a OurWorldInData")
+    gc.collect()
     try:
         EarlyAlert()
         print("EarlyAlert completo...")
     except:
         print("Error a cargar a Hopkins EarlyAlert")
+    gc.collect()
     try:
         KoBoToolbox()
         print("KoBoToolbox completo...")
