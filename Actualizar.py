@@ -988,12 +988,12 @@ def APITWEET():
     auth.set_access_token(ACCESS_TOKEN, ACCESS_TOKEN_SECRET)
     api = tweepy.API(auth)
     return api
-
+#Desuso
 def get_stuff(nombre=None):
     api = APITWEET()
     stuff = tweepy.Cursor(api.user_timeline, screen_name = nombre, include_rts = True)
     return stuff
-
+#Desuso
 def get_tweets(stuff, n):
     #for status in stuff.items(n):
         #print(status.created_at, status.author.screen_name, status.text)
@@ -1031,6 +1031,7 @@ def depurarFuenteTweet(palabra):
     salida = salida.replace('<a href="http://twitter.com/download/iphone" rel="nofollow">',"")
     salida = salida.replace('<a href="https://studio.twitter.com" rel="nofollow">',"")
     salida = salida.replace('<a href="https://mobile.twitter.com" rel="nofollow">',"")
+    salida = salida.replace('<a href="http://twitter.com" rel="nofollow">',"")
     return salida
 
 def get_tweetConFecha(user, api = APITWEET()):
@@ -1050,7 +1051,9 @@ def definirDatasetPorCuenta(cuenta):
                     "Likes" : jsonObject["favorite_count"],
                     "Retweets" : jsonObject["retweet_count"],
                     "Entidad" : jsonObject["user"]["name"],
-                    "Hora" : FechaTweeter(jsonObject["created_at"]).strftime("%H:%M:%S")
+                    "Hora" : FechaTweeter(jsonObject["created_at"]).strftime("%H:%M:%S"),
+                    "Foto": jsonObject["user"]["profile_image_url"].replace("_normal.","."),
+                    "FechaAux": FechaTweeter(jsonObject["created_at"])
                 }
         salida.append(datos.copy())
     data = pd.DataFrame(salida)
@@ -1061,15 +1064,17 @@ def datasetFinalTweet():
                 "colmedchile",
                 "ministeriosalud",
                 "opsoms",
-                "ispch"
+                "ispch",
+                "SuperDeSalud"
                 ]
     salida = []
     for i in cuentas:
         salida.append(definirDatasetPorCuenta(i))
     data = pd.concat(salida)
-    data.to_csv("Twitter/Tweet.csv", index=False)
+    data = data.sort_values(by=['FechaAux'])
+    del data["FechaAux"]
+    data.to_csv("Tweet.csv", index=False)
     return data
-    
 
 #tweepy.Cursor(api.search, q='#मराठी OR #माझाक्लिक OR #म')
 #tweepy.Cursor(api.friends)
