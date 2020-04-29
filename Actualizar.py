@@ -1101,7 +1101,8 @@ def minSal3Carpeta():
         "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/InformeEpidemiologico/CasosGeneroEtario.csv",
         "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/InformeEpidemiologico/FechaInicioSintomas.csv",
         "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/InformeEpidemiologico/SemanasEpidemiologicas.csv",
-        "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/InformeEpidemiologico/Tasadeincidencia.csv",
+        #"https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/InformeEpidemiologico/Tasadeincidencia.csv",
+        "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/InformeEpidemiologico/TasaDeIncidencia.csv",
         #InformeSituacionCOVID19
         "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/InformeSituacionCOVID19/HospitalizadosEtario_Acumulado_Post20200422.csv",
         "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/InformeSituacionCOVID19/HospitalizadosGeneroEtario_Acumulado.csv",
@@ -1109,7 +1110,7 @@ def minSal3Carpeta():
         "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/InformeSituacionCOVID19/HospitalizadosUCI_Acumulado_Post20200422.csv",
         "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/InformeSituacionCOVID19/SintomasCasosConfirmados.csv",
         "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/InformeSituacionCOVID19/SintomasHospitalizados.csv",
-        #
+        #ReporteDiario
         "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/ReporteDiario/CamasHospital_Diario.csv",
         "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/ReporteDiario/FallecidosEtario.csv",
         "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/ReporteDiario/HospitalizadosUCIEtario.csv",
@@ -1122,10 +1123,13 @@ def minSal3Carpeta():
     ruta = "Chile/MinCiencia/Input-minCiencia/"
     #ruta = ""
     for i in minsalud:
+        print(i)
         data = pd.read_csv(i)
         archivo = ruta + i.split("/")[-2] + "/" + i.split("/")[-1]
         data.to_csv(archivo, index=False)
-        #print(i.split("/")[-2] + "/" + i.split("/")[-1])
+    url = "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/Cuarentenas/Cuarentenas-Geo.geojson"
+    urllib.request.urlretrieve(url, ruta + "Cuarentenas/Cuarentenas-Geo.geojson")    
+    #print(i.split("/")[-2] + "/" + i.split("/")[-1])
 #************************************Actualizar Datos MinSal 3 carpetas*******************************************
 #************************************Analisis Twitter*******************************************
 def authenticate_client():
