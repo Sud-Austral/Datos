@@ -1080,7 +1080,7 @@ def datasetFinalTweet():
     data = pd.concat(salida)
     data = data.sort_values(by=['FechaAux'])
     del data["FechaAux"]
-    data.to_csv("Tweet.csv", index=False)
+    data.to_csv("Twitter/Tweet.csv", index=False)
     return data
     
 
