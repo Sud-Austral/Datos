@@ -22713,13 +22713,13 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 22712,29-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
 22713,29-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
 22714,29-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-22715,29-04-2020,6.0,Chile,O´Higgins,Masculino,84.0,Hospital de Chimbarongo,Chimbarongo,,,Confirmado,-34.7516789138,-70.9808799529
-22716,29-04-2020,6.0,Chile,O´Higgins,Femenino,59.0,Hospital Regional de Rancagua,Rancagua,,,Confirmado,-34.1257615173,-70.816747872
-22717,29-04-2020,6.0,Chile,O´Higgins,Masculino,36.0,Clínica Red Salud de Rancagua,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-22718,29-04-2020,6.0,Chile,O´Higgins,Femenino,33.0,Hospital de Litueche,Litueche,,,Confirmado,-34.1070309895,-71.7330914364
-22719,29-04-2020,6.0,Chile,O´Higgins,Femenino,55.0,Hospital de Litueche,Litueche,,,Confirmado,-34.1070309895,-71.7330914364
-22720,29-04-2020,6.0,Chile,O´Higgins,Masculino,57.0,Hospital de Peumo,Peumo,,,Confirmado,-34.3290257069,-71.2218813362
-22721,29-04-2020,6.0,Chile,O´Higgins,Femenino,61.0,Hospital de San Vicente,San Vicente,,,Confirmado,-34.4774521387,-71.123127305
+22715,29-04-2020,6.0,Chile,O’Higgins,Masculino,84.0,Hospital de Chimbarongo,Chimbarongo,,,Confirmado,-34.7516789138,-70.9808799529
+22716,29-04-2020,6.0,Chile,O’Higgins,Femenino,59.0,Hospital Regional de Rancagua,Rancagua,,,Confirmado,-34.1257615173,-70.816747872
+22717,29-04-2020,6.0,Chile,O’Higgins,Masculino,36.0,Clínica Red Salud de Rancagua,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+22718,29-04-2020,6.0,Chile,O’Higgins,Femenino,33.0,Hospital de Litueche,Litueche,,,Confirmado,-34.1070309895,-71.7330914364
+22719,29-04-2020,6.0,Chile,O’Higgins,Femenino,55.0,Hospital de Litueche,Litueche,,,Confirmado,-34.1070309895,-71.7330914364
+22720,29-04-2020,6.0,Chile,O’Higgins,Masculino,57.0,Hospital de Peumo,Peumo,,,Confirmado,-34.3290257069,-71.2218813362
+22721,29-04-2020,6.0,Chile,O’Higgins,Femenino,61.0,Hospital de San Vicente,San Vicente,,,Confirmado,-34.4774521387,-71.123127305
 22722,29-04-2020,7.0,Chile,Maule,,,,San Javier,,,Confirmado,-35.6288205387,-71.9270734738
 22723,29-04-2020,7.0,Chile,Maule,,,,San Javier,,,Confirmado,-35.6288205387,-71.9270734738
 22724,29-04-2020,7.0,Chile,Maule,,,,Linares,,,Confirmado,-35.9582747955,-71.3325671389
@@ -22804,12 +22804,12 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 22803,29-04-2020,12.0,Chile,Magallanes,Masculino,62.0,Hospital Clínico de Magallanes,No Informado,,,Muerte,-52.2809432987,-70.0516354499
 22804,29-04-2020,5.0,Chile,Valparaíso,Femenino,43.0,,Viña del Mar,,,Muerte,-33.0288002963,-71.5154312157
 22805,29-04-2020,5.0,Chile,Valparaíso,Masculino,68.0,,Valparaíso,,,Muerte,-32.9978836561,-71.7533398553
-22806,29-04-2020,,Chile,,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
-22807,29-04-2020,,Chile,,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
-22808,29-04-2020,,Chile,,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
-22809,29-04-2020,,Chile,,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
-22810,29-04-2020,,Chile,,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
-22811,29-04-2020,,Chile,,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
+22806,29-04-2020,,Chile,No Informado,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
+22807,29-04-2020,,Chile,No Informado,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
+22808,29-04-2020,,Chile,No Informado,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
+22809,29-04-2020,,Chile,No Informado,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
+22810,29-04-2020,,Chile,No Informado,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
+22811,29-04-2020,,Chile,No Informado,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
 22812,29-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
 22813,29-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
 22814,29-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
