@@ -22,6 +22,8 @@ from tweepy import Stream
 import re
 import tweepy
 import gc
+from azure.ai.textanalytics import TextAnalyticsClient
+from azure.core.credentials import AzureKeyCredential
 #from datetime import datetime
 #************************************Actualizar Database**************************************************
 def UpdateDatabase():
@@ -31,6 +33,11 @@ def UpdateDatabase():
         print("Twiter completos...")
     except:
         print("Error a cargar Twiter")
+    try:
+        guardarAnalisisTwitter()
+        print("Analisis de Twitter completo...")
+    except:
+        print("Error de analisis de Twitter...")
     gc.collect()
     try:
         descargarProductos()
@@ -1120,3 +1127,38 @@ def minSal3Carpeta():
         data.to_csv(archivo, index=False)
         #print(i.split("/")[-2] + "/" + i.split("/")[-1])
 #************************************Actualizar Datos MinSal 3 carpetas*******************************************
+#************************************Analisis Twitter*******************************************
+def authenticate_client():
+    key = "3f6e681ce10c430fadc5fa12b5899774"
+    endpoint = "https://tweetstopowerbi8.cognitiveservices.azure.com/"
+    ta_credential = AzureKeyCredential(key)
+    text_analytics_client = TextAnalyticsClient(
+            endpoint=endpoint, credential=ta_credential)
+    return text_analytics_client
+
+def sentiment_analysis_example(client = authenticate_client()):
+    data = pd.read_csv("Twitter/Tweet.csv")
+    Entidad = list(data.Entidad)
+    documents = list(data.Contenido)
+    #print(len(client.analyze_sentiment(documents = documents, language="es")))
+    #response = client.analyze_sentiment(documents = documents, language="es")[0]
+    response = client.analyze_sentiment(documents = documents, language="es")
+    salida = []
+    for i in range(len(documents)):
+        aux = {
+                "Entidad" : Entidad[i],
+                "Contenido" : documents[i],
+                "Sentimiento" : response[i].sentiment,
+                "Positivo" : response[i].confidence_scores.positive,
+                "Neutral" : response[i].confidence_scores.neutral,
+                "Negativo" : response[i].confidence_scores.negative,
+                "LargoTexto" : len(documents[i])
+                }
+        salida.append(aux.copy())
+    dataSalida = pd.DataFrame(salida)
+    return dataSalida
+
+def guardarAnalisisTwitter():
+    sentiment_analysis_example().to_csv("AnalisisTweet.csv", index=False)
+    return
+#************************************Analisis Twitter*******************************************
