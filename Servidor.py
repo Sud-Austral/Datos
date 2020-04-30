@@ -236,10 +236,7 @@ def EarlyAlert():
     data = pd.DataFrame.from_dict(salida)
     #data.head()
     now = datetime.datetime.now()
-
     data.to_csv("EarlyAlert/Current_Coronavirus_Cases_and_Deaths.csv", index=False)
-    data.to_csv("EarlyAlert/Current_Coronavirus_Cases_and_Deaths." + now.strftime("%d-%m-%Y_%H-%M-%S") + "csv", index=False)
-    
     guardarRepositorio()
     return
 #************************************Actualizar EarlyAlert************************************************
@@ -251,7 +248,6 @@ def ecdcEuropa():
     data = pd.read_csv(url)
     data = verificarColumnas(data,"Current_Coronavirus_Cases_and_Deaths.csv")
     data.to_csv("ecdc.europa/Current_Coronavirus_Cases_and_Deaths.csv", index=False)
-    data.to_csv("ecdc.europa/ecCurrent_Coronavirus_Cases_and_Deaths." + now.strftime("%d-%m-%Y_%H-%M-%S") + "csv", index=False)
     guardarRepositorio()
     return
 #************************************Actualizar ecdcEuropa************************************************
@@ -392,7 +388,8 @@ def cambioFecha(texto):
         "Jan" : 1,
         "Feb" : 2,
         "Mar" : 3,
-        "Apr" : 4
+        "Apr" : 4,
+        "May" : 5
     }
     try:
         mes = traductor[aux[:3]]
@@ -572,45 +569,10 @@ def ourWorldInData():
     folder = "C:/Users/datos/Documents/GitHub/Datos/ourworldindata.org/"
     for i in archivos:
         try:
-            shutil.copy(ruta + i, folder + now.strftime("%d-%m-%Y_%H-%M-%S") + i)
             shutil.copy(ruta + i, folder  + i)
             verificarColumnas(pd.read_csv(folder  + i),i)
         except:
             pass
-        
-    """
-    shutil.copy('C:/Users/datos/Downloads/full-list-total-tests-for-covid-19.csv', 'C:/Users/datos/Documents/GitHub/Datos/ourworldindata.org/full-list-total-tests-for-covid-19' + now.strftime("%d-%m-%Y_%H-%M-%S") + ".csv")
-    shutil.copy('C:/Users/datos/Downloads/full-list-total-tests-for-covid-19.csv', 'C:/Users/datos/Documents/GitHub/Datos/ourworldindata.org/full-list-total-tests-for-covid-19.csv')
-    
-    shutil.copy('C:/Users/datos/Downloads/total-deaths-covid-19.csv', 'C:/Users/datos/Documents/GitHub/Datos/ourworldindata.org/total-deaths-covid-19' + now.strftime("%d-%m-%Y_%H-%M-%S") + ".csv")
-    shutil.copy('C:/Users/datos/Downloads/total-deaths-covid-19.csv', 'C:/Users/datos/Documents/GitHub/Datos/ourworldindata.org/total-deaths-covid-19.csv')
-    
-    shutil.copy('C:/Users/datos/Downloads/covid-19-tests-country.csv', 'C:/Users/datos/Documents/GitHub/Datos/ourworldindata.org/covid-19-tests-country' + now.strftime("%d-%m-%Y_%H-%M-%S") + ".csv")
-    shutil.copy('C:/Users/datos/Downloads/covid-19-tests-country.csv', 'C:/Users/datos/Documents/GitHub/Datos/ourworldindata.org/covid-19-tests-country.csv')
-
-
-    shutil.copy('C:/Users/datos/Downloads/total-daily-covid-deaths-per-million.csv', 'C:/Users/datos/Documents/GitHub/Datos/ourworldindata.org/total-daily-covid-deaths-per-million' + now.strftime("%d-%m-%Y_%H-%M-%S") + ".csv")
-    shutil.copy('C:/Users/datos/Downloads/total-daily-covid-deaths-per-million.csv', 'C:/Users/datos/Documents/GitHub/Datos/ourworldindata.org/total-daily-covid-deaths-per-million.csv')
-
-    shutil.copy('C:/Users/datos/Downloads/total-cases-covid-19.csv', 'C:/Users/datos/Documents/GitHub/Datos/ourworldindata.org/total-cases-covid-19' + now.strftime("%d-%m-%Y_%H-%M-%S") + ".csv")
-    shutil.copy('C:/Users/datos/Downloads/total-cases-covid-19.csv', 'C:/Users/datos/Documents/GitHub/Datos/ourworldindata.org/total-cases-covid-19.csv')
-
-    shutil.copy('C:/Users/datos/Downloads/total-and-daily-cases-covid-19.csv', 'C:/Users/datos/Documents/GitHub/Datos/ourworldindata.org/total-and-daily-cases-covid-19' + now.strftime("%d-%m-%Y_%H-%M-%S") + ".csv")
-    shutil.copy('C:/Users/datos/Downloads/total-and-daily-cases-covid-19.csv', 'C:/Users/datos/Documents/GitHub/Datos/ourworldindata.org/total-and-daily-cases-covid-19.csv')
-
-
-    shutil.copy('C:/Users/datos/Downloads/daily-cases-covid-19.csv', 'C:/Users/datos/Documents/GitHub/Datos/ourworldindata.org/daily-cases-covid-19' + now.strftime("%d-%m-%Y_%H-%M-%S") + ".csv")
-    shutil.copy('C:/Users/datos/Downloads/daily-cases-covid-19.csv', 'C:/Users/datos/Documents/GitHub/Datos/ourworldindata.org/daily-cases-covid-19.csv')
-
-    shutil.copy('C:/Users/datos/Downloads/physicians-per-1000-people.csv', 'C:/Users/datos/Documents/GitHub/Datos/ourworldindata.org/physicians-per-1000-people' + now.strftime("%d-%m-%Y_%H-%M-%S") + ".csv")
-    shutil.copy('C:/Users/datos/Downloads/physicians-per-1000-people.csv', 'C:/Users/datos/Documents/GitHub/Datos/ourworldindata.org/physicians-per-1000-people.csv')
-
-    shutil.copy('C:/Users/datos/Downloads/hospital-beds-per-1000-people.csv', 'C:/Users/datos/Documents/GitHub/Datos/ourworldindata.org/hospital-beds-per-1000-people' + now.strftime("%d-%m-%Y_%H-%M-%S") + ".csv")
-    shutil.copy('C:/Users/datos/Downloads/hospital-beds-per-1000-people.csv', 'C:/Users/datos/Documents/GitHub/Datos/ourworldindata.org/hospital-beds-per-1000-people.csv')
-
-    shutil.copy('C:/Users/datos/Downloads/share-of-the-population-that-is-70-years-and-older.csv', 'C:/Users/datos/Documents/GitHub/Datos/ourworldindata.org/share-of-the-population-that-is-70-years-and-older' + now.strftime("%d-%m-%Y_%H-%M-%S") + ".csv")
-    shutil.copy('C:/Users/datos/Downloads/share-of-the-population-that-is-70-years-and-older.csv', 'C:/Users/datos/Documents/GitHub/Datos/ourworldindata.org/share-of-the-population-that-is-70-years-and-older.csv')
-    """
     guardarRepositorio()
     return
 #************************************Actualizar ourWorldInData*******************************************

@@ -238,8 +238,6 @@ def EarlyAlert():
     now = datetime.datetime.now()
 
     data.to_csv("EarlyAlert/Current_Coronavirus_Cases_and_Deaths.csv", index=False)
-    data.to_csv("EarlyAlert/Current_Coronavirus_Cases_and_Deaths." + now.strftime("%d-%m-%Y_%H-%M-%S") + "csv", index=False)
-    
     guardarRepositorio()
     return
 #************************************Actualizar EarlyAlert************************************************
@@ -251,7 +249,6 @@ def ecdcEuropa():
     data = pd.read_csv(url)
     data = verificarColumnas(data,"Current_Coronavirus_Cases_and_Deaths.csv")
     data.to_csv("ecdc.europa/Current_Coronavirus_Cases_and_Deaths.csv", index=False)
-    data.to_csv("ecdc.europa/ecCurrent_Coronavirus_Cases_and_Deaths." + now.strftime("%d-%m-%Y_%H-%M-%S") + "csv", index=False)
     guardarRepositorio()
     return
 #************************************Actualizar ecdcEuropa************************************************
@@ -392,14 +389,13 @@ def cambioFecha(texto):
         "Jan" : 1,
         "Feb" : 2,
         "Mar" : 3,
-        "Apr" : 4
+        "Apr" : 4,
+        "May" : 5
     }
     try:
         mes = traductor[aux[:3]]
     except:
         mes = 12
-    #datetime.date(2019, 12, 4)
-    #dia = int(aux[4:7])
     try:
         dia = int(aux[4:7])
     except:
@@ -572,45 +568,10 @@ def ourWorldInData():
     folder = "C:/Users/limc_/Documents/GitHub/Datos/ourworldindata.org/"
     for i in archivos:
         try:
-            shutil.copy(ruta + i, folder + now.strftime("%d-%m-%Y_%H-%M-%S") + i)
             shutil.copy(ruta + i, folder  + i)
             verificarColumnas(pd.read_csv(folder  + i),i)
         except:
             pass
-        
-    """
-    shutil.copy('C:/Users/limc_/Downloads/full-list-total-tests-for-covid-19.csv', 'C:/Users/limc_/Documents/GitHub/Datos/ourworldindata.org/full-list-total-tests-for-covid-19' + now.strftime("%d-%m-%Y_%H-%M-%S") + ".csv")
-    shutil.copy('C:/Users/limc_/Downloads/full-list-total-tests-for-covid-19.csv', 'C:/Users/limc_/Documents/GitHub/Datos/ourworldindata.org/full-list-total-tests-for-covid-19.csv')
-    
-    shutil.copy('C:/Users/limc_/Downloads/total-deaths-covid-19.csv', 'C:/Users/limc_/Documents/GitHub/Datos/ourworldindata.org/total-deaths-covid-19' + now.strftime("%d-%m-%Y_%H-%M-%S") + ".csv")
-    shutil.copy('C:/Users/limc_/Downloads/total-deaths-covid-19.csv', 'C:/Users/limc_/Documents/GitHub/Datos/ourworldindata.org/total-deaths-covid-19.csv')
-    
-    shutil.copy('C:/Users/limc_/Downloads/covid-19-tests-country.csv', 'C:/Users/limc_/Documents/GitHub/Datos/ourworldindata.org/covid-19-tests-country' + now.strftime("%d-%m-%Y_%H-%M-%S") + ".csv")
-    shutil.copy('C:/Users/limc_/Downloads/covid-19-tests-country.csv', 'C:/Users/limc_/Documents/GitHub/Datos/ourworldindata.org/covid-19-tests-country.csv')
-
-
-    shutil.copy('C:/Users/limc_/Downloads/total-daily-covid-deaths-per-million.csv', 'C:/Users/limc_/Documents/GitHub/Datos/ourworldindata.org/total-daily-covid-deaths-per-million' + now.strftime("%d-%m-%Y_%H-%M-%S") + ".csv")
-    shutil.copy('C:/Users/limc_/Downloads/total-daily-covid-deaths-per-million.csv', 'C:/Users/limc_/Documents/GitHub/Datos/ourworldindata.org/total-daily-covid-deaths-per-million.csv')
-
-    shutil.copy('C:/Users/limc_/Downloads/total-cases-covid-19.csv', 'C:/Users/limc_/Documents/GitHub/Datos/ourworldindata.org/total-cases-covid-19' + now.strftime("%d-%m-%Y_%H-%M-%S") + ".csv")
-    shutil.copy('C:/Users/limc_/Downloads/total-cases-covid-19.csv', 'C:/Users/limc_/Documents/GitHub/Datos/ourworldindata.org/total-cases-covid-19.csv')
-
-    shutil.copy('C:/Users/limc_/Downloads/total-and-daily-cases-covid-19.csv', 'C:/Users/limc_/Documents/GitHub/Datos/ourworldindata.org/total-and-daily-cases-covid-19' + now.strftime("%d-%m-%Y_%H-%M-%S") + ".csv")
-    shutil.copy('C:/Users/limc_/Downloads/total-and-daily-cases-covid-19.csv', 'C:/Users/limc_/Documents/GitHub/Datos/ourworldindata.org/total-and-daily-cases-covid-19.csv')
-
-
-    shutil.copy('C:/Users/limc_/Downloads/daily-cases-covid-19.csv', 'C:/Users/limc_/Documents/GitHub/Datos/ourworldindata.org/daily-cases-covid-19' + now.strftime("%d-%m-%Y_%H-%M-%S") + ".csv")
-    shutil.copy('C:/Users/limc_/Downloads/daily-cases-covid-19.csv', 'C:/Users/limc_/Documents/GitHub/Datos/ourworldindata.org/daily-cases-covid-19.csv')
-
-    shutil.copy('C:/Users/limc_/Downloads/physicians-per-1000-people.csv', 'C:/Users/limc_/Documents/GitHub/Datos/ourworldindata.org/physicians-per-1000-people' + now.strftime("%d-%m-%Y_%H-%M-%S") + ".csv")
-    shutil.copy('C:/Users/limc_/Downloads/physicians-per-1000-people.csv', 'C:/Users/limc_/Documents/GitHub/Datos/ourworldindata.org/physicians-per-1000-people.csv')
-
-    shutil.copy('C:/Users/limc_/Downloads/hospital-beds-per-1000-people.csv', 'C:/Users/limc_/Documents/GitHub/Datos/ourworldindata.org/hospital-beds-per-1000-people' + now.strftime("%d-%m-%Y_%H-%M-%S") + ".csv")
-    shutil.copy('C:/Users/limc_/Downloads/hospital-beds-per-1000-people.csv', 'C:/Users/limc_/Documents/GitHub/Datos/ourworldindata.org/hospital-beds-per-1000-people.csv')
-
-    shutil.copy('C:/Users/limc_/Downloads/share-of-the-population-that-is-70-years-and-older.csv', 'C:/Users/limc_/Documents/GitHub/Datos/ourworldindata.org/share-of-the-population-that-is-70-years-and-older' + now.strftime("%d-%m-%Y_%H-%M-%S") + ".csv")
-    shutil.copy('C:/Users/limc_/Downloads/share-of-the-population-that-is-70-years-and-older.csv', 'C:/Users/limc_/Documents/GitHub/Datos/ourworldindata.org/share-of-the-population-that-is-70-years-and-older.csv')
-    """
     guardarRepositorio()
     return
 #************************************Actualizar ourWorldInData*******************************************
@@ -669,7 +630,6 @@ def realizarColumna(data, largo):
             #entrada[j] = 
             entrada["Fecha"] = i[1][j]
             salida.append(entrada.copy())
-
     return pd.DataFrame(salida) 
 
 def realizarColumnaParticular(data, key):
@@ -686,7 +646,6 @@ def realizarColumnaParticular(data, key):
             entrada["fecha"] = j
             entrada["Recuperado"] = i[1][j]
             salida.append(entrada.copy())
-
     return pd.DataFrame(salida)
 
 def minsal():
@@ -1002,11 +961,6 @@ def get_stuff(nombre=None):
     return stuff
 #Desuso
 def get_tweets(stuff, n):
-    #for status in stuff.items(n):
-        #print(status.created_at, status.author.screen_name, status.text)
-        #print(status)
-        #return status
-    #return stuff.items(n)
     return list(stuff.items(n))
     #return stuff.page()
 
@@ -1048,7 +1002,7 @@ def definirDatasetPorCuenta(cuenta):
 #lista = get_tweetConFecha("colmedchile")
     lista = get_tweetConFecha(cuenta)
     salida = []
-    for i in lista:  #get_tweetConFecha("colmedchile"):
+    for i in lista:  
         jsonObject = i._json.copy()
         datos = {
                     "Contenido" : jsonObject["text"], 
