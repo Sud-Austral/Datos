@@ -1,101 +1,128 @@
 Entidad,Contenido,Sentimiento,Positivo,Neutral,Negativo,LargoTexto
-Super de Salud Chile,"RT @ministeriosalud: - Ministro Jaime Mañalich anuncia que a partir de la próxima semana se entregará ""Carnet COVID"".
+OPS/OMS,"RT @OPSECU: La coordinación y la complementariedad, elementos clave que impulsa el clúster de salud en la respuesta al #COVID19 🦠
 
-""Para toda persona c…",neutral,0.16,0.79,0.05,140
+https://…",neutral,0.18,0.78,0.04,140
+OPS/OMS,RT @OPSOMS_Honduras: Mesa CESAR de Cooperantes en Salud se reúne con la Secretaría de Salud para conocer la situación actual de la epidemia…,negative,0.01,0.03,0.96,140
+OPS/OMS,RT @opsargentina: ¿Cuándo limpiarnos las manos? #COVID19 https://t.co/SyQkDWyoS2,neutral,0.06,0.85,0.09,80
+OPS/OMS,"#COVID19 👉🏽 Si te sientes triste 😞 y sin esperanza ☹️, habla con alguien de tu confianza sobre tus sentimientos o c… https://t.co/BAp968tXOe",negative,0.2,0.0,0.8,140
+Colmed Chile,"Dra. Guerrero: “No conocemos el número exacto de funcionarios contagiados, porque no se han testeado todos y creemo… https://t.co/xVRoJ9C8QF",negative,0.12,0.07,0.81,140
+Colmed Chile,"RT @sochipe: [VIDEO] Esta exitosa instancia online se realizó este 23 de abril y contó con interesantes expositores de Argentina, España y…",positive,0.72,0.25,0.03,139
+OPS/OMS,"RT @OPSOMSBolivia: Vacunarnos es una manera importante de protegernos a nosostros, a nuestas familias,🧑🏼👵🏽👶🏿👧🏻🤱🏽y a nuestras comunidades de…",positive,0.66,0.2,0.14,140
+OPS/OMS,"RT @UNESCO_es: Infodemia ⬇️
+Exceso de información, la mayoría sin verificar, que dificulta que las personas encuentren fuentes y orientació…",negative,0.03,0.09,0.88,140
+OPS/OMS,"RT @OPSOMS_Honduras: ¿Tienes que ir al mercado? 
+
+Hazlo de forma segura y previene #COVID19 https://t.co/TsOP9ruX7t",positive,0.69,0.28,0.03,115
+Super de Salud Chile,"RT @ministeriosalud: Min. Jaime Mañalich:
+
+""Hemos conocido más la evolución de la enfermedad por Coronavirus, y a lo que hoy es evidente, e…",negative,0.05,0.03,0.92,140
+OPS/OMS,RT @OPSOMSBolivia: Los vacunadores🧑🏻‍⚕️👩🏽‍⚕️🧑🏿‍⚕️👩🏼‍⚕️ pueden dar pasos importantes para mantenerse saludables y proteger a sus pacientes d…,positive,0.96,0.02,0.02,140
+Super de Salud Chile,"RT @ministeriosalud: ""Desde ayer estamos incorporando todos los casos y dividiéndolos entre casos sintomáticos y asintomáticos, ambos con P…",neutral,0.09,0.63,0.28,140
+OPS/OMS,"RT @OPSOMSBolivia: Si no te has puesto la vacuna contra el sarampión y tienes
+ 
+Fiebre alta🤒 
+Erupción
+Tos😷 
+Moqueo nasal🤧 
+Ojos rojos
+ 
+po…",negative,0.0,0.02,0.98,140
+Super de Salud Chile,"RT @ministeriosalud: Ministro Jaime Mañalich | Carnet COVID
+
+""Lo recibirá toda persona que haya tenido PCR positivo, con y sin síntomas, a…",positive,0.7,0.1,0.2,139
+OPS/OMS,"RT @opscuba: 18 años celebra la Semana de Vacunación en las Américas.
+806.000.000 personas han sido vacunadas bajo esta iniciativa. #Vacuna…",neutral,0.05,0.81,0.14,140
+Instituto de Salud Pública de Chile,"RT @ministeriosalud: Min. Jaime Mañalich:
+
+""Hemos conocido más la evolución de la enfermedad por Coronavirus, y a lo que hoy es evidente, e…",negative,0.05,0.03,0.92,140
+Instituto de Salud Pública de Chile,"RT @ministeriosalud: ""Desde ayer estamos incorporando todos los casos y dividiéndolos entre casos sintomáticos y asintomáticos, ambos con P…",neutral,0.09,0.63,0.28,140
+Instituto de Salud Pública de Chile,"RT @ministeriosalud: Ministro Jaime Mañalich | Carnet COVID
+
+""Lo recibirá toda persona que haya tenido PCR positivo, con y sin síntomas, a…",positive,0.7,0.1,0.2,139
+Ministerio de Salud,"Subsec @pdazan | Balance diario #COVID_19
+
+🔹780 casos con síntomas
+🔹108 casos asintomáticos
+🔹16.023 casos totales (… https://t.co/lCVLCYNhvt",neutral,0.01,0.51,0.48,140
+Instituto de Salud Pública de Chile,"RT @ministeriosalud: Subsec @pdazan | Balance diario #COVID_19
+
+🔹780 casos con síntomas
+🔹108 casos asintomáticos
+🔹16.023 casos totales (con…",neutral,0.01,0.53,0.46,140
 Super de Salud Chile,"Reporte #Covid_19 por parte del Ministerio de Salud:
 
-🔹14.885 casos totales.
+🔹16.023 casos totales.
+🔹780 casos nuevos.
+🔹108 asintomáticos… https://t.co/WW2Qp6txkf",neutral,0.03,0.89,0.08,139
+Ministerio de Salud,"Subsec @arturozunigaj | Red Asistencial #COVID_19
 
-🔹520 casos nuevos.
+🔹 419 hospitalizados 
+🔹 323 con ventilación mecánica
+🔹 69 pacien… https://t.co/hE83RrqjmN",neutral,0.01,0.93,0.06,140
+Super de Salud Chile,"RT @ministeriosalud: Subsec @arturozunigaj | Red Asistencial #COVID_19
 
-🔹9 personas falle… https://t.co/TwFsB4cVWx",negative,0.01,0.13,0.86,140
-Super de Salud Chile,"RT @ministeriosalud: Ministro Jaime Mañalich | Red Asistencial #COVID_19
+🔹 419 hospitalizados 
+🔹 323 con ventilación mecánica
+🔹 69 pacientes…",neutral,0.02,0.91,0.07,140
+Ministerio de Salud,"Subsec @arturozunigaj | Anuncio
 
-🔹 418 hospitalizados 
-🔹 310 con ventilación mecánica
-🔹 6.454 exám…",neutral,0.02,0.94,0.04,140
-Super de Salud Chile,"RT @ministeriosalud: ""Los menores de Antofagasta fueron desconectados de ventilación mecánica y evolucionan de forma satisfactoria"".
+""Hoy ha sido publicado por parte del @mop_chile el llamado a licitación del nuevo… https://t.co/2apLlVn60N",neutral,0.04,0.72,0.24,139
+Super de Salud Chile,"RT @ministeriosalud: Subsec @arturozunigaj | Anuncio
 
-- Min…",positive,0.64,0.18,0.18,140
-Super de Salud Chile,"RT @ministeriosalud: ""El Hospital Claudio Vicuña sigue atendiendo con normalidad con su personal de salud. La dirección del Hospital descar…",negative,0.09,0.36,0.55,140
-Super de Salud Chile,"RT @ministeriosalud: Subsec @pdazan | Cuarentenas
+""Hoy ha sido publicado por parte del @mop_chile el llamado a licitación del nuevo Hos…",neutral,0.05,0.69,0.26,140
+Ministerio de Salud,"Subsec @katymartorell @SubPrevDelito | Medidas
 
-""Sabemos que esta es una medida muy estricta y es tremendamente importante que las perso…",neutral,0.32,0.38,0.3,140
-Super de Salud Chile,"RT @ministeriosalud: 📺Subsec @pdazan | En vivo @HolaChileLaRed 
+""Hoy se inician nuevas cuarentenas y comienzan Cordones Sanitarios… https://t.co/VufYkwbbui",negative,0.03,0.22,0.75,139
+Ministerio de Salud,"Para efectos de asegurar el comportamiento de la enfermedad en zonas de cuarentena (1/2)
 
-""A personas asintomáticas, se tomará el examen de PCR a quienes estén cerc…",neutral,0.07,0.81,0.12,140
-Instituto de Salud Pública de Chile,"RT @arturozunigaj: Mi más sentido pésame a la familia, a las hijas y compañeros de trabajo de Lorena, la primera trabajadora de la #salud f…",positive,0.64,0.19,0.17,140
-Instituto de Salud Pública de Chile,"Prefiere medicamentos #bioequivalentes. 
+- Cuando se solicite perm… https://t.co/zCMWT213ZD",negative,0.0,0.06,0.94,140
+Ministerio de Salud,"(2/2) Medidas
 
-El @ispch garantiza su calidad, seguridad y eficacia.
+- Comunas que no están en cuarentena serán bloqueadas, excepto para entregar alimentos a personas ma… https://t.co/2ZCviLYw4i",negative,0.08,0.43,0.49,140
+Ministerio de Salud,"(3/3) Medidas
 
-#ExigeElAmarillo https://t.co/xCvQJJLKMx",neutral,0.15,0.83,0.02,137
-Super de Salud Chile,"RT @ministeriosalud: Subsec @pdazan:
+- Todos los permisos serán entregados a través de Comisaría Virtual, incluso de forma física, verifi… https://t.co/U9jYuDOsLI",neutral,0.02,0.96,0.02,140
+Super de Salud Chile,"RT @ministeriosalud: Subsec @katymartorell @SubPrevDelito | Medidas
 
-""El examen de IgG determina que una persona tiene defensas contra el virus""
+""Hoy se inician nuevas cuarentenas y comienzan Cordones Sanitarios en…",negative,0.03,0.25,0.72,139
+Colmed Chile,RT @izkia: Preocupante aumento: A no relajarse... y a testear a todo paciente sintomático con o sin fiebre. Debemos aprovechar la capacidad…,negative,0.08,0.07,0.85,140
+Super de Salud Chile,"RT @24HorasTVN: Patricio Fernández aseguró en 24AM que desde el próximo lunes, se retomarán todos los servicios por garantía GES, ya que ta…",neutral,0.09,0.81,0.1,140
+Super de Salud Chile,"RT @MinMujeryEG: La cuarentena puede significar un peligro para muchas mujeres. Hoy más que nunca debemos escucharlas y denunciar 🚫✋
 
-""El organismo produce an…",negative,0.01,0.32,0.67,140
-Super de Salud Chile,"Súmate a #YoSirvoAMiPaísEnLaEmergencia y #CuidémonosEntreTodos 
+📞1455…",negative,0.03,0.06,0.91,140
+Instituto de Salud Pública de Chile,"RT @ministeriosalud: Subsec @arturozunigaj | Red Asistencial #COVID_19
 
-Si eres profesional o técnico de salud, y quieres… https://t.co/N80nTfdVsL",positive,0.59,0.13,0.28,139
-Colmed Chile,"RT @izkia: Hoy tenemos 770 nuevos contagiados. Los asintomáticos, si bien se desconoce cuan infectantes son se deben aislar al igual que aq…",negative,0.09,0.35,0.56,140
-Colmed Chile,"#DonaSangreDonaVida
-En estos momentos nuestros bancos de sangre se encuentran en estado crítico, ya que ha disminui… https://t.co/kXphV51NFK",neutral,0.3,0.44,0.26,140
-Colmed Chile,RT @ColMedValpo: Hoy recordamos vía streaming ¿Qué lugar tiene la salud en nuestras escuelas? miércoles 29 a las 20:00 @dridelatorre @mercu…,neutral,0.11,0.86,0.03,140
+🔹 419 hospitalizados 
+🔹 323 con ventilación mecánica
+🔹 69 pacientes…",neutral,0.02,0.91,0.07,140
+Instituto de Salud Pública de Chile,"RT @ministeriosalud: Subsec @arturozunigaj | Anuncio
+
+""Hoy ha sido publicado por parte del @mop_chile el llamado a licitación del nuevo Hos…",neutral,0.05,0.69,0.26,140
+Instituto de Salud Pública de Chile,"RT @ministeriosalud: (3/3) Medidas
+
+- Todos los permisos serán entregados a través de Comisaría Virtual, incluso de forma física, verifican…",neutral,0.05,0.69,0.26,140
+Instituto de Salud Pública de Chile,"RT @ministeriosalud: (2/2) Medidas
+
+- Comunas que no están en cuarentena serán bloqueadas, excepto para entregar alimentos a personas mayor…",negative,0.09,0.28,0.63,140
+Instituto de Salud Pública de Chile,"RT @ministeriosalud: Subsec @katymartorell @SubPrevDelito | Medidas
+
+""Hoy se inician nuevas cuarentenas y comienzan Cordones Sanitarios en…",negative,0.03,0.25,0.72,139
 Instituto de Salud Pública de Chile,"Donar sangre es donar vida.
 
-Si tu comuna está en cuarentena puedes pedir tu permiso en https://t.co/ZzyyA2AUEJ… https://t.co/o8HiZn3Fou",neutral,0.25,0.7,0.05,136
-Colmed Chile,RT @hospitalcopiapo: Hoy recibimos una importante donación: 19.500 mascarillas KN-95 las cuales serán utilizaras por nuestros funcionarios…,neutral,0.07,0.86,0.07,139
-Super de Salud Chile,RT @ministeriosalud: Minsal anuncia que Carnet #COVID_19 comenzará a ser entregado la próxima semana https://t.co/pmbviYduZr,neutral,0.07,0.69,0.24,124
-Ministerio de Salud,"RT @presidencia_cl: AHORA – El Pdte @sebastianpinera junto a ministros @mjose_zaldivar de @MintrabChile, @ignaciobriones_ de @Min_Hacienda…",neutral,0.1,0.68,0.22,139
-Colmed Chile,RT @colmedLA: Junto a @mgzbiobio hicimos entrega de 3 mil mascarillas a @rsierrac director del @SSBiobio para distribuir entre los trabajad…,neutral,0.04,0.9,0.06,140
-Colmed Chile,"Agradecemos al Alcalde de @CerroNaviaCL, @mtamayor por acercarse al @FelixHfb y donar sangre. Aún estas a tiempo de… https://t.co/dpSvJYGHTy",positive,0.96,0.02,0.02,140
-Colmed Chile,"Desde el #Colmed expresamos nuestro más sentido pésame a la familia y compañeros/as de Lorena, la primera trabajado… https://t.co/LIzIT3vZxh",neutral,0.28,0.58,0.14,140
-Ministerio de Salud,"RT @SuperDeSalud: [INFORMACIÓN]
-#BuenasNoticias 
-Les dejamos el comunicado que pone fin al decreto que suspendió las garantías GES.
-La @Sup…",positive,0.91,0.02,0.07,140
-Instituto de Salud Pública de Chile,"Si tienes a un miembro del hogar diagnosticado con COVID 19, es muy importante que adoptes las siguientes medidas:… https://t.co/B4qSdJTaaj",neutral,0.02,0.85,0.13,139
-OPS/OMS,RT @OPSOMSMexico: Los niños ‍👧‍👦 necesitan el amor y la atención de los adultos en los momentos difíciles. Dedíqueles más tiempo y atención…,positive,0.86,0.0,0.14,140
-OPS/OMS,RT @opsargentina: Hay que hacer todo lo posible para 🛑 parar enfermedades prevenibles por la vacunación. Los brotes pueden derrumbar sistem…,negative,0.02,0.49,0.49,140
-OPS/OMS,RT @OPSOMS_Honduras: El curso virtual sobre cuidado domiciliario de pacientes confirmados o sospechosos  de COVID19 puede ser visto y desca…,negative,0.03,0.02,0.95,140
-OPS/OMS,"RT @OPSOMSPeru: 🚨 #COVID19 No se recomienda el uso de túneles u otras estructuras físicas (cabinas, gabinetes, puertas) con rociado de prod…",negative,0.04,0.36,0.6,140
-OPS/OMS,"RT @opsomsnic: Estar vacunado es importante cuando los sistemas de salud están enfrentando #COVID19
+Si tu comuna está en cuarentena puedes pedir tu permiso en https://t.co/ZzyyA2Sw3j… https://t.co/ZUjlt8MD5L",neutral,0.25,0.7,0.05,136
+Colmed Chile,"Los donantes de sangre han bajado a 1/3 pero los pacientes siguen requiriendo transfusiones. 
+¡¿Qué esperas para do… https://t.co/q0j3QnQ1qu",neutral,0.17,0.64,0.19,140
+Colmed Chile,"[#AHORA] Para @Cooperativa, nuestro Vicepdte. Dr. Patricio Meza, aborda situación de la red de salud ante el… https://t.co/5vM85XDd4O",neutral,0.12,0.73,0.15,133
+Colmed Chile,"Dr. Meza: ""Debemos intensificar aún más las medidas de precaución, ocuparnos de la apertura de un mall nos quita at… https://t.co/sgwsdp06v3",neutral,0.13,0.58,0.29,140
+Colmed Chile,"Dr. Meza: ""Con el nuevo reporte anunciado el día de hoy debemos enfocarnos en aumentar las medidas de precaución, i… https://t.co/vB5dlttItK",neutral,0.18,0.42,0.4,140
+Ministerio de Salud,"RT @arturozunigaj: A pesar de nuestro foco en Coronavirus, como @GobiernodeChile seguimos trabajando en el Plan Inversión de Hospitales del…",neutral,0.11,0.55,0.34,140
+Ministerio de Salud,RT @arturozunigaj: Más infraestructura hospitalaria 🏥 y más recintos de Atención Primaria de Salud #PlanInversionesSalud ▶️ https://t.co/0T…,neutral,0.33,0.44,0.23,140
+Colmed Chile,"Dr. Meza: ""Desde el #Colmed manejamos 2 hipótesis una pesimista y una optimista, afortunadamente se tomaran accione… https://t.co/aB58CMR8bL",negative,0.17,0.07,0.76,140
+Colmed Chile,"Dr. Meza: ""Se ha logrado posponer el peak de la enfermedad y la idea es que se siga posponiendo, mientras más se pu… https://t.co/oDKaWm9nZU",negative,0.02,0.13,0.85,140
+Ministerio de Salud,"RT @T13: 🔹Entrega de carnet COVID-19 comenzará la próxima semana: Quienes lo recibirán y cuál es su objetivo
 
-Hagamos nuestra parte para poner fin a…",negative,0.1,0.41,0.49,140
-Ministerio de Salud,"Ministro de Salud, Jaime Mañalich, participa vía videoconferencia de la Comisión Mixta que revisa #LeyDeFármacosII https://t.co/tKC3Wyx3Mx",neutral,0.01,0.97,0.02,138
-OPS/OMS,"RT @bireme: @fiocruz  lança seu primeiro curso sobre #COVID19, online e gratuito, para profissionais de saúde ""COVID-19: Manejo da infecção…",positive,0.83,0.07,0.1,140
-OPS/OMS,"RT @OPASOMSBrasil: P/ apoiar prof. de saúde do 🇧🇷 em meio à #COVID19, a OPAS lançou 4 cursos:
+https://t.co/u2owUraFfF",neutral,0.08,0.9,0.02,133
+Colmed Chile,"Dr. Meza: ""Tomemos las medidas visualizando el peor escenario, ya que es mejor decir que fueron muchas a que llegue… https://t.co/Hjlt9mGp9V",negative,0.08,0.09,0.83,140
+Super de Salud Chile,"¿Sabes en qué lugares debes usar mascarilla, obligatoriamente? 🤔
 
-👉🏿 Doenças por vírus respiratórios emergente…",neutral,0.09,0.84,0.07,140
-Colmed Chile,"RT @ColmedAtacama: @ColmedAtacama hace entrega de 9 mil 500 mascarillas KN95 al @hospitalcopiapo, gracias a alianza entre @colmedchile y @F…",positive,0.92,0.06,0.02,140
-Ministerio de Salud,RT @arturozunigaj: Analizando situación local y las medidas que se están adoptando por #PlanCovid19 en la comuna de Gorbea #Araucanía  alca…,neutral,0.01,0.94,0.05,140
-Instituto de Salud Pública de Chile,"Si estás en aislamiento domiciliario, es muy importante mantener las medidas de prevención en el hogar.
-
-- Lávate l… https://t.co/yKlcewmWSw",neutral,0.07,0.87,0.06,140
-Colmed Chile,"[#PRENSA] En @TVN, el Dr. Gonzalo Cuadra, Coordinador de Salud Mental #Covid19 del #Colmed, se refirió a la salud m… https://t.co/nxz9vyzMtd",neutral,0.04,0.89,0.07,140
-Ministerio de Salud,Gobierno reactiva garantía de oportunidad AUGE suspendidas por #COVID_19 y autoriza cirugías ambulatorias… https://t.co/kRvLvsLrKL,neutral,0.03,0.87,0.1,130
-Ministerio de Salud,El proyecto de Protección de Independientes establece la creación de un Seguro Social de Protección de Ingresos par… https://t.co/KohUkWFIbe,neutral,0.1,0.89,0.01,140
-Instituto de Salud Pública de Chile,"A partir del jueves 30 de abril, a las 22:00 horas, nuevos sectores y comunas estarán en cuarentena.
-
-Más informaci… https://t.co/s1PQvf8kbY",neutral,0.15,0.79,0.06,140
-Ministerio de Salud,RT @sebastianpinera: Como parte de la Red de Protección Social q hemos construido hoy sumamos el Seguro de Ingresos para Trabajadores Indep…,neutral,0.29,0.57,0.14,140
-Ministerio de Salud,RT @latercera: Minsal informa de nuevo criterio para notificación de contagiados con coronavirus: se contabilizarán a asintomáticos que die…,negative,0.01,0.07,0.92,140
-OPS/OMS,"ℹ️ #COVID19 #coronavirus
-
-¿Cuál es la fuente de la OPS para adquirir equipo de protección personal y respiradores p… https://t.co/UO57Cxjy7a",neutral,0.12,0.85,0.03,140
-Instituto de Salud Pública de Chile,RT @ministeriosalud: Gobierno reactiva garantía de oportunidad AUGE suspendidas por #COVID_19 y autoriza cirugías ambulatorias  https://t.c…,neutral,0.03,0.87,0.1,140
-Instituto de Salud Pública de Chile,"RT @Cenabast: Esta tarde, la Farmacia VidaFarma de Linares recibió el sello que la identifica como farmacia adherida a la Ley Cenabast.  Pr…",neutral,0.06,0.89,0.05,140
-Instituto de Salud Pública de Chile,RT @arturozunigaj: Analizando situación local y las medidas que se están adoptando por #PlanCovid19 en la comuna de Gorbea #Araucanía  alca…,neutral,0.01,0.94,0.05,140
-Colmed Chile,"Mediante esta carta, la Sociedad Chilena de Enfermedades Respiratorias, la Mesa Ciudadana ""Tabaco o Salud"" y el… https://t.co/jA3nLi43F0",neutral,0.02,0.62,0.36,136
-Ministerio de Salud,"RT @24HorasTVN: La autoridad, detalló que el cumplimiento de los plazos máximos de atención podrá ser “exigible por la población y controla…",neutral,0.13,0.59,0.28,140
-OPS/OMS,"RT @OPSOMSPeru: #YoMeQuedoEnCasa mantente físicamente activo y tranquilo  durante la cuarentena por la #COVID19. 
-
-Planifica tus actividade…",positive,0.45,0.4,0.15,140
-OPS/OMS,"🚨 #COVID19 
-
-""Las personas más enfermas desarrollan inmunidad tardía, pero no significa que esa inmmunidad va a ser… https://t.co/w5Dc6e3MyW",negative,0.05,0.18,0.77,140
-Ministerio de Salud,"¿Cómo postular si eres profesional o técnico de salud?
-
-#YoSirvoAMiPaísEnLaEmergencia e ingresa a… https://t.co/feP2Y9qKWd",neutral,0.13,0.64,0.23,122
-Instituto de Salud Pública de Chile,"Recuerda que la vacuna contra la influenza es gratuita para personas mayores de 65 años, niños y niñas desde los 6… https://t.co/fMeSEOzmeO",positive,0.87,0.02,0.11,139
+Conoce más sobre esta medida 👇, e infórmate siemp… https://t.co/xNzDKl3oBX",neutral,0.15,0.74,0.11,140
