@@ -236,10 +236,7 @@ def EarlyAlert():
     data = pd.DataFrame.from_dict(salida)
     #data.head()
     now = datetime.datetime.now()
-
     data.to_csv("EarlyAlert/Current_Coronavirus_Cases_and_Deaths.csv", index=False)
-    data.to_csv("EarlyAlert/Current_Coronavirus_Cases_and_Deaths." + now.strftime("%d-%m-%Y_%H-%M-%S") + "csv", index=False)
-    
     guardarRepositorio()
     return
 #************************************Actualizar EarlyAlert************************************************
@@ -251,7 +248,6 @@ def ecdcEuropa():
     data = pd.read_csv(url)
     data = verificarColumnas(data,"Current_Coronavirus_Cases_and_Deaths.csv")
     data.to_csv("ecdc.europa/Current_Coronavirus_Cases_and_Deaths.csv", index=False)
-    data.to_csv("ecdc.europa/ecCurrent_Coronavirus_Cases_and_Deaths." + now.strftime("%d-%m-%Y_%H-%M-%S") + "csv", index=False)
     guardarRepositorio()
     return
 #************************************Actualizar ecdcEuropa************************************************
