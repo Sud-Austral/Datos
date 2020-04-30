@@ -573,8 +573,6 @@ def ourWorldInData():
             verificarColumnas(pd.read_csv(folder  + i),i)
         except:
             pass
-        
-  
     guardarRepositorio()
     return
 #************************************Actualizar ourWorldInData*******************************************
