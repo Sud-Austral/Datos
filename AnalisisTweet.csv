@@ -1,5 +1,4 @@
 Entidad,Contenido,Sentimiento,Positivo,Neutral,Negativo,LargoTexto
-Instituto de Salud Pública de Chile,"RT @arturozunigaj: Mi más sentido pésame a la familia, a las hijas y compañeros de trabajo de Lorena, la primera trabajadora de la #salud f…",positive,0.64,0.19,0.17,140
 Instituto de Salud Pública de Chile,"Prefiere medicamentos #bioequivalentes. 
 
 El @ispch garantiza su calidad, seguridad y eficacia.
@@ -53,8 +52,7 @@ Instituto de Salud Pública de Chile,RT @arturozunigaj: Analizando situación lo
 OPS/OMS,"RT @OPSOMSPeru: #YoMeQuedoEnCasa mantente físicamente activo y tranquilo  durante la cuarentena por la #COVID19. 
 
 Planifica tus actividade…",positive,0.45,0.4,0.15,140
-Ministerio de Salud,"Subsecretario de Redes Asistenciales @arturozunigaj visitó el Centro de Salud Rural de Lastarria, en la comuna de G… https://t.co/LU6fBz4BiT",neutral,0.03,0.93,0.04,140
-Ministerio de Salud,"¿Sabías que contamos con Residencias Sanitarias para personas con #COVID_19, que por diversos factores no puedan re… https://t.co/wtpYPIJO1c",neutral,0.02,0.89,0.09,140
+Instituto de Salud Pública de Chile,"Recuerda que la vacuna contra la influenza es gratuita para personas mayores de 65 años, niños y niñas desde los 6… https://t.co/fMeSEOzmeO",positive,0.87,0.02,0.11,139
 OPS/OMS,"RT @OPSECU: La coordinación y la complementariedad, elementos clave que impulsa el clúster de salud en la respuesta al #COVID19 🦠
 
 https://…",neutral,0.18,0.78,0.04,140
@@ -74,6 +72,7 @@ Ministerio de Salud,"#CuidémonosEntreTodos y respeta siempre la cuarentena.
 
 Conoce cuáles son los criterios para decretar esta medida y… https://t.co/IM5jjvaSPs",positive,0.57,0.36,0.07,140
 Super de Salud Chile,"RT @pdazan: Mañana entran, salen y se extienden las cuarentenas en distintas comunas. Revisa aquí cuáles son: https://t.co/FCb68TeGVS",neutral,0.02,0.96,0.02,133
+Ministerio de Salud,"RT @arturozunigaj: En la Sala de Monitoreo Crisis por #coronavirus  @AraucaniaSur se articulan las necesidades operativas, la  gestión y el…",negative,0.01,0.09,0.9,140
 Colmed Chile,"Dr. Cuadrado: ""La autoridad debe ser muy prudente al tomar estas decisiones a la hora de comunicar, para que no hay… https://t.co/cc6VM8e1jt",negative,0.32,0.21,0.47,140
 Colmed Chile,"Dr. Cuadrado: ""Ha sido una preocupación desde todos los gremios de la salud contar con todos los #EPP necesarios. A… https://t.co/ACSlaRGxVI",negative,0.18,0.06,0.76,140
 Colmed Chile,"Dr. Cuadrado: ""Todavía tenemos un crecimiento de la curva, lo que sí es claro que la velocidad del aumento de casos… https://t.co/HTnZpBn8cm",neutral,0.03,0.95,0.02,140
@@ -99,3 +98,4 @@ Instituto de Salud Pública de Chile,"Fabrica tu propia mascarilla con una banda
 
 #CuidémonosEntreTodos https://t.co/xKhhwuUifD",neutral,0.07,0.89,0.04,92
 Ministerio de Salud,Subsecretario de Redes Asistenciales @arturozunigaj se reunió con compañeros de trabajo de funcionaria fallecida po… https://t.co/gkYOUvedHz,negative,0.02,0.15,0.83,140
+Ministerio de Salud,RT @ceciliamorel: La crisis económica provocada por el #Covid19 le cambió la cara a millones de familias vulnerables que hoy piden nuestra…,negative,0.01,0.0,0.99,139
