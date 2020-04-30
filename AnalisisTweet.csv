@@ -1,12 +1,4 @@
 Entidad,Contenido,Sentimiento,Positivo,Neutral,Negativo,LargoTexto
-Instituto de Salud Pública de Chile,"Donar sangre es donar vida.
-
-Si tu comuna está en cuarentena puedes pedir tu permiso en https://t.co/ZzyyA2AUEJ… https://t.co/o8HiZn3Fou",neutral,0.25,0.7,0.05,136
-Super de Salud Chile,RT @ministeriosalud: Minsal anuncia que Carnet #COVID_19 comenzará a ser entregado la próxima semana https://t.co/pmbviYduZr,neutral,0.07,0.69,0.24,124
-Super de Salud Chile,"[INFORMACIÓN]
-#BuenasNoticias 
-Les dejamos el comunicado que pone fin al decreto que suspendió las garantías GES.
-L… https://t.co/rZfSmbPMP1",positive,0.88,0.03,0.09,140
 Instituto de Salud Pública de Chile,"Si tienes a un miembro del hogar diagnosticado con COVID 19, es muy importante que adoptes las siguientes medidas:… https://t.co/B4qSdJTaaj",neutral,0.02,0.85,0.13,139
 OPS/OMS,"RT @bireme: @fiocruz  lança seu primeiro curso sobre #COVID19, online e gratuito, para profissionais de saúde ""COVID-19: Manejo da infecção…",positive,0.83,0.07,0.1,140
 OPS/OMS,"RT @OPASOMSBrasil: P/ apoiar prof. de saúde do 🇧🇷 em meio à #COVID19, a OPAS lançou 4 cursos:
@@ -43,6 +35,10 @@ OPS/OMS,"🚨 #COVID19
 
 ""Las personas más enfermas desarrollan inmunidad tardía, pero no significa que esa inmmunidad va a ser… https://t.co/w5Dc6e3MyW",negative,0.05,0.18,0.77,140
 Instituto de Salud Pública de Chile,"Recuerda que la vacuna contra la influenza es gratuita para personas mayores de 65 años, niños y niñas desde los 6… https://t.co/fMeSEOzmeO",positive,0.87,0.02,0.11,139
+Super de Salud Chile,RT @SeremiSalud_IX: @SeremiSalud_IX Gloria Rodríguez junto a Subsecretario @arturozunigaj llegaron a #Gorbea para reunirse con alcalde @Mun…,neutral,0.17,0.66,0.17,140
+Instituto de Salud Pública de Chile,"Si tienes un pañuelo en tu hogar, puedes convertirlo en una mascarilla.
+
+Sigue estos pasos y #CuidémonosEntreTodos… https://t.co/aup0MLpT5j",neutral,0.14,0.84,0.02,139
 OPS/OMS,RT @OPASOMSBrasil: Estar vacinado(a) é muito importante quando sistemas de saúde 🏥 enfrentam situações como a #COVID19. Façamos nossa parte…,neutral,0.16,0.6,0.24,140
 OPS/OMS,"RT @OPSECU: La coordinación y la complementariedad, elementos clave que impulsa el clúster de salud en la respuesta al #COVID19 🦠
 
@@ -70,6 +66,8 @@ Ministerio de Salud,"#CuidémonosEntreTodos del Coronavirus
 Lávate frecuentemente las manos con agua y jabón.
 Mantén distanciamiento fís… https://t.co/4WVuRD5Til",neutral,0.04,0.79,0.17,140
 OPS/OMS,"#COVID19 👉🏽 Si te sientes triste 😞 y sin esperanza ☹️, habla con alguien de tu confianza sobre tus sentimientos o c… https://t.co/BAp968tXOe",negative,0.2,0.0,0.8,140
+Super de Salud Chile,"@_Papeluchis @integramedica @biobio @SERNAC Marcela, puedes dejarnos todos tus datos personales por interno?
+Gracias.",positive,1.0,0.0,0.0,117
 Super de Salud Chile,"RT @FONASA: 🤔 ¿Necesitas devolver un bono que no utilizaste? ¡Puedes hacerlo desde tu casa! 
 
 ➡️ Ingresa a este link para realizar este trá…",neutral,0.07,0.78,0.15,140
