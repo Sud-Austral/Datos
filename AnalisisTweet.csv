@@ -1,6 +1,5 @@
 Entidad,Contenido,Sentimiento,Positivo,Neutral,Negativo,LargoTexto
 Instituto de Salud Pública de Chile,"Si tienes a un miembro del hogar diagnosticado con COVID 19, es muy importante que adoptes las siguientes medidas:… https://t.co/B4qSdJTaaj",neutral,0.02,0.85,0.13,139
-OPS/OMS,"RT @bireme: @fiocruz  lança seu primeiro curso sobre #COVID19, online e gratuito, para profissionais de saúde ""COVID-19: Manejo da infecção…",positive,0.83,0.07,0.1,140
 OPS/OMS,"RT @OPASOMSBrasil: P/ apoiar prof. de saúde do 🇧🇷 em meio à #COVID19, a OPAS lançou 4 cursos:
 
 👉🏿 Doenças por vírus respiratórios emergente…",neutral,0.09,0.84,0.07,140
@@ -39,13 +38,15 @@ Super de Salud Chile,RT @SeremiSalud_IX: @SeremiSalud_IX Gloria Rodríguez junto
 Instituto de Salud Pública de Chile,"Si tienes un pañuelo en tu hogar, puedes convertirlo en una mascarilla.
 
 Sigue estos pasos y #CuidémonosEntreTodos… https://t.co/aup0MLpT5j",neutral,0.14,0.84,0.02,139
+OPS/OMS,"RT @opsomsuruguay: #COVID19 👉🏾 Nuevo curso online en español sobre ePROTECT Infecciones respiratorias: Salud y seguridad ocupacional 
+
+El c…",positive,0.46,0.29,0.25,140
 OPS/OMS,RT @OPASOMSBrasil: Estar vacinado(a) é muito importante quando sistemas de saúde 🏥 enfrentam situações como a #COVID19. Façamos nossa parte…,neutral,0.16,0.6,0.24,140
 OPS/OMS,"RT @OPSECU: La coordinación y la complementariedad, elementos clave que impulsa el clúster de salud en la respuesta al #COVID19 🦠
 
 https://…",neutral,0.18,0.78,0.04,140
 OPS/OMS,RT @OPSOMS_Honduras: Mesa CESAR de Cooperantes en Salud se reúne con la Secretaría de Salud para conocer la situación actual de la epidemia…,negative,0.01,0.03,0.96,140
 OPS/OMS,RT @opsargentina: ¿Cuándo limpiarnos las manos? #COVID19 https://t.co/SyQkDWyoS2,neutral,0.06,0.85,0.09,80
-Ministerio de Salud,"RT @segegob: Para cuidar a la ciudadanía, este fin de semana largo habrá dos nuevos cordones sanitarios. ¿Dónde? ¿Desde cuándo? ¿Qué puedo…",positive,0.63,0.28,0.09,139
 Ministerio de Salud,Gobierno reactiva garantías AUGE y autoriza cirugías ambulatorias suspendidas por #COVID_19 https://t.co/inEBSAUImY,neutral,0.05,0.86,0.09,115
 Super de Salud Chile,"Acá pueden encontrar la noticia de @24HorasTVN respecto de la reactivación de las garantías GES, suspendidas produc… https://t.co/gZDOMB172y",neutral,0.01,0.94,0.05,140
 Ministerio de Salud,"RT @pdazan: Mañana entran, salen y se extienden las cuarentenas en distintas comunas. Revisa aquí cuáles son: https://t.co/FCb68TeGVS",neutral,0.02,0.96,0.02,133
@@ -76,6 +77,7 @@ Colmed Chile,"Dr. Cuadrado: ""Es una buena noticia que se esté aumentando el te
 Colmed Chile,"Dr. Cuadrado: ""Los próximos casos debiéramos ver más casos, porque se amplió el criterio de caso sospechoso y por e… https://t.co/1XsOd8rJD3",negative,0.02,0.04,0.94,140
 Colmed Chile,"Dr. Cuadrado: ""Si tenemos una capacidad ociosa de realizar más exámenes, toma pleno sentido lo que recomienda el Co… https://t.co/Kn07GJAH8P",positive,0.48,0.47,0.05,140
 Colmed Chile,[#AHORA] Mediante videoconferencia se realiza reunión entre @sochipe @colegioprofes @defensorianinez y #Colmed para… https://t.co/LLPmGMDCjl,neutral,0.01,0.96,0.03,140
+Ministerio de Salud,"Además del Gran Concepción, desde mañana jueves 30 a las 18:00 horas comienza la implementación de un Cordón Sanita… https://t.co/j2M2DWEGJS",positive,0.6,0.38,0.02,140
 Colmed Chile,RT @izkia: Rechazamos el lobby de las tabacaleras. Ojalá @ElMercurio_cl no se siga prestando para ello y nos publique nuestras replicas.,negative,0.4,0.19,0.41,136
 Colmed Chile,"RT @izkia: ""Una universidad cuyo norte sea Chile y las necesidades de su pueblo"" #ChileCuentaConSuUniversidad Grande @uchile 💪💪💪",neutral,0.07,0.92,0.01,128
 Colmed Chile,"RT @falmedchile: Acompáñenos en una nueva charla online que realizaremos sobre #telemedicina.  
