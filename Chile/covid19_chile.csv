@@ -1901,7 +1901,7 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 1900,28-03-2020,8.0,Chile,Biobío,,,,Tomé,,,Confirmado,-36.6166323796,-72.8580501099
 1901,28-03-2020,8.0,Chile,Biobío,,,,Tomé,,,Confirmado,-36.6166323796,-72.8580501099
 1902,28-03-2020,9.0,Chile,La Araucanía,,,,Nueva Imperial,,,Confirmado,-38.7515999667,-72.9720610851
-1903,28-03-2020,9.0,Chile,La Araucanía,,,,Puerto Saavedra,,,Confirmado,-38.6482295784,-72.276375641
+1903,28-03-2020,9.0,Chile,La Araucanía,,,,Saavedra,,,Confirmado,-38.8325547451,-73.2955377625
 1904,28-03-2020,9.0,Chile,La Araucanía,Masculino,32.0,Hospital San Francisco de Pucón,Pucón,,,Confirmado,-39.2701583983,-71.7912464818
 1905,28-03-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
 1906,28-03-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
@@ -1968,7 +1968,7 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 1967,28-03-2020,10.0,Chile,Los Lagos,,,,Osorno,,,Confirmado,-40.6118925181,-73.0867453662
 1968,28-03-2020,10.0,Chile,Los Lagos,,,,Osorno,,,Confirmado,-40.6118925181,-73.0867453662
 1969,28-03-2020,10.0,Chile,Los Lagos,,,,Osorno,,,Confirmado,-40.6118925181,-73.0867453662
-1970,28-03-2020,10.0,Chile,Los Lagos,Masculino,,Centro de Salud Familiar Marcelo Lopetegui,Río Negro ,,,Confirmado,-43.2683956584,-72.2068049418
+1970,28-03-2020,10.0,Chile,Los Lagos,Masculino,,Centro de Salud Familiar Marcelo Lopetegui,Río Negro,,,Confirmado,-40.7711401598,-73.4176981519
 1971,28-03-2020,12.0,Chile,Magallanes,Masculino,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
 1972,28-03-2020,12.0,Chile,Magallanes,Masculino,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
 1973,28-03-2020,12.0,Chile,Magallanes,Masculino,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
@@ -7110,7 +7110,7 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 7109,09-04-2020,10.0,Chile,Los Lagos,,,,Osorno,,,Confirmado,-40.6118925181,-73.0867453662
 7110,09-04-2020,10.0,Chile,Los Lagos,,,,Osorno,,,Confirmado,-40.6118925181,-73.0867453662
 7111,09-04-2020,10.0,Chile,Los Lagos,,,,Osorno,,,Confirmado,-40.6118925181,-73.0867453662
-7112,09-04-2020,10.0,Chile,Los Lagos,,,,Río Negro ,,,Confirmado,-43.2683956584,-72.2068049418
+7112,09-04-2020,10.0,Chile,Los Lagos,,,,Río Negro,,,Confirmado,-40.7711401598,-73.4176981519
 7113,09-04-2020,10.0,Chile,Los Lagos,,,,Purranque,,,Confirmado,-40.9357379405,-73.4579156099
 7114,09-04-2020,10.0,Chile,Los Lagos,,,,Castro,,,Confirmado,-42.4737944023,-73.8046191297
 7115,09-04-2020,10.0,Chile,Los Lagos,,,,Ancud,,,Confirmado,-42.0159379209,-73.8013178115
@@ -10993,7 +10993,7 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 10992,15-04-2020,10.0,Chile,Los Lagos,,,,Osorno,,,Confirmado,-40.6118925181,-73.0867453662
 10993,15-04-2020,10.0,Chile,Los Lagos,,,,Osorno,,,Confirmado,-40.6118925181,-73.0867453662
 10994,15-04-2020,10.0,Chile,Los Lagos,,,,Osorno,,,Confirmado,-40.6118925181,-73.0867453662
-10995,15-04-2020,10.0,Chile,Los Lagos,,,,Río Negro ,,,Confirmado,-43.2683956584,-72.2068049418
+10995,15-04-2020,10.0,Chile,Los Lagos,,,,Río Negro,,,Confirmado,-40.7711401598,-73.4176981519
 10996,15-04-2020,10.0,Chile,Los Lagos,,,,Ancud,,,Confirmado,-42.0159379209,-73.8013178115
 10997,15-04-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
 10998,15-04-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
@@ -11565,7 +11565,7 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 11564,16-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
 11565,16-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
 11566,16-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-11567,16-04-2020,13.0,Chile,Metropolitana,,,,arao,,,Confirmado,-33.6043642941,-70.6266370305
+11567,16-04-2020,13.0,Chile,Metropolitana,,,,,,,Confirmado,-33.6043642941,-70.6266370305
 11568,16-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
 11569,16-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
 11570,16-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
@@ -12997,13 +12997,13 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 12996,18-04-2020,15.0,Chile,Arica y Parinacota,,,,Arica,,,Confirmado,-18.5321930844,-69.9714910871
 12997,18-04-2020,15.0,Chile,Arica y Parinacota,,,,Arica,,,Confirmado,-18.5321930844,-69.9714910871
 12998,18-04-2020,1.0,Chile,Tarapacá,,,,Iquique,,,Confirmado,-20.9406151208,-70.041538352
-12999,18-04-2020,1.0,Chile,Tarapacá,,,,Alto Hospicio ,,,Confirmado,-20.2133874287,-69.3928397127
-13000,18-04-2020,1.0,Chile,Tarapacá,,,,Alto Hospicio ,,,Confirmado,-20.2133874287,-69.3928397127
-13001,18-04-2020,1.0,Chile,Tarapacá,,,,Alto Hospicio ,,,Confirmado,-20.2133874287,-69.3928397127
-13002,18-04-2020,1.0,Chile,Tarapacá,,,,Alto Hospicio ,,,Confirmado,-20.2133874287,-69.3928397127
-13003,18-04-2020,1.0,Chile,Tarapacá,,,,Alto Hospicio ,,,Confirmado,-20.2133874287,-69.3928397127
-13004,18-04-2020,1.0,Chile,Tarapacá,,,,Alto Hospicio ,,,Confirmado,-20.2133874287,-69.3928397127
-13005,18-04-2020,1.0,Chile,Tarapacá,,,,Alto Hospicio ,,,Confirmado,-20.2133874287,-69.3928397127
+12999,18-04-2020,1.0,Chile,Tarapacá,,,,Alto Hospicio,,,Confirmado,-20.1899464527,-70.0109621438
+13000,18-04-2020,1.0,Chile,Tarapacá,,,,Alto Hospicio,,,Confirmado,-20.1899464527,-70.0109621438
+13001,18-04-2020,1.0,Chile,Tarapacá,,,,Alto Hospicio,,,Confirmado,-20.1899464527,-70.0109621438
+13002,18-04-2020,1.0,Chile,Tarapacá,,,,Alto Hospicio,,,Confirmado,-20.1899464527,-70.0109621438
+13003,18-04-2020,1.0,Chile,Tarapacá,,,,Alto Hospicio,,,Confirmado,-20.1899464527,-70.0109621438
+13004,18-04-2020,1.0,Chile,Tarapacá,,,,Alto Hospicio,,,Confirmado,-20.1899464527,-70.0109621438
+13005,18-04-2020,1.0,Chile,Tarapacá,,,,Alto Hospicio,,,Confirmado,-20.1899464527,-70.0109621438
 13006,18-04-2020,2.0,Chile,Antofagasta,Masculino,,,Antofagasta,,,Confirmado,-24.2767223957,-69.4100886557
 13007,18-04-2020,2.0,Chile,Antofagasta,Masculino,,,Antofagasta,,,Confirmado,-24.2767223957,-69.4100886557
 13008,18-04-2020,2.0,Chile,Antofagasta,Masculino,,,Antofagasta,,,Confirmado,-24.2767223957,-69.4100886557
@@ -15611,7 +15611,7 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 15610,21-04-2020,14.0,Chile,Los Ríos,Femenino,30.0,,La Unión,,,Confirmado,-40.2017945002,-73.2223210849
 15611,21-04-2020,14.0,Chile,Los Ríos,Masculino,51.0,,Río Bueno,,,Confirmado,-40.496190764,-72.535439593
 15612,21-04-2020,14.0,Chile,Los Ríos,Masculino,21.0,,Lanco,,,Confirmado,-39.5121811782,-72.6215188458
-15613,21-04-2020,10.0,Chile,Los Lagos,,,,Río Negro ,,,Confirmado,-43.2683956584,-72.2068049418
+15613,21-04-2020,10.0,Chile,Los Lagos,,,,Río Negro,,,Confirmado,-40.7711401598,-73.4176981519
 15614,21-04-2020,10.0,Chile,Los Lagos,,,,Purranque,,,Confirmado,-40.9357379405,-73.4579156099
 15615,21-04-2020,10.0,Chile,Los Lagos,,,,Osorno,,,Confirmado,-40.6118925181,-73.0867453662
 15616,21-04-2020,10.0,Chile,Los Lagos,,,,Osorno,,,Confirmado,-40.6118925181,-73.0867453662
@@ -15963,9 +15963,9 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 15962,22-04-2020,1.0,Chile,Tarapacá,,,,Iquique,,,Confirmado,-20.9406151208,-70.041538352
 15963,22-04-2020,1.0,Chile,Tarapacá,,,,Iquique,,,Confirmado,-20.9406151208,-70.041538352
 15964,22-04-2020,1.0,Chile,Tarapacá,,,,Iquique,,,Confirmado,-20.9406151208,-70.041538352
-15965,22-04-2020,1.0,Chile,Tarapacá,,,,Alto Hospicio ,,,Confirmado,-20.2133874287,-69.3928397127
-15966,22-04-2020,1.0,Chile,Tarapacá,,,,Alto Hospicio ,,,Confirmado,-20.2133874287,-69.3928397127
-15967,22-04-2020,1.0,Chile,Tarapacá,,,,Alto Hospicio ,,,Confirmado,-20.2133874287,-69.3928397127
+15965,22-04-2020,1.0,Chile,Tarapacá,,,,Alto Hospicio,,,Confirmado,-20.1899464527,-70.0109621438
+15966,22-04-2020,1.0,Chile,Tarapacá,,,,Alto Hospicio,,,Confirmado,-20.1899464527,-70.0109621438
+15967,22-04-2020,1.0,Chile,Tarapacá,,,,Alto Hospicio,,,Confirmado,-20.1899464527,-70.0109621438
 15968,22-04-2020,1.0,Chile,Tarapacá,,,,Pica,,,Confirmado,-20.4789531968,-68.9122031293
 15969,22-04-2020,2.0,Chile,Antofagasta,,,,Antofagasta,,,Confirmado,-24.2767223957,-69.4100886557
 15970,22-04-2020,2.0,Chile,Antofagasta,,,,Antofagasta,,,Confirmado,-24.2767223957,-69.4100886557
@@ -17342,7 +17342,7 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 17341,23-04-2020,10.0,Chile,Los Lagos,,,,Osorno,,,Confirmado,-40.6118925181,-73.0867453662
 17342,23-04-2020,10.0,Chile,Los Lagos,,,,Osorno,,,Confirmado,-40.6118925181,-73.0867453662
 17343,23-04-2020,10.0,Chile,Los Lagos,,,,Osorno,,,Confirmado,-40.6118925181,-73.0867453662
-17344,23-04-2020,10.0,Chile,Los Lagos,,,,Río Negro ,,,Confirmado,-43.2683956584,-72.2068049418
+17344,23-04-2020,10.0,Chile,Los Lagos,,,,Río Negro,,,Confirmado,-40.7711401598,-73.4176981519
 17345,23-04-2020,10.0,Chile,Los Lagos,,,,San Juan de la Costa,,,Confirmado,-40.5089957648,-73.5591952549
 17346,23-04-2020,10.0,Chile,Los Lagos,,,,San Juan de la Costa,,,Confirmado,-40.5089957648,-73.5591952549
 17347,23-04-2020,10.0,Chile,Los Lagos,,,,San Juan de la Costa,,,Confirmado,-40.5089957648,-73.5591952549
@@ -17814,10 +17814,10 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 17813,24-04-2020,15.0,Chile,Arica y Parinacota,,,,Arica,,,Confirmado,-18.5321930844,-69.9714910871
 17814,24-04-2020,1.0,Chile,Tarapacá,,,,Iquique ,,,Confirmado,-20.2133874287,-69.3928397127
 17815,24-04-2020,1.0,Chile,Tarapacá,,,,Iquique ,,,Confirmado,-20.2133874287,-69.3928397127
-17816,24-04-2020,1.0,Chile,Tarapacá,,,,Alto Hospicio ,,,Confirmado,-20.2133874287,-69.3928397127
-17817,24-04-2020,1.0,Chile,Tarapacá,,,,Alto Hospicio ,,,Confirmado,-20.2133874287,-69.3928397127
-17818,24-04-2020,1.0,Chile,Tarapacá,,,,Alto Hospicio ,,,Confirmado,-20.2133874287,-69.3928397127
-17819,24-04-2020,1.0,Chile,Tarapacá,,,,Alto Hospicio ,,,Confirmado,-20.2133874287,-69.3928397127
+17816,24-04-2020,1.0,Chile,Tarapacá,,,,Alto Hospicio,,,Confirmado,-20.1899464527,-70.0109621438
+17817,24-04-2020,1.0,Chile,Tarapacá,,,,Alto Hospicio,,,Confirmado,-20.1899464527,-70.0109621438
+17818,24-04-2020,1.0,Chile,Tarapacá,,,,Alto Hospicio,,,Confirmado,-20.1899464527,-70.0109621438
+17819,24-04-2020,1.0,Chile,Tarapacá,,,,Alto Hospicio,,,Confirmado,-20.1899464527,-70.0109621438
 17820,24-04-2020,2.0,Chile,Antofagasta,,,,Antofagasta,,,Confirmado,-24.2767223957,-69.4100886557
 17821,24-04-2020,2.0,Chile,Antofagasta,,,,Antofagasta,,,Confirmado,-24.2767223957,-69.4100886557
 17822,24-04-2020,2.0,Chile,Antofagasta,,,,Antofagasta,,,Confirmado,-24.2767223957,-69.4100886557
@@ -18817,10 +18817,10 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 18816,25-04-2020,1.0,Chile,Tarapacá,Masculino,,,Iquique,,,Confirmado,-20.9406151208,-70.041538352
 18817,25-04-2020,1.0,Chile,Tarapacá,Masculino,,,Iquique,,,Confirmado,-20.9406151208,-70.041538352
 18818,25-04-2020,1.0,Chile,Tarapacá,Masculino,,,Iquique,,,Confirmado,-20.9406151208,-70.041538352
-18819,25-04-2020,1.0,Chile,Tarapacá,Femenino,,,Alo Hospicio,,,Confirmado,-20.2133874287,-69.3928397127
-18820,25-04-2020,1.0,Chile,Tarapacá,Femenino,,,Alo Hospicio,,,Confirmado,-20.2133874287,-69.3928397127
-18821,25-04-2020,1.0,Chile,Tarapacá,Masculino,,,Alo Hospicio,,,Confirmado,-20.2133874287,-69.3928397127
-18822,25-04-2020,1.0,Chile,Tarapacá,Masculino,,,Alo Hospicio,,,Confirmado,-20.2133874287,-69.3928397127
+18819,25-04-2020,1.0,Chile,Tarapacá,Femenino,,,Alto Hospicio,,,Confirmado,-20.1899464527,-70.0109621438
+18820,25-04-2020,1.0,Chile,Tarapacá,Femenino,,,Alto Hospicio,,,Confirmado,-20.1899464527,-70.0109621438
+18821,25-04-2020,1.0,Chile,Tarapacá,Masculino,,,Alto Hospicio,,,Confirmado,-20.1899464527,-70.0109621438
+18822,25-04-2020,1.0,Chile,Tarapacá,Masculino,,,Alto Hospicio,,,Confirmado,-20.1899464527,-70.0109621438
 18823,25-04-2020,2.0,Chile,Antofagasta,,,,Antofagasta,,,Confirmado,-24.2767223957,-69.4100886557
 18824,25-04-2020,2.0,Chile,Antofagasta,,,,Antofagasta,,,Confirmado,-24.2767223957,-69.4100886557
 18825,25-04-2020,2.0,Chile,Antofagasta,,,,Antofagasta,,,Confirmado,-24.2767223957,-69.4100886557
@@ -20240,9 +20240,9 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 20239,26-04-2020,10.0,Chile,Los Lagos,,,,Osorno,,,Confirmado,-40.6118925181,-73.0867453662
 20240,26-04-2020,10.0,Chile,Los Lagos,,,,Puerto Octay,,,Confirmado,-40.9334514982,-72.5996861674
 20241,26-04-2020,10.0,Chile,Los Lagos,,,,Puerto Octay,,,Confirmado,-40.9334514982,-72.5996861674
-20242,26-04-2020,10.0,Chile,Los Lagos,,,,Rio Negro,,,Confirmado,-43.2683956584,-72.2068049418
-20243,26-04-2020,10.0,Chile,Los Lagos,,,,Rio Negro,,,Confirmado,-43.2683956584,-72.2068049418
-20244,26-04-2020,10.0,Chile,Los Lagos,,,,Rio Negro,,,Confirmado,-43.2683956584,-72.2068049418
+20242,26-04-2020,10.0,Chile,Los Lagos,,,,Río Negro,,,Confirmado,-40.7711401598,-73.4176981519
+20243,26-04-2020,10.0,Chile,Los Lagos,,,,Río Negro,,,Confirmado,-40.7711401598,-73.4176981519
+20244,26-04-2020,10.0,Chile,Los Lagos,,,,Río Negro,,,Confirmado,-40.7711401598,-73.4176981519
 20245,26-04-2020,10.0,Chile,Los Lagos,,,,Purranque,,,Confirmado,-40.9357379405,-73.4579156099
 20246,26-04-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
 20247,26-04-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
@@ -24255,7 +24255,7 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 24254,30-04-2020,9.0,Chile,La Araucanía,,,,Angol,,,Confirmado,-37.7687124996,-72.7957142527
 24255,30-04-2020,9.0,Chile,La Araucanía,,,,Angol,,,Confirmado,-37.7687124996,-72.7957142527
 24256,30-04-2020,9.0,Chile,La Araucanía,,,,Angol,,,Confirmado,-37.7687124996,-72.7957142527
-24257,30-04-2020,9.0,Chile,La Araucanía,,,,Chol-Chol,,,Confirmado,-38.6482295784,-72.276375641
+24257,30-04-2020,9.0,Chile,La Araucanía,,,,Cholchol,,,Confirmado,-38.5834330094,-72.9023872851
 24258,30-04-2020,9.0,Chile,La Araucanía,,,,Nueva Imperial,,,Confirmado,-38.7515999667,-72.9720610851
 24259,30-04-2020,9.0,Chile,La Araucanía,,,,Padre las Casas,,,Confirmado,-38.7917117043,-72.5788411915
 24260,30-04-2020,9.0,Chile,La Araucanía,,,,Padre las Casas,,,Confirmado,-38.7917117043,-72.5788411915
@@ -24277,11 +24277,11 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 24276,30-04-2020,14.0,Chile,Los Ríos,,,,Valdivia,,,Confirmado,-39.8177863595,-73.1746908864
 24277,30-04-2020,14.0,Chile,Los Ríos,,,,Lanco,,,Confirmado,-39.5121811782,-72.6215188458
 24278,30-04-2020,14.0,Chile,Los Ríos,,,,La Unión,,,Confirmado,-40.2017945002,-73.2223210849
-24279,30-04-2020,14.0,Chile,Los Ríos,,,,Rio Bueno,,,Confirmado,-40.0034147045,-72.5764331101
+24279,30-04-2020,14.0,Chile,Los Ríos,,,,Río Bueno,,,Confirmado,-40.496190764,-72.535439593
 24280,30-04-2020,10.0,Chile,Los Lagos,,,,Osorno ,,,Confirmado,-43.2683956584,-72.2068049418
 24281,30-04-2020,10.0,Chile,Los Lagos,,,,Osorno ,,,Confirmado,-43.2683956584,-72.2068049418
 24282,30-04-2020,10.0,Chile,Los Lagos,,,,Osorno ,,,Confirmado,-43.2683956584,-72.2068049418
-24283,30-04-2020,10.0,Chile,Los Lagos,,,,Río Negro ,,,Confirmado,-43.2683956584,-72.2068049418
+24283,30-04-2020,10.0,Chile,Los Lagos,,,,Río Negro,,,Confirmado,-40.7711401598,-73.4176981519
 24284,30-04-2020,10.0,Chile,Los Lagos,,,,Purranque,,,Confirmado,-40.9357379405,-73.4579156099
 24285,30-04-2020,10.0,Chile,Los Lagos,,,,San Juan de la Costa,,,Confirmado,-40.5089957648,-73.5591952549
 24286,30-04-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
