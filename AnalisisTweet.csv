@@ -2,28 +2,14 @@ Entidad,Contenido,Sentimiento,Positivo,Neutral,Negativo,LargoTexto
 OPS/OMS,"RT @OPASOMSBrasil: P/ apoiar prof. de saúde do 🇧🇷 em meio à #COVID19, a OPAS lançou 4 cursos:
 
 👉🏿 Doenças por vírus respiratórios emergente…",neutral,0.09,0.84,0.07,140
-Super de Salud Chile,"¿Sabes en qué lugares debes usar mascarilla, obligatoriamente? 🤔
-
-Conoce más sobre esta medida 👇, e infórmate siemp… https://t.co/eZ2k5x0mK1",neutral,0.15,0.74,0.11,140
-Instituto de Salud Pública de Chile,"Si estás en aislamiento domiciliario, es muy importante mantener las medidas de prevención en el hogar.
-
-- Lávate l… https://t.co/yKlcewmWSw",neutral,0.07,0.87,0.06,140
-Super de Salud Chile,"RT @presidenciaresp: 🔴Conoce aquí las comunas y zonas que verán extendida por 7 días sus cuarentenas y cuáles se suman a esta medida.
-
-➡️¿C…",neutral,0.14,0.78,0.08,140
-Super de Salud Chile,RT @ministeriosalud: Gobierno reactiva garantía de oportunidad AUGE suspendidas por #COVID_19 y autoriza cirugías ambulatorias  https://t.c…,neutral,0.03,0.87,0.1,140
 Super de Salud Chile,"RT @SeremiSaludRM: ¡Recuerda! Mañana comienzan las cuarentenas en nuevas comunas de la #RMdeTodos. 
 
 Revisa acá 👇🏽👇🏽 cuáles son. 
 
 #Cuidémo…",neutral,0.17,0.81,0.02,140
-Instituto de Salud Pública de Chile,"A partir del jueves 30 de abril, a las 22:00 horas, nuevos sectores y comunas estarán en cuarentena.
-
-Más informaci… https://t.co/s1PQvf8kbY",neutral,0.15,0.79,0.06,140
 OPS/OMS,"ℹ️ #COVID19 #coronavirus
 
 ¿Cuál es la fuente de la OPS para adquirir equipo de protección personal y respiradores p… https://t.co/UO57Cxjy7a",neutral,0.12,0.85,0.03,140
-Instituto de Salud Pública de Chile,RT @ministeriosalud: Gobierno reactiva garantía de oportunidad AUGE suspendidas por #COVID_19 y autoriza cirugías ambulatorias  https://t.c…,neutral,0.03,0.87,0.1,140
 Instituto de Salud Pública de Chile,"RT @Cenabast: Esta tarde, la Farmacia VidaFarma de Linares recibió el sello que la identifica como farmacia adherida a la Ley Cenabast.  Pr…",neutral,0.06,0.89,0.05,140
 Instituto de Salud Pública de Chile,RT @arturozunigaj: Analizando situación local y las medidas que se están adoptando por #PlanCovid19 en la comuna de Gorbea #Araucanía  alca…,neutral,0.01,0.94,0.05,140
 OPS/OMS,"RT @OPSOMSPeru: #YoMeQuedoEnCasa mantente físicamente activo y tranquilo  durante la cuarentena por la #COVID19. 
@@ -53,7 +39,6 @@ Instituto de Salud Pública de Chile,"El uso correcto de la mascarilla es clave 
 
 Conoce… https://t.co/szevGAyhZM",positive,0.95,0.04,0.01,140
 Super de Salud Chile,"RT @pdazan: Mañana entran, salen y se extienden las cuarentenas en distintas comunas. Revisa aquí cuáles son: https://t.co/FCb68TeGVS",neutral,0.02,0.96,0.02,133
-Colmed Chile,"Dr. Cuadrado: ""Todavía tenemos un crecimiento de la curva, lo que sí es claro que la velocidad del aumento de casos… https://t.co/HTnZpBn8cm",neutral,0.03,0.95,0.02,140
 Instituto de Salud Pública de Chile,"Uso obligatorio de mascarilla.
 
 Conoce más sobre esta nueva medida en https://t.co/YdvmOlnhQ7… https://t.co/IHf7b4VpYq",neutral,0.15,0.8,0.05,118
@@ -63,8 +48,6 @@ Gracias.",positive,1.0,0.0,0.0,117
 Super de Salud Chile,"RT @FONASA: 🤔 ¿Necesitas devolver un bono que no utilizaste? ¡Puedes hacerlo desde tu casa! 
 
 ➡️ Ingresa a este link para realizar este trá…",neutral,0.07,0.78,0.15,140
-Colmed Chile,"[#AHORA] En #T13Central, el Dr. @CCuadradoN, Secretario Técnico de nuestro Dpto. de Políticas de Salud y Estudios,… https://t.co/Wo45JXk6kE",neutral,0.26,0.7,0.04,139
-Colmed Chile,"Dr. Cuadrado: ""Es una buena noticia que se esté aumentando el testeo a los asintomáticos, pero no sabemos si los ca… https://t.co/fRIWtCWrLt",positive,0.95,0.01,0.04,140
 Colmed Chile,"Dr. Cuadrado: ""Los próximos casos debiéramos ver más casos, porque se amplió el criterio de caso sospechoso y por e… https://t.co/1XsOd8rJD3",negative,0.02,0.04,0.94,140
 Colmed Chile,"Dr. Cuadrado: ""Si tenemos una capacidad ociosa de realizar más exámenes, toma pleno sentido lo que recomienda el Co… https://t.co/Kn07GJAH8P",positive,0.48,0.47,0.05,140
 Colmed Chile,[#AHORA] Mediante videoconferencia se realiza reunión entre @sochipe @colegioprofes @defensorianinez y #Colmed para… https://t.co/LLPmGMDCjl,neutral,0.01,0.96,0.03,140
@@ -80,12 +63,6 @@ Si eres profesional o técnico de salud, y quieres… https://t.co/icH3ggBRJ5",p
 Instituto de Salud Pública de Chile,"Fabrica tu propia mascarilla con una bandana.
 
 #CuidémonosEntreTodos https://t.co/xKhhwuUifD",neutral,0.07,0.89,0.04,92
-Ministerio de Salud,RT @ceciliamorel: La crisis económica provocada por el #Covid19 le cambió la cara a millones de familias vulnerables que hoy piden nuestra…,negative,0.01,0.0,0.99,139
-Ministerio de Salud,RT @CHI20301: A tres meses de declaración de Emergencia Salud Pública Importancia Internacional por nuevo coronavirus @DrTedros  repasa per…,neutral,0.02,0.75,0.23,140
-Ministerio de Salud,"RT @arturozunigaj: En el Cesfam que por tantos años trabajó Lorena, se sentía la pena, pero también la valentía y fuerza de los trabajadore…",negative,0.46,0.02,0.52,140
-Ministerio de Salud,"EN VIVO | Subsec @pdazan | #EstoNoEsPlazaItalia
-
-@Cumparini y @marcosimu comentan junto a la Subsecretaria de Salud… https://t.co/dtyKEL8D5Z",neutral,0.11,0.69,0.2,140
 Ministerio de Salud,"Subsec @pdazan en #estonoesplazaitalia:
 
 ""Lo que se ha venido sabiendo en estas últimas semanas, hay estudios que d… https://t.co/5j7Q17Ey4w",neutral,0.06,0.85,0.09,140
@@ -100,3 +77,21 @@ Cuando el cuerpo genera anticuerpos:
 Ministerio de Salud,"RT @pdazan: @OasisFMChile cuando la enfermedad avanza, el cuerpo produce dos tipos de anticuerpos. Uno de ellos es la Inmunoglobulima G, la…",negative,0.0,0.15,0.85,140
 Ministerio de Salud,"RT @pdazan: @OasisFMChile este virus es muy nuevo, pero hay ciertas puntos que sabemos. Por ejemplo, que producimos la Inmunoglobulina G, q…",negative,0.05,0.14,0.81,140
 Ministerio de Salud,"Medidas que se implementan a partir de hoy a las 18:00 horas, además de nuevas cuarentenas desde las 22:00 horas de… https://t.co/DQWnIEEOKg",neutral,0.02,0.92,0.06,140
+Instituto de Salud Pública de Chile,"Recuerda que la vacuna contra la influenza es gratuita para personas mayores de 65 años, niños y niñas desde los 6… https://t.co/g31SXjDygz",positive,0.87,0.02,0.11,139
+Colmed Chile,"[#AHORA] En #MeganoticiasConecta, nuestra Prosecretaria, Dra. Inés Guerrero (@Iguerrerom) aborda la situación de lo… https://t.co/Q3U9WSEurS",neutral,0.08,0.75,0.17,140
+Colmed Chile,"Dra. Guerrero: “No nos atreveríamos a descartar que ella no se contagió en su trabajo, porque el testeo no ha sido… https://t.co/XjFSoMSP3j",negative,0.16,0.07,0.77,139
+Colmed Chile,"Dra. Guerrero: “No conocemos el número exacto de funcionarios contagiados, porque no se han testeado todos y creemo… https://t.co/xVRoJ9C8QF",negative,0.12,0.07,0.81,140
+Super de Salud Chile,"[RECORDATORIO]
+HOY a las 22 horas comienzan cuarentenas en nuevas comunas de la Región Metropolitana; además, la me… https://t.co/TE1AjlRTyx",neutral,0.02,0.94,0.04,140
+Super de Salud Chile,"Entrevista al Superintendente, Patricio Fernández, en @24HorasTVN  en la que se refiere a que ""estamos en condicion… https://t.co/rQB1okrmDZ",neutral,0.07,0.91,0.02,140
+Ministerio de Salud,"RT @SuperDeSalud: Entrevista al Superintendente, Patricio Fernández, en @24HorasTVN  en la que se refiere a que ""estamos en condiciones de…",neutral,0.34,0.61,0.05,139
+Ministerio de Salud,"Hoy se suman nuevas comunas y zonas a cuarentena total, pero ¿sabes en qué consiste esta medida?… https://t.co/uVhQZEOzdF",neutral,0.05,0.85,0.1,121
+Instituto de Salud Pública de Chile,"A partir de hoy a las 22:00 horas, nuevos sectores y comunas estarán en cuarentena.
+
+Más información en… https://t.co/WjUGLg2ZPt",neutral,0.05,0.79,0.16,128
+Super de Salud Chile,"RT @ministeriosalud: Hoy se suman nuevas comunas y zonas a cuarentena total, pero ¿sabes en qué consiste esta medida? 
+
+#CuidémonosEntreTod…",neutral,0.1,0.83,0.07,140
+Instituto de Salud Pública de Chile,"Temperatura actual, pronóstico del tiempo y rayos UV para Santiago - Dirección Meteorológica de Chile https://t.co/WdL0bH9OP7",neutral,0.02,0.9,0.08,125
+Ministerio de Salud,"RT @24HorasTVN: Patricio Fernández aseguró en 24AM que desde el próximo lunes, se retomarán todos los servicios por garantía GES, ya que ta…",neutral,0.09,0.81,0.1,140
+Ministerio de Salud,"En @24HorasTVN, Álvaro Erazo, exministro e integrante del Consejo Asesor #COVID_19, se refiere a nueva categorizaci… https://t.co/31U5kBXB41",neutral,0.02,0.94,0.04,140
