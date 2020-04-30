@@ -1,20 +1,7 @@
 Entidad,Contenido,Sentimiento,Positivo,Neutral,Negativo,LargoTexto
-Instituto de Salud Pública de Chile,"Donar sangre es donar vida.
-
-Si tu comuna está en cuarentena puedes pedir tu permiso en https://t.co/ZzyyA2Sw3j… https://t.co/ZUjlt8MD5L",neutral,0.25,0.7,0.05,136
-Instituto de Salud Pública de Chile,"El Gran Concepción contará con un cordón sanitario desde hoy 30 de abril a las 18:00 horas, hasta el domingo 3 de m… https://t.co/iB5lenUpW9",positive,0.87,0.1,0.03,140
-Instituto de Salud Pública de Chile,"Conoce más sobre esta nueva medida en https://t.co/YdvmOl5Grx 
-
- #CuidémonosEntreTodos https://t.co/RoVfAakLL8",neutral,0.23,0.74,0.03,110
-Super de Salud Chile,"RT @ministeriosalud: Intendente @FelipeGuevaraSt:
-
-""Todo vehículo será controlado y serán devueltos si no se cuenta con los permisos corres…",negative,0.12,0.29,0.59,140
 Super de Salud Chile,"RT @FONASA: 📢¡Atención beneficiarios de Fonasa!
 
 👩‍🔬El nuevo examen para detectar anticuerpos del #Covid19 es gratuito si te lo haces en la…",positive,0.97,0.01,0.02,140
-Instituto de Salud Pública de Chile,"RT @ministeriosalud: [Actualización] Ministerio de Salud informa 16.023 casos confirmados de #COVID_19 en Chile.
-
-Revisa el detalle complet…",neutral,0.11,0.77,0.12,140
 Instituto de Salud Pública de Chile,"RT @ministeriosalud: 📺 Subsec @pdazan, junto @IntendenciaRM @FelipeGuevaraSt, supervisa implementación de cordón sanitario de Santiago. htt…",neutral,0.01,0.97,0.02,140
 Instituto de Salud Pública de Chile,"RT @ministeriosalud: Subsec @pdazan | Cordones sanitarios
 
@@ -22,7 +9,6 @@ Instituto de Salud Pública de Chile,"RT @ministeriosalud: Subsec @pdazan | Cord
 Instituto de Salud Pública de Chile,"RT @ministeriosalud: Intendente @FelipeGuevaraSt:
 
 ""Todo vehículo será controlado y serán devueltos si no se cuenta con los permisos corres…",negative,0.12,0.29,0.59,140
-Colmed Chile,¿Quieres conocer más sobre Derecho a la salud en tiempos de #Covid19? No te pierdas el #FacebookLive de… https://t.co/eq12iCPEvH,positive,0.68,0.1,0.22,128
 Super de Salud Chile,"RT @ministeriosalud: Subsec @pdazan | Cordones Sanitarios 🚧
 
 ""El objetivo es que las personas no se trasladen a la segunda vivienda y hoy p…",neutral,0.04,0.68,0.28,140
@@ -31,17 +17,6 @@ Instituto de Salud Pública de Chile,"Prefiere medicamentos #bioequivalentes.
 El @ispch garantiza su calidad, seguridad y eficacia.
 
 #ExigeElAmarillo https://t.co/O6M5RnkxLV",neutral,0.15,0.83,0.02,137
-Colmed Chile,"RT @Colmedchillan: Invitamos a niñ@s de 4 a 14 años a participar en el concurso de dibujo #PintandoLaSalud, organizado junto a @sochipe y @…",neutral,0.07,0.82,0.11,140
-Colmed Chile,"RT @ColmedMaule: ⁦@ColmedMaule⁩ en reunión quincenal del gremio, analizando situación covid-19, de la salud y de los médicos de la región.…",neutral,0.06,0.9,0.04,139
-Colmed Chile,"RT @Colmedchillan: Porque además de afectar nuestra salud, esta pandemia está generando problemas económicos para algunos, junto a nuestro…",negative,0.01,0.02,0.97,139
-Ministerio de Salud,RT @sebastianpinera: #COVID19 exige urgentes esfuerzos de investigación del virus y sus efectos en sociedad. Chile cuenta con comunidad cie…,negative,0.06,0.14,0.8,140
-Ministerio de Salud,"RT @GobiernodeChile: ¿Tienes dudas sobre las cuarentenas, cordones sanitarios y permisos temporales? Infórmate más sobre los detalles de la…",negative,0.01,0.06,0.93,140
-Ministerio de Salud,"RT @FONASA: 📢¡Atención beneficiarios de Fonasa!
-
-👩‍🔬El nuevo examen para detectar anticuerpos del #Covid19 es gratuito si te lo haces en la…",positive,0.97,0.01,0.02,140
-Ministerio de Salud,"RT @ChileAtiende: ¡Nuevas medidas para los #PermisosTemporales! #QuedateEnCasa 
-
-🔸La vigencia se iniciará 15 minutos después de solicitarlo…",neutral,0.05,0.88,0.07,140
 OPS/OMS,RT @OPSOMSBolivia: 🎵🎶🥁🎼Escuchando y compartiendo podemos ayudar  🤩 @salomonbeda junto a 16 cantautores latinos graban una versión del senci…,positive,0.97,0.02,0.01,140
 OPS/OMS,"RT @OPSOMSPeru: ℹ️ En #Perú concluida la cuarentena por #COVID19, se regularizará la inmunización correspondiente a niños menores de cinco…",neutral,0.04,0.8,0.16,139
 OPS/OMS,RT @OPSOMSPeru: La Semana de Vacunación en las Américas es un momento para promover y celebrar el poder de las vacunas para salvar vidas.…,positive,0.91,0.04,0.05,138
@@ -58,9 +33,7 @@ Ojos rojos
  
 po…",negative,0.0,0.02,0.98,140
 OPS/OMS,"RT @OPSOMSBolivia: El sarampión es más que una enfermedad que causa fiebre 🤒- puede provocar neumonía, inflamación del cerebro, y la muerte…",negative,0.0,0.0,1.0,140
-Colmed Chile,[#ReporteDiario] Conoce el balance diario de #Covid19 en nuestro país. Recordamos que estos datos son los entregado… https://t.co/DdhIGMXCij,positive,0.51,0.47,0.02,140
 Super de Salud Chile,RT @SoterodelRio: ⚠️ #Importante: Damos a conocer a la comunidad información relevante sobre el funcionamiento de #Maternidad en medio de l…,neutral,0.17,0.76,0.07,140
-Ministerio de Salud,El @MinDesarrollo busca proyectos innovadores que apoyen a las familias que están en situación de vulnerabilidad en… https://t.co/wLb6oP9Cvi,positive,0.68,0.1,0.22,140
 Instituto de Salud Pública de Chile,"Protégete contra el nuevo Coronavirus COVID-19.
 
 Entérate más sobre cómo prevenirlo en: https://t.co/YdvmOl5Grx… https://t.co/HfO6n749hD",neutral,0.08,0.78,0.14,136
@@ -72,23 +45,13 @@ HOY a las 22 horas comienzan cuarentenas en nuevas comunas de la Región Metropo
 OPS/OMS,"RT @OEA_oficial: ⚠️¡Infórmate sólo de fuentes fiables, evita ser parte de la desinformación!⚠️
 
 Sigue a la @opsoms y a @WHO para saber más…",negative,0.12,0.29,0.59,139
-Colmed Chile,"El Dr. Gonzalo Cuadra, coordinador Salud Mental #COVID19 #Colmed, nos explica cómo se ven afectados nuestros equipo… https://t.co/mRaKpQsHLK",negative,0.02,0.13,0.85,140
 Super de Salud Chile,RT @ministeriosalud: El @MinDesarrollo busca proyectos innovadores que apoyen a las familias que están en situación de vulnerabilidad en es…,positive,0.71,0.08,0.21,140
-Ministerio de Salud,"#DonemosSangre y #CuidémonosEntreTodos
-
-Si vas a salir, haz que valga la pena. Si estás en zonas con cuarentena, re… https://t.co/qmhOYuadmF",neutral,0.09,0.85,0.06,140
 Instituto de Salud Pública de Chile,"Es obligatorio el uso de mascarillas en medios de transporte públicos y privados remunerados.
 
 Si no cuentas con un… https://t.co/0BJUu6hMxh",neutral,0.06,0.84,0.1,140
 Super de Salud Chile,"@izkia @ICruzBlanca Hola, @izkia, ya nos contactamos con Daniela. 
 Muchas gracias.",positive,1.0,0.0,0.0,82
-Colmed Chile,[#AHORA] Mediante videoconferencia se realiza reunión del #ColmedChile @CENSChile y @FONASA para abordar el tema de… https://t.co/CyplTSKnRk,neutral,0.02,0.95,0.03,140
-Colmed Chile,RT @InterferenciaCL: La encargada de género del @colmedchile advierte que las cuarentenas dificultan el acceso a los anticonceptivos. Eso -…,negative,0.06,0.39,0.55,140
 Super de Salud Chile,"@CamiAndMu Hola Cami, nos puedes dejar tus datos personales por mensaje directo?",neutral,0.05,0.88,0.07,80
-Ministerio de Salud,"RT @pdazan: A un mes de las Aduanas Sanitarias, podemos informar que ya hay más de 113 puntos de fiscalización en todo el país. 
-Son 91 Adu…",neutral,0.03,0.87,0.1,140
-Ministerio de Salud,A las 18:00 comienzan los cordones sanitarios de la Región Metropolitana y la ciudad de Concepción por el fin de se… https://t.co/nkeCWunwgn,neutral,0.02,0.94,0.04,140
-Ministerio de Salud,Desde las 18:00 horas de hoy comienza la implementación del Cordón Sanitario en el Gran Concepción hasta las 22:00… https://t.co/w3N2CwEmTK,neutral,0.37,0.6,0.03,139
 Ministerio de Salud,"RT @segegob: Vocera de @GobiernoDeChile, Ministra @KarlaEnAcciona, y el Ministro del @MinisterioBBNN, @JIsamit, explican cómo funciona el v…",neutral,0.11,0.67,0.22,140
 Colmed Chile,[#AHORA] En reunión por videoconferencia se formaliza donación del banco francés @SocieteGenerale y… https://t.co/5h573DsuiR,neutral,0.04,0.88,0.08,124
 Super de Salud Chile,"RT @min_ciencia: 🔎 Fondo para Proyectos de Investigación #COVID__19
@@ -100,3 +63,40 @@ Te esperamos en: https://t.co/Uf7v660wIR
  
 ""PREGUNTA AL EXPERTO"" sobre… https://t.co/v0F7gTBSfe",neutral,0.14,0.84,0.02,139
 Super de Salud Chile,"RT @hcsba: A pesar del feriado, este viernes 01 y sábado 02 de mayo el Banco de Sangre de nuestro hospital recibirá a donantes de 09 a 16 h…",neutral,0.01,0.88,0.11,140
+Super de Salud Chile,"RT @24HorasTVN: A partir de las 18:00 horas, Carabineros e inspectores de tránsito fiscalizan a los automovilistas que intentan salir de la…",neutral,0.03,0.6,0.37,140
+Colmed Chile,"Cada municipio recibirá 10 vehículos en comodato por tres meses para el traslado de personal sanitario, de paciente… https://t.co/sTddD154qC",neutral,0.04,0.84,0.12,140
+Ministerio de Salud,"AHORA: Comienza a implementarse el Cordón Sanitario en la Región Metropolitana, hasta las 22:00 horas del domingo 3… https://t.co/tp5so10CZW",neutral,0.0,0.97,0.03,140
+Instituto de Salud Pública de Chile,"Fabrica tu propia mascarilla con una bandana.
+
+#CuidémonosEntreTodos
+
+Más info en: https://t.co/YdvmOl5Grx https://t.co/cqOtjPr1QE",neutral,0.09,0.82,0.09,130
+Colmed Chile,RT @izkia: 👏👏👏 Muchas gracias a la Embajada de Francia y al banco francés @SocieteGenerale  y a @ALDAutomotiveCL por prestar estos autos a…,positive,0.95,0.02,0.03,139
+Colmed Chile,RT @ColmedOsorno: De ti depende no seguir aumentando estas cifras. Se termina la #CuarentenaTotal pero no por ello las precauciones. #Queda…,neutral,0.04,0.75,0.21,140
+Instituto de Salud Pública de Chile,"RT @pdazan: A un mes de las Aduanas Sanitarias, podemos informar que ya hay más de 113 puntos de fiscalización en todo el país. 
+Son 91 Adu…",neutral,0.03,0.87,0.1,140
+Instituto de Salud Pública de Chile,RT @ministeriosalud: A las 18:00 comienzan los cordones sanitarios de la Región Metropolitana y la ciudad de Concepción por el fin de seman…,neutral,0.03,0.91,0.06,140
+Ministerio de Salud,RT @SSMNorte: El @SSMNorte informa que el @Hosp_Sanjose inicia la atención ambulatoria de pacientes respiratorios en carpas modulares del @…,neutral,0.02,0.78,0.2,140
+Ministerio de Salud,"RT @SSBiobio: Autoridades de la provincia llegan hasta el peaje Las Maicas, entrada sur a la provincia de Biobío, para verificar en terreno…",neutral,0.02,0.86,0.12,140
+Ministerio de Salud,RT @Pauta_cl: Solo podrá salir siete veces por semana: actualizan los permisos en la cuarentena → https://t.co/GPliruZFlo https://t.co/1mtJ…,neutral,0.01,0.85,0.14,140
+Colmed Chile,"Comienza la video conversación con nuestra Pdta. Dra. @izkia Siches y la Municipalidad @SanPedroPaz, conversarán so… https://t.co/QMQAh0palS",positive,0.79,0.17,0.04,140
+Colmed Chile,"Dra. Siches: ""Le hago un llamada a la juventud a que nos ayuden a construir este Chile post pandemia, vamos a neces… https://t.co/CQRw7GJlEP",positive,0.57,0.01,0.42,140
+Colmed Chile,"Dra. Siches: ""Ojala la juventud se motive a participar y ser entes de cambio, el voluntariado es una de las activid… https://t.co/wM1wBQnya8",positive,0.86,0.04,0.1,140
+Colmed Chile,"Dra. Siches: ""Tenemos un gran número de personas asintomáticas, eso quiere decir personas que no saben que tienen e… https://t.co/wtEPPvpMRV",positive,0.57,0.36,0.07,140
+Ministerio de Salud,"🔴 AHORA | Subsec @pdazan | En 📻@Pauta_cl 
+
+🔊Sigue la entrevista en vivo por implementación de cordones sanitarios e… https://t.co/qwBjI1F7Vd",neutral,0.03,0.93,0.04,140
+Ministerio de Salud,"Subsec @pdazan en @Pauta_cl:
+
+""Una de las medidas más relevantes es el distanciamiento físico y es muy importante q… https://t.co/vzTpNhE4Y7",neutral,0.21,0.66,0.13,140
+Ministerio de Salud,"RT @Pauta_cl: 📡 De no ser por situaciones excepcionales, ""las personas que quieran salir de Santiago van a ser devueltas a sus domicilios"":…",negative,0.3,0.06,0.64,140
+Instituto de Salud Pública de Chile,"El uso correcto de la mascarilla es clave para proteger tu salud y la de los demás. 
+
+#CuidémonosEntreTodos
+
+Conoce… https://t.co/bOO158GrEB",positive,0.95,0.04,0.01,140
+Ministerio de Salud,"""Las medidas que iremos implementando serán evaluadas, somos prudentes y no tenemos que bajar la guardia"". 
+
+""Hoy h… https://t.co/2fIgPobJhb",neutral,0.13,0.72,0.15,140
+Ministerio de Salud,"""Entregamos el informe todos los días de forma transparente, y los casos activos son los que están con medidas de a… https://t.co/wFPwDVCs4k",neutral,0.06,0.9,0.04,140
+Colmed Chile,Conéctate al Instagram live de @womeninGH su usuario en Instagram es (wghchile) 👇🏼💪🏼 con la participación de la Pdt… https://t.co/eDLQQRkhpo,neutral,0.07,0.9,0.03,140

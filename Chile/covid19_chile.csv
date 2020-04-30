@@ -11565,7 +11565,7 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 11564,16-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
 11565,16-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
 11566,16-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
-11567,16-04-2020,13.0,Chile,Metropolitana,,,,,,,Confirmado,-33.6043642941,-70.6266370305
+11567,16-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
 11568,16-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
 11569,16-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
 11570,16-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
@@ -18294,7 +18294,7 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 18293,24-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
 18294,24-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
 18295,24-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
-18296,24-04-2020,,Chile,No Informado,,,,,,,Recuperado,-33.6043642941,-70.6266370305
+18296,24-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
 18297,24-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
 18298,24-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
 18299,24-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
@@ -23051,15 +23051,15 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 23050,29-04-2020,12.0,Chile,Magallanes,Femenino,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
 23051,29-04-2020,12.0,Chile,Magallanes,Femenino,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
 23052,29-04-2020,12.0,Chile,Magallanes,Femenino,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
-23053,29-04-2020,12.0,Chile,Magallanes,Masculino,62.0,Hospital Clínico de Magallanes,No Informado,,,Muerte,-52.2809432987,-70.0516354499
+23053,29-04-2020,12.0,Chile,Magallanes,Masculino,62.0,Hospital Clínico de Magallanes,Punta Arenas,,,Muerte,-53.6467902489,-72.0254461498
 23054,29-04-2020,5.0,Chile,Valparaíso,Femenino,43.0,,Viña del Mar,,,Muerte,-33.0288002963,-71.5154312157
 23055,29-04-2020,5.0,Chile,Valparaíso,Masculino,68.0,,Valparaíso,,,Muerte,-32.9978836561,-71.7533398553
 23056,29-04-2020,15.0,Chile,Arica y Parinacota,Masculino,85.0,,Arica,,,Muerte,-18.5321930844,-69.9714910871
 23057,29-04-2020,7.0,Chile,Maule,Masculino,81.0,,San Clemente,,,Muerte,-35.7115669361,-70.8497817736
-23058,29-04-2020,,Chile,No Informado,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
-23059,29-04-2020,,Chile,No Informado,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
-23060,29-04-2020,,Chile,No Informado,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
-23061,29-04-2020,,Chile,No Informado,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
+23058,29-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
+23059,29-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
+23060,29-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
+23061,29-04-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
 23062,29-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
 23063,29-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
 23064,29-04-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
