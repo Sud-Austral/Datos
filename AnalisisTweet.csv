@@ -1,27 +1,6 @@
 Entidad,Contenido,Sentimiento,Positivo,Neutral,Negativo,LargoTexto
-OPS/OMS,RT @opsargentina: Junto a @msalnacion celebramos hasta el 2 de mayo la Semana de Vacunación en las Américas. Las vacunas son un acto de amo…,positive,0.96,0.02,0.02,140
-OPS/OMS,"RT @OEA_oficial: ⚠️¡Infórmate sólo de fuentes fiables, evita ser parte de la desinformación!⚠️
-
-Sigue a la @opsoms y a @WHO para saber más…",negative,0.12,0.29,0.59,139
-OPS/OMS,"📣Facebook LIVE 🗓 mañana, 🕛12:00 pm (EST). 
-Te esperamos en: https://t.co/Uf7v660wIR 
- 
-""PREGUNTA AL EXPERTO"" sobre… https://t.co/v0F7gTBSfe",neutral,0.14,0.84,0.02,139
-Super de Salud Chile,"RT @ChileAtiende: ¡Nuevas medidas para los #PermisosTemporales! #QuedateEnCasa 
-
-🔸La vigencia se iniciará 15 minutos después de solicitarlo…",neutral,0.05,0.88,0.07,140
-Super de Salud Chile,"RT @FONASA: 🎉¡EXCELENTE NOTICIA!
-Si eres beneficiario de #Fonasa puedes comprar los 73 PAD en línea con tu tarjeta de débito o crédito en n…",positive,0.96,0.02,0.02,140
-OPS/OMS,👋👋🏻👋🏼👋🏾 Si estas en #cuarentena utiliza tu tiempo y realiza #actividadfisica.                            👀 algunas… https://t.co/F525fxz3DC,neutral,0.12,0.8,0.08,139
-Colmed Chile,"@Andres_Pablo_cm Hola, en nuestra web podrás encontrar información sobre las acciones del #Colmed en marco del… https://t.co/n94cYrHrfq",neutral,0.03,0.96,0.01,135
 Super de Salud Chile,"RT @GobiernodeChile: Hoy enfrentamos una de las mayores crisis sanitarias y si nuestro país sigue en pie, es gracias al esfuerzo diario de…",negative,0.45,0.0,0.55,139
-Colmed Chile,RT @izkia: Espero que lo discutamos el próximo martes en la #MesaSocialCovid19 porque se había constituido la Mesa de Datos justamente para…,positive,0.61,0.16,0.23,140
-Colmed Chile,RT @izkia: En este #1deMayo #DiaDelTrabajador y la trabajadora queremos hacer un reconocimiento a quienes en el anonimato colaboran en esta…,positive,0.46,0.12,0.42,140
 Super de Salud Chile,RT @ministeriosalud: AHORA | Autoridades de Salud | Balance Diario #COVID_19 https://t.co/phcGbyzOuy,neutral,0.17,0.43,0.4,100
-OPS/OMS,"RT @DirOPSPAHO: Consejos para vacunadores durante la pandemia #COVID19:
- 
-✅ Usar mascarilla facial
-✅ Realizar la higiene de manos con frecu…",negative,0.01,0.27,0.72,140
 Colmed Chile,"El personal de salud necesita de nuestro apoyo, para poder luchar contra el #COVID19, por eso @buenacausa_cl ha cre… https://t.co/8zAloZUYZE",negative,0.18,0.02,0.8,140
 Super de Salud Chile,"RT @ministeriosalud: Ministro Jaime Mañalich: “este 1 de mayo es muy diferente por la pandemia, aprovecho de agradecer a los trabajadores d…",negative,0.49,0.01,0.5,140
 Super de Salud Chile,"Reporte #Covid_19 por parte del Ministerio de Salud:
@@ -31,12 +10,6 @@ Super de Salud Chile,"Reporte #Covid_19 por parte del Ministerio de Salud:
 Colmed Chile,RT @dccuchile: ¿Te interesa saber más de los datos en medio de esta pandemia? No te pierdas este gran evento junto a @PolarBearby @bpoblete…,mixed,0.39,0.06,0.55,140
 Super de Salud Chile,"RT @ministeriosalud: Ministro Jaime Mañalich
 “Creo que esta meseta epidemiológica va experimentar alzas y bajas en los próximos días, depen…",neutral,0.18,0.67,0.15,140
-Ministerio de Salud,"Ministro Jaime Mañalich
-“La resistencia a las medidas de la ciudadanía a los confinamientos por #COVID_19 son escas… https://t.co/9vBU9frWFH",neutral,0.06,0.83,0.11,140
-Instituto de Salud Pública de Chile,"RT @ministeriosalud: Ministro Jaime Mañalich
-“Creo que esta meseta epidemiológica va experimentar alzas y bajas en los próximos días, depen…",neutral,0.18,0.67,0.15,140
-Instituto de Salud Pública de Chile,"RT @ministeriosalud: Ministro Jaime Mañalich
-“La resistencia a las medidas de la ciudadanía a los confinamientos por #COVID_19 son escasas,…",negative,0.03,0.39,0.58,140
 OPS/OMS,"RT @OPASOMSBrasil: Os 17 #ODS propõem uma ação mundial entre governos, empresas, academia e sociedade civil para erradicar a pobreza e prom…",negative,0.0,0.05,0.95,140
 OPS/OMS,"RT @OPSOMSMexico: El distanciamiento debe ser físico, no social; mantengamos el contacto; con llamadas telefónicas 📲 grabaciones 🔴 videos 📹…",negative,0.02,0.17,0.81,140
 OPS/OMS,"RT @OPSOMSBolivia: ¿Se puede transmitir #COVID19 a través de billetes o monedas? No existe evidencia. Sin embargo, lávate las manos tras la…",neutral,0.04,0.74,0.22,140
@@ -48,12 +21,6 @@ Instituto de Salud Pública de Chile,RT @ministeriosalud: Nuestra subsecretaria 
 Instituto de Salud Pública de Chile,RT @arturozunigaj: Mi más sincero reconocimiento a todos los trabajadores de la salud!!! infinitas gracias por su irremplazable labor!!! #E…,positive,0.92,0.01,0.07,140
 Instituto de Salud Pública de Chile,RT @ministeriosalud: En este #DíaDelTrabajador enviamos un afectuoso saludo a los trabajadores de nuestro país y especialmente a los funcio…,positive,0.94,0.04,0.02,140
 Colmed Chile,[#ReporteDiario] Conoce el balance diario de #Covid19 en nuestro país. Recordamos que estos datos son los entregado… https://t.co/9sy8nfE89a,positive,0.51,0.47,0.02,140
-Ministerio de Salud,RT @pdazan: Gracias a todos y cada uno de nuestros funcionarios de la salud. #DiaDelTrabajador #EstamosJuntos,positive,0.99,0.0,0.01,109
-Ministerio de Salud,RT @arturozunigaj: Mi más sincero reconocimiento a todos los trabajadores de la salud!!! infinitas gracias por su irremplazable labor!!! #E…,positive,0.92,0.01,0.07,140
-Ministerio de Salud,"RT @arturozunigaj: Los compromisos son para cumplirlos. 
-
-Hay algunos que al parecer no están acostumbrados a que esto ocurra, pero aquí es…",neutral,0.22,0.51,0.27,140
-Ministerio de Salud,"Desde el sur del canal Beagle, en el Hospital de Puerto Williams sus funcionarios envían un afectuoso saludo y nos… https://t.co/61ThdXZxHO",positive,0.81,0.13,0.06,139
 Colmed Chile,RT @ColMedSantiago: [#Covid_19] Acá podrás encontrar información actualizada HOY por el @ministeriosalud sobre el avance del Coronavirus en…,neutral,0.19,0.63,0.18,140
 Super de Salud Chile,"RT @ministeriosalud: #DonemosSangre y #CuidémonosEntreTodos
 
@@ -61,17 +28,13 @@ Si vas a salir, haz que valga la pena. Si estás en zonas con cuarentena, recue�
 Colmed Chile,"RT @sochipe: ¡FELIZ DÍA DEL TRABAJADOR!
 En este día especial, conmemoramos a todos los trabajadores y trabajadoras de Chile y el mundo. Esp…",positive,0.78,0.19,0.03,140
 Colmed Chile,RT @Sochepi: Compartimos nota de solicitud de enmienda de número de casos confirmados reportados a la Organización Mundial de la Salud. El…,negative,0.07,0.46,0.47,139
-Ministerio de Salud,Casos confirmados en Chile COVID-19 - Ministerio de Salud - Gobierno de Chile https://t.co/rJAd8eqhEP,neutral,0.02,0.85,0.13,101
 Instituto de Salud Pública de Chile,"Si tienes un pañuelo en tu hogar, puedes convertirlo en una mascarilla.
 
 Sigue estos pasos y #CuidémonosEntreTodos https://t.co/qiNyuLaTBs",neutral,0.11,0.87,0.02,138
 OPS/OMS,"PREGUNTE AL EXPERTO sobre  👉 ""Cómo cuidar tu #saludmental durante la pandemia.
  
 Haz tus preguntas en comentarios,… https://t.co/Nud8eO5Wwg",negative,0.36,0.01,0.63,139
-Ministerio de Salud,"Porque cada funcionario es clave en los cuidados de los pacientes y personal, Luis San Martín Díaz, de la lavanderí… https://t.co/DLFY5Exiv8",positive,0.91,0.05,0.04,140
-Ministerio de Salud,AHORA Presidente @sebastianpinera y Ministro Jaime Mañalich reciben ventiladores para enfrentar #COVID_19 https://t.co/aQYbwFXYGA,neutral,0.11,0.79,0.1,129
 Super de Salud Chile,RT @ministeriosalud: AHORA Presidente @sebastianpinera y Ministro Jaime Mañalich reciben ventiladores para enfrentar #COVID_19 https://t.co…,neutral,0.17,0.67,0.16,140
-Ministerio de Salud,RT @presidencia_cl: AHORA – El Pdte @sebastianpinera recibe cargamento con 117 ventiladores mecánicos donados por la @CPCchile y que reforz…,neutral,0.09,0.77,0.14,140
 Instituto de Salud Pública de Chile,"RT @ministeriosalud: Desde el sur del canal Beagle, en el Hospital de Puerto Williams sus funcionarios envían un afectuoso saludo y nos rec…",positive,0.86,0.09,0.05,140
 Instituto de Salud Pública de Chile,RT @ministeriosalud: Casos confirmados en Chile COVID-19 - Ministerio de Salud - Gobierno de Chile https://t.co/rJAd8eqhEP,neutral,0.03,0.67,0.3,122
 Instituto de Salud Pública de Chile,RT @ministeriosalud: AHORA Presidente @sebastianpinera y Ministro Jaime Mañalich reciben ventiladores para enfrentar #COVID_19 https://t.co…,neutral,0.17,0.67,0.16,140
@@ -79,3 +42,36 @@ Super de Salud Chile,RT @presidencia_cl: AHORA – El Pdte @sebastianpinera reci
 Ministerio de Salud,"Presidente @sebastianpinera 
 “Velamos por proteger la salud y la vida, nos hemos preparado a tiempo, tenemos 1.710… https://t.co/CjKrfMcuIh",positive,0.91,0.04,0.05,139
 Colmed Chile,"RT @soledadbarria: Atención, este sábado 2 de Mayo, 2º SEMINARIO WEB, conéctate en https://t.co/anwGgme79g https://t.co/O3HfYi3x6I",neutral,0.08,0.88,0.04,130
+Ministerio de Salud,"Un especial saludo desde Tierra del Fuego por el #DíaDelTrabajador envían a sus colegas de todo Chile, los funciona… https://t.co/u9xgdZZpYG",neutral,0.37,0.45,0.18,140
+Colmed Chile,"RT @uchile: Equipo médico de la Universidad de Chile realizó operativo por #COVID__19 en la ex Penitenciaría, acompañados por el Rector @En…",neutral,0.05,0.92,0.03,140
+Colmed Chile,"RT @ucatolica: ""Estamos trabajando de manera mancomunada y en equipo. Hoy nos encontramos en la ex penitenciaría con un grupo de jóvenes qu…",neutral,0.16,0.67,0.17,140
+Ministerio de Salud,"¿En qué consiste la cuarentena? #CuidémonosEntreTodos del Coronavirus y este fin de semana quédate en casa. 
+
+Infór… https://t.co/7NWEUYPwWY",neutral,0.06,0.88,0.06,140
+Instituto de Salud Pública de Chile,"Funcionarios del Hospital de Porvenir, envían un especial saludo a sus colegas de todo Chile por el… https://t.co/7puFZufHYT",neutral,0.4,0.49,0.11,124
+Ministerio de Salud,Porque seguimos trabajando para combatir el #COVID__19 hoy llegaron 117 nuevos ventiladores para ser trasladados do… https://t.co/8rusYNPZT2,negative,0.01,0.19,0.8,140
+Ministerio de Salud,"RT @FONASA: El Fondo Nacional de Salud saluda a todos los trabajadores, en especial a todos los funcionarios de la salud, que entregan lo m…",positive,0.52,0.37,0.11,140
+Colmed Chile,¡Atent@s colegas! Recuerda que en nuestro repositorio web podrás encontrar información relevante sobre #COVID19. Lo… https://t.co/YKgtJzLzaB,neutral,0.12,0.8,0.08,140
+Ministerio de Salud,"#EstamosJuntos desde el Paso Fronterizo de Pino Hachado, en la Región de La Araucanía, nos envían un caluroso salud… https://t.co/bepXlTInGS",neutral,0.08,0.7,0.22,140
+OPS/OMS,"Ahora más que nunca, la #vacunación debe considerarse un servicio de salud esencial.  
+
+Consulte nuestras recomenda… https://t.co/sy4uC3Wnis",positive,0.86,0.13,0.01,140
+Ministerio de Salud,"Cristóbal González, auxiliar de aseo del Servicio de Salud Arica, también nos envía su mensaje saludando a todos lo… https://t.co/1tCDGG1HDn",neutral,0.14,0.78,0.08,140
+Super de Salud Chile,"RT @ministeriosalud: El ministro de Salud, Jaime Mañalich, envía un especial y afectuoso saludo a todos los funcionarios de la salud en el…",positive,0.95,0.02,0.03,139
+Ministerio de Salud,"RT @albertoespina: La @FACh_Chile realizó un notable trabajo trasladando 117 ventiladores mecánicos en el Boeing 767 ✈️, que se sumarán a l…",neutral,0.35,0.58,0.07,140
+Ministerio de Salud,"RT @FACh_Chile: ¡Misión cumplida! Ya arribó a la Base Aérea #Pudahuel, el ✈ Boeing 767 #FACh que trae de #China la donación de ventiladores…",positive,0.7,0.23,0.07,140
+OPS/OMS,"RT @OPSOMSBolivia: Estar frente a la #COVID19 puede causar una estigmatización innecesaria , incluso la de tu familia, amigos y otros traba…",negative,0.03,0.02,0.95,140
+OPS/OMS,RT @OPSOMSPeru: #COVID19 El aislamiento debido al brote infeccioso puede producir miedo y ansiedad. Cuente 🗨️ su experiencia y escuche 👂🏽la…,negative,0.0,0.01,0.99,140
+OPS/OMS,"RT @opsomsels: 👋 El distanciamiento físico no es aislamiento social.
+
+❤️Juntos podemos vencer a la #COVID19
+
+https://t.co/8gjJu5tgCE https:…",mixed,0.48,0.2,0.32,140
+OPS/OMS,"RT @OPSOMSPeru: 🤔 ¿Cómo lavar las frutas 🍎🥝🍇 y vegetales 🥦🥒🍅  durante los tiempos de la #COVID19?
+
+#LavaTusManos con agua y jabón antes de…",neutral,0.02,0.95,0.03,139
+Ministerio de Salud,"Úsalas siempre. En lugares cerrados, ascensores o en el transporte público o privado remunerado, el uso de mascaril… https://t.co/XIry83P5Uw",neutral,0.23,0.72,0.05,140
+Instituto de Salud Pública de Chile,"Protégete contra el nuevo Coronavirus COVID-19.
+
+Entérate más sobre cómo prevenirlo en: https://t.co/YdvmOlnhQ7… https://t.co/qgRPvbwzIN",neutral,0.08,0.78,0.14,136
+Super de Salud Chile,RT @ministeriosalud: Nuestra subsecretaria de Salud Pública @pdazan entrega su significativo saludo a todos los funcionarios de salud y agr…,positive,0.57,0.28,0.15,140
