@@ -1,9 +1,4 @@
 Entidad,Contenido,Sentimiento,Positivo,Neutral,Negativo,LargoTexto
-Instituto de Salud Pública de Chile,"Prefiere medicamentos #bioequivalentes. 
-
-El @ispch garantiza su calidad, seguridad y eficacia.
-
-#ExigeElAmarillo https://t.co/O6M5RnkxLV",neutral,0.15,0.83,0.02,137
 OPS/OMS,"RT @OPSOMSPeru: ℹ️ En #Perú concluida la cuarentena por #COVID19, se regularizará la inmunización correspondiente a niños menores de cinco…",neutral,0.04,0.8,0.16,139
 OPS/OMS,RT @OPSOMSPeru: La Semana de Vacunación en las Américas es un momento para promover y celebrar el poder de las vacunas para salvar vidas.…,positive,0.91,0.04,0.05,138
 OPS/OMS,"RT @OPSOMSBolivia: Todo lo que debes saber sobre el sarampión. Es una de las enfermedades más contagiosas del mundo😱
@@ -20,9 +15,6 @@ Ojos rojos
 po…",negative,0.0,0.02,0.98,140
 OPS/OMS,"RT @OPSOMSBolivia: El sarampión es más que una enfermedad que causa fiebre 🤒- puede provocar neumonía, inflamación del cerebro, y la muerte…",negative,0.0,0.0,1.0,140
 Super de Salud Chile,RT @SoterodelRio: ⚠️ #Importante: Damos a conocer a la comunidad información relevante sobre el funcionamiento de #Maternidad en medio de l…,neutral,0.17,0.76,0.07,140
-Instituto de Salud Pública de Chile,"Protégete contra el nuevo Coronavirus COVID-19.
-
-Entérate más sobre cómo prevenirlo en: https://t.co/YdvmOl5Grx… https://t.co/HfO6n749hD",neutral,0.08,0.78,0.14,136
 OPS/OMS,"RT @OPSOMS_Col: Teniendo en cuenta la importancia de la inmunización, así como los desafíos que impone la #COVID19, en Bogotá, durante la 💉…",neutral,0.04,0.78,0.18,140
 OPS/OMS,RT @opsargentina: Junto a @msalnacion celebramos hasta el 2 de mayo la Semana de Vacunación en las Américas. Las vacunas son un acto de amo…,positive,0.96,0.02,0.02,140
 Super de Salud Chile,"🔴[IMPORTANTE]🔴
@@ -60,10 +52,6 @@ Instituto de Salud Pública de Chile,"El uso correcto de la mascarilla es clave 
 #CuidémonosEntreTodos
 
 Conoce… https://t.co/bOO158GrEB",positive,0.95,0.04,0.01,140
-Colmed Chile,RT @colmediquique: Gracias a la campaña #AntiparrasParaDocs hoy pudimos distribuir un stock de estos elementos de protección personal a @mg…,positive,0.98,0.01,0.01,140
-Colmed Chile,RT @DonaSangreStgo: ¡Agradecemos a todos los donantes altruistas que nos acompañaron en nuestra primera actividad de donación de sangre en…,positive,0.95,0.02,0.03,139
-Ministerio de Salud,"RT @Cooperativa: [En vivo] La epidemióloga María Teresa Valenzuela, integrante del consejo asesor del Minsal, conversa con Lo Que Queda del…",neutral,0.09,0.83,0.08,140
-Colmed Chile,"RT @womeninGH: Happening now, our Deputy Director @SarahHillware joins @wghchile for this webinar w/ the 1st @womeninGH chapter in Latin Am…",neutral,0.05,0.61,0.34,140
 Super de Salud Chile,"RT @ChileAtiende: ¡Nuevas medidas para los #PermisosTemporales! #QuedateEnCasa 
 
 🔸La vigencia se iniciará 15 minutos después de solicitarlo…",neutral,0.05,0.88,0.07,140
@@ -71,15 +59,8 @@ Colmed Chile,"Conéctate al conversatorio Derecho a la salud en tiempos de crisi
 Instituto de Salud Pública de Chile,"Conoce más sobre esta nueva medida en https://t.co/YdvmOl5Grx 
 
  #CuidémonosEntreTodos https://t.co/NaK9m2laha",neutral,0.23,0.74,0.03,110
-Ministerio de Salud,"En caso de Aislamiento Domiciliario:
-- Refuerza el aseo y ventilación de la casa
-- Aliméntate saludablemente y resp… https://t.co/dsGRYspN2w",neutral,0.11,0.86,0.03,140
 Super de Salud Chile,"RT @FONASA: 🎉¡EXCELENTE NOTICIA!
 Si eres beneficiario de #Fonasa puedes comprar los 73 PAD en línea con tu tarjeta de débito o crédito en n…",positive,0.96,0.02,0.02,140
-Ministerio de Salud,Ministro Blumel confirma que subsecretario ⁦@arturozunigaj⁩ será enlace entre el Minsal y los alcaldes |… https://t.co/e6rzFar2FC,neutral,0.04,0.86,0.1,129
-Ministerio de Salud,"#CuidèmonosEntreTodos | Recuerda que en una hora más, y por siete días, comienza la cuarentena total en:
-
-- San Ram… https://t.co/JrbkOb4PeG",neutral,0.06,0.8,0.14,140
 OPS/OMS,👋👋🏻👋🏼👋🏾 Si estas en #cuarentena utiliza tu tiempo y realiza #actividadfisica.                            👀 algunas… https://t.co/F525fxz3DC,neutral,0.12,0.8,0.08,139
 Colmed Chile,"RT @colmedrancagua: Funcionarios del Cesfam 6 de Rancagua, realizaron sentido homenaje a primera funcionaria chilena APS, fallecida por cov…",neutral,0.07,0.85,0.08,140
 Colmed Chile,RT @ColmedPtoMontt: Nuestro reconocimiento a dos destacados colegiados que hoy cumplieron un ciclo laboral en el sistema público de #salud,positive,0.53,0.32,0.15,138
@@ -87,9 +68,6 @@ Colmed Chile,RT @Muni_Renca: Alcalde @cn_castro sostuvo reunión con el @colm
 Instituto de Salud Pública de Chile,"Si tienes un pañuelo en tu hogar, puedes convertirlo en una mascarilla.
 
 Sigue estos pasos y #CuidémonosEntreTodos https://t.co/XVnmRYwTI8",neutral,0.11,0.87,0.02,138
-Ministerio de Salud,"Desde este momento, se incorporan nuevas comunas y zonas a cuarentena total.
-
-Conoce los lugares que se incorporan… https://t.co/BkdIIuVQh0",neutral,0.02,0.91,0.07,139
 Colmed Chile,"@SeBaK_ @DrEnriqueParis @izkia @Pajarobere @jtgazmuri @ingmarroessler Estimado, lamentamos lo ocurrido, debe haber… https://t.co/zWcfEPKNvm",negative,0.08,0.42,0.5,139
 Colmed Chile,"RT @falmedchile: Hemos finalizado!
 El video de esta entrevista online estará disponible en https://t.co/VmZhnUR74z El próximo jueves realiz…",neutral,0.08,0.88,0.04,140
@@ -98,9 +76,21 @@ Instituto de Salud Pública de Chile,"El uso correcto de la mascarilla es clave 
 #CuidémonosEntreTodos
 
 Conoce… https://t.co/3df3CsDCyF",positive,0.95,0.04,0.01,140
-Ministerio de Salud,En este #DíaDelTrabajador enviamos un afectuoso saludo a los trabajadores de nuestro país y especialmente a los fun… https://t.co/PoA4SfgclV,positive,0.95,0.01,0.04,140
 Colmed Chile,"En este #Díadelostrabajadores saludamos a tod@s l@s trabajador@s del país, especialmente a quienes mantienen nuestr… https://t.co/sz6xyH9hGh",positive,0.69,0.25,0.06,140
-Ministerio de Salud,"RT @MintrabChile: Hoy enfrentamos una de las mayores crisis sanitarias y si nuestro país sigue de pie, es gracias a sus trabajadores. Por e…",negative,0.44,0.0,0.56,140
-Ministerio de Salud,"El ministro de Salud, Jaime Mañalich, envía un especial y afectuoso saludo a todos los funcionarios de la salud en… https://t.co/SIk1nCMDMu",positive,0.96,0.02,0.02,139
 Ministerio de Salud,Nuestra subsecretaria de Salud Pública @pdazan entrega su significativo saludo a todos los funcionarios de salud y… https://t.co/cMHQg5xy5u,positive,0.51,0.34,0.15,139
 Ministerio de Salud,"""Infinitas gracias y mi reconocimiento más sincero a su incansable labor"", dice el subsecretario de Redes Asistenci… https://t.co/hQUvTJp9qi",positive,0.98,0.0,0.02,140
+Colmed Chile,[#ResumenSemanal] Esta semana firmamos convenio de colaboración técnica con @EpistemonikosEs para profundizar el tr… https://t.co/CHMr7ySvsT,neutral,0.24,0.65,0.11,140
+Ministerio de Salud,"Porque todos los funcionarios de la salud entregan lo mejor de sí para cuidarnos a todos. Por eso, en el… https://t.co/s5Fe2dOcmr",positive,0.99,0.0,0.01,129
+Instituto de Salud Pública de Chile,En este #DíaDelTrabajador enviamos un afectuoso saludo a todos los funcionarios y funcionarias de toda la red de sa… https://t.co/ai2iodgtL0,positive,0.93,0.04,0.03,140
+Ministerio de Salud,"La enfermera del Cesfam de Putre, Jocelyn Vargas, destaca que hoy más que nunca #EstamosJuntos no solo para enfrent… https://t.co/cvK63eujFS",negative,0.15,0.41,0.44,140
+Ministerio de Salud,"Desde todo Chile, los funcionarios de salud conmemoran el #DíaDelTrabajador. El médico EDF en Melinka, Mario Zavala… https://t.co/ySs3XVH2Jg",neutral,0.12,0.82,0.06,140
+Ministerio de Salud,"RT @pdazan: En el #DiaDelTrabajador quiero saludar a los seremis de salud del país y a su equipo de funcionarios, a quienes fiscalizan en t…",positive,0.43,0.16,0.41,140
+Ministerio de Salud,RT @arturozunigaj: Mi más sincero reconocimiento a todos los trabajadores de la #salud!!! #EstamosJuntos #DíaDelTrabajador https://t.co/Jph…,positive,0.93,0.01,0.06,140
+Colmed Chile,[#ResumenSemanal] #Colmed gestionó préstamo de 50 vehículos del banco 🇫🇷 @SocieteGenerale y @ALDAutomotiveCL a… https://t.co/xv209Jjtfj,neutral,0.06,0.85,0.09,135
+Colmed Chile,"@Andres_Pablo_cm Hola, en nuestra web podrás encontrar información sobre las acciones del #Colmed en marco del… https://t.co/n94cYrHrfq",neutral,0.03,0.96,0.01,135
+Ministerio de Salud,"Wagner Samaniego, es ecuatoriano y lleva 18 años en Chile, hoy envía un saludo a su nueva patria desde el Hospital… https://t.co/0bTTtpOIGV",neutral,0.09,0.83,0.08,139
+Ministerio de Salud,"RT @GobiernodeChile: Hoy enfrentamos una de las mayores crisis sanitarias y si nuestro país sigue en pie, es gracias al esfuerzo diario de…",negative,0.45,0.0,0.55,139
+Ministerio de Salud,"RT @presidencia_cl: AHORA – El Pdte @sebastianpinera, junto a la ministra @mjose_zaldivar de @MintrabChile, conmemora  #DíaDelTrabajador  y…",neutral,0.1,0.81,0.09,140
+Instituto de Salud Pública de Chile,"Conoce más sobre esta nueva medida en https://t.co/YdvmOl5Grx 
+
+ #CuidémonosEntreTodos https://t.co/itDmaHBX6N",neutral,0.23,0.74,0.03,110
