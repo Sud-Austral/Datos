@@ -1,7 +1,4 @@
 Entidad,Contenido,Sentimiento,Positivo,Neutral,Negativo,LargoTexto
-Instituto de Salud Pública de Chile,"RT @ministeriosalud: Subsec @pdazan | Cordones sanitarios
-
-""Todas las medidas que estamos implementando buscan que las personas respeten lo…",neutral,0.09,0.8,0.11,140
 Instituto de Salud Pública de Chile,"RT @ministeriosalud: Intendente @FelipeGuevaraSt:
 
 ""Todo vehículo será controlado y serán devueltos si no se cuenta con los permisos corres…",negative,0.12,0.29,0.59,140
@@ -10,7 +7,6 @@ Instituto de Salud Pública de Chile,"Prefiere medicamentos #bioequivalentes.
 El @ispch garantiza su calidad, seguridad y eficacia.
 
 #ExigeElAmarillo https://t.co/O6M5RnkxLV",neutral,0.15,0.83,0.02,137
-OPS/OMS,RT @OPSOMSBolivia: 🎵🎶🥁🎼Escuchando y compartiendo podemos ayudar  🤩 @salomonbeda junto a 16 cantautores latinos graban una versión del senci…,positive,0.97,0.02,0.01,140
 OPS/OMS,"RT @OPSOMSPeru: ℹ️ En #Perú concluida la cuarentena por #COVID19, se regularizará la inmunización correspondiente a niños menores de cinco…",neutral,0.04,0.8,0.16,139
 OPS/OMS,RT @OPSOMSPeru: La Semana de Vacunación en las Américas es un momento para promover y celebrar el poder de las vacunas para salvar vidas.…,positive,0.91,0.04,0.05,138
 OPS/OMS,"RT @OPSOMSBolivia: Todo lo que debes saber sobre el sarampión. Es una de las enfermedades más contagiosas del mundo😱
@@ -59,17 +55,9 @@ Instituto de Salud Pública de Chile,"Fabrica tu propia mascarilla con una banda
 #CuidémonosEntreTodos
 
 Más info en: https://t.co/YdvmOl5Grx https://t.co/cqOtjPr1QE",neutral,0.09,0.82,0.09,130
-Colmed Chile,RT @ColmedOsorno: De ti depende no seguir aumentando estas cifras. Se termina la #CuarentenaTotal pero no por ello las precauciones. #Queda…,neutral,0.04,0.75,0.21,140
 Instituto de Salud Pública de Chile,"RT @pdazan: A un mes de las Aduanas Sanitarias, podemos informar que ya hay más de 113 puntos de fiscalización en todo el país. 
 Son 91 Adu…",neutral,0.03,0.87,0.1,140
 Instituto de Salud Pública de Chile,RT @ministeriosalud: A las 18:00 comienzan los cordones sanitarios de la Región Metropolitana y la ciudad de Concepción por el fin de seman…,neutral,0.03,0.91,0.06,140
-Ministerio de Salud,RT @SSMNorte: El @SSMNorte informa que el @Hosp_Sanjose inicia la atención ambulatoria de pacientes respiratorios en carpas modulares del @…,neutral,0.02,0.78,0.2,140
-Ministerio de Salud,"RT @SSBiobio: Autoridades de la provincia llegan hasta el peaje Las Maicas, entrada sur a la provincia de Biobío, para verificar en terreno…",neutral,0.02,0.86,0.12,140
-Ministerio de Salud,RT @Pauta_cl: Solo podrá salir siete veces por semana: actualizan los permisos en la cuarentena → https://t.co/GPliruZFlo https://t.co/1mtJ…,neutral,0.01,0.85,0.14,140
-Colmed Chile,"Comienza la video conversación con nuestra Pdta. Dra. @izkia Siches y la Municipalidad @SanPedroPaz, conversarán so… https://t.co/QMQAh0palS",positive,0.79,0.17,0.04,140
-Colmed Chile,"Dra. Siches: ""Le hago un llamada a la juventud a que nos ayuden a construir este Chile post pandemia, vamos a neces… https://t.co/CQRw7GJlEP",positive,0.57,0.01,0.42,140
-Colmed Chile,"Dra. Siches: ""Ojala la juventud se motive a participar y ser entes de cambio, el voluntariado es una de las activid… https://t.co/wM1wBQnya8",positive,0.86,0.04,0.1,140
-Colmed Chile,"Dra. Siches: ""Tenemos un gran número de personas asintomáticas, eso quiere decir personas que no saben que tienen e… https://t.co/wtEPPvpMRV",positive,0.57,0.36,0.07,140
 Ministerio de Salud,"🔴 AHORA | Subsec @pdazan | En 📻@Pauta_cl 
 
 🔊Sigue la entrevista en vivo por implementación de cordones sanitarios e… https://t.co/qwBjI1F7Vd",neutral,0.03,0.93,0.04,140
@@ -95,11 +83,28 @@ Super de Salud Chile,"RT @ChileAtiende: ¡Nuevas medidas para los #PermisosTempo
 
 🔸La vigencia se iniciará 15 minutos después de solicitarlo…",neutral,0.05,0.88,0.07,140
 Colmed Chile,"Conéctate al conversatorio Derecho a la salud en tiempos de crisis, con la participación del Pdte de nuestro Dpto.… https://t.co/nXx9JU7WJg",negative,0.08,0.01,0.91,139
-Instituto de Salud Pública de Chile,"Conoce más sobre esta nueva medida en https://t.co/YdvmOl5Grx 
-
- #CuidémonosEntreTodos https://t.co/NaK9m2laha",neutral,0.23,0.74,0.03,110
 Ministerio de Salud,"En caso de Aislamiento Domiciliario:
 - Refuerza el aseo y ventilación de la casa
 - Aliméntate saludablemente y resp… https://t.co/dsGRYspN2w",neutral,0.11,0.86,0.03,140
+Instituto de Salud Pública de Chile,"Conoce más sobre esta nueva medida en https://t.co/YdvmOl5Grx 
+
+ #CuidémonosEntreTodos https://t.co/NaK9m2laha",neutral,0.23,0.74,0.03,110
 Super de Salud Chile,"RT @FONASA: 🎉¡EXCELENTE NOTICIA!
 Si eres beneficiario de #Fonasa puedes comprar los 73 PAD en línea con tu tarjeta de débito o crédito en n…",positive,0.96,0.02,0.02,140
+Ministerio de Salud,Ministro Blumel confirma que subsecretario ⁦@arturozunigaj⁩ será enlace entre el Minsal y los alcaldes |… https://t.co/e6rzFar2FC,neutral,0.04,0.86,0.1,129
+Ministerio de Salud,"#CuidèmonosEntreTodos | Recuerda que en una hora más, y por siete días, comienza la cuarentena total en:
+
+- San Ram… https://t.co/JrbkOb4PeG",neutral,0.06,0.8,0.14,140
+OPS/OMS,👋👋🏻👋🏼👋🏾 Si estas en #cuarentena utiliza tu tiempo y realiza #actividadfisica.                            👀 algunas… https://t.co/F525fxz3DC,neutral,0.12,0.8,0.08,139
+Colmed Chile,"RT @colmedrancagua: Funcionarios del Cesfam 6 de Rancagua, realizaron sentido homenaje a primera funcionaria chilena APS, fallecida por cov…",neutral,0.07,0.85,0.08,140
+Colmed Chile,RT @ColmedPtoMontt: Nuestro reconocimiento a dos destacados colegiados que hoy cumplieron un ciclo laboral en el sistema público de #salud,positive,0.53,0.32,0.15,138
+Colmed Chile,RT @Muni_Renca: Alcalde @cn_castro sostuvo reunión con el @colmedchile y alcaldes RM para formalizar donación de la @SocieteGenerale y @ALD…,neutral,0.07,0.83,0.1,140
+Ministerio de Salud,"Desde este momento, se incorporan nuevas comunas y zonas a cuarentena total.
+
+Conoce los lugares que se incorporan… https://t.co/BkdIIuVQh0",neutral,0.02,0.91,0.07,139
+Instituto de Salud Pública de Chile,"Si tienes un pañuelo en tu hogar, puedes convertirlo en una mascarilla.
+
+Sigue estos pasos y #CuidémonosEntreTodos https://t.co/XVnmRYwTI8",neutral,0.11,0.87,0.02,138
+Colmed Chile,"@SeBaK_ @DrEnriqueParis @izkia @Pajarobere @jtgazmuri @ingmarroessler Estimado, lamentamos lo ocurrido, debe haber… https://t.co/zWcfEPKNvm",negative,0.08,0.42,0.5,139
+Colmed Chile,"RT @falmedchile: Hemos finalizado!
+El video de esta entrevista online estará disponible en https://t.co/VmZhnUR74z El próximo jueves realiz…",neutral,0.08,0.88,0.04,140
