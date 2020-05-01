@@ -1,5 +1,4 @@
 Entidad,Contenido,Sentimiento,Positivo,Neutral,Negativo,LargoTexto
-Super de Salud Chile,RT @ministeriosalud: AHORA | Autoridades de Salud | Balance Diario #COVID_19 https://t.co/phcGbyzOuy,neutral,0.17,0.43,0.4,100
 Super de Salud Chile,"RT @ministeriosalud: Ministro Jaime Mañalich: “este 1 de mayo es muy diferente por la pandemia, aprovecho de agradecer a los trabajadores d…",negative,0.49,0.01,0.5,140
 Super de Salud Chile,"Reporte #Covid_19 por parte del Ministerio de Salud:
 🔹17.008 casos totales
@@ -13,7 +12,6 @@ OPS/OMS,"RT @OPSOMSBolivia: ¿Se puede transmitir #COVID19 a través de billetes
 OPS/OMS,"RT @OPSECU: Al ir al supermercado, hazlo de forma segura:
 ↔️Mantén el distanciamiento físico 
 🛒Desinfecta el carrito o canasta de compra an…",positive,0.8,0.12,0.08,140
-Instituto de Salud Pública de Chile,RT @ministeriosalud: Nuestra subsecretaria de Salud Pública @pdazan entrega su significativo saludo a todos los funcionarios de salud y agr…,positive,0.57,0.28,0.15,140
 Instituto de Salud Pública de Chile,RT @arturozunigaj: Mi más sincero reconocimiento a todos los trabajadores de la salud!!! infinitas gracias por su irremplazable labor!!! #E…,positive,0.92,0.01,0.07,140
 Instituto de Salud Pública de Chile,RT @ministeriosalud: En este #DíaDelTrabajador enviamos un afectuoso saludo a los trabajadores de nuestro país y especialmente a los funcio…,positive,0.94,0.04,0.02,140
 Colmed Chile,[#ReporteDiario] Conoce el balance diario de #Covid19 en nuestro país. Recordamos que estos datos son los entregado… https://t.co/9sy8nfE89a,positive,0.51,0.47,0.02,140
@@ -58,22 +56,27 @@ Instituto de Salud Pública de Chile,"Protégete contra el nuevo Coronavirus COV
 
 Entérate más sobre cómo prevenirlo en: https://t.co/YdvmOlnhQ7… https://t.co/qgRPvbwzIN",neutral,0.08,0.78,0.14,136
 Super de Salud Chile,RT @ministeriosalud: Nuestra subsecretaria de Salud Pública @pdazan entrega su significativo saludo a todos los funcionarios de salud y agr…,positive,0.57,0.28,0.15,140
-Ministerio de Salud,"Desde Antofagasta, Francisca Gutiérrez, envía un saludo a toda la familia hospitalaria en el #DíaDelTrabajador. Por… https://t.co/Gz3zccWsQn",positive,0.6,0.37,0.03,140
-Ministerio de Salud,Presidente @sebastianpinera recibe nuevo cargamento con 117 ventiladores mecánicos para fortalecer red de salud: “N… https://t.co/pOnEXBvjAd,neutral,0.17,0.72,0.11,140
 Colmed Chile,RT @Colmedchillan: La emergencia por el #COVID19 requiere que hagamos de la #Prevención parte de nuestra vida cotidiana. Recuerda no genera…,neutral,0.19,0.59,0.22,140
-Ministerio de Salud,"RT @sebastianpinera: En el #DíaDelTrabajo quiero reconocer, valorar y agradecer el enorme aporte que hacen los trabajadores y trabajadoras…",positive,0.98,0.0,0.02,139
 Super de Salud Chile,"RT @ministeriosalud: ""Infinitas gracias y mi reconocimiento más sincero a su incansable labor"", dice el subsecretario de Redes Asistenciale…",positive,0.97,0.0,0.03,140
 Instituto de Salud Pública de Chile,"Desde todo Chile, los funcionarios de salud conmemoran el #DíaDelTrabajador. 
 
 El médico EDF en Melinka, Mario Zava… https://t.co/m0gNzOTflw",neutral,0.12,0.82,0.06,140
-Ministerio de Salud,"Este fin de semana largo #CuidémonosEntreTodos y quédate en tu hogar. 
-
-Si estás en zonas con cuarentena, respétala… https://t.co/qsJW7MEVus",neutral,0.09,0.81,0.1,140
-Ministerio de Salud,"Ministro de Salud, Jaime Mañalich, reporta 985 nuevos casos #COVID_19 e insta a respetar cuarentenas y cordones san… https://t.co/9lNhjMetub",neutral,0.04,0.9,0.06,140
 Colmed Chile,"Desde el #Colmed apoyamos la campaña de donación de sangre, ya que el contexto de la pandemia, los donantes de sang… https://t.co/7UDmHk9lVx",negative,0.03,0.06,0.91,140
-Ministerio de Salud,Ministro Jaime Mañalich y subsecretario @arturozunigaj trasladan a hospitales ventiladores mecánicos y elementos de… https://t.co/DC1kJlZohj,neutral,0.03,0.85,0.12,140
-Ministerio de Salud,"Ministro de Salud Jaime Mañalich y subsecretario de Redes Asistenciales, @arturozunigaj llegan a Base aérea Tepual,… https://t.co/uv5pDi8s6i",neutral,0.24,0.65,0.11,140
-Ministerio de Salud,RT @arturozunigaj: @FACh_Chile gracias por la colaboración permanente y por permitirnos llegar con insumos y ventiladores a todo nuestro pa…,positive,0.95,0.02,0.03,140
-Ministerio de Salud,"Por ti, por todos #EstamosJuntos desde el control sanitario de Leyda, nos envían fuerzas para continuar enfrentando… https://t.co/n73QEnSk53",negative,0.05,0.4,0.55,140
-Ministerio de Salud,"Ministro Jaime Mañalich y subsecretario @arturozunigaj
- llegan a aeropuerto Tepual en Puerto Montt con elementos de… https://t.co/6hTLpJnKKm",neutral,0.12,0.82,0.06,140
+Ministerio de Salud,"RT @SSDelReloncavi: Ministro de Salud, Jaime Mañalich, y Subsecretario @arturozunigaj llegan a Grupo 5 de la @FACh_Chile en #PuertoMontt co…",neutral,0.02,0.91,0.07,140
+Super de Salud Chile,"RT @ministeriosalud: Porque todos los funcionarios de la salud entregan lo mejor de sí para cuidarnos a todos. Por eso, en el #DíaDelTrabaj…",positive,0.99,0.0,0.01,140
+Ministerio de Salud,"RT @CHVNoticias: Minsal aterriza en Puerto Montt con insumos, elementos de protección y ventiladores mecánicos
+
+Sigue el minuto a minuto ac…",neutral,0.02,0.93,0.05,140
+Ministerio de Salud,Lávate frecuentemente las manos con agua y jabón. Así evitarás contagios por #COVID_19 y también de otras enfermeda… https://t.co/nXDtIdnmWn,neutral,0.03,0.83,0.14,140
+Instituto de Salud Pública de Chile,"Prefiere medicamentos #bioequivalentes. 
+
+El @ispch garantiza su calidad, seguridad y eficacia.
+
+#ExigeElAmarillo https://t.co/OGGM1a4d7I",neutral,0.15,0.83,0.02,137
+Ministerio de Salud,"RT @sebastianpinera: Buenas noticias.Hoy gracias a una donación de la CPC y un grupo de empresas,recibimos 117 nuevos ventiladores mecánico…",positive,0.99,0.0,0.01,140
+Ministerio de Salud,RT @seremisalud10: El Ministro Jaime Mañalich junto a subsecretario @arturozunigaj llegaron hasta la región de Los Lagos para hacer entrega…,neutral,0.09,0.73,0.18,140
+Ministerio de Salud,RT @arturozunigaj: Gracias por  el compromiso!,positive,0.99,0.0,0.01,46
+Ministerio de Salud,"Ministro y subsecretario, acompañados por autoridades de la región de los Lagos, llegan al hospital regional de Pue… https://t.co/BKEmE5agW4",neutral,0.06,0.86,0.08,140
+Ministerio de Salud,El coordinador de la Unidad de Medicina Transfusional del Hospital El Carmen de Maipú y nos envía un afectuoso salu… https://t.co/ZZO6ikKpxt,positive,0.73,0.22,0.05,140
+Ministerio de Salud,RT @adnradiochile: Ministerio de Salud trasladó ventiladores mecánicos y elementos de protección a ciudades del sur: Mañalich viajó hasta L…,neutral,0.12,0.84,0.04,140
+Ministerio de Salud,"RT @FACh_Chile: La labor de las tripulaciones de Boeing 767 #FACh y el trabajo en equipo con el @ministeriosalud y @CPCchile, permitió conc…",neutral,0.08,0.77,0.15,140
