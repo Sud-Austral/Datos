@@ -24893,15 +24893,15 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 24892,01-05-2020,2.0,Chile,Antofagasta,,,,Mejillones,,,Confirmado,-22.9465783529,-70.2030457945
 24893,01-05-2020,2.0,Chile,Antofagasta,,,,Tocopilla,,,Confirmado,-21.9975710847,-70.0212244558
 24894,01-05-2020,4.0,Chile,Coquimbo,Masculino,26.0,,Coquimbo,,,Confirmado,-30.2274175634,-71.3589871987
-24895,01-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
-24896,01-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
-24897,01-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
-24898,01-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
-24899,01-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
-24900,01-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
-24901,01-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
-24902,01-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
-24903,01-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+24895,01-05-2020,5.0,Chile,Valparaíso,Masculino,65.0,Hospital Carlos Van Buren,San Antonio,,,Confirmado,-33.6671475155,-71.4869305281
+24896,01-05-2020,5.0,Chile,Valparaíso,Femenino,10.0,CESFAM Santa María,Santa María,,,Confirmado,-32.6860179782,-70.6097026593
+24897,01-05-2020,5.0,Chile,Valparaíso,Masculino,7.0,SAR Valparaíso,Valparaíso,,,Confirmado,-32.9978836561,-71.7533398553
+24898,01-05-2020,5.0,Chile,Valparaíso,Masculino,17.0,SAR Valparaíso,Valparaíso,,,Confirmado,-32.9978836561,-71.7533398553
+24899,01-05-2020,5.0,Chile,Valparaíso,Masculino,37.0,,Valparaíso,,,Confirmado,-32.9978836561,-71.7533398553
+24900,01-05-2020,5.0,Chile,Valparaíso,Masculino,90.0,Hospital Carlos Van Buren,Valparaíso,,,Confirmado,-32.9978836561,-71.7533398553
+24901,01-05-2020,5.0,Chile,Valparaíso,Masculino,86.0,Hospital EDuardo Pereira,Valparaíso,,,Confirmado,-32.9978836561,-71.7533398553
+24902,01-05-2020,5.0,Chile,Valparaíso,Femenino,40.0,SAR Valparaíso,Valparaíso,,,Confirmado,-32.9978836561,-71.7533398553
+24903,01-05-2020,5.0,Chile,Valparaíso,Femenino,43.0,,Viña del Mar,,,Confirmado,-33.0288002963,-71.5154312157
 24904,01-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
 24905,01-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
 24906,01-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
@@ -25820,7 +25820,7 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 25819,01-05-2020,13.0,Chile,Metropolitana,,82.0,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
 25820,01-05-2020,13.0,Chile,Metropolitana,,82.0,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
 25821,01-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
-25822,01-05-2020,9.0,Chile,La Araucanía,,76.0,,No Informado,,,Muerte,-38.6482295784,-72.276375641
+25822,01-05-2020,9.0,Chile,La Araucanía,Femenino,76.0,,Temuco,,,Muerte,-38.6732629809,-72.6677671889
 25823,01-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
 25824,01-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
 25825,01-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
