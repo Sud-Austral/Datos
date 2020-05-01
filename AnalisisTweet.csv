@@ -1,17 +1,10 @@
 Entidad,Contenido,Sentimiento,Positivo,Neutral,Negativo,LargoTexto
-Super de Salud Chile,"RT @FONASA: 📢¡Atención beneficiarios de Fonasa!
-
-👩‍🔬El nuevo examen para detectar anticuerpos del #Covid19 es gratuito si te lo haces en la…",positive,0.97,0.01,0.02,140
-Instituto de Salud Pública de Chile,"RT @ministeriosalud: 📺 Subsec @pdazan, junto @IntendenciaRM @FelipeGuevaraSt, supervisa implementación de cordón sanitario de Santiago. htt…",neutral,0.01,0.97,0.02,140
 Instituto de Salud Pública de Chile,"RT @ministeriosalud: Subsec @pdazan | Cordones sanitarios
 
 ""Todas las medidas que estamos implementando buscan que las personas respeten lo…",neutral,0.09,0.8,0.11,140
 Instituto de Salud Pública de Chile,"RT @ministeriosalud: Intendente @FelipeGuevaraSt:
 
 ""Todo vehículo será controlado y serán devueltos si no se cuenta con los permisos corres…",negative,0.12,0.29,0.59,140
-Super de Salud Chile,"RT @ministeriosalud: Subsec @pdazan | Cordones Sanitarios 🚧
-
-""El objetivo es que las personas no se trasladen a la segunda vivienda y hoy p…",neutral,0.04,0.68,0.28,140
 Instituto de Salud Pública de Chile,"Prefiere medicamentos #bioequivalentes. 
 
 El @ispch garantiza su calidad, seguridad y eficacia.
@@ -52,26 +45,20 @@ Si no cuentas con un… https://t.co/0BJUu6hMxh",neutral,0.06,0.84,0.1,140
 Super de Salud Chile,"@izkia @ICruzBlanca Hola, @izkia, ya nos contactamos con Daniela. 
 Muchas gracias.",positive,1.0,0.0,0.0,82
 Super de Salud Chile,"@CamiAndMu Hola Cami, nos puedes dejar tus datos personales por mensaje directo?",neutral,0.05,0.88,0.07,80
-Ministerio de Salud,"RT @segegob: Vocera de @GobiernoDeChile, Ministra @KarlaEnAcciona, y el Ministro del @MinisterioBBNN, @JIsamit, explican cómo funciona el v…",neutral,0.11,0.67,0.22,140
-Colmed Chile,[#AHORA] En reunión por videoconferencia se formaliza donación del banco francés @SocieteGenerale y… https://t.co/5h573DsuiR,neutral,0.04,0.88,0.08,124
 Super de Salud Chile,"RT @min_ciencia: 🔎 Fondo para Proyectos de Investigación #COVID__19
 
 ¿Qué tipo de proyectos pueden participar de la convocatoria? Les compa…",neutral,0.13,0.77,0.1,140
-Colmed Chile,"[#AHORA] Comienza Ronda de Conversatorios virtuales con su primera sesión, dedicada al tema ¿Por qué hablar de inte… https://t.co/MPY23AIBp4",neutral,0.08,0.84,0.08,140
 OPS/OMS,"📣Facebook LIVE 🗓 mañana, 🕛12:00 pm (EST). 
 Te esperamos en: https://t.co/Uf7v660wIR 
  
 ""PREGUNTA AL EXPERTO"" sobre… https://t.co/v0F7gTBSfe",neutral,0.14,0.84,0.02,139
 Super de Salud Chile,"RT @hcsba: A pesar del feriado, este viernes 01 y sábado 02 de mayo el Banco de Sangre de nuestro hospital recibirá a donantes de 09 a 16 h…",neutral,0.01,0.88,0.11,140
 Super de Salud Chile,"RT @24HorasTVN: A partir de las 18:00 horas, Carabineros e inspectores de tránsito fiscalizan a los automovilistas que intentan salir de la…",neutral,0.03,0.6,0.37,140
-Colmed Chile,"Cada municipio recibirá 10 vehículos en comodato por tres meses para el traslado de personal sanitario, de paciente… https://t.co/sTddD154qC",neutral,0.04,0.84,0.12,140
-Ministerio de Salud,"AHORA: Comienza a implementarse el Cordón Sanitario en la Región Metropolitana, hasta las 22:00 horas del domingo 3… https://t.co/tp5so10CZW",neutral,0.0,0.97,0.03,140
 Instituto de Salud Pública de Chile,"Fabrica tu propia mascarilla con una bandana.
 
 #CuidémonosEntreTodos
 
 Más info en: https://t.co/YdvmOl5Grx https://t.co/cqOtjPr1QE",neutral,0.09,0.82,0.09,130
-Colmed Chile,RT @izkia: 👏👏👏 Muchas gracias a la Embajada de Francia y al banco francés @SocieteGenerale  y a @ALDAutomotiveCL por prestar estos autos a…,positive,0.95,0.02,0.03,139
 Colmed Chile,RT @ColmedOsorno: De ti depende no seguir aumentando estas cifras. Se termina la #CuarentenaTotal pero no por ello las precauciones. #Queda…,neutral,0.04,0.75,0.21,140
 Instituto de Salud Pública de Chile,"RT @pdazan: A un mes de las Aduanas Sanitarias, podemos informar que ya hay más de 113 puntos de fiscalización en todo el país. 
 Son 91 Adu…",neutral,0.03,0.87,0.1,140
@@ -100,3 +87,19 @@ Ministerio de Salud,"""Las medidas que iremos implementando serán evaluadas, so
 ""Hoy h… https://t.co/2fIgPobJhb",neutral,0.13,0.72,0.15,140
 Ministerio de Salud,"""Entregamos el informe todos los días de forma transparente, y los casos activos son los que están con medidas de a… https://t.co/wFPwDVCs4k",neutral,0.06,0.9,0.04,140
 Colmed Chile,Conéctate al Instagram live de @womeninGH su usuario en Instagram es (wghchile) 👇🏼💪🏼 con la participación de la Pdt… https://t.co/eDLQQRkhpo,neutral,0.07,0.9,0.03,140
+Colmed Chile,RT @colmediquique: Gracias a la campaña #AntiparrasParaDocs hoy pudimos distribuir un stock de estos elementos de protección personal a @mg…,positive,0.98,0.01,0.01,140
+Colmed Chile,RT @DonaSangreStgo: ¡Agradecemos a todos los donantes altruistas que nos acompañaron en nuestra primera actividad de donación de sangre en…,positive,0.95,0.02,0.03,139
+Ministerio de Salud,"RT @Cooperativa: [En vivo] La epidemióloga María Teresa Valenzuela, integrante del consejo asesor del Minsal, conversa con Lo Que Queda del…",neutral,0.09,0.83,0.08,140
+Colmed Chile,"RT @womeninGH: Happening now, our Deputy Director @SarahHillware joins @wghchile for this webinar w/ the 1st @womeninGH chapter in Latin Am…",neutral,0.05,0.61,0.34,140
+Super de Salud Chile,"RT @ChileAtiende: ¡Nuevas medidas para los #PermisosTemporales! #QuedateEnCasa 
+
+🔸La vigencia se iniciará 15 minutos después de solicitarlo…",neutral,0.05,0.88,0.07,140
+Colmed Chile,"Conéctate al conversatorio Derecho a la salud en tiempos de crisis, con la participación del Pdte de nuestro Dpto.… https://t.co/nXx9JU7WJg",negative,0.08,0.01,0.91,139
+Instituto de Salud Pública de Chile,"Conoce más sobre esta nueva medida en https://t.co/YdvmOl5Grx 
+
+ #CuidémonosEntreTodos https://t.co/NaK9m2laha",neutral,0.23,0.74,0.03,110
+Ministerio de Salud,"En caso de Aislamiento Domiciliario:
+- Refuerza el aseo y ventilación de la casa
+- Aliméntate saludablemente y resp… https://t.co/dsGRYspN2w",neutral,0.11,0.86,0.03,140
+Super de Salud Chile,"RT @FONASA: 🎉¡EXCELENTE NOTICIA!
+Si eres beneficiario de #Fonasa puedes comprar los 73 PAD en línea con tu tarjeta de débito o crédito en n…",positive,0.96,0.02,0.02,140
