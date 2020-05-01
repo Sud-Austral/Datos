@@ -1,7 +1,4 @@
 Entidad,Contenido,Sentimiento,Positivo,Neutral,Negativo,LargoTexto
-Instituto de Salud Pública de Chile,"RT @ministeriosalud: Intendente @FelipeGuevaraSt:
-
-""Todo vehículo será controlado y serán devueltos si no se cuenta con los permisos corres…",negative,0.12,0.29,0.59,140
 Instituto de Salud Pública de Chile,"Prefiere medicamentos #bioequivalentes. 
 
 El @ispch garantiza su calidad, seguridad y eficacia.
@@ -58,23 +55,11 @@ Más info en: https://t.co/YdvmOl5Grx https://t.co/cqOtjPr1QE",neutral,0.09,0.82
 Instituto de Salud Pública de Chile,"RT @pdazan: A un mes de las Aduanas Sanitarias, podemos informar que ya hay más de 113 puntos de fiscalización en todo el país. 
 Son 91 Adu…",neutral,0.03,0.87,0.1,140
 Instituto de Salud Pública de Chile,RT @ministeriosalud: A las 18:00 comienzan los cordones sanitarios de la Región Metropolitana y la ciudad de Concepción por el fin de seman…,neutral,0.03,0.91,0.06,140
-Ministerio de Salud,"🔴 AHORA | Subsec @pdazan | En 📻@Pauta_cl 
-
-🔊Sigue la entrevista en vivo por implementación de cordones sanitarios e… https://t.co/qwBjI1F7Vd",neutral,0.03,0.93,0.04,140
-Ministerio de Salud,"Subsec @pdazan en @Pauta_cl:
-
-""Una de las medidas más relevantes es el distanciamiento físico y es muy importante q… https://t.co/vzTpNhE4Y7",neutral,0.21,0.66,0.13,140
-Ministerio de Salud,"RT @Pauta_cl: 📡 De no ser por situaciones excepcionales, ""las personas que quieran salir de Santiago van a ser devueltas a sus domicilios"":…",negative,0.3,0.06,0.64,140
 Instituto de Salud Pública de Chile,"El uso correcto de la mascarilla es clave para proteger tu salud y la de los demás. 
 
 #CuidémonosEntreTodos
 
 Conoce… https://t.co/bOO158GrEB",positive,0.95,0.04,0.01,140
-Ministerio de Salud,"""Las medidas que iremos implementando serán evaluadas, somos prudentes y no tenemos que bajar la guardia"". 
-
-""Hoy h… https://t.co/2fIgPobJhb",neutral,0.13,0.72,0.15,140
-Ministerio de Salud,"""Entregamos el informe todos los días de forma transparente, y los casos activos son los que están con medidas de a… https://t.co/wFPwDVCs4k",neutral,0.06,0.9,0.04,140
-Colmed Chile,Conéctate al Instagram live de @womeninGH su usuario en Instagram es (wghchile) 👇🏼💪🏼 con la participación de la Pdt… https://t.co/eDLQQRkhpo,neutral,0.07,0.9,0.03,140
 Colmed Chile,RT @colmediquique: Gracias a la campaña #AntiparrasParaDocs hoy pudimos distribuir un stock de estos elementos de protección personal a @mg…,positive,0.98,0.01,0.01,140
 Colmed Chile,RT @DonaSangreStgo: ¡Agradecemos a todos los donantes altruistas que nos acompañaron en nuestra primera actividad de donación de sangre en…,positive,0.95,0.02,0.03,139
 Ministerio de Salud,"RT @Cooperativa: [En vivo] La epidemióloga María Teresa Valenzuela, integrante del consejo asesor del Minsal, conversa con Lo Que Queda del…",neutral,0.09,0.83,0.08,140
@@ -83,12 +68,12 @@ Super de Salud Chile,"RT @ChileAtiende: ¡Nuevas medidas para los #PermisosTempo
 
 🔸La vigencia se iniciará 15 minutos después de solicitarlo…",neutral,0.05,0.88,0.07,140
 Colmed Chile,"Conéctate al conversatorio Derecho a la salud en tiempos de crisis, con la participación del Pdte de nuestro Dpto.… https://t.co/nXx9JU7WJg",negative,0.08,0.01,0.91,139
-Ministerio de Salud,"En caso de Aislamiento Domiciliario:
-- Refuerza el aseo y ventilación de la casa
-- Aliméntate saludablemente y resp… https://t.co/dsGRYspN2w",neutral,0.11,0.86,0.03,140
 Instituto de Salud Pública de Chile,"Conoce más sobre esta nueva medida en https://t.co/YdvmOl5Grx 
 
  #CuidémonosEntreTodos https://t.co/NaK9m2laha",neutral,0.23,0.74,0.03,110
+Ministerio de Salud,"En caso de Aislamiento Domiciliario:
+- Refuerza el aseo y ventilación de la casa
+- Aliméntate saludablemente y resp… https://t.co/dsGRYspN2w",neutral,0.11,0.86,0.03,140
 Super de Salud Chile,"RT @FONASA: 🎉¡EXCELENTE NOTICIA!
 Si eres beneficiario de #Fonasa puedes comprar los 73 PAD en línea con tu tarjeta de débito o crédito en n…",positive,0.96,0.02,0.02,140
 Ministerio de Salud,Ministro Blumel confirma que subsecretario ⁦@arturozunigaj⁩ será enlace entre el Minsal y los alcaldes |… https://t.co/e6rzFar2FC,neutral,0.04,0.86,0.1,129
@@ -99,12 +84,23 @@ OPS/OMS,👋👋🏻👋🏼👋🏾 Si estas en #cuarentena utiliza tu tiempo y
 Colmed Chile,"RT @colmedrancagua: Funcionarios del Cesfam 6 de Rancagua, realizaron sentido homenaje a primera funcionaria chilena APS, fallecida por cov…",neutral,0.07,0.85,0.08,140
 Colmed Chile,RT @ColmedPtoMontt: Nuestro reconocimiento a dos destacados colegiados que hoy cumplieron un ciclo laboral en el sistema público de #salud,positive,0.53,0.32,0.15,138
 Colmed Chile,RT @Muni_Renca: Alcalde @cn_castro sostuvo reunión con el @colmedchile y alcaldes RM para formalizar donación de la @SocieteGenerale y @ALD…,neutral,0.07,0.83,0.1,140
-Ministerio de Salud,"Desde este momento, se incorporan nuevas comunas y zonas a cuarentena total.
-
-Conoce los lugares que se incorporan… https://t.co/BkdIIuVQh0",neutral,0.02,0.91,0.07,139
 Instituto de Salud Pública de Chile,"Si tienes un pañuelo en tu hogar, puedes convertirlo en una mascarilla.
 
 Sigue estos pasos y #CuidémonosEntreTodos https://t.co/XVnmRYwTI8",neutral,0.11,0.87,0.02,138
+Ministerio de Salud,"Desde este momento, se incorporan nuevas comunas y zonas a cuarentena total.
+
+Conoce los lugares que se incorporan… https://t.co/BkdIIuVQh0",neutral,0.02,0.91,0.07,139
 Colmed Chile,"@SeBaK_ @DrEnriqueParis @izkia @Pajarobere @jtgazmuri @ingmarroessler Estimado, lamentamos lo ocurrido, debe haber… https://t.co/zWcfEPKNvm",negative,0.08,0.42,0.5,139
 Colmed Chile,"RT @falmedchile: Hemos finalizado!
 El video de esta entrevista online estará disponible en https://t.co/VmZhnUR74z El próximo jueves realiz…",neutral,0.08,0.88,0.04,140
+Instituto de Salud Pública de Chile,"El uso correcto de la mascarilla es clave para proteger tu salud y la de los demás. 
+
+#CuidémonosEntreTodos
+
+Conoce… https://t.co/3df3CsDCyF",positive,0.95,0.04,0.01,140
+Ministerio de Salud,En este #DíaDelTrabajador enviamos un afectuoso saludo a los trabajadores de nuestro país y especialmente a los fun… https://t.co/PoA4SfgclV,positive,0.95,0.01,0.04,140
+Colmed Chile,"En este #Díadelostrabajadores saludamos a tod@s l@s trabajador@s del país, especialmente a quienes mantienen nuestr… https://t.co/sz6xyH9hGh",positive,0.69,0.25,0.06,140
+Ministerio de Salud,"RT @MintrabChile: Hoy enfrentamos una de las mayores crisis sanitarias y si nuestro país sigue de pie, es gracias a sus trabajadores. Por e…",negative,0.44,0.0,0.56,140
+Ministerio de Salud,"El ministro de Salud, Jaime Mañalich, envía un especial y afectuoso saludo a todos los funcionarios de la salud en… https://t.co/SIk1nCMDMu",positive,0.96,0.02,0.02,139
+Ministerio de Salud,Nuestra subsecretaria de Salud Pública @pdazan entrega su significativo saludo a todos los funcionarios de salud y… https://t.co/cMHQg5xy5u,positive,0.51,0.34,0.15,139
+Ministerio de Salud,"""Infinitas gracias y mi reconocimiento más sincero a su incansable labor"", dice el subsecretario de Redes Asistenci… https://t.co/hQUvTJp9qi",positive,0.98,0.0,0.02,140
