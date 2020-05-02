@@ -1,10 +1,5 @@
 Entidad,Contenido,Sentimiento,Positivo,Neutral,Negativo,LargoTexto
-Super de Salud Chile,RT @ministeriosalud: AHORA Presidente @sebastianpinera y Ministro Jaime Mañalich reciben ventiladores para enfrentar #COVID_19 https://t.co…,neutral,0.17,0.67,0.16,140
-Super de Salud Chile,RT @presidencia_cl: AHORA – El Pdte @sebastianpinera recibe cargamento con 117 ventiladores mecánicos donados por la @CPCchile y que reforz…,neutral,0.09,0.77,0.14,140
-Colmed Chile,"RT @ucatolica: ""Estamos trabajando de manera mancomunada y en equipo. Hoy nos encontramos en la ex penitenciaría con un grupo de jóvenes qu…",neutral,0.16,0.67,0.17,140
 Colmed Chile,¡Atent@s colegas! Recuerda que en nuestro repositorio web podrás encontrar información relevante sobre #COVID19. Lo… https://t.co/YKgtJzLzaB,neutral,0.12,0.8,0.08,140
-Super de Salud Chile,"RT @ministeriosalud: El ministro de Salud, Jaime Mañalich, envía un especial y afectuoso saludo a todos los funcionarios de la salud en el…",positive,0.95,0.02,0.03,139
-OPS/OMS,"RT @OPSOMSBolivia: Estar frente a la #COVID19 puede causar una estigmatización innecesaria , incluso la de tu familia, amigos y otros traba…",negative,0.03,0.02,0.95,140
 OPS/OMS,RT @OPSOMSPeru: #COVID19 El aislamiento debido al brote infeccioso puede producir miedo y ansiedad. Cuente 🗨️ su experiencia y escuche 👂🏽la…,negative,0.0,0.01,0.99,140
 OPS/OMS,"RT @opsomsels: 👋 El distanciamiento físico no es aislamiento social.
 
@@ -17,9 +12,6 @@ OPS/OMS,"RT @OPSOMSPeru: 🤔 ¿Cómo lavar las frutas 🍎🥝🍇 y vegetales 
 Super de Salud Chile,RT @ministeriosalud: Nuestra subsecretaria de Salud Pública @pdazan entrega su significativo saludo a todos los funcionarios de salud y agr…,positive,0.57,0.28,0.15,140
 Colmed Chile,RT @Colmedchillan: La emergencia por el #COVID19 requiere que hagamos de la #Prevención parte de nuestra vida cotidiana. Recuerda no genera…,neutral,0.19,0.59,0.22,140
 Super de Salud Chile,"RT @ministeriosalud: ""Infinitas gracias y mi reconocimiento más sincero a su incansable labor"", dice el subsecretario de Redes Asistenciale…",positive,0.97,0.0,0.03,140
-Instituto de Salud Pública de Chile,"Desde todo Chile, los funcionarios de salud conmemoran el #DíaDelTrabajador. 
-
-El médico EDF en Melinka, Mario Zava… https://t.co/m0gNzOTflw",neutral,0.12,0.82,0.06,140
 Colmed Chile,"Desde el #Colmed apoyamos la campaña de donación de sangre, ya que el contexto de la pandemia, los donantes de sang… https://t.co/7UDmHk9lVx",negative,0.03,0.06,0.91,140
 Super de Salud Chile,"RT @ministeriosalud: Porque todos los funcionarios de la salud entregan lo mejor de sí para cuidarnos a todos. Por eso, en el #DíaDelTrabaj…",positive,0.99,0.0,0.01,140
 Instituto de Salud Pública de Chile,"Prefiere medicamentos #bioequivalentes. 
@@ -34,12 +26,12 @@ OPS/OMS,"RT @PAHOemergencies: ¿Sabes cómo prevenir #COVID19 y mantenerte salud
 👉En éste infográfico lo explicamos:…",positive,0.52,0.04,0.44,139
 OPS/OMS,"RT @BancoMundial: Para lograr más equidad y crecimiento económico, es clave invertir en las personas. Conoce qué es el Índice de Capital Hu…",positive,0.67,0.29,0.04,140
 Super de Salud Chile,"RT @ministeriosalud: La enfermera del Cesfam de Putre, Jocelyn Vargas, destaca que hoy más que nunca #EstamosJuntos no solo para enfrentar…",negative,0.23,0.31,0.46,139
-OPS/OMS,"El #sarampión es una de las enfermedades más contagiosas del mundo😱
- 
-Sin embargo, hay una 💉vacuna segura y efectiv… https://t.co/Z37qJSCbHy",positive,0.63,0.07,0.3,140
 Instituto de Salud Pública de Chile,"Recordamos que el Cordón Sanitario en la Región Metropolitana será hasta las 22:00 horas del domingo 3 de mayo.
 
 In… https://t.co/tljOnpieEE",neutral,0.02,0.93,0.05,140
+OPS/OMS,"El #sarampión es una de las enfermedades más contagiosas del mundo😱
+ 
+Sin embargo, hay una 💉vacuna segura y efectiv… https://t.co/Z37qJSCbHy",positive,0.63,0.07,0.3,140
 Colmed Chile,"RT @ColMedSantiago: [Atención Remota] ¿Tienes alguna duda sobre tu colegiatura? 🤔
 Ingresa a nuestro sitio web y contacta a nuestros ejecuti…",negative,0.04,0.26,0.7,140
 Colmed Chile,"RT @colmedantofa: Reporte Oficial de Covid-19 del 1 de mayo de 2020, Región de Antofagasta, informado hoy por las autoridades de la zona. h…",neutral,0.05,0.87,0.08,140
@@ -51,6 +43,7 @@ Colmed Chile,[#ResumenSemanal] Gremio analiza proyecto sobre uso de leña en Com
 Super de Salud Chile,"RT @ministeriosalud: Desde todo Chile, los funcionarios de salud conmemoran el #DíaDelTrabajador. El médico EDF en Melinka, Mario Zavala, e…",neutral,0.18,0.71,0.11,140
 Super de Salud Chile,"RT @ministeriosalud: Un especial saludo desde Tierra del Fuego por el #DíaDelTrabajador envían a sus colegas de todo Chile, los funcionario…",positive,0.37,0.37,0.26,140
 Super de Salud Chile,"RT @ministeriosalud: #EstamosJuntos desde el Paso Fronterizo de Pino Hachado, en la Región de La Araucanía, nos envían un caluroso saludo a…",neutral,0.18,0.61,0.21,140
+Instituto de Salud Pública de Chile,"Fabiola Rivas, funcionaria de la Seremi de Salud de Antofagasta, envía un especial saludo a sus colegas de todo Chi… https://t.co/hVNBSSUziS",neutral,0.34,0.57,0.09,140
 OPS/OMS,"Si no te has puesto la 💉vacuna contra el #sarampión y tienes
  
 Fiebre alta🤒 
@@ -58,7 +51,6 @@ Erupción
 Tos😷 
 Moqueo nasal🤧 
 Ojos roj… https://t.co/zLgpEQnaYi",negative,0.0,0.03,0.97,140
-Instituto de Salud Pública de Chile,"Fabiola Rivas, funcionaria de la Seremi de Salud de Antofagasta, envía un especial saludo a sus colegas de todo Chi… https://t.co/hVNBSSUziS",neutral,0.34,0.57,0.09,140
 Colmed Chile,"RT @carlopezo: Un cordial Saludo a los trabajadores y trabajadoras de #Atacama en el #Diadelostrabajadores. En especial a los de Salud, en…",positive,0.75,0.2,0.05,139
 Instituto de Salud Pública de Chile,RT @ministeriosalud: Comienza la entrega de Elementos de protección personal en hospital de campaña de Puerto Montt https://t.co/SwYE6kKjRh,neutral,0.01,0.97,0.02,139
 Instituto de Salud Pública de Chile,RT @ministeriosalud: Autoridades de Salud trasladan ventiladores mecánicos y elementos de protección para personal de salud a hospitales -…,neutral,0.21,0.55,0.24,139
@@ -74,22 +66,30 @@ Colmed Chile,"Porque además de afectar nuestra salud, esta pandemia está gener
 Instituto de Salud Pública de Chile,"Nuevos sectores y comunas están en cuarentena.
 
 Más información en https://t.co/YdvmOl5Grx https://t.co/QmBScMsAso",neutral,0.07,0.66,0.27,114
-Ministerio de Salud,"Ministro de Salud Jaime Mañalich | @24HorasTVN 
-Hay que aprender mucho de esta región, hay un gran diferencia entre… https://t.co/wvQc6l1JRV",neutral,0.35,0.62,0.03,140
-Ministerio de Salud,"Ministro de Salud Jaime Mañalich | @24HorasTVN 
-“Salimos a buscar casos en personas que no tienen síntomas, que pue… https://t.co/QQpVz2gyI9",neutral,0.14,0.6,0.26,140
-Ministerio de Salud,"RT @24HorasTVN: #ENVIVO | El ministro Mañalich se refiere a la entrega de ventiladores e insumos en Los Lagos. 
-
-📡 Sigue la señal en vivo #…",neutral,0.03,0.94,0.03,140
-Ministerio de Salud,"Ministro de Salud Jaime Mañalich |@24HorasTVN 
-“Nosotros habíamos diseñado que las personas que tenían síntoma eran… https://t.co/u19wQgrd22",negative,0.05,0.34,0.61,140
-Ministerio de Salud,"Ministro de Salud Jaime Mañalich | @24HorasTVN 
-“Las cuarentenas largas son intolerables, hay que seguir el ejemplo… https://t.co/dUAwMFpBp7",neutral,0.02,0.81,0.17,140
-Ministerio de Salud,Subsecretario de Redes Asistenciales @arturozunigaj reconoce importante descenso en curva de contagios en la región… https://t.co/oj78kdUots,neutral,0.02,0.84,0.14,140
 Instituto de Salud Pública de Chile,"Recordamos que el Cordón Sanitario en Concepción será hasta las 22:00 horas del domingo 3 de mayo.
 
 Infórmate más e… https://t.co/bHqGETj0TI",neutral,0.05,0.88,0.07,140
-Ministerio de Salud,Minsal envió más insumos a hospitales de la región de Los Lagos para enfrentar pandemia de coronavirus… https://t.co/MlHSDMuw1E,negative,0.02,0.21,0.77,127
-Ministerio de Salud,"Ministro Jaime Mañalich encabeza traslado de dos ventiladores a Osorno y destaca el ""éxito"" del combate al… https://t.co/R0moX9mxqm",negative,0.08,0.28,0.64,131
 Ministerio de Salud,Decimotercer informe epidemiológico #COVID_19  https://t.co/OHu7exnWxQ #PlanCoronavirus,neutral,0.04,0.91,0.05,87
 Ministerio de Salud,"En la edición de hoy de El Llanquihue, se destaca la entrega de Elementos de Protección Personal y ventiladores mec… https://t.co/TLu6CcSQyw",neutral,0.06,0.92,0.02,140
+Ministerio de Salud,RT @seremisalud10: Revisa esta nota de prensa con la visita del Ministro Jaime Mañalich junto al Subsecretario @arturozunigaj a la región d…,neutral,0.03,0.9,0.07,140
+Ministerio de Salud,RT @arturozunigaj: Ministro de Salud Mañalich y Subsecretario de Redes Asistenciales llegan a la Región con insumos para Hospitales de Puer…,neutral,0.03,0.86,0.11,140
+Super de Salud Chile,RT @ministeriosalud: Minsal envió más insumos a hospitales de la región de Los Lagos para enfrentar pandemia de coronavirus https://t.co/Tp…,negative,0.02,0.18,0.8,140
+Super de Salud Chile,"RT @ministeriosalud: Ministro Jaime Mañalich encabeza traslado de dos ventiladores a Osorno y destaca el ""éxito"" del combate al #COVID_19 e…",negative,0.09,0.37,0.54,140
+Super de Salud Chile,"RT @ministeriosalud: En la edición de hoy de El Llanquihue, se destaca la entrega de Elementos de Protección Personal y ventiladores mecáni…",neutral,0.1,0.87,0.03,140
+Colmed Chile,"""Yo sirvo a mi país"" es la nueva plataforma para que el @ministeriosalud  pueda tener un registro de profesionales… https://t.co/fLlb3L3Fno",neutral,0.23,0.59,0.18,139
+Instituto de Salud Pública de Chile,"Recordamos que el Cordón Sanitario en la Región Metropolitana será hasta las 22:00 horas del domingo 3 de mayo.
+
+In… https://t.co/WJc154zGqA",neutral,0.02,0.93,0.05,140
+Ministerio de Salud,Es muy importante seguir todos los consejos y recomendaciones para evitar contagios de enfermedades respiratorias y… https://t.co/DkqTRSqpoc,negative,0.04,0.11,0.85,140
+OPS/OMS,"Consulte las guías más recientes sobre la #COVID19 en el nuevo boletín de #PublicacionesOPS. 
+
+➡… https://t.co/9wp1XJH3tS",neutral,0.03,0.89,0.08,121
+Ministerio de Salud,RT @arturozunigaj: Autoridades de salud encabezan entrega de ventiladores e insumos en Puerto Montt para enfrentar el COVID-19 - Coronaviru…,neutral,0.04,0.71,0.25,140
+Ministerio de Salud,Ministro Jaime Mañalich destacó a Osorno como un caso de éxito en la contención de #COVID_19 https://t.co/6OoVf7lfLb vía @Cooperativa,neutral,0.27,0.65,0.08,133
+Ministerio de Salud,"Osorno | Ministro Jaime Mañalich y subsecretario @arturozunigaj 
+
+Inician recorrido en el Hospital Base de Osorno p… https://t.co/d24gnoPL3R",neutral,0.02,0.92,0.06,140
+Ministerio de Salud,"📺 Hospital de Osorno:
+
+Ministro Jaime Mañalich y subsecretario de Redes Asistenciales @arturozunigaj se preparan co… https://t.co/BLQEjhSubL",neutral,0.01,0.94,0.05,140
+Ministerio de Salud,RT @arturozunigaj: Comenzamos nuestra jornada conversando con los equipos de #salud y visitando pacientes!,neutral,0.27,0.64,0.09,106
