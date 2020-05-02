@@ -1,15 +1,8 @@
 Entidad,Contenido,Sentimiento,Positivo,Neutral,Negativo,LargoTexto
-Colmed Chile,"Porque además de afectar nuestra salud, esta pandemia está generando problemas económicos para algunos, junto a nue… https://t.co/BzbgEknfPb",negative,0.0,0.01,0.99,140
 Super de Salud Chile,RT @ministeriosalud: Minsal envió más insumos a hospitales de la región de Los Lagos para enfrentar pandemia de coronavirus https://t.co/Tp…,negative,0.02,0.18,0.8,140
 Super de Salud Chile,"RT @ministeriosalud: Ministro Jaime Mañalich encabeza traslado de dos ventiladores a Osorno y destaca el ""éxito"" del combate al #COVID_19 e…",negative,0.09,0.37,0.54,140
 Super de Salud Chile,"RT @ministeriosalud: En la edición de hoy de El Llanquihue, se destaca la entrega de Elementos de Protección Personal y ventiladores mecáni…",neutral,0.1,0.87,0.03,140
 Colmed Chile,"""Yo sirvo a mi país"" es la nueva plataforma para que el @ministeriosalud  pueda tener un registro de profesionales… https://t.co/fLlb3L3Fno",neutral,0.23,0.59,0.18,139
-OPS/OMS,"Consulte las guías más recientes sobre la #COVID19 en el nuevo boletín de #PublicacionesOPS. 
-
-➡… https://t.co/9wp1XJH3tS",neutral,0.03,0.89,0.08,121
-OPS/OMS,RT @OPSOMS_Col: Hoy más que nunca necesitamos ser resilientes para reponernos de estos momentos difíciles y seguir proyectando el futuro; y…,negative,0.29,0.01,0.7,140
-OPS/OMS,"RT @OPSOMSBolivia: Mantenerte al día con tus vacunas te ayuda a estar sanos a ti y a tu familia 
-😄 - y a los trabajadores de salud 🧑🏾‍⚕️…",positive,0.97,0.02,0.01,137
 OPS/OMS,"RT @OPASOMSBrasil: Por medo ou estigma, é possível que familiares de profissionais de saúde da linha de frente da pandemia prefiram manter…",negative,0.02,0.1,0.88,139
 OPS/OMS,"RT @OPSOMS_Honduras: ¿#Sabíasque 43 países de las Américas 🌎 incluyen la vacuna contra el #VPH como parte de la inmunización de rutina?
 
@@ -25,13 +18,9 @@ Colmed Chile,"Nuestro Depto. de Políticas de Salud y Estudios, elaboró el 5º 
 Super de Salud Chile,"¿Sabes en qué lugares debes usar mascarilla, obligatoriamente? 🤔
 
 Conoce más sobre esta medida 👇, e infórmate siemp… https://t.co/PKOF5ZudEV",neutral,0.15,0.74,0.11,140
-Instituto de Salud Pública de Chile,"Conoce más sobre esta nueva medida en https://t.co/YdvmOlnhQ7 
-
- #CuidémonosEntreTodos https://t.co/wDHPCDbdUh",neutral,0.23,0.74,0.03,110
 Super de Salud Chile,"RT @ministeriosalud: Balance diario de #COVID_19 en Chile se realizará desde Osorno
 
  https://t.co/vosfRkOGmW #PlanCoronavirus",neutral,0.02,0.93,0.05,126
-Instituto de Salud Pública de Chile,RT @arturozunigaj: Analizando situación local de la #pandemia #COVID__19 #osorno #LosLagos,negative,0.01,0.15,0.84,90
 Super de Salud Chile,"RT @SSMaule: Con mucha esperanza, emoción y alegría, les contamos que hoy fue dado de alta Don Juan, oriundo de la comuna de Pelluhue, quie…",positive,0.99,0.0,0.01,140
 Super de Salud Chile,"RT @ministeriosalud: Ministro Jaime Mañalich:
 
@@ -76,21 +65,37 @@ Instituto de Salud Pública de Chile,"Fabrica tu propia mascarilla con una banda
 Más info en: https://t.co/YdvmOlnhQ7 https://t.co/jqYWWYFLDn",neutral,0.09,0.82,0.09,130
 Colmed Chile,Como #Colmed agradecemos la campaña #AntiparrasParaDocs que busca reunir antiparras deportivas para donar al person… https://t.co/CpVGZWQpaY,positive,0.96,0.01,0.03,140
 Colmed Chile,"RT @esp_uchile: Con el aumento testeo en un 3%, los casos positivos informados las últimas 24 horas llegan a 1427, de un total de casi 10 m…",neutral,0.27,0.61,0.12,140
-Ministerio de Salud,"RT @T13: Conversamos con María Teresa Valenzuela, miembro del Comité Asesor del Minsal sobre cómo se debe enfrentar el COVID-19 en los próx…",neutral,0.02,0.86,0.12,140
-Ministerio de Salud,"Ministro Jaime Mañalich visita Centro Comunitario de Rahue Bajo, que está habilitado como Residencia Sanitaria, lug… https://t.co/IBrTpkXlhT",neutral,0.02,0.96,0.02,140
-Ministerio de Salud,Autoridades de salud visitan a pacientes hospitalizados por #COVID_19  https://t.co/vyVngCAiZn #PlanCoronavirus,neutral,0.24,0.52,0.24,111
-Ministerio de Salud,Este centro tiene capacidad para atender a 16 personas y cuenta con un equipo multidisciplinario que incluye enferm… https://t.co/9HCVhxfO2j,neutral,0.01,0.98,0.01,140
-Ministerio de Salud,"AHORA | Puerto Montt 
-
-Subsec @arturozunigaj se reúne con representantes de los gremios de la salud de la región de… https://t.co/0TpyCMjEdC",neutral,0.01,0.9,0.09,140
 Instituto de Salud Pública de Chile,"Es obligatorio el uso de mascarillas en medios de transporte públicos y privados remunerados.
 
 Si no cuentas con un… https://t.co/qCn4qMSx4A",neutral,0.06,0.84,0.1,140
-Ministerio de Salud,RT @pdazan: Los cuidados para tomar en casa cuando hay una persona diagnosticada con #Covid_19 https://t.co/2wwA3xOguq,positive,0.72,0.11,0.17,118
-Ministerio de Salud,Subsecretario de Redes Asistenciales @arturozunigaj por #COVID_19: “La experiencia en Osorno sirve para replicarla… https://t.co/h2R5YynMrA,neutral,0.12,0.78,0.1,139
 Super de Salud Chile,"Súmate a #YoSirvoAMiPaísEnLaEmergencia y #CuidémonosEntreTodos 
 
 Si eres profesional o técnico de salud, y quieres… https://t.co/SDO9DljXMJ",positive,0.59,0.13,0.28,139
-Ministerio de Salud,Último reporte informa de 1.427 casos nuevos confirmados con #COVID_19  https://t.co/rpiwWCJ9my #PlanCoronavirus,neutral,0.02,0.82,0.16,112
-Ministerio de Salud,"Ministro Jaime Mañalich destacó baja de contagios por #COVID-19 en Osorno: ""Las cosas se han manejado bien""… https://t.co/ZxVK9XKOfY",positive,0.64,0.15,0.21,132
 Ministerio de Salud,RT @arturozunigaj: Gracias a los dirigentes gremios de #salud por este espacio de retroalimentación 🔽,positive,0.95,0.01,0.04,101
+Ministerio de Salud,"Este fin de semana #CuidémonosEntreTodos y quédate en casa, donde también puedes realizar actividades con tu famili… https://t.co/OYMU6z5tUI",neutral,0.46,0.51,0.03,140
+Instituto de Salud Pública de Chile,"Protégete contra el nuevo Coronavirus COVID-19.
+
+Entérate más sobre cómo prevenirlo en: https://t.co/YdvmOlnhQ7… https://t.co/5Lu5YdtZGs",neutral,0.08,0.78,0.14,136
+Colmed Chile,[#ResumenSemanal] Colegio Médico y O´Neill Institute realizaron webinar sobre Derechos Humanos y Salud en medio de… https://t.co/zpOcemLh97,neutral,0.17,0.63,0.2,139
+Ministerio de Salud,Ministro de Salud e intendente de Los Lagos coordinan acción regional frente a #COVID_19  https://t.co/MzGrrt6xik #PlanCoronavirus,neutral,0.04,0.94,0.02,130
+OPS/OMS,"RT @onucolombia: HOY, a las 3pm...
+
+""Resiliencia, ¿del realismo a la esperanza?"" #TintoConLaONU con @OPSOMS_Col... Conéctate a través de es…",positive,0.94,0.04,0.02,140
+OPS/OMS,"RT @OPSOMS_Col: Pastora Mira sufrió el asesinato de su padre, de su primer esposo y de dos de sus hijos. Pese al dolor, perdonó, reconstruy…",negative,0.01,0.01,0.98,140
+Ministerio de Salud,"RT @FACh_Chile: Tras arribar a 🇨🇱 el Boeing 767 que trajo ventiladores mecánicos desde #China, un ✈️ Boeing 737 #FACh trasladó hasta #Puert…",neutral,0.03,0.89,0.08,140
+Ministerio de Salud,RT @arturozunigaj: Ministro #Mañalich visitó a personas con covid que están en una de las más de 50 residencias sanitarias que tenemos habi…,neutral,0.05,0.88,0.07,140
+OPS/OMS,"RT @onucolombia: 📢 EN BREVE ¡Únete a nuestra conversación global interactiva con motivo de #LaFILBoEnCasa @FILBogota! #ONU75 #UN75
+
+""Resili…",neutral,0.12,0.74,0.14,140
+Ministerio de Salud,"RT @SSDelReloncavi: Director del @SSDelReloncavi Dr. @jortagle participó en visita del Ministro de Salud, Jaime Mañalich, y Subsecretario d…",neutral,0.03,0.95,0.02,140
+Ministerio de Salud,"Siguiendo estos pasos y con una polera, puedes elaborar tu propia mascarilla, en el caso que no cuentes con una.
+
+M… https://t.co/RLJXrv6Crq",neutral,0.08,0.87,0.05,140
+Instituto de Salud Pública de Chile,"Prefiere medicamentos #bioequivalentes. 
+
+El @ispch garantiza su calidad, seguridad y eficacia.
+
+#ExigeElAmarillo https://t.co/84DUQ0HsVT",neutral,0.15,0.83,0.02,137
+Ministerio de Salud,RT @arturozunigaj: Y esos ventiladores ya están  en el sur de nuestro país 😉 aumentando la capacidad de la #redAsistencial #COVID__19,neutral,0.02,0.96,0.02,133
+Ministerio de Salud,"RT @arturozunigaj: Insumos médicos: Existen 709 ventiladores mecánicos disponibles ""desde Arica a Magallanes"" #Emol https://t.co/VFShIqbgXX…",neutral,0.01,0.96,0.03,140
+Ministerio de Salud,[VIDEO] Ministro Jaime Mañalich encabeza entrega de ventiladores mecánicos en el Hospital Base de Osorno… https://t.co/Fv1cBz0tKX,neutral,0.02,0.96,0.02,129
