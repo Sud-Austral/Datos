@@ -1,5 +1,4 @@
 Entidad,Contenido,Sentimiento,Positivo,Neutral,Negativo,LargoTexto
-Super de Salud Chile,"RT @ministeriosalud: #EstamosJuntos desde el Paso Fronterizo de Pino Hachado, en la Región de La Araucanía, nos envían un caluroso saludo a…",neutral,0.18,0.61,0.21,140
 Colmed Chile,"Porque además de afectar nuestra salud, esta pandemia está generando problemas económicos para algunos, junto a nue… https://t.co/BzbgEknfPb",negative,0.0,0.01,0.99,140
 Super de Salud Chile,RT @ministeriosalud: Minsal envió más insumos a hospitales de la región de Los Lagos para enfrentar pandemia de coronavirus https://t.co/Tp…,negative,0.02,0.18,0.8,140
 Super de Salud Chile,"RT @ministeriosalud: Ministro Jaime Mañalich encabeza traslado de dos ventiladores a Osorno y destaca el ""éxito"" del combate al #COVID_19 e…",negative,0.09,0.37,0.54,140
@@ -26,7 +25,6 @@ Colmed Chile,"Nuestro Depto. de Políticas de Salud y Estudios, elaboró el 5º 
 Super de Salud Chile,"¿Sabes en qué lugares debes usar mascarilla, obligatoriamente? 🤔
 
 Conoce más sobre esta medida 👇, e infórmate siemp… https://t.co/PKOF5ZudEV",neutral,0.15,0.74,0.11,140
-Instituto de Salud Pública de Chile,"RT @ministeriosalud: Ministro Jaime Mañalich, subsec @arturozunigaj, Daniel Nuñez director @SSaludOsorno, @HarryJurgensen  intendente, @ser…",neutral,0.03,0.9,0.07,140
 Instituto de Salud Pública de Chile,"Conoce más sobre esta nueva medida en https://t.co/YdvmOlnhQ7 
 
  #CuidémonosEntreTodos https://t.co/wDHPCDbdUh",neutral,0.23,0.74,0.03,110
@@ -38,8 +36,6 @@ Super de Salud Chile,"RT @SSMaule: Con mucha esperanza, emoción y alegría, les
 Super de Salud Chile,"RT @ministeriosalud: Ministro Jaime Mañalich:
 
 ""La capacidad local (de Osorno) y d la región de Los Lagos en cuanto al tratamiento, las cif…",neutral,0.04,0.94,0.02,140
-Ministerio de Salud,RT @arturozunigaj: Subsecretario Zúñiga comprometió equipos para pacientes con Covid-19 para región de Los Lagos https://t.co/bz0fKKMcc5,neutral,0.02,0.95,0.03,136
-Ministerio de Salud,📺EN VIVO Osorno | Balance diaro #COVID_19 | Ministro Jaime Mañalich y subsec @arturozunigaj https://t.co/2Zwlz9vEVz,neutral,0.01,0.97,0.02,115
 Super de Salud Chile,RT @ministeriosalud: 📺EN VIVO Osorno | Balance diaro #COVID_19 | Ministro Jaime Mañalich y subsec @arturozunigaj https://t.co/2Zwlz9vEVz,neutral,0.02,0.94,0.04,136
 Instituto de Salud Pública de Chile,"RT @ministeriosalud: Ministro Jaime Mañalich:
 
@@ -49,19 +45,6 @@ Super de Salud Chile,"Reporte #Covid_19 por parte del Ministerio de Salud:
 🔹18.435 casos totales
 🔹1.427 casos nuevos totales
 🔹1.246 sinto… https://t.co/vP4Hri1vLz",neutral,0.03,0.85,0.12,140
-Ministerio de Salud,"Ministro Jaime Mañalich | Balance diario #COVID_19
-
-🔹 1.427 casos nuevos 
-🔹 18.435 casos totales
-🔹 181 casos asinto… https://t.co/f51MASjNQT",neutral,0.01,0.96,0.03,140
-Ministerio de Salud,"Subsec @arturozunigaj | Red Asistencial #COVID_19
-
-🔹 425 hospitalizados 
-🔹 324 con ventilación mecánica
-🔹 62 pacien… https://t.co/xAI9JPgz1L",neutral,0.0,0.96,0.04,140
-Ministerio de Salud,"Subsec @arturozunigaj:
-
-""Hemos habilitado un mayor número de camas, de acuerdo a la estrategia que hemos iniciado c… https://t.co/g9Zgx5Zn3f",neutral,0.04,0.82,0.14,140
 Instituto de Salud Pública de Chile,"RT @ministeriosalud: Ministro Jaime Mañalich | Balance diario #COVID_19
 
 🔹 1.427 casos nuevos 
@@ -75,19 +58,12 @@ Instituto de Salud Pública de Chile,"RT @ministeriosalud: Subsec @arturozunigaj
 Instituto de Salud Pública de Chile,"RT @ministeriosalud: Subsec @arturozunigaj:
 
 ""Hemos habilitado un mayor número de camas, de acuerdo a la estrategia que hemos iniciado con…",neutral,0.05,0.72,0.23,139
-Ministerio de Salud,"Ministro Jaime Mañalich:
-
-""Está disponible en el sitio web del Minsal (https://t.co/cBajAgumFg) el informe de epide… https://t.co/uJZSP627GT",neutral,0.01,0.91,0.08,140
-Ministerio de Salud,"""Se ha comprado un hospital modular y llegará durante la próxima semana y enfatizo que toda persona que requiera un… https://t.co/DNDfRV51dl",neutral,0.07,0.48,0.45,140
 Instituto de Salud Pública de Chile,"El uso correcto de la mascarilla es clave para proteger tu salud y la de los demás. 
 
 #CuidémonosEntreTodos
 
 Conoce… https://t.co/o4BqQs75NH",positive,0.95,0.04,0.01,140
 Colmed Chile,[#ReporteDiario] Conoce el balance diario de #Covid19 en nuestro país. Recordamos que estos datos son los entregado… https://t.co/g94d1W8tEw,positive,0.51,0.47,0.02,140
-Ministerio de Salud,"[Actualización] Ministerio de Salud informa 18.435 casos confirmados de #COVID_19 en Chile.
-
-Revisa el detalle comp… https://t.co/vO8rZrVDob",neutral,0.03,0.89,0.08,140
 Colmed Chile,"RT @ColmedOsorno: Siguen sumándose nuevos casos de #Covid19 en la región. Evite salir de su hogar, sigamos con el lavado de manos y uso de…",negative,0.02,0.25,0.73,139
 Colmed Chile,RT @Sochepi: Desde Sochepi manifestamos que los 1.427 casos nuevos reportados al día de hoy nos confirman que la curva de casos sigue en au…,neutral,0.06,0.75,0.19,140
 Colmed Chile,"RT @Colmedchillan: El #COVID19 es un virus sobre el que se está investigando con celeridad. Por ello, la gran herramienta son las medidas d…",mixed,0.29,0.24,0.47,140
@@ -102,3 +78,19 @@ Colmed Chile,Como #Colmed agradecemos la campaña #AntiparrasParaDocs que busca 
 Colmed Chile,"RT @esp_uchile: Con el aumento testeo en un 3%, los casos positivos informados las últimas 24 horas llegan a 1427, de un total de casi 10 m…",neutral,0.27,0.61,0.12,140
 Ministerio de Salud,"RT @T13: Conversamos con María Teresa Valenzuela, miembro del Comité Asesor del Minsal sobre cómo se debe enfrentar el COVID-19 en los próx…",neutral,0.02,0.86,0.12,140
 Ministerio de Salud,"Ministro Jaime Mañalich visita Centro Comunitario de Rahue Bajo, que está habilitado como Residencia Sanitaria, lug… https://t.co/IBrTpkXlhT",neutral,0.02,0.96,0.02,140
+Ministerio de Salud,Autoridades de salud visitan a pacientes hospitalizados por #COVID_19  https://t.co/vyVngCAiZn #PlanCoronavirus,neutral,0.24,0.52,0.24,111
+Ministerio de Salud,Este centro tiene capacidad para atender a 16 personas y cuenta con un equipo multidisciplinario que incluye enferm… https://t.co/9HCVhxfO2j,neutral,0.01,0.98,0.01,140
+Ministerio de Salud,"AHORA | Puerto Montt 
+
+Subsec @arturozunigaj se reúne con representantes de los gremios de la salud de la región de… https://t.co/0TpyCMjEdC",neutral,0.01,0.9,0.09,140
+Instituto de Salud Pública de Chile,"Es obligatorio el uso de mascarillas en medios de transporte públicos y privados remunerados.
+
+Si no cuentas con un… https://t.co/qCn4qMSx4A",neutral,0.06,0.84,0.1,140
+Ministerio de Salud,RT @pdazan: Los cuidados para tomar en casa cuando hay una persona diagnosticada con #Covid_19 https://t.co/2wwA3xOguq,positive,0.72,0.11,0.17,118
+Ministerio de Salud,Subsecretario de Redes Asistenciales @arturozunigaj por #COVID_19: “La experiencia en Osorno sirve para replicarla… https://t.co/h2R5YynMrA,neutral,0.12,0.78,0.1,139
+Super de Salud Chile,"Súmate a #YoSirvoAMiPaísEnLaEmergencia y #CuidémonosEntreTodos 
+
+Si eres profesional o técnico de salud, y quieres… https://t.co/SDO9DljXMJ",positive,0.59,0.13,0.28,139
+Ministerio de Salud,Último reporte informa de 1.427 casos nuevos confirmados con #COVID_19  https://t.co/rpiwWCJ9my #PlanCoronavirus,neutral,0.02,0.82,0.16,112
+Ministerio de Salud,"Ministro Jaime Mañalich destacó baja de contagios por #COVID-19 en Osorno: ""Las cosas se han manejado bien""… https://t.co/ZxVK9XKOfY",positive,0.64,0.15,0.21,132
+Ministerio de Salud,RT @arturozunigaj: Gracias a los dirigentes gremios de #salud por este espacio de retroalimentación 🔽,positive,0.95,0.01,0.04,101
