@@ -1,5 +1,4 @@
 Entidad,Contenido,Sentimiento,Positivo,Neutral,Negativo,LargoTexto
-Super de Salud Chile,"RT @ministeriosalud: Ministro Jaime Mañalich encabeza traslado de dos ventiladores a Osorno y destaca el ""éxito"" del combate al #COVID_19 e…",negative,0.09,0.37,0.54,140
 Super de Salud Chile,"RT @ministeriosalud: En la edición de hoy de El Llanquihue, se destaca la entrega de Elementos de Protección Personal y ventiladores mecáni…",neutral,0.1,0.87,0.03,140
 OPS/OMS,"RT @OPASOMSBrasil: Por medo ou estigma, é possível que familiares de profissionais de saúde da linha de frente da pandemia prefiram manter…",negative,0.02,0.1,0.88,139
 OPS/OMS,"RT @OPSOMS_Honduras: ¿#Sabíasque 43 países de las Américas 🌎 incluyen la vacuna contra el #VPH como parte de la inmunización de rutina?
@@ -23,7 +22,6 @@ Super de Salud Chile,"RT @ministeriosalud: Ministro Jaime Mañalich:
 
 ""La capacidad local (de Osorno) y d la región de Los Lagos en cuanto al tratamiento, las cif…",neutral,0.04,0.94,0.02,140
 Super de Salud Chile,RT @ministeriosalud: 📺EN VIVO Osorno | Balance diaro #COVID_19 | Ministro Jaime Mañalich y subsec @arturozunigaj https://t.co/2Zwlz9vEVz,neutral,0.02,0.94,0.04,136
-Instituto de Salud Pública de Chile,RT @ministeriosalud: 📺EN VIVO Osorno | Balance diaro #COVID_19 | Ministro Jaime Mañalich y subsec @arturozunigaj https://t.co/2Zwlz9vEVz,neutral,0.02,0.94,0.04,136
 Super de Salud Chile,"Reporte #Covid_19 por parte del Ministerio de Salud:
 🔹18.435 casos totales
 🔹1.427 casos nuevos totales
@@ -81,10 +79,6 @@ Instituto de Salud Pública de Chile,"Prefiere medicamentos #bioequivalentes.
 El @ispch garantiza su calidad, seguridad y eficacia.
 
 #ExigeElAmarillo https://t.co/84DUQ0HsVT",neutral,0.15,0.83,0.02,137
-Ministerio de Salud,RT @arturozunigaj: Y esos ventiladores ya están  en el sur de nuestro país 😉 aumentando la capacidad de la #redAsistencial #COVID__19,neutral,0.02,0.96,0.02,133
-Ministerio de Salud,"RT @arturozunigaj: Insumos médicos: Existen 709 ventiladores mecánicos disponibles ""desde Arica a Magallanes"" #Emol https://t.co/VFShIqbgXX…",neutral,0.01,0.96,0.03,140
-Ministerio de Salud,[VIDEO] Ministro Jaime Mañalich encabeza entrega de ventiladores mecánicos en el Hospital Base de Osorno… https://t.co/Fv1cBz0tKX,neutral,0.02,0.96,0.02,129
-Ministerio de Salud,Osorno: Personas en situación de calle positivas para #COVID_19 reciben visita del ministro de Salud… https://t.co/lgLSsYfxXj,positive,0.53,0.37,0.1,125
 Ministerio de Salud,Minsal visita la región de Los Lagos y hace entrega de dos ventiladores mecánicos al Hospital Base de Osorno… https://t.co/ffgrfyQrGj,neutral,0.08,0.89,0.03,133
 Ministerio de Salud,"RT @SSaludOsorno: #Osorno El Ministro de Salud, Jaime Mañalich, también visitó la residencia sanitaria recién hablitada por el @SSaludOsorn…",neutral,0.16,0.71,0.13,140
 Super de Salud Chile,RT @ministeriosalud: Osorno: Personas en situación de calle positivas para #COVID_19 reciben visita del ministro de Salud https://t.co/yEij…,positive,0.55,0.32,0.13,140
@@ -99,3 +93,12 @@ Colmed Chile,RT @izkia: Los aumentos de casos nuevos COVID19 son preocupantes. L
 Ministerio de Salud,"RT @Senda_Tarapaca: @DirectorSenda, Claudio Jiménez, junto a otras autoridades regionales acompañaron a  @CarabTarapaca en uno de los contr…",neutral,0.1,0.68,0.22,140
 Ministerio de Salud,"RT @gobosorno: #Osorno. Tras reunión para abordar situación local, Ministro de Salud Jaime Mañalich, Intendente @HarryJurgensen, Gobernador…",neutral,0.08,0.82,0.1,140
 Ministerio de Salud,RT @seremisalud10: En su visita a la comuna de #Osorno el Ministro Jaime Mañalich junto a autoridades regionales realizaron un recorrido a…,neutral,0.16,0.73,0.11,139
+Ministerio de Salud,"Recuerda que en la Región Metropolitana y en el Gran Concepción, está vigente la medida de Cordones Sanitarios hast… https://t.co/46qehTknuP",positive,0.72,0.25,0.03,140
+Instituto de Salud Pública de Chile,"Si estás en aislamiento domiciliario, es muy importante mantener las medidas de prevención en el hogar.
+
+- Lávate l… https://t.co/YV698E27Rf",neutral,0.07,0.87,0.06,140
+Super de Salud Chile,"Cada vez que salgas a la calle conserva siempre, mínimo, un metro de distancia con los demás
+🚶‍♂️|----1mt-----|🚶‍♀️… https://t.co/kAS6rFparo",neutral,0.21,0.68,0.11,140
+Ministerio de Salud,RT @seremisalud10: Ministro Mañalich destacó la baja de contagios en la ciudad de Osorno https://t.co/jQewzfpjXg,neutral,0.11,0.66,0.23,112
+Ministerio de Salud,"RT @HarryJurgensen: Recibimos en el Hospital Base de Osorno al Ministro de Salud, Jaime Mañalich y Subsecretario @arturozunigaj, para recor…",neutral,0.08,0.81,0.11,140
+Ministerio de Salud,RT @AgriculturaFM: Ministro Mañalich visita a pacientes contagiados de COVID-19 en situación de calle en Osorno https://t.co/dyNfo8ayyN,neutral,0.03,0.94,0.03,135
