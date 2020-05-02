@@ -1,13 +1,5 @@
 Entidad,Contenido,Sentimiento,Positivo,Neutral,Negativo,LargoTexto
-Colmed Chile,RT @Colmedchillan: La emergencia por el #COVID19 requiere que hagamos de la #Prevención parte de nuestra vida cotidiana. Recuerda no genera…,neutral,0.19,0.59,0.22,140
-Colmed Chile,"Desde el #Colmed apoyamos la campaña de donación de sangre, ya que el contexto de la pandemia, los donantes de sang… https://t.co/7UDmHk9lVx",negative,0.03,0.06,0.91,140
-Colmed Chile,"Invitamos a niñ@s de 4 a 14 años a participar en el concurso de dibujo #PintandoLaSalud, organizado junto a… https://t.co/XVMukospuR",neutral,0.09,0.79,0.12,132
-Colmed Chile,"RT @ColMedSantiago: [Atención Remota] ¿Tienes alguna duda sobre tu colegiatura? 🤔
-Ingresa a nuestro sitio web y contacta a nuestros ejecuti…",negative,0.04,0.26,0.7,140
-Colmed Chile,"RT @colmedantofa: Reporte Oficial de Covid-19 del 1 de mayo de 2020, Región de Antofagasta, informado hoy por las autoridades de la zona. h…",neutral,0.05,0.87,0.08,140
-Colmed Chile,[#ResumenSemanal] Gremio analiza proyecto sobre uso de leña en Comisión de Medio Ambiente de la Cámara Baja. Todos… https://t.co/sk2csxNHXl,neutral,0.17,0.73,0.1,139
 Super de Salud Chile,"RT @ministeriosalud: #EstamosJuntos desde el Paso Fronterizo de Pino Hachado, en la Región de La Araucanía, nos envían un caluroso saludo a…",neutral,0.18,0.61,0.21,140
-Colmed Chile,"RT @carlopezo: Un cordial Saludo a los trabajadores y trabajadoras de #Atacama en el #Diadelostrabajadores. En especial a los de Salud, en…",positive,0.75,0.2,0.05,139
 Colmed Chile,"Porque además de afectar nuestra salud, esta pandemia está generando problemas económicos para algunos, junto a nue… https://t.co/BzbgEknfPb",negative,0.0,0.01,0.99,140
 Super de Salud Chile,RT @ministeriosalud: Minsal envió más insumos a hospitales de la región de Los Lagos para enfrentar pandemia de coronavirus https://t.co/Tp…,negative,0.02,0.18,0.8,140
 Super de Salud Chile,"RT @ministeriosalud: Ministro Jaime Mañalich encabeza traslado de dos ventiladores a Osorno y destaca el ""éxito"" del combate al #COVID_19 e…",negative,0.09,0.37,0.54,140
@@ -34,7 +26,6 @@ Colmed Chile,"Nuestro Depto. de Políticas de Salud y Estudios, elaboró el 5º 
 Super de Salud Chile,"¿Sabes en qué lugares debes usar mascarilla, obligatoriamente? 🤔
 
 Conoce más sobre esta medida 👇, e infórmate siemp… https://t.co/PKOF5ZudEV",neutral,0.15,0.74,0.11,140
-Instituto de Salud Pública de Chile,RT @arturozunigaj: Con pacientes recuperados #COVID__19 en #HospitalOsorno 🙌 con los equipos humanos detrás de esas luchas  #regióndelosLag…,negative,0.02,0.01,0.97,140
 Instituto de Salud Pública de Chile,"RT @ministeriosalud: Ministro Jaime Mañalich, subsec @arturozunigaj, Daniel Nuñez director @SSaludOsorno, @HarryJurgensen  intendente, @ser…",neutral,0.03,0.9,0.07,140
 Instituto de Salud Pública de Chile,"Conoce más sobre esta nueva medida en https://t.co/YdvmOlnhQ7 
 
@@ -43,12 +34,7 @@ Super de Salud Chile,"RT @ministeriosalud: Balance diario de #COVID_19 en Chile 
 
  https://t.co/vosfRkOGmW #PlanCoronavirus",neutral,0.02,0.93,0.05,126
 Instituto de Salud Pública de Chile,RT @arturozunigaj: Analizando situación local de la #pandemia #COVID__19 #osorno #LosLagos,negative,0.01,0.15,0.84,90
-Ministerio de Salud,[Minuto a minuto] Minsal entrega ventiladores mecánicos y equipamiento a Hospital de Osorno https://t.co/YQYWGHAdNU,neutral,0.02,0.96,0.02,115
-Ministerio de Salud,"RT @SSMaule: Con mucha esperanza, emoción y alegría, les contamos que hoy fue dado de alta Don Juan, oriundo de la comuna de Pelluhue, quie…",positive,0.99,0.0,0.01,140
 Super de Salud Chile,"RT @SSMaule: Con mucha esperanza, emoción y alegría, les contamos que hoy fue dado de alta Don Juan, oriundo de la comuna de Pelluhue, quie…",positive,0.99,0.0,0.01,140
-Ministerio de Salud,"Ministro Jaime Mañalich:
-
-""La capacidad local (de Osorno) y d la región de Los Lagos en cuanto al tratamiento, las… https://t.co/eIsXTTVkvk",neutral,0.05,0.91,0.04,139
 Super de Salud Chile,"RT @ministeriosalud: Ministro Jaime Mañalich:
 
 ""La capacidad local (de Osorno) y d la región de Los Lagos en cuanto al tratamiento, las cif…",neutral,0.04,0.94,0.02,140
@@ -98,3 +84,21 @@ Instituto de Salud Pública de Chile,"El uso correcto de la mascarilla es clave 
 #CuidémonosEntreTodos
 
 Conoce… https://t.co/o4BqQs75NH",positive,0.95,0.04,0.01,140
+Colmed Chile,[#ReporteDiario] Conoce el balance diario de #Covid19 en nuestro país. Recordamos que estos datos son los entregado… https://t.co/g94d1W8tEw,positive,0.51,0.47,0.02,140
+Ministerio de Salud,"[Actualización] Ministerio de Salud informa 18.435 casos confirmados de #COVID_19 en Chile.
+
+Revisa el detalle comp… https://t.co/vO8rZrVDob",neutral,0.03,0.89,0.08,140
+Colmed Chile,"RT @ColmedOsorno: Siguen sumándose nuevos casos de #Covid19 en la región. Evite salir de su hogar, sigamos con el lavado de manos y uso de…",negative,0.02,0.25,0.73,139
+Colmed Chile,RT @Sochepi: Desde Sochepi manifestamos que los 1.427 casos nuevos reportados al día de hoy nos confirman que la curva de casos sigue en au…,neutral,0.06,0.75,0.19,140
+Colmed Chile,"RT @Colmedchillan: El #COVID19 es un virus sobre el que se está investigando con celeridad. Por ello, la gran herramienta son las medidas d…",mixed,0.29,0.24,0.47,140
+Colmed Chile,"RT @ColMedSantiago: [ATENTOS] Recuerden que tenemos este beneficio gracias a @MobikeCL 🚲🚲
+Envíanos un DM o ingresen a este link donde podrá…",positive,0.98,0.01,0.01,140
+Instituto de Salud Pública de Chile,"Fabrica tu propia mascarilla con una bandana.
+
+#CuidémonosEntreTodos
+
+Más info en: https://t.co/YdvmOlnhQ7 https://t.co/jqYWWYFLDn",neutral,0.09,0.82,0.09,130
+Colmed Chile,Como #Colmed agradecemos la campaña #AntiparrasParaDocs que busca reunir antiparras deportivas para donar al person… https://t.co/CpVGZWQpaY,positive,0.96,0.01,0.03,140
+Colmed Chile,"RT @esp_uchile: Con el aumento testeo en un 3%, los casos positivos informados las últimas 24 horas llegan a 1427, de un total de casi 10 m…",neutral,0.27,0.61,0.12,140
+Ministerio de Salud,"RT @T13: Conversamos con María Teresa Valenzuela, miembro del Comité Asesor del Minsal sobre cómo se debe enfrentar el COVID-19 en los próx…",neutral,0.02,0.86,0.12,140
+Ministerio de Salud,"Ministro Jaime Mañalich visita Centro Comunitario de Rahue Bajo, que está habilitado como Residencia Sanitaria, lug… https://t.co/IBrTpkXlhT",neutral,0.02,0.96,0.02,140
