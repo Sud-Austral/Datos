@@ -1,5 +1,4 @@
 Entidad,Contenido,Sentimiento,Positivo,Neutral,Negativo,LargoTexto
-Super de Salud Chile,"RT @ministeriosalud: En la edición de hoy de El Llanquihue, se destaca la entrega de Elementos de Protección Personal y ventiladores mecáni…",neutral,0.1,0.87,0.03,140
 OPS/OMS,"RT @OPASOMSBrasil: Por medo ou estigma, é possível que familiares de profissionais de saúde da linha de frente da pandemia prefiram manter…",negative,0.02,0.1,0.88,139
 OPS/OMS,"RT @OPSOMS_Honduras: ¿#Sabíasque 43 países de las Américas 🌎 incluyen la vacuna contra el #VPH como parte de la inmunización de rutina?
 
@@ -26,7 +25,6 @@ Super de Salud Chile,"Reporte #Covid_19 por parte del Ministerio de Salud:
 🔹18.435 casos totales
 🔹1.427 casos nuevos totales
 🔹1.246 sinto… https://t.co/vP4Hri1vLz",neutral,0.03,0.85,0.12,140
-Colmed Chile,"RT @Colmedchillan: El #COVID19 es un virus sobre el que se está investigando con celeridad. Por ello, la gran herramienta son las medidas d…",mixed,0.29,0.24,0.47,140
 Colmed Chile,"RT @ColMedSantiago: [ATENTOS] Recuerden que tenemos este beneficio gracias a @MobikeCL 🚲🚲
 Envíanos un DM o ingresen a este link donde podrá…",positive,0.98,0.01,0.01,140
 Colmed Chile,Como #Colmed agradecemos la campaña #AntiparrasParaDocs que busca reunir antiparras deportivas para donar al person… https://t.co/CpVGZWQpaY,positive,0.96,0.01,0.03,140
@@ -42,11 +40,6 @@ OPS/OMS,"RT @OPSOMS_Col: Pastora Mira sufrió el asesinato de su padre, de su pr
 OPS/OMS,"RT @onucolombia: 📢 EN BREVE ¡Únete a nuestra conversación global interactiva con motivo de #LaFILBoEnCasa @FILBogota! #ONU75 #UN75
 
 ""Resili…",neutral,0.12,0.74,0.14,140
-Instituto de Salud Pública de Chile,"Prefiere medicamentos #bioequivalentes. 
-
-El @ispch garantiza su calidad, seguridad y eficacia.
-
-#ExigeElAmarillo https://t.co/84DUQ0HsVT",neutral,0.15,0.83,0.02,137
 Super de Salud Chile,RT @ministeriosalud: Osorno: Personas en situación de calle positivas para #COVID_19 reciben visita del ministro de Salud https://t.co/yEij…,positive,0.55,0.32,0.13,140
 Colmed Chile,"¿Vives en un edificio, condominio o villa? ¿Quieres donar y no tienes cómo ir? Sólo necesitas reunir a un mínimo de… https://t.co/65nfyPww4N",neutral,0.1,0.79,0.11,140
 Instituto de Salud Pública de Chile,"Donar sangre es donar vida.
@@ -68,12 +61,9 @@ Instituto de Salud Pública de Chile,"Protégete contra el nuevo Coronavirus COV
 
 Entérate más sobre cómo prevenirlo en: https://t.co/YdvmOl5Grx… https://t.co/ty3jF5xWsv",neutral,0.08,0.78,0.14,136
 Colmed Chile,"¡Atención! Recuerda completar nuestro catastro de Elementos para Protección Personal, ya que se va actualizando sem… https://t.co/EeCOXgGoGM",neutral,0.14,0.78,0.08,140
-Ministerio de Salud,"Ahora en @meganoticiascl se emite la noticia sobre la entrega de Elementos de Protección Personal, insumos y ventil… https://t.co/Jzyn4Ocjmt",neutral,0.04,0.78,0.18,140
-Ministerio de Salud,"RT @HECMaipu: #JuntosHacemosHEC|| Nuevamente un paciente diagnosticado con #Coronavirus sale de la Unidad de Pacientes Críticos, en medio d…",negative,0.04,0.15,0.81,140
 Instituto de Salud Pública de Chile,"#CuidémonosEntreTodos y sigue estos consejos para prevenir contagios de #COVID_19. 
 
 Visita https://t.co/YdvmOl5Grx… https://t.co/whZ78g7Wya",neutral,0.12,0.63,0.25,140
-Ministerio de Salud,Ministro Jaime Mañalich destacó la baja de contagios en la ciudad de Osorno https://t.co/7wPOZBKAiQ,neutral,0.1,0.73,0.17,99
 Ministerio de Salud,"Además de entregar ventiladores mecánicos y elementos de protección personal al Hospital de Osorno, @meganoticiascl… https://t.co/WsVbD55Sth",neutral,0.06,0.83,0.11,140
 Instituto de Salud Pública de Chile,"Donar sangre es donar vida.
 
@@ -94,3 +84,12 @@ El @ispch garantiza su calidad, seguridad y eficacia.
 
 #ExigeElAmarillo https://t.co/o7o8w3bn0x",neutral,0.15,0.83,0.02,137
 Ministerio de Salud,"RT @SSaludOsorno: #BuenDomingo Diario Austral de #Osorno da cuenta de la visita a la ciudad del Ministro de Salud, Jaime Mañalich, quien de…",positive,0.97,0.02,0.01,140
+Ministerio de Salud,RT @pdazan: Hoy en @lacuarta hablamos de la guía de Bienestar Emocional durante la cuarentena. https://t.co/s5HZ0dOrhg,neutral,0.12,0.73,0.15,118
+Instituto de Salud Pública de Chile,"Es obligatorio el uso de mascarillas en medios de transporte públicos y privados remunerados.
+
+Si no cuentas con un… https://t.co/zU8lZtZYPf",neutral,0.06,0.84,0.1,140
+Ministerio de Salud,"Tanto en el Gran Concepción y la Región Metropolitana, está vigente la medida de Cordones Sanitarios hasta las 22:0… https://t.co/I4mAGtJT39",positive,0.61,0.33,0.06,140
+Ministerio de Salud,"RT @arturozunigaj: El paciente estuvo en ventilación por 20 días!! Y ahora, recuperándose, agradece todo el cuidado que le entregaron en el…",positive,0.62,0.04,0.34,140
+Colmed Chile,Los invitamos a una Ronda de Conversatorios virtuales: Desafíos de la interculturalidad en contextos de crisis sani… https://t.co/1neHzQdRXJ,negative,0.01,0.05,0.94,140
+Super de Salud Chile,"Pon atención al siguiente video, y no olvides que no se trata sólo de ti.
+Cumple con tu aislamiento, sigue los cons… https://t.co/kI1JmUgHbO",neutral,0.11,0.74,0.15,140
