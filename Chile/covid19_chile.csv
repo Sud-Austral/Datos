@@ -28393,30 +28393,30 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 28392,03-05-2020,4.0,Chile,Coquimbo,Masculino,58.0,,Vicuña,,,Confirmado,-29.8918931309,-70.3814578309
 28393,03-05-2020,4.0,Chile,Coquimbo,Masculino,24.0,,Andacollo,,,Confirmado,-30.2594312428,-71.1006377659
 28394,03-05-2020,4.0,Chile,Coquimbo,Masculino,76.0,,Andacollo,,,Confirmado,-30.2594312428,-71.1006377659
-28395,03-05-2020,5.0,Chile,Valparaíso,Masculino,,,,,,Confirmado,-32.4993565791,-70.8915740187
-28396,03-05-2020,5.0,Chile,Valparaíso,Masculino,,,,,,Confirmado,-32.4993565791,-70.8915740187
-28397,03-05-2020,5.0,Chile,Valparaíso,Femenino,,,,,,Confirmado,-32.4993565791,-70.8915740187
-28398,03-05-2020,5.0,Chile,Valparaíso,Femenino,,,,,,Confirmado,-32.4993565791,-70.8915740187
-28399,03-05-2020,5.0,Chile,Valparaíso,Femenino,,,,,,Confirmado,-32.4993565791,-70.8915740187
-28400,03-05-2020,5.0,Chile,Valparaíso,Femenino,,,,,,Confirmado,-32.4993565791,-70.8915740187
-28401,03-05-2020,5.0,Chile,Valparaíso,Femenino,,,,,,Confirmado,-32.4993565791,-70.8915740187
-28402,03-05-2020,5.0,Chile,Valparaíso,Femenino,,,,,,Confirmado,-32.4993565791,-70.8915740187
-28403,03-05-2020,5.0,Chile,Valparaíso,Femenino,,,,,,Confirmado,-32.4993565791,-70.8915740187
-28404,03-05-2020,5.0,Chile,Valparaíso,Femenino,,,,,,Confirmado,-32.4993565791,-70.8915740187
-28405,03-05-2020,5.0,Chile,Valparaíso,Femenino,,,,,,Confirmado,-32.4993565791,-70.8915740187
-28406,03-05-2020,5.0,Chile,Valparaíso,Femenino,,,,,,Confirmado,-32.4993565791,-70.8915740187
-28407,03-05-2020,5.0,Chile,Valparaíso,Masculino,,,,,,Confirmado,-32.4993565791,-70.8915740187
-28408,03-05-2020,5.0,Chile,Valparaíso,Masculino,,,,,,Confirmado,-32.4993565791,-70.8915740187
-28409,03-05-2020,5.0,Chile,Valparaíso,Masculino,,,,,,Confirmado,-32.4993565791,-70.8915740187
-28410,03-05-2020,5.0,Chile,Valparaíso,Femenino,,,,,,Confirmado,-32.4993565791,-70.8915740187
-28411,03-05-2020,5.0,Chile,Valparaíso,Masculino,,,,,,Confirmado,-32.4993565791,-70.8915740187
-28412,03-05-2020,5.0,Chile,Valparaíso,Femenino,,,,,,Confirmado,-32.4993565791,-70.8915740187
-28413,03-05-2020,5.0,Chile,Valparaíso,Masculino,,,,,,Confirmado,-32.4993565791,-70.8915740187
-28414,03-05-2020,5.0,Chile,Valparaíso,Masculino,,,,,,Confirmado,-32.4993565791,-70.8915740187
-28415,03-05-2020,5.0,Chile,Valparaíso,Masculino,,,,,,Confirmado,-32.4993565791,-70.8915740187
-28416,03-05-2020,5.0,Chile,Valparaíso,Femenino,,,,,,Confirmado,-32.4993565791,-70.8915740187
-28417,03-05-2020,5.0,Chile,Valparaíso,Femenino,,,,,,Confirmado,-32.4993565791,-70.8915740187
-28418,03-05-2020,5.0,Chile,Valparaíso,Masculino,,,,,,Confirmado,-32.4993565791,-70.8915740187
+28395,03-05-2020,5.0,Chile,Valparaíso,Masculino,53.0,CESFAM Catemu ,Catemu,,,Confirmado,-32.7073168664,-70.9446388023
+28396,03-05-2020,5.0,Chile,Valparaíso,Masculino,32.0,Hospital San Martin de Quillota ,La Cruz,,,Confirmado,-32.8253212446,-71.2404787004
+28397,03-05-2020,5.0,Chile,Valparaíso,Femenino,38.0,Hospital  Claudio Vicuña,Melipilla,,,Confirmado,-33.7437525386,-71.1936904819
+28398,03-05-2020,5.0,Chile,Valparaíso,Femenino,50.0,CESFAM El Tabo,Quinta Normal,,,Confirmado,-33.4278344665,-70.7013745412
+28399,03-05-2020,5.0,Chile,Valparaíso,Femenino,28.0,Hospital Carlos Van Buren ,San Antonio,,,Confirmado,-33.6671475155,-71.4869305281
+28400,03-05-2020,5.0,Chile,Valparaíso,Femenino,90.0,CEFSAM San Antonio,San Antonio,,,Confirmado,-33.6671475155,-71.4869305281
+28401,03-05-2020,5.0,Chile,Valparaíso,Femenino,28.0,Hospital Carlos Van Buren ,San Antonio,,,Confirmado,-33.6671475155,-71.4869305281
+28402,03-05-2020,5.0,Chile,Valparaíso,Femenino,55.0,Hospital Claudio Vicuña,San Antonio,,,Confirmado,-33.6671475155,-71.4869305281
+28403,03-05-2020,5.0,Chile,Valparaíso,Femenino,52.0,Hospital Claudio Vicuña,San Antonio,,,Confirmado,-33.6671475155,-71.4869305281
+28404,03-05-2020,5.0,Chile,Valparaíso,Femenino,34.0,Hospital Claudio Vicuña,San Antonio,,,Confirmado,-33.6671475155,-71.4869305281
+28405,03-05-2020,5.0,Chile,Valparaíso,Femenino,28.0,Hospital Claudio Vicuña,San Antonio,,,Confirmado,-33.6671475155,-71.4869305281
+28406,03-05-2020,5.0,Chile,Valparaíso,Femenino,33.0,Hospital Claudio Vicuña,San Antonio,,,Confirmado,-33.6671475155,-71.4869305281
+28407,03-05-2020,5.0,Chile,Valparaíso,Masculino,53.0,CESFAM Santa María,Santa María,,,Confirmado,-32.6860179782,-70.6097026593
+28408,03-05-2020,5.0,Chile,Valparaíso,Masculino,52.0,Hospital  Claudio Vicuña,Santo Domingo ,,,Confirmado,-32.4993565791,-70.8915740187
+28409,03-05-2020,5.0,Chile,Valparaíso,Masculino,22.0,Hospital Carlos Van Buren ,Valparaíso,,,Confirmado,-32.9978836561,-71.7533398553
+28410,03-05-2020,5.0,Chile,Valparaíso,Femenino,27.0,Hospital Carlos Van Buren ,Valparaíso,,,Confirmado,-32.9978836561,-71.7533398553
+28411,03-05-2020,5.0,Chile,Valparaíso,Masculino,56.0,Hospital Carlos Van Buren ,Valparaíso,,,Confirmado,-32.9978836561,-71.7533398553
+28412,03-05-2020,5.0,Chile,Valparaíso,Femenino,54.0,Hospital Eduardo Pereira,Valparaíso,,,Confirmado,-32.9978836561,-71.7533398553
+28413,03-05-2020,5.0,Chile,Valparaíso,Masculino,39.0,Hospital Naval Almirante NEF,Villa Alemana,,,Confirmado,-33.0675667576,-71.330163502
+28414,03-05-2020,5.0,Chile,Valparaíso,Masculino,55.0,,Viña del Mar,,,Confirmado,-33.0288002963,-71.5154312157
+28415,03-05-2020,5.0,Chile,Valparaíso,Masculino,45.0,Clinica Ciudad del Mar,Viña del Mar,,,Confirmado,-33.0288002963,-71.5154312157
+28416,03-05-2020,5.0,Chile,Valparaíso,Femenino,34.0,Hospital Carlos Van Buren ,Viña del Mar,,,Confirmado,-33.0288002963,-71.5154312157
+28417,03-05-2020,5.0,Chile,Valparaíso,Femenino,26.0,CMD RED Salud Viña del Mar,Viña del Mar,,,Confirmado,-33.0288002963,-71.5154312157
+28418,03-05-2020,5.0,Chile,Valparaíso,Masculino,43.0,Hospiatl Gustavo Fricke,Viña del Mar,,,Confirmado,-33.0288002963,-71.5154312157
 28419,03-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
 28420,03-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
 28421,03-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
