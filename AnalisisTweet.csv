@@ -1,43 +1,18 @@
 Entidad,Contenido,Sentimiento,Positivo,Neutral,Negativo,LargoTexto
-OPS/OMS,"RT @OPASOMSBrasil: Por medo ou estigma, é possível que familiares de profissionais de saúde da linha de frente da pandemia prefiram manter…",negative,0.02,0.1,0.88,139
-OPS/OMS,"RT @OPSOMS_Honduras: ¿#Sabíasque 43 países de las Américas 🌎 incluyen la vacuna contra el #VPH como parte de la inmunización de rutina?
-
- #…",neutral,0.05,0.78,0.17,140
-OPS/OMS,"RT @opsomsels: 👩🏾👱🏻‍♂️🧑🏽🧒🏼👨‍🦱👩🏼‍🦰                                        La situación de la #COVID19 es un momento estresante para todos, i…",negative,0.04,0.07,0.89,140
-OPS/OMS,"RT @OPSECU: OPS/OMS dona equipos para la producción de hipoclorito de sodio al hospital general de Machala. 🏥🦠
-
-➕Información en el siguient…",neutral,0.02,0.96,0.02,140
-OPS/OMS,"RT @OPSOMS_Col: Los invitamos a conocer la historia de la enfermera de El Bagre, María Inés Lozano, quien nos acompañará en la charla Resil…",neutral,0.25,0.68,0.07,140
-OPS/OMS,RT @opsomsnic: Recuerde que debemos cuidar nuestros adultos mayores o familiares con enfermedades crónicas del #coronavirus https://t.co/uC…,positive,0.97,0.01,0.02,140
-OPS/OMS,RT @OPSOMS_Col: ¿Es la resiliencia el camino del realismo a la esperanza? No te pierdas nuestra charla en el marco de la ONU en #FILBoEnCas…,positive,0.69,0.14,0.17,140
-OPS/OMS,"RT @onucolombia: HOY, a las 3pm...
-
-""Resiliencia, ¿del realismo a la esperanza?"" #TintoConLaONU con @OPSOMS_Col... Conéctate a través de es…",positive,0.94,0.04,0.02,140
-OPS/OMS,"RT @OPSOMS_Col: Pastora Mira sufrió el asesinato de su padre, de su primer esposo y de dos de sus hijos. Pese al dolor, perdonó, reconstruy…",negative,0.01,0.01,0.98,140
 OPS/OMS,"RT @onucolombia: 📢 EN BREVE ¡Únete a nuestra conversación global interactiva con motivo de #LaFILBoEnCasa @FILBogota! #ONU75 #UN75
 
 ""Resili…",neutral,0.12,0.74,0.14,140
-Super de Salud Chile,"Reporte #Covid_19 por parte del Ministerio de Salud:
-
-🔹19.663 casos totales
-🔹1.228 casos nuevos totales
-🔹1.112 sint… https://t.co/POxjqQP9mU",neutral,0.02,0.89,0.09,140
 Super de Salud Chile,"RT @ministeriosalud: Ministro Jaime Mañalich | Red Asistencial #COVID_19
 
 🔹 449 hospitalizados 
 🔹 69 pacientes críticos
 🔹 6.818 exámenes PC…",neutral,0.01,0.85,0.14,140
-Colmed Chile,60% de equipos de salud aseguran que faltan elementos de protección personal durante pandemia de Covid-19. Conoce l… https://t.co/EVVEjssQxR,negative,0.02,0.14,0.84,140
 Super de Salud Chile,"RT @ministeriosalud: Ministro Jaime Mañalich:
 
 Por testeos masivos, nos referimos a PCR a contactos estrechos de personas con #COVID_19, en…",negative,0.06,0.45,0.49,140
-Colmed Chile,[#ReporteDiario] Conoce el balance diario de #Covid19 en nuestro país. Recordamos que estos datos son los entregado… https://t.co/v4NaSmtSNt,positive,0.51,0.47,0.02,140
-Colmed Chile,"Nos preocupa el aumento de casos, sobre todo que más del 80% corresponden a la región metropolitana. Llamamos a no… https://t.co/XomkWqKJDt",negative,0.17,0.28,0.55,139
-Colmed Chile,Ahora tu ingreso al #ColmedChile también es #online. Para realizar tu registro como nuev@ colegiad@ solo debes envi… https://t.co/wpwoqv0MLI,neutral,0.04,0.94,0.02,140
 Super de Salud Chile,"Súmate a #YoSirvoAMiPaísEnLaEmergencia y #CuidémonosEntreTodos 
 
 Si eres profesional o técnico de salud, y quieres… https://t.co/yd3oMXDIyQ",positive,0.59,0.13,0.28,139
-Colmed Chile,[#WEBINAR] La necesidad de poner atención en la salud mental se ha evidenciado aún más con la pandemia #COVID19 Te… https://t.co/0SYPj7o4Cf,negative,0.04,0.05,0.91,139
 Super de Salud Chile,RT @ministeriosalud: AHORA: Ministro Jaime Mañalich se refiere a situación nacional por #COVID_19 https://t.co/FLJoNKQMCb,neutral,0.07,0.87,0.06,121
 Super de Salud Chile,"RT @ministeriosalud: Ministro Jaime Mañalich:
 
@@ -48,32 +23,20 @@ Desde este martes a las 22:00 horas entran en cuarentena:
 
 RM: Cerrillo…",neutral,0.02,0.93,0.05,140
 Super de Salud Chile,"RT @ministeriosalud: ""De acuerdo a evolución epidemiológica informamos todos los días y también a través de un informe 2 veces por semana y…",neutral,0.09,0.83,0.08,140
-Instituto de Salud Pública de Chile,"RT @ministeriosalud: Ministro Jaime Mañalich | Medidas adicionales
-
-Desde este martes a las 22:00 horas entran en cuarentena:
-
-RM: Cerrillo…",neutral,0.02,0.93,0.05,140
-Instituto de Salud Pública de Chile,"RT @ministeriosalud: ""De acuerdo a evolución epidemiológica informamos todos los días y también a través de un informe 2 veces por semana y…",neutral,0.09,0.83,0.08,140
-Instituto de Salud Pública de Chile,RT @arturozunigaj: #CuidemonosEntreTodos Atención a las nuevas comunas que entran en cuarentena 🔽 https://t.co/vyG0L5vA91,neutral,0.28,0.58,0.14,121
-Colmed Chile,[#ResumenSemanal] Este martes se realizó una nueva reunión de la Mesa Social #COVIDー19. Te invitamos a revisar la m… https://t.co/NcCFZtU4lj,neutral,0.03,0.95,0.02,140
 Instituto de Salud Pública de Chile,"RT @pdazan: No olvides que desde este martes a las 22:00 horas entran en cuarentena:
 
 RM: Cerrillos, Quilicura, Recoleta y extensión de com…",neutral,0.04,0.88,0.08,140
 Instituto de Salud Pública de Chile,RT @ministeriosalud: Gobierno anuncia cuarentena para nuevas comunas por #COVID_19  https://t.co/tgBHaDpeG9 #PlanCoronavirus,neutral,0.05,0.67,0.28,124
 Instituto de Salud Pública de Chile,"RT @ministeriosalud: Si tienes #COVID_19 y no cuentas con un lugar donde hacer tu cuarentena, la puedes realizar en las Residencias Sanitar…",neutral,0.09,0.76,0.15,140
-Ministerio de Salud,"📺AHORA | Ministro Jaime Mañalich | @CNNChile @CHVNoticias 
-
-Sigue la entrevista en vivo sobre nuevas medidas que se… https://t.co/Sp0HCVLUJP",neutral,0.05,0.91,0.04,140
 Ministerio de Salud,"""Tenemos la experiencia positiva de algunas zonas de Chile como Chillán, Talca, Osorno, está empezando en Arica y d… https://t.co/imf7pcDsxs",positive,0.73,0.18,0.09,140
 Ministerio de Salud,"Ministro Jaime Mañalich | Casos nuevos
 
 ""El aumento se explica por el más testeo y en un 10% por el aumento de caso… https://t.co/FPPjNDdBZ0",neutral,0.02,0.89,0.09,140
 Ministerio de Salud,"""Tal como lo hemos dicho hoy, a ninguna persona le faltará el acceso a atención por #COVID_19, se cuenta con la inf… https://t.co/kXCJKRef5B",negative,0.16,0.29,0.55,140
-Colmed Chile,RT @sochimu: Cargos disponibles 28 horas Urgenciólogos Médicos Generales o de otra especialidad con interés y experiencia en la unidad de U…,neutral,0.05,0.86,0.09,140
-Instituto de Salud Pública de Chile,"Si tienes a un miembro del hogar diagnosticado con COVID 19, es muy importante que adoptes las siguientes medidas:… https://t.co/pUDYk2HYex",neutral,0.02,0.85,0.13,139
 Ministerio de Salud,"Conoce los criterios para decretar cuarentenas y #CuidémonosEntreTodos.
 
 No te arriesgues a multas y sanciones y re… https://t.co/NPjayFFnzS",negative,0.33,0.23,0.44,140
+Instituto de Salud Pública de Chile,"Si tienes a un miembro del hogar diagnosticado con COVID 19, es muy importante que adoptes las siguientes medidas:… https://t.co/pUDYk2HYex",neutral,0.02,0.85,0.13,139
 Ministerio de Salud,"RT @24HorasTVN: #ENVIVO |  María Teresa Valenzuela, miembro del consejo COVID-19 se refiere a las nuevas medidas anunciadas por el Gobierno…",neutral,0.02,0.92,0.06,140
 Ministerio de Salud,"RT @24HorasTVN: #ENVIVO | María Valenzuela: ""En las residencias sanitarias las personas van a ser cuidadas y bien alimentadas"" #24HorasCent…",positive,0.83,0.1,0.07,140
 Ministerio de Salud,"RT @arturozunigaj: Después de 70 años, los viñamarinos y región de Valpo cuentan c/nuevo Hosp Gustavo Fricke
@@ -83,8 +46,6 @@ El + moderno del país!
 Y seg…",neutral,0.07,0.89,0.04,140
 Ministerio de Salud,Conoce las nuevas cuarentenas totales que comenzarán este martes 5 de mayo a las 22:00 horas en la Región Metropoli… https://t.co/yKwm9xD7MK,neutral,0.1,0.85,0.05,140
 Ministerio de Salud,"En la Región de Antofagasta, la comuna de Mejillones y la zona urbana de Antofagasta se sumarán a la cuarentena tot… https://t.co/GMvsQmMjU9",neutral,0.02,0.93,0.05,140
-Colmed Chile,"RT @izkia: Aunque la nueva normalidad fue un paso en falso, todos debemos seguir colaborando, poniendo al centro la salud de las personas.…",negative,0.07,0.18,0.75,139
-Colmed Chile,RT @Colmedchillan: Sencillos gestos son fundamentales a la hora de fortalecer la #Prevención del #COVID19. Que sean parte de tu vida cotidi…,positive,0.53,0.43,0.04,140
 Instituto de Salud Pública de Chile,"Protégete contra el nuevo Coronavirus COVID-19.
 
 Entérate más sobre cómo prevenirlo en: https://t.co/YdvmOlnhQ7… https://t.co/ybwb40dSGQ",neutral,0.08,0.78,0.14,136
@@ -97,3 +58,36 @@ Entérate acá… https://t.co/n9BngWR6vH",neutral,0.06,0.86,0.08,139
 Super de Salud Chile,"@cristorb4 @ministeriosalud @ICruzBlanca @Salcobrand Buenos días, Cristóbal! Te dejamos un mensaje por interno.",positive,0.97,0.02,0.01,111
 Instituto de Salud Pública de Chile,"Temperatura actual, pronóstico del tiempo y rayos UV para Santiago - Dirección Meteorológica de Chile https://t.co/Vixn5H5aSJ",neutral,0.02,0.9,0.08,125
 Colmed Chile,"Invitamos a niñ@s de 4 a 14 años a participar en el concurso de dibujo #PintandoLaSalud, organizado junto a  junto… https://t.co/sj29D9j2lB",neutral,0.08,0.83,0.09,139
+Instituto de Salud Pública de Chile,Calidad del Aire Lunes 4 de Mayo BUENO - SIN Restricción Vehicular. Más info: https://t.co/3E7tyRDFuZ https://t.co/skRHyTuerp,positive,0.47,0.37,0.16,125
+Colmed Chile,"[#AHORA] Nuestro Vicepdte. Dr. Patricio Meza, conversa con @camposulloa @verfranco @rvergara78 @roberto_saa y… https://t.co/6bRDI0HOXZ",neutral,0.06,0.87,0.07,134
+Colmed Chile,"Dr. Meza: ""Estamos muy preocupados por el avance del Coronavirus y creemos que es necesario tomar nuevas medidas"" #LaCooperativa",negative,0.14,0.18,0.68,128
+Colmed Chile,"Dr. Meza: ""Nosotros hemos insistido en la importancia de que el mensaje de la autoridad debe ser categórico y uno s… https://t.co/hqj4qQdY8C",negative,0.03,0.05,0.92,140
+Colmed Chile,"Dr. Meza: ""Debemos estar todos concentrados 100% en cómo enfrentar el tema de la pandemia, hacer un análisis con mu… https://t.co/dBeiJQsN6E",negative,0.02,0.02,0.96,140
+Colmed Chile,"Dr. Meza: ""Han demorado mucho en compartir datos respecto al testeo por comunas y la trazabilidad de los datos. Eso… https://t.co/gpJuktmNPE",negative,0.06,0.29,0.65,140
+Ministerio de Salud,"Comienza una nueva semana y es muy importante que uses tu mascarilla en lugares cerrados, ascensores o en el transp… https://t.co/cn1giamUNa",neutral,0.02,0.95,0.03,140
+Instituto de Salud Pública de Chile,"¿Eres profesional o técnico del área de la salud? Postula y súmate a #YoSirvoAMiPaísEnLaEmergencia.
+
+Ingresa a… https://t.co/ccdf5rVrPF",neutral,0.19,0.7,0.11,135
+Colmed Chile,"Dr. Meza: ""La gente tomó el mensaje como que lo grave había pasado"" #LaCooperativa",neutral,0.03,0.54,0.43,82
+Colmed Chile,"[#AHORA] Nuestro secretario nacional, Dr. José Miguel Bernucci (@pajarobere), conversa con @MuchoGustoMEGA sobre la… https://t.co/KNnih9Rfzn",positive,0.52,0.4,0.08,140
+Colmed Chile,"Dr. Bernucci: ""Nosotros hemos planteado en la Mesa Social, que para poder generar cuarentenas efectivas se tienen q… https://t.co/evwBVT7bag",neutral,0.44,0.47,0.09,140
+Colmed Chile,"Dr. Bernucci: ""Todavía desconocemos cuál va a ser el comportamiento del #COVID con los otros virus invernales, ya q… https://t.co/PBiqzjijLG",negative,0.04,0.23,0.73,140
+OPS/OMS,"👋🏼 Si planeas ir al 🛒mercado súper en estos días, sigue nuestras recomendaciones 👀⬇️
+🥚☕️🥛🍗🥖🥔🧄🥗🌽🥕🥦🥥🌽🍅🍎🍉🍇🍓🍈🍋🍏🍒🥝🍚.… https://t.co/mzUe6KEPRd",neutral,0.16,0.8,0.04,136
+Super de Salud Chile,"La Superintendencia de Salud estableció normas para las consultas y prestaciones de salud remotas, mientras dure la… https://t.co/ahKdIluPqo",neutral,0.19,0.7,0.11,140
+OPS/OMS,"Y si ya fuiste al 🛒 mercado o al súper, sigue nuestras recomendaciones para lavar las frutas 🍇 🍊 🍌 🍎 y vegetales🥬 🍅… https://t.co/nXS1CAo8do",neutral,0.3,0.67,0.03,140
+OPS/OMS,"RT @rpsp_pajph: Nuevo articulo📢: Impacto del Programa #TARGA en la disminución de casos de sida en el sistema de #salud #peruano, 1983-2018…",neutral,0.01,0.88,0.11,140
+OPS/OMS,"RT @OPSECU: Las mujeres, víctimas de algún tipo de violencia experimentan repercusiones en su salud física y mental. La violencia contra la…",negative,0.0,0.01,0.99,140
+OPS/OMS,RT @OPSOMSBolivia: 🎵🎶🥁🎼Escuchando y compartiendo podemos ayudar  🤩 @salomonbeda junto a 16 cantautores latinos graban una versión del senci…,positive,0.97,0.02,0.01,140
+OPS/OMS,"RT @ONU_es: La #COVID19 se transmite en todo tipo de clima.
+El calor o el frío NO matan al virus.
+
+No dejes que la desinformación se haga v…",mixed,0.3,0.15,0.55,140
+OPS/OMS,RT @OPSECU: Expresemos nuestra gratitud ❤️ a todos los profesionales de la salud👩‍⚕️👨🏾‍⚕️ por contribuir a mejorar la salud de las personas…,positive,0.98,0.0,0.02,140
+OPS/OMS,"RT @opsomsels: En esta cuarentena utiliza tu tiempo y realiza #actividadfísica 👟
+
+Te dejamos algunos consejos para mantenerte activo ✅ http…",neutral,0.07,0.83,0.1,140
+OPS/OMS,"RT @opsomsels: #COVID19 || Representante de la OPS/OMS en El Salvador, realizó un llamado a la población para que consulte ante cualquier s…",neutral,0.01,0.97,0.02,140
+Instituto de Salud Pública de Chile,"Si estás en aislamiento domiciliario, es muy importante mantener las medidas de prevención en el hogar.
+
+- Lávate l… https://t.co/vIFJMjSath",neutral,0.07,0.87,0.06,140
