@@ -1,4 +1,5 @@
 Entidad,Contenido,Sentimiento,Positivo,Neutral,Negativo,LargoTexto
+OPS/OMS,"RT @OPASOMSBrasil: Por medo ou estigma, é possível que familiares de profissionais de saúde da linha de frente da pandemia prefiram manter…",negative,0.02,0.1,0.88,139
 OPS/OMS,"RT @OPSOMS_Honduras: ¿#Sabíasque 43 países de las Américas 🌎 incluyen la vacuna contra el #VPH como parte de la inmunización de rutina?
 
  #…",neutral,0.05,0.78,0.17,140
@@ -16,8 +17,6 @@ OPS/OMS,"RT @OPSOMS_Col: Pastora Mira sufrió el asesinato de su padre, de su pr
 OPS/OMS,"RT @onucolombia: 📢 EN BREVE ¡Únete a nuestra conversación global interactiva con motivo de #LaFILBoEnCasa @FILBogota! #ONU75 #UN75
 
 ""Resili…",neutral,0.12,0.74,0.14,140
-Colmed Chile,RT @izkia: Los aumentos de casos nuevos COVID19 son preocupantes. Llamamos a la ciudadanía a no decaer: reforzar las medidas de autocuidado…,negative,0.16,0.38,0.46,140
-Colmed Chile,ATENCIÓN: @sochimioficial realiza diariamente una encuesta sobre la ocupación de unidades críticas durante la conti… https://t.co/mmRSFXro3h,neutral,0.01,0.95,0.04,140
 Colmed Chile,"¡Atención! Recuerda completar nuestro catastro de Elementos para Protección Personal, ya que se va actualizando sem… https://t.co/EeCOXgGoGM",neutral,0.14,0.78,0.08,140
 Colmed Chile,[#ResumenSemanal] #Colmed participó en sesión de Comisión de Relaciones Exteriores del Senado por Situación de migr… https://t.co/ZSPyLpDK56,neutral,0.01,0.88,0.11,140
 Colmed Chile,Los invitamos a una Ronda de Conversatorios virtuales: Desafíos de la interculturalidad en contextos de crisis sani… https://t.co/1neHzQdRXJ,negative,0.01,0.05,0.94,140
@@ -48,10 +47,6 @@ Super de Salud Chile,"Súmate a #YoSirvoAMiPaísEnLaEmergencia y #CuidémonosEnt
 
 Si eres profesional o técnico de salud, y quieres… https://t.co/yd3oMXDIyQ",positive,0.59,0.13,0.28,139
 Colmed Chile,[#WEBINAR] La necesidad de poner atención en la salud mental se ha evidenciado aún más con la pandemia #COVID19 Te… https://t.co/0SYPj7o4Cf,negative,0.04,0.05,0.91,139
-Instituto de Salud Pública de Chile,"Protégete contra el nuevo Coronavirus COVID-19.
-
-Entérate más sobre cómo prevenirlo en: https://t.co/YdvmOlnhQ7… https://t.co/tciA6a5PtS",neutral,0.08,0.78,0.14,136
-OPS/OMS,"RT @MinSaludCol: A Leticia llegamos con un médico intensivista y un enfermero, capacitados para brindar entrenamiento en la operación de ho…",positive,0.46,0.24,0.3,140
 Super de Salud Chile,RT @ministeriosalud: AHORA: Ministro Jaime Mañalich se refiere a situación nacional por #COVID_19 https://t.co/FLJoNKQMCb,neutral,0.07,0.87,0.06,121
 Super de Salud Chile,"RT @ministeriosalud: Ministro Jaime Mañalich:
 
@@ -61,30 +56,9 @@ Super de Salud Chile,"RT @ministeriosalud: Ministro Jaime Mañalich | Medidas ad
 Desde este martes a las 22:00 horas entran en cuarentena:
 
 RM: Cerrillo…",neutral,0.02,0.93,0.05,140
-Instituto de Salud Pública de Chile,"Fabrica tu propia mascarilla con una bandana.
-
-#CuidémonosEntreTodos
-
-Más info en: https://t.co/YdvmOlnhQ7 https://t.co/lIvGvcyLKp",neutral,0.09,0.82,0.09,130
-Ministerio de Salud,"""De acuerdo a evolución epidemiológica informamos todos los días y también a través de un informe 2 veces por seman… https://t.co/ZA9sCGS0jy",neutral,0.05,0.89,0.06,140
 Super de Salud Chile,"RT @ministeriosalud: ""De acuerdo a evolución epidemiológica informamos todos los días y también a través de un informe 2 veces por semana y…",neutral,0.09,0.83,0.08,140
-Ministerio de Salud,RT @arturozunigaj: #CuidemonosEntreTodos Atención a las nuevas comunas que entran en cuarentena 🔽 https://t.co/vyG0L5vA91,neutral,0.28,0.58,0.14,121
-Ministerio de Salud,Comienza funcionamiento de nuevo Hospital Gustavo Fricke con 200 camas para pacientes con #COVID-19 https://t.co/zZ0gLANHbR,neutral,0.02,0.97,0.01,123
-Ministerio de Salud,RT @pdazan: Seremi de Salud por fiesta clandestina: “Vamos a aplicar la multa más alta posible” https://t.co/kWLgjQFy3n,negative,0.34,0.25,0.41,119
-Ministerio de Salud,RT @arturozunigaj: Hospital Gustavo Fricke de Viña del Mar es el último de los 5 nuevos hospitales que ya están funcionando y cuya entrega…,neutral,0.16,0.65,0.19,139
-Ministerio de Salud,RT @arturozunigaj: Autoridades visitan nuevas instalaciones de Hospital Gustavo Fricke: habilitarán 550 camas https://t.co/DsDVrsTm55,neutral,0.02,0.9,0.08,133
-Ministerio de Salud,RT @sebastianpinera: Lo más importante es proteger la salud de los chilenos y para lograrlo es indispensable la colaboración responsable de…,positive,0.92,0.03,0.05,140
-Instituto de Salud Pública de Chile,"Si estás en aislamiento domiciliario, es muy importante mantener las medidas de prevención en el hogar.
-
-- Lávate l… https://t.co/IW2alclZhn",neutral,0.07,0.87,0.06,140
-Instituto de Salud Pública de Chile,"RT @ministeriosalud: AHORA: Ministro de Salud, Jaime Mañalich y subsecretarios @pdazan y @arturozunigaj participan en reunión por emergenci…",neutral,0.14,0.69,0.17,140
 Instituto de Salud Pública de Chile,RT @ministeriosalud: En 2013 fue presentada la maqueta y posteriormente se inició la construcción del nuevo @Hospitalfricke y hoy comenzó s…,neutral,0.07,0.76,0.17,140
 Instituto de Salud Pública de Chile,RT @ministeriosalud: AHORA: Ministro Jaime Mañalich se refiere a situación nacional por #COVID_19 https://t.co/FLJoNKQMCb,neutral,0.07,0.87,0.06,121
-Ministerio de Salud,Gobierno anuncia cuarentena para nuevas comunas por #COVID_19  https://t.co/tgBHaDpeG9 #PlanCoronavirus,neutral,0.05,0.81,0.14,103
-Ministerio de Salud,"RT @pdazan: No olvides que desde este martes a las 22:00 horas entran en cuarentena:
-
-RM: Cerrillos, Quilicura, Recoleta y extensión de com…",neutral,0.04,0.88,0.08,140
-Ministerio de Salud,RT @GobiernodeChile: Nuevas medidas: a partir del martes 5 de mayo a las 22 horas comienzan nuevas cuarentenas en las siguientes comunas y…,neutral,0.03,0.93,0.04,139
 Instituto de Salud Pública de Chile,"RT @ministeriosalud: Ministro Jaime Mañalich:
 
 ""Tenemos un aumento importante de los casos reportados como positivos por PCR de #COVID_19 y…",neutral,0.39,0.46,0.15,140
@@ -95,3 +69,31 @@ Desde este martes a las 22:00 horas entran en cuarentena:
 RM: Cerrillo…",neutral,0.02,0.93,0.05,140
 Instituto de Salud Pública de Chile,"RT @ministeriosalud: ""De acuerdo a evolución epidemiológica informamos todos los días y también a través de un informe 2 veces por semana y…",neutral,0.09,0.83,0.08,140
 Instituto de Salud Pública de Chile,RT @arturozunigaj: #CuidemonosEntreTodos Atención a las nuevas comunas que entran en cuarentena 🔽 https://t.co/vyG0L5vA91,neutral,0.28,0.58,0.14,121
+Ministerio de Salud,"Si tienes #COVID_19 y no cuentas con un lugar donde hacer tu cuarentena, la puedes realizar en las Residencias Sani… https://t.co/5b21tHXwfN",neutral,0.02,0.94,0.04,140
+Colmed Chile,[#ResumenSemanal] Este martes se realizó una nueva reunión de la Mesa Social #COVIDー19. Te invitamos a revisar la m… https://t.co/NcCFZtU4lj,neutral,0.03,0.95,0.02,140
+Instituto de Salud Pública de Chile,"RT @pdazan: No olvides que desde este martes a las 22:00 horas entran en cuarentena:
+
+RM: Cerrillos, Quilicura, Recoleta y extensión de com…",neutral,0.04,0.88,0.08,140
+Instituto de Salud Pública de Chile,RT @ministeriosalud: Gobierno anuncia cuarentena para nuevas comunas por #COVID_19  https://t.co/tgBHaDpeG9 #PlanCoronavirus,neutral,0.05,0.67,0.28,124
+Instituto de Salud Pública de Chile,"RT @ministeriosalud: Si tienes #COVID_19 y no cuentas con un lugar donde hacer tu cuarentena, la puedes realizar en las Residencias Sanitar…",neutral,0.09,0.76,0.15,140
+Ministerio de Salud,"📺AHORA | Ministro Jaime Mañalich | @CNNChile @CHVNoticias 
+
+Sigue la entrevista en vivo sobre nuevas medidas que se… https://t.co/Sp0HCVLUJP",neutral,0.05,0.91,0.04,140
+Ministerio de Salud,"""Tenemos la experiencia positiva de algunas zonas de Chile como Chillán, Talca, Osorno, está empezando en Arica y d… https://t.co/imf7pcDsxs",positive,0.73,0.18,0.09,140
+Ministerio de Salud,"Ministro Jaime Mañalich | Casos nuevos
+
+""El aumento se explica por el más testeo y en un 10% por el aumento de caso… https://t.co/FPPjNDdBZ0",neutral,0.02,0.89,0.09,140
+Ministerio de Salud,"""Tal como lo hemos dicho hoy, a ninguna persona le faltará el acceso a atención por #COVID_19, se cuenta con la inf… https://t.co/kXCJKRef5B",negative,0.16,0.29,0.55,140
+Colmed Chile,RT @sochimu: Cargos disponibles 28 horas Urgenciólogos Médicos Generales o de otra especialidad con interés y experiencia en la unidad de U…,neutral,0.05,0.86,0.09,140
+Instituto de Salud Pública de Chile,"Si tienes a un miembro del hogar diagnosticado con COVID 19, es muy importante que adoptes las siguientes medidas:… https://t.co/pUDYk2HYex",neutral,0.02,0.85,0.13,139
+Ministerio de Salud,"Conoce los criterios para decretar cuarentenas y #CuidémonosEntreTodos.
+
+No te arriesgues a multas y sanciones y re… https://t.co/NPjayFFnzS",negative,0.33,0.23,0.44,140
+Ministerio de Salud,"RT @24HorasTVN: #ENVIVO |  María Teresa Valenzuela, miembro del consejo COVID-19 se refiere a las nuevas medidas anunciadas por el Gobierno…",neutral,0.02,0.92,0.06,140
+Ministerio de Salud,"RT @24HorasTVN: #ENVIVO | María Valenzuela: ""En las residencias sanitarias las personas van a ser cuidadas y bien alimentadas"" #24HorasCent…",positive,0.83,0.1,0.07,140
+Ministerio de Salud,"RT @arturozunigaj: Después de 70 años, los viñamarinos y región de Valpo cuentan c/nuevo Hosp Gustavo Fricke
+
+El + moderno del país!
+
+Y seg…",neutral,0.07,0.89,0.04,140
+Ministerio de Salud,Conoce las nuevas cuarentenas totales que comenzarán este martes 5 de mayo a las 22:00 horas en la Región Metropoli… https://t.co/yKwm9xD7MK,neutral,0.1,0.85,0.05,140
