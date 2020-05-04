@@ -33,12 +33,12 @@ def UpdateDatabase():
         print("Twiter completos...")
     except:
         print("Error a cargar Twiter")
-    try:
-        guardarAnalisisTwitter()
-        print("Analisis de Twitter completo...")
-    except:
-        print("Error de analisis de Twitter...")
-    gc.collect()
+    #try:
+    #    guardarAnalisisTwitter()
+    #    print("Analisis de Twitter completo...")
+    #except:
+    #    print("Error de analisis de Twitter...")
+    #gc.collect()
     try:
         descargarProductos()
         print("Productos avanzados completos...")
