@@ -703,11 +703,18 @@ def minsal():
     data =pd.concat(salida)
     data.to_csv(ruta +"Producto4.csv", index=False)
     #Guardar CSV Producto5
-    url = "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto5/recuperados.csv"
-    data = realizarColumnaParticular(pd.read_csv(url),"Fecha")
+    #url = "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto5/recuperados.csv"
+    #data = realizarColumnaParticular(pd.read_csv(url),"Fecha")
     #data["Estado"] = data["Fecha"]
-    del data["Fecha"]
-    data.to_csv(ruta +"Producto5.csv", index=False)
+    #del data["Fecha"]
+    url = "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto5/TotalesNacionales.csv"
+    pd.read_csv(url).to_csv(ruta +"Producto5_TotalesNacionales.csv", index=False)
+
+    url = "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto5/TotalesNacionales_T.csv"
+    pd.read_csv(url).to_csv(ruta +"Producto5_TotalesNacionales_T.csv", index=False)
+
+    url = "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto5/TotalesNacionales_std.csv"
+    pd.read_csv(url).to_csv(ruta +"Producto5_TotalesNacionales_std.csv", index=False)
     return
 #************************************Actualizar Minsal*******************************************
 #************************************Actualizar BING NEWS*******************************************
