@@ -1,128 +1,84 @@
 Entidad,Contenido,Sentimiento,Positivo,Neutral,Negativo,LargoTexto
-OPS/OMS,"RT @OPSECU: La coordinación y la complementariedad, elementos clave que impulsa el clúster de salud en la respuesta al #COVID19 🦠
+OPS/OMS,RT @OPSOMSBolivia: 🎵🎶🥁🎼Escuchando y compartiendo podemos ayudar  🤩 @salomonbeda junto a 16 cantautores latinos graban una versión del senci…,positive,0.97,0.02,0.01,140
+OPS/OMS,"RT @ONU_es: La #COVID19 se transmite en todo tipo de clima.
+El calor o el frío NO matan al virus.
 
-https://…",neutral,0.18,0.78,0.04,142
-OPS/OMS,RT @OPSOMS_Honduras: Mesa CESAR de Cooperantes en Salud se reúne con la Secretaría de Salud para conocer la situación actual de la epidemia…,negative,0.01,0.03,0.96,140
-OPS/OMS,RT @opsargentina: ¿Cuándo limpiarnos las manos? #COVID19 https://t.co/SyQkDWyoS2,neutral,0.06,0.85,0.09,80
-OPS/OMS,"#COVID19 👉🏽 Si te sientes triste 😞 y sin esperanza ☹️, habla con alguien de tu confianza sobre tus sentimientos o c… https://t.co/BAp968tXOe",negative,0.2,0.0,0.8,140
-Colmed Chile,"Dra. Guerrero: “No conocemos el número exacto de funcionarios contagiados, porque no se han testeado todos y creemo… https://t.co/xVRoJ9C8QF",negative,0.12,0.07,0.81,140
-Colmed Chile,"RT @sochipe: [VIDEO] Esta exitosa instancia online se realizó este 23 de abril y contó con interesantes expositores de Argentina, España y…",positive,0.72,0.25,0.03,139
-OPS/OMS,"RT @OPSOMSBolivia: Vacunarnos es una manera importante de protegernos a nosostros, a nuestas familias,🧑🏼👵🏽👶🏿👧🏻🤱🏽y a nuestras comunidades de…",positive,0.66,0.2,0.14,140
-OPS/OMS,"RT @UNESCO_es: Infodemia ⬇️
-Exceso de información, la mayoría sin verificar, que dificulta que las personas encuentren fuentes y orientació…",negative,0.03,0.09,0.88,141
-OPS/OMS,"RT @OPSOMS_Honduras: ¿Tienes que ir al mercado? 
+No dejes que la desinformación se haga v…",mixed,0.3,0.15,0.55,140
+OPS/OMS,RT @OPSECU: Expresemos nuestra gratitud ❤️ a todos los profesionales de la salud👩‍⚕️👨🏾‍⚕️ por contribuir a mejorar la salud de las personas…,positive,0.98,0.0,0.02,140
+OPS/OMS,"RT @opsomsels: En esta cuarentena utiliza tu tiempo y realiza #actividadfísica 👟
 
-Hazlo de forma segura y previene #COVID19 https://t.co/TsOP9ruX7t",positive,0.69,0.28,0.03,117
-Super de Salud Chile,"RT @ministeriosalud: Min. Jaime Mañalich:
+Te dejamos algunos consejos para mantenerte activo ✅ http…",neutral,0.07,0.83,0.1,140
+OPS/OMS,"RT @opsomsels: #COVID19 || Representante de la OPS/OMS en El Salvador, realizó un llamado a la población para que consulte ante cualquier s…",neutral,0.01,0.97,0.02,140
+Super de Salud Chile,"RT @ministeriosalud: Subsec @SubPrevDelito @katymartorell:
 
-""Hemos conocido más la evolución de la enfermedad por Coronavirus, y a lo que hoy es evidente, e…",negative,0.05,0.03,0.92,142
-OPS/OMS,RT @OPSOMSBolivia: Los vacunadores🧑🏻‍⚕️👩🏽‍⚕️🧑🏿‍⚕️👩🏼‍⚕️ pueden dar pasos importantes para mantenerse saludables y proteger a sus pacientes d…,positive,0.96,0.02,0.02,140
-Super de Salud Chile,"RT @ministeriosalud: ""Desde ayer estamos incorporando todos los casos y dividiéndolos entre casos sintomáticos y asintomáticos, ambos con P…",neutral,0.09,0.63,0.28,140
-OPS/OMS,"RT @OPSOMSBolivia: Si no te has puesto la vacuna contra el sarampión y tienes
- 
-Fiebre alta🤒 
-Erupción
-Tos😷 
-Moqueo nasal🤧 
-Ojos rojos
- 
-po…",negative,0.0,0.02,0.98,148
-Super de Salud Chile,"RT @ministeriosalud: Ministro Jaime Mañalich | Carnet COVID
+""Los cementerios quedan fuera de medidas de cuarentena, sin embargo, se tomarán…",negative,0.03,0.1,0.87,140
+Instituto de Salud Pública de Chile,RT @pdazan: Estamos empezando el frío. Hacemos un seguimiento exhaustivo sobre el comportamiento de los otros virus. Afortunadamente la cur…,negative,0.04,0.37,0.59,140
+Instituto de Salud Pública de Chile,"RT @ministeriosalud: [Actualización] Ministerio de Salud informa 20.643 casos confirmados de #COVID_19 en Chile.
 
-""Lo recibirá toda persona que haya tenido PCR positivo, con y sin síntomas, a…",positive,0.7,0.1,0.2,141
-OPS/OMS,"RT @opscuba: 18 años celebra la Semana de Vacunación en las Américas.
-806.000.000 personas han sido vacunadas bajo esta iniciativa. #Vacuna…",neutral,0.05,0.81,0.14,141
-Instituto de Salud Pública de Chile,"RT @ministeriosalud: Min. Jaime Mañalich:
+Revisa el detalle complet…",neutral,0.11,0.77,0.12,140
+Super de Salud Chile,"RT @presidencia_cl: AHORA – El Pdte @sebastianpinera anuncia pago del #BonoInvierno, que beneficiará a más de a 1.352.000 pensionadas y pen…",neutral,0.17,0.67,0.16,140
+Instituto de Salud Pública de Chile,"#YoSirvoAMiPaísEnLaEmergencia 
 
-""Hemos conocido más la evolución de la enfermedad por Coronavirus, y a lo que hoy es evidente, e…",negative,0.05,0.03,0.92,142
-Instituto de Salud Pública de Chile,"RT @ministeriosalud: ""Desde ayer estamos incorporando todos los casos y dividiéndolos entre casos sintomáticos y asintomáticos, ambos con P…",neutral,0.09,0.63,0.28,140
-Instituto de Salud Pública de Chile,"RT @ministeriosalud: Ministro Jaime Mañalich | Carnet COVID
+Si eres profesional o técnico de salud, puedes postular aquí… https://t.co/K61iV971kb",neutral,0.3,0.39,0.31,117
+Colmed Chile,"Dr. Meza: ""Independientemente que tengan síntomas o no, nos interesa el número de pacientes que tienen PCR+, ya que… https://t.co/O602I8WR0R",negative,0.02,0.08,0.9,140
+OPS/OMS,RT @OPSOMSPeru: Las preocupaciones y la ansiedad por la #COVID19 y su impacto pueden ser abrumadoras. Aprende maneras de afrontar la situac…,negative,0.04,0.01,0.95,140
+OPS/OMS,"RT @OPSOMSPeru: #COVID19 Glosario útil para periodistas y comunicadores sobre términos utilizados durante brotes y epidemias. 
 
-""Lo recibirá toda persona que haya tenido PCR positivo, con y sin síntomas, a…",positive,0.7,0.1,0.2,141
-Ministerio de Salud,"Subsec @pdazan | Balance diario #COVID_19
+https://t.c…",negative,0.18,0.07,0.75,140
+OPS/OMS,RT @OPSOMSPeru: ¿Se puede transmitir la #COVID19 a través de monedas o billetes? 🤔 https://t.co/lHHqlbRkO3,neutral,0.04,0.79,0.17,106
+OPS/OMS,"RT @opsargentina: ¡Recordá! El lavado de manos es una de las medidas fundamentales para la prevención #COVID19
+https://t.co/dKvGt65XiN http…",neutral,0.12,0.83,0.05,140
+OPS/OMS,RT @OPSOMS_Honduras: 6 consejos para enfrentar el estrés ante la pandemia por COVID-19 #Hablemos #COVID19 https://t.co/6mqU8zjHYK,negative,0.0,0.02,0.98,129
+Instituto de Salud Pública de Chile,Conoce las nuevas cuarentenas totales que comenzarán este martes 5 de mayo a las 22:00 horas en la Región Metropoli… https://t.co/b5uijW2vTL,neutral,0.1,0.85,0.05,140
+Instituto de Salud Pública de Chile,"RT @ministeriosalud: Fiscalizaciones | @SEREMISalud_15 
 
-🔹780 casos con síntomas
-🔹108 casos asintomáticos
-🔹16.023 casos totales (… https://t.co/lCVLCYNhvt",neutral,0.01,0.51,0.48,144
-Instituto de Salud Pública de Chile,"RT @ministeriosalud: Subsec @pdazan | Balance diario #COVID_19
+La Autoridad Sanitaria de Arica y Parinacota realiza en estos momentos fiscalizaci…",neutral,0.13,0.63,0.24,140
+Super de Salud Chile,"RT @ministeriosalud: Fiscalizaciones | @SEREMISalud_15 
 
-🔹780 casos con síntomas
-🔹108 casos asintomáticos
-🔹16.023 casos totales (con…",neutral,0.01,0.53,0.46,144
-Super de Salud Chile,"Reporte #Covid_19 por parte del Ministerio de Salud:
+La Autoridad Sanitaria de Arica y Parinacota realiza en estos momentos fiscalizaci…",neutral,0.13,0.63,0.24,140
+Super de Salud Chile,"Cada vez que salgas a la calle mantén, como mínimo, un metro de distancia con los demás. 
+🚶‍♂️|----1mt-----|🚶‍♀️ |-… https://t.co/5EhPatvDZT",neutral,0.06,0.87,0.07,140
+Instituto de Salud Pública de Chile,"Protégete contra el nuevo Coronavirus COVID-19.
 
-🔹16.023 casos totales.
-🔹780 casos nuevos.
-🔹108 asintomáticos… https://t.co/WW2Qp6txkf",neutral,0.03,0.89,0.08,143
-Ministerio de Salud,"Subsec @arturozunigaj | Red Asistencial #COVID_19
+Entérate más sobre cómo prevenirlo en: https://t.co/YdvmOlnhQ7… https://t.co/EtgLTGkio4",neutral,0.08,0.78,0.14,136
+Colmed Chile,Los invitamos a una Ronda de Conversatorios virtuales: Desafíos de la interculturalidad en contextos de crisis sani… https://t.co/HKCKV7Qhyf,negative,0.01,0.05,0.94,140
+Instituto de Salud Pública de Chile,"RT @ministeriosalud: #PlanCoronavirus | Laboratorios
 
-🔹 419 hospitalizados 
-🔹 323 con ventilación mecánica
-🔹 69 pacien… https://t.co/hE83RrqjmN",neutral,0.01,0.93,0.06,144
-Super de Salud Chile,"RT @ministeriosalud: Subsec @arturozunigaj | Red Asistencial #COVID_19
+La capacidad de laboratorios aumenta en todo el país para detectar #COVID_19, aquí te…",neutral,0.04,0.93,0.03,140
+Colmed Chile,¿Sabías qué @DonaSangreStgo y @Uber_Chile hicieron una alianza para seguir salvando vidas? Si tu comuna de residenc… https://t.co/XVaqSm96Cl,positive,0.49,0.25,0.26,140
+Instituto de Salud Pública de Chile,"Conoce más sobre esta nueva medida en https://t.co/YdvmOlnhQ7 
 
-🔹 419 hospitalizados 
-🔹 323 con ventilación mecánica
-🔹 69 pacientes…",neutral,0.02,0.91,0.07,144
-Ministerio de Salud,"Subsec @arturozunigaj | Anuncio
-
-""Hoy ha sido publicado por parte del @mop_chile el llamado a licitación del nuevo… https://t.co/2apLlVn60N",neutral,0.04,0.72,0.24,141
-Super de Salud Chile,"RT @ministeriosalud: Subsec @arturozunigaj | Anuncio
-
-""Hoy ha sido publicado por parte del @mop_chile el llamado a licitación del nuevo Hos…",neutral,0.05,0.69,0.26,142
-Ministerio de Salud,"Subsec @katymartorell @SubPrevDelito | Medidas
-
-""Hoy se inician nuevas cuarentenas y comienzan Cordones Sanitarios… https://t.co/VufYkwbbui",negative,0.03,0.22,0.75,141
-Ministerio de Salud,"Para efectos de asegurar el comportamiento de la enfermedad en zonas de cuarentena (1/2)
-
-- Cuando se solicite perm… https://t.co/zCMWT213ZD",negative,0.0,0.06,0.94,142
-Ministerio de Salud,"(2/2) Medidas
-
-- Comunas que no están en cuarentena serán bloqueadas, excepto para entregar alimentos a personas ma… https://t.co/2ZCviLYw4i",negative,0.08,0.43,0.49,142
-Ministerio de Salud,"(3/3) Medidas
-
-- Todos los permisos serán entregados a través de Comisaría Virtual, incluso de forma física, verifi… https://t.co/U9jYuDOsLI",neutral,0.02,0.96,0.02,142
-Super de Salud Chile,"RT @ministeriosalud: Subsec @katymartorell @SubPrevDelito | Medidas
-
-""Hoy se inician nuevas cuarentenas y comienzan Cordones Sanitarios en…",negative,0.03,0.25,0.72,141
-Colmed Chile,RT @izkia: Preocupante aumento: A no relajarse... y a testear a todo paciente sintomático con o sin fiebre. Debemos aprovechar la capacidad…,negative,0.08,0.07,0.85,140
-Super de Salud Chile,"RT @24HorasTVN: Patricio Fernández aseguró en 24AM que desde el próximo lunes, se retomarán todos los servicios por garantía GES, ya que ta…",neutral,0.09,0.81,0.1,140
-Super de Salud Chile,"RT @MinMujeryEG: La cuarentena puede significar un peligro para muchas mujeres. Hoy más que nunca debemos escucharlas y denunciar 🚫✋
-
-📞1455…",negative,0.03,0.06,0.91,142
-Instituto de Salud Pública de Chile,"RT @ministeriosalud: Subsec @arturozunigaj | Red Asistencial #COVID_19
-
-🔹 419 hospitalizados 
-🔹 323 con ventilación mecánica
-🔹 69 pacientes…",neutral,0.02,0.91,0.07,144
-Instituto de Salud Pública de Chile,"RT @ministeriosalud: Subsec @arturozunigaj | Anuncio
-
-""Hoy ha sido publicado por parte del @mop_chile el llamado a licitación del nuevo Hos…",neutral,0.05,0.69,0.26,142
-Instituto de Salud Pública de Chile,"RT @ministeriosalud: (3/3) Medidas
-
-- Todos los permisos serán entregados a través de Comisaría Virtual, incluso de forma física, verifican…",neutral,0.05,0.69,0.26,142
-Instituto de Salud Pública de Chile,"RT @ministeriosalud: (2/2) Medidas
-
-- Comunas que no están en cuarentena serán bloqueadas, excepto para entregar alimentos a personas mayor…",negative,0.09,0.28,0.63,142
-Instituto de Salud Pública de Chile,"RT @ministeriosalud: Subsec @katymartorell @SubPrevDelito | Medidas
-
-""Hoy se inician nuevas cuarentenas y comienzan Cordones Sanitarios en…",negative,0.03,0.25,0.72,141
+ #CuidémonosEntreTodos https://t.co/BhKG6f11ya",neutral,0.23,0.74,0.03,110
+Super de Salud Chile,"RT @KarlaEnAccion: Buen día! Recuerda q, como medida adicional, desde el martes 05 de Mayo a las 22:00 hrs y x 7 días, entran en cuarentena…",positive,0.97,0.02,0.01,140
+Super de Salud Chile,"RT @SeremiSaludRM: Seremi de Salud RM, Paula Labra, dirige operativo de fiscalización de cumplimiento de cuarentena del comercio en Santiag…",neutral,0.04,0.92,0.04,140
+Colmed Chile,"[#AHORA] Nuestro Vicepdte. Dr. Patricio Meza, aborda en @TVN el aumento de casos por el  Coronavirus y algunas medi… https://t.co/75rtIqzmmE",neutral,0.06,0.84,0.1,140
+Ministerio de Salud,"En la reunión, realizada vía videoconferencia, del subsecretario @arturozunigaj con los alcaldes, se compartieron p… https://t.co/5GzZI0Dh4c",neutral,0.01,0.96,0.03,140
+Ministerio de Salud,"Subsec @arturozunigaj reúne con los alcaldes de @mun_huechuraba Carlos Cuadrado, @munielbosque Sadi Melo,… https://t.co/32Xvo0lHYj",neutral,0.01,0.93,0.06,130
+Super de Salud Chile,"RT @ministeriosalud: Subsec @arturozunigaj reúne con los alcaldes de @mun_huechuraba Carlos Cuadrado, @munielbosque Sadi Melo, @MuniVitacur…",neutral,0.02,0.9,0.08,140
+Colmed Chile,"Dr. Meza: ""Nos encontramos muy preocupados por el aumento de los números, sobre todo en la Región Metropolitana, po… https://t.co/PzqsqXECMR",negative,0.15,0.28,0.57,140
+Ministerio de Salud,RT @pdazan: De todos depende que estas medidas se cumplan. https://t.co/SfoKniCPM9,neutral,0.07,0.85,0.08,82
+Colmed Chile,"Dr. Meza: ""El comportamiento del virus ha sido más agresivo durante las últimas semanas en la RM, por eso se deben… https://t.co/LjvB8I5XHR",negative,0.02,0.12,0.86,139
+Ministerio de Salud,RT @HospitalAntof: 14 mil pacientes del hospital regional han recibido sus medicamento en su domicilio https://t.co/yvb4yuYC4t,neutral,0.14,0.79,0.07,126
+Ministerio de Salud,Gobierno dispone medidas ante aglomeraciones en centros de abasto  https://t.co/SS7C37IxvI #PlanCoronavirus,neutral,0.01,0.94,0.05,107
+Super de Salud Chile,RT @ministeriosalud: Gobierno dispone medidas ante aglomeraciones en centros de abasto  https://t.co/SS7C37IxvI #PlanCoronavirus,neutral,0.02,0.91,0.07,128
+Colmed Chile,"[#AHORA] Para @chilevision, nuestro Vicepdte. Dr. Patricio Meza, se refiere al aumento de número de casos por… https://t.co/d4CdcjdH3m",neutral,0.09,0.81,0.1,134
+Ministerio de Salud,"RT @agenciaunochile: Seremi de Salud, Paula Labra, fiscaliza y prohibe el funcionamiento de tienda Ripley ubicada en calle Rosas, Santiago.…",negative,0.02,0.1,0.88,140
 Instituto de Salud Pública de Chile,"Donar sangre es donar vida.
 
-Si tu comuna está en cuarentena puedes pedir tu permiso en https://t.co/ZzyyA2Sw3j… https://t.co/ZUjlt8MD5L",neutral,0.25,0.7,0.05,138
-Colmed Chile,"Los donantes de sangre han bajado a 1/3 pero los pacientes siguen requiriendo transfusiones. 
-¡¿Qué esperas para do… https://t.co/q0j3QnQ1qu",neutral,0.17,0.64,0.19,141
-Colmed Chile,"[#AHORA] Para @Cooperativa, nuestro Vicepdte. Dr. Patricio Meza, aborda situación de la red de salud ante el… https://t.co/5vM85XDd4O",neutral,0.12,0.73,0.15,133
-Colmed Chile,"Dr. Meza: ""Debemos intensificar aún más las medidas de precaución, ocuparnos de la apertura de un mall nos quita at… https://t.co/sgwsdp06v3",neutral,0.13,0.58,0.29,140
-Colmed Chile,"Dr. Meza: ""Con el nuevo reporte anunciado el día de hoy debemos enfocarnos en aumentar las medidas de precaución, i… https://t.co/vB5dlttItK",neutral,0.18,0.42,0.4,140
-Ministerio de Salud,"RT @arturozunigaj: A pesar de nuestro foco en Coronavirus, como @GobiernodeChile seguimos trabajando en el Plan Inversión de Hospitales del…",neutral,0.11,0.55,0.34,140
-Ministerio de Salud,RT @arturozunigaj: Más infraestructura hospitalaria 🏥 y más recintos de Atención Primaria de Salud #PlanInversionesSalud ▶️ https://t.co/0T…,neutral,0.33,0.44,0.23,140
-Colmed Chile,"Dr. Meza: ""Desde el #Colmed manejamos 2 hipótesis una pesimista y una optimista, afortunadamente se tomaran accione… https://t.co/aB58CMR8bL",negative,0.17,0.07,0.76,140
-Colmed Chile,"Dr. Meza: ""Se ha logrado posponer el peak de la enfermedad y la idea es que se siga posponiendo, mientras más se pu… https://t.co/oDKaWm9nZU",negative,0.02,0.13,0.85,140
-Ministerio de Salud,"RT @T13: 🔹Entrega de carnet COVID-19 comenzará la próxima semana: Quienes lo recibirán y cuál es su objetivo
+Si tu comuna está en cuarentena puedes pedir tu permiso en https://t.co/ZzyyA2Sw3j… https://t.co/B64ELPXQSz",neutral,0.25,0.7,0.05,136
+Ministerio de Salud,"¿Cuántos laboratorios hay a nivel nacional para diagnosticar #COVID_19?
 
-https://t.co/u2owUraFfF",neutral,0.08,0.9,0.02,135
-Colmed Chile,"Dr. Meza: ""Tomemos las medidas visualizando el peor escenario, ya que es mejor decir que fueron muchas a que llegue… https://t.co/Hjlt9mGp9V",negative,0.08,0.09,0.83,140
-Super de Salud Chile,"¿Sabes en qué lugares debes usar mascarilla, obligatoriamente? 🤔
-
-Conoce más sobre esta medida 👇, e infórmate siemp… https://t.co/xNzDKl3oBX",neutral,0.15,0.74,0.11,142
+- 73 laboratorios a nivel nacional
+- 28 en… https://t.co/xSPBM3bX5c",neutral,0.01,0.98,0.01,140
+Super de Salud Chile,"@megarockstar72 @NuevaMasvida_ Hola, buenas tardes. Nos puedes dejar tus datos de personales y algún celular de contacto, vía DM? 
+Gracias!",positive,0.98,0.02,0.0,139
+Colmed Chile,"Dr. Meza: ""Creemos que influyó un poco el mensaje de la nueva normalidad con el aumento de número de casos, ya que… https://t.co/7LZHCgHooj",neutral,0.1,0.53,0.37,139
+Colmed Chile,"Dr. Meza: ""Debemos insistir a la comunidad que estamos en plena pandemia, no conocemos como se va a seguir comporta… https://t.co/lCyLcOF9eb",negative,0.02,0.05,0.93,140
+Colmed Chile,"Dr. Meza: ""El enemigo es el coronavirus, no somos nosotros como #Colmed ni los Alcaldes ni agrupaciones científicas… https://t.co/ELd13S68pN",negative,0.0,0.02,0.98,140
+Ministerio de Salud,"RT @sebastianpinera: En medio de tiempos muy difíciles, una buena noticia. Hoy comenzamos a pagar el #BonoInvierno que aliviará la vida de…",positive,0.66,0.04,0.3,139
+Super de Salud Chile,"Aprende cómo debes cuidarte para prevenir el contagio del #COVID19... sé responsable y #CuidémonosEntreTodos 
+Infór… https://t.co/c5MBaVmWTp",positive,0.87,0.02,0.11,140
+Ministerio de Salud,"RT @SeremiSalud2: Auroridad Santitaria, anuncia estricto control y sanciones a los infractores de las medidas del #Covid19 en el marco de l…",neutral,0.05,0.49,0.46,140
+Instituto de Salud Pública de Chile,"En la Región de Antofagasta, la comuna de Mejillones y la zona urbana de Antofagasta se sumarán a la cuarentena tot… https://t.co/qX8SctdKgl",neutral,0.02,0.93,0.05,140
+Ministerio de Salud,"RT @FONASA: 🎉¡EXCELENTE NOTICIA!
+Si eres beneficiario de #Fonasa puedes comprar los 73 PAD en línea con tu tarjeta de débito o crédito en n…",positive,0.96,0.02,0.02,140
