@@ -491,7 +491,7 @@ def ourWorldInData():
     time.sleep(1)
     driver.find_element_by_xpath("/html/body/main/figure/div/div[4]/div/a").click()
     time.sleep(1)
-    """
+    
     driver.get("https://ourworldindata.org/grapher/covid-19-tests-country")
     time.sleep(2)
     driver.find_element_by_xpath("/html/body/main/figure/div/div[3]/div/nav/ul/li[2]/a").click()
@@ -506,7 +506,7 @@ def ourWorldInData():
     time.sleep(1)
     driver.find_element_by_xpath("/html/body/main/figure/div/div[4]/div/a").click()
     time.sleep(1)
-    
+    """
     
     driver.get("https://ourworldindata.org/grapher/total-deaths-covid-19")
     time.sleep(5)
