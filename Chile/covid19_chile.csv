@@ -34006,7 +34006,7 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 34005,06-05-2020,9.0,Chile,La Araucanía,,,,Vilcún,,,Confirmado,-38.7047212019,-72.116504654
 34006,06-05-2020,9.0,Chile,La Araucanía,,,,Vilcún,,,Confirmado,-38.7047212019,-72.116504654
 34007,06-05-2020,9.0,Chile,La Araucanía,,,,Villarrica,,,Confirmado,-39.3008669518,-72.1828309674
-34008,06-05-2020,14.0,Chile,Los Ríos,,,,No Informado,,,Confirmado,-40.0034147045,-72.5764331101
+34008,06-05-2020,14.0,Chile,Los Ríos,,,,Lanco,,,Confirmado,-39.5121811782,-72.6215188458
 34009,06-05-2020,10.0,Chile,Los Lagos,,,,Osorno,,,Confirmado,-40.6118925181,-73.0867453662
 34010,06-05-2020,10.0,Chile,Los Lagos,,,,Osorno,,,Confirmado,-40.6118925181,-73.0867453662
 34011,06-05-2020,10.0,Chile,Los Lagos,,,,Puerto Octay,,,Confirmado,-40.9334514982,-72.5996861674
@@ -34033,7 +34033,7 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 34032,06-05-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
 34033,06-05-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
 34034,06-05-2020,15.0,Chile,Arica y Parinacota,Femenino,89.0,,Arica,,,Muerte,-18.5321930844,-69.9714910871
-34035,06-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Muerte,-32.4993565791,-70.8915740187
+34035,06-05-2020,5.0,Chile,Valparaíso,Masculino,64.0,Hospital Carlos Van Buren ,Valparaíso,,,Muerte,-32.9978836561,-71.7533398553
 34036,06-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
 34037,06-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
 34038,06-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
