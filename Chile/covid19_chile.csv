@@ -34695,11 +34695,11 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 34694,07-05-2020,5.0,Chile,Valparaíso,,,,Viña del Mar,,,Confirmado,-33.0288002963,-71.5154312157
 34695,07-05-2020,5.0,Chile,Valparaíso,,,,Viña del Mar,,,Confirmado,-33.0288002963,-71.5154312157
 34696,07-05-2020,5.0,Chile,Valparaíso,,,,Viña del Mar,,,Confirmado,-33.0288002963,-71.5154312157
-34697,07-05-2020,5.0,Chile,Valparaíso,,,,Quilpue,,,Confirmado,-32.4993565791,-70.8915740187
-34698,07-05-2020,5.0,Chile,Valparaíso,,,,Quilpue,,,Confirmado,-32.4993565791,-70.8915740187
-34699,07-05-2020,5.0,Chile,Valparaíso,,,,Quilpue,,,Confirmado,-32.4993565791,-70.8915740187
-34700,07-05-2020,5.0,Chile,Valparaíso,,,,Quilpue,,,Confirmado,-32.4993565791,-70.8915740187
-34701,07-05-2020,5.0,Chile,Valparaíso,,,,Quilpue,,,Confirmado,-32.4993565791,-70.8915740187
+34697,07-05-2020,5.0,Chile,Valparaíso,,,,Quilpué,,,Confirmado,-33.1473777099,-71.2540917137
+34698,07-05-2020,5.0,Chile,Valparaíso,,,,Quilpué,,,Confirmado,-33.1473777099,-71.2540917137
+34699,07-05-2020,5.0,Chile,Valparaíso,,,,Quilpué,,,Confirmado,-33.1473777099,-71.2540917137
+34700,07-05-2020,5.0,Chile,Valparaíso,,,,Quilpué,,,Confirmado,-33.1473777099,-71.2540917137
+34701,07-05-2020,5.0,Chile,Valparaíso,,,,Quilpué,,,Confirmado,-33.1473777099,-71.2540917137
 34702,07-05-2020,5.0,Chile,Valparaíso,,,,Quintero,,,Confirmado,-32.8431808329,-71.4732304592
 34703,07-05-2020,5.0,Chile,Valparaíso,,,,Quintero,,,Confirmado,-32.8431808329,-71.4732304592
 34704,07-05-2020,5.0,Chile,Valparaíso,,,,Quintero,,,Confirmado,-32.8431808329,-71.4732304592
@@ -34713,10 +34713,10 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 34712,07-05-2020,5.0,Chile,Valparaíso,,,,Calle Larga,,,Confirmado,-32.9507728238,-70.544659459
 34713,07-05-2020,5.0,Chile,Valparaíso,,,,El Quisco,,,Confirmado,-33.4150669686,-71.651188756
 34714,07-05-2020,5.0,Chile,Valparaíso,,,,Lo Prado,,,Confirmado,-33.4471037431,-70.7232074374
-34715,07-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
-34716,07-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
-34717,07-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
-34718,07-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+34715,07-05-2020,5.0,Chile,Valparaíso,,,,Quillota ,,,Confirmado,-32.4993565791,-70.8915740187
+34716,07-05-2020,5.0,Chile,Valparaíso,,,,Putaendo,,,Confirmado,-32.4811133119,-70.5212302349
+34717,07-05-2020,5.0,Chile,Valparaíso,,,,Villa Alemana ,,,Confirmado,-32.4993565791,-70.8915740187
+34718,07-05-2020,5.0,Chile,Valparaíso,,,,El Tabo,,,Confirmado,-33.482883833,-71.5806343546
 34719,07-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
 34720,07-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
 34721,07-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
@@ -36048,10 +36048,10 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 36047,07-05-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
 36048,07-05-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
 36049,07-05-2020,12.0,Chile,Magallanes,,,,Punta Arenas,,,Confirmado,-53.6467902489,-72.0254461498
-36050,07-05-2020,12.0,Chile,Magallanes,,,,Puerto Natales,,,Confirmado,-52.2809432987,-70.0516354499
+36050,07-05-2020,12.0,Chile,Magallanes,,,,Natales,,,Confirmado,-50.647579808,-73.9834575532
 36051,07-05-2020,12.0,Chile,Magallanes,,,,Porvenir,,,Confirmado,-53.3131314213,-69.3800932016
 36052,07-05-2020,15.0,Chile,Arica y Parinacota,,83.0,,Arica,,,Muerte,-18.5321930844,-69.9714910871
-36053,07-05-2020,5.0,Chile,Valparaíso,Femenino,51.0,Carlos Van Buren,Valparaíso,,,Muerte,-32.9978836561,-71.7533398553
+36053,07-05-2020,5.0,Chile,Valparaíso,Femenino,51.0,Hospital Carlos Van Buren,Valparaíso,,,Muerte,-32.9978836561,-71.7533398553
 36054,07-05-2020,5.0,Chile,Valparaíso,Masculino,86.0,,Valparaíso,,,Muerte,-32.9978836561,-71.7533398553
 36055,07-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
 36056,07-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
