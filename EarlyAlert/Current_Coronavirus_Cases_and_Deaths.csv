@@ -1826,7 +1826,7 @@ Saint George,Saint Vincent and the Grenadines,https://www.stlucianewsonline.com/
 Trebnje,Slovenia,SI130,SI,Municipality,Slovenia,Europe,Primary land,17.0,0.0,14.99050778,45.90852604,1825
 Chachoengsao,Thailand,TH24,TH,Province,Thailand,Asia,Primary land,17.0,0.0,101.449814,13.61113407,1826
 Surxondaryo,Uzbekistan,UZSU,UZ,Province,Uzbekistan,Asia,Primary land,17.0,0.0,67.47445293,38.03976257,1827
-Cauca,Colombia,COCAU,CO,Department,Colombia,South America,Primary land,35.0,4.0,-76.83574876,2.374094932,1828
+B_my_n,Afghanistan,AFBAM,AF,Province,Afghanistan,Asia,Primary land,16.0,1.0,67.29406682,34.81363022,1828
 Sar-e Pul,Afghanistan,AFSAR,AF,Province,Afghanistan,Asia,Primary land,16.0,0.0,66.17881251,35.64901805,1829
 Zabul,Afghanistan,AFZAB,AF,Province,Afghanistan,Asia,Primary land,16.0,0.0,67.11204522,32.24205993,1830
 Parw_n,Afghanistan,AFPAR,AF,Province,Afghanistan,Asia,Primary land,16.0,0.0,68.88161204,34.9422158,1831
@@ -2586,7 +2586,7 @@ Harari People,Ethiopia,ETHA,ET,State,Ethiopia,Africa,Primary land,,,42.17632916,
 Oromia,Ethiopia,ETOR,ET,State,Ethiopia,Africa,Primary land,,,38.71738198,7.524560975,2585
 Somali,Ethiopia,ETSO,ET,State,Ethiopia,Africa,Primary land,,,43.34810931,6.9491149,2586
 Southern Nations Nationalities and Peoples,Ethiopia,ETSN,ET,State,Ethiopia,Africa,Primary land,,,36.75298868,6.476538089,2587
-Semenawi Keyih Bahri,Eritrea,ERSK,ER,Region,Eritrea,Africa,Primary land,,,39.08612061,16.14949401,2588
+Tigrai,Ethiopia,ETTI,ET,State,Ethiopia,Africa,Primary land,,,38.4511861,13.79120116,2588
 Rotuma,Fiji,FJR,FJ,Dependency,Fiji,Oceania,Small island,,,177.0805117,-12.50314972,2589
 Rotuma,Fiji,FJR,FJ,Dependency,Fiji,Oceania,Very small island,,,177.083461,-12.51075337,2590
 Central,Fiji,FJC,FJ,Division,Fiji,Oceania,Small island,,,178.1745992,-18.33193683,2591
@@ -2624,7 +2624,7 @@ French Guiana,French Guiana,FRGF,FR,Overseas Region/Department,France,South Amer
 French Guiana,French Guiana,FRGF,FR,Overseas Region/Department,France,South America,Very small island,,,-52.72981858,4.817189842,2623
 French Polynesia,French Polynesia,FRPF,FR,Overseas Territorial Collectivity,France,Oceania,Very small island,,,-145.1020691,-16.93269022,2624
 French Polynesia,French Polynesia,FRPF,FR,Overseas Territorial Collectivity,France,Oceania,Small island,,,-143.5876715,-15.20104778,2625
-Bimini,Bahamas,BSBI,BS,District,Bahamas,North America,Very small island,,,-79.77389562,24.49784353,2626
+New Caledonia,New Caledonia,FRNC,FR,Overseas Territorial Collectivity,France,Oceania,Small island,,,166.0924348,-21.25297358,2626
 Black Point,Bahamas,BSBP,BS,District,Bahamas,North America,Small island,,,-76.36989564,24.05041309,2627
 New Caledonia,New Caledonia,FRNC,FR,Overseas Territorial Collectivity,France,Oceania,Small island,,,171.681324,-22.36642675,2628
 New Caledonia,New Caledonia,FRNC,FR,Overseas Territorial Collectivity,France,Oceania,Medium island,,,167.5047137,-21.15426153,2629
@@ -2633,7 +2633,7 @@ Wallis and Futuna,Wallis and Futuna,FRWF,FR,Overseas Territorial Collectivity,Fr
 Central Andros,Bahamas,BSCS,BS,District,Bahamas,North America,Small island,,,-77.85397144,24.28319646,2632
 Central Andros,Bahamas,BSCS,BS,District,Bahamas,North America,Very small island,,,-77.81537772,24.35166218,2633
 Guadeloupe,Guadeloupe,FRGP,FR,Overseas Region/Department,France,North America,Very small island,,,-61.55054435,16.13491784,2634
-Central Eleuthera,Bahamas,BSCE,BS,District,Bahamas,North America,Very small island,,,-76.27346761,25.22038733,2635
+Martinique,Martinique,FRMQ,FR,Overseas Region/Department,France,North America,Very small island,,,-60.89240855,14.58601751,2635
 Central Eleuthera,Bahamas,BSCE,BS,District,Bahamas,North America,Small island,,,-76.11932252,25.06617052,2636
 Saint Barthelemy,Saint Barthelemy,FRBL,FR,Overseas Territorial Collectivity,France,North America,Very small island,,,-62.84065573,17.93040586,2637
 Saint Martin,Saint Martin,FRMF,FR,Overseas Territorial Collectivity,France,North America,Small island,,,-62.97910449,18.11948659,2638
@@ -3766,7 +3766,7 @@ N_l_t,Libya,LYNL,LY,District,Libya,Africa,Primary land,,,10.9199458,30.2355213,3
 Sabh_,Libya,LYSB,LY,District,Libya,Africa,Primary land,,,14.99554135,27.0521723,3765
 Surt,Libya,LYSR,LY,District,Libya,Africa,Primary land,,,16.93102326,30.10136558,3766
 W_d_ al __ay_t,Libya,LYWD,LY,District,Libya,Africa,Primary land,,,12.63885458,26.35743736,3767
-Khuzestan,Iran,IR10,IR,Province,Iran,Asia,Very small island,,,49.10975717,30.37758232,3768
+W_d_ ash Sh__i,Libya,LYWS,LY,District,Libya,Africa,Primary land,,,12.79008397,27.89972124,3768
 Balzers,Liechtenstein,LI01,LI,Commune,Liechtenstein,Europe,Primary land,,,9.55014545,47.09662916,3769
 Eschen,Liechtenstein,LI02,LI,Commune,Liechtenstein,Europe,Primary land,,,9.530687064,47.20342761,3770
 Gamprin,Liechtenstein,LI03,LI,Commune,Liechtenstein,Europe,Primary land,,,9.520235,47.20942748,3771
@@ -3783,14 +3783,14 @@ Alytaus,Lithuania,LTAL,LT,County,Lithuania,Europe,Primary land,,,24.13386869,54.
 Hy?go,Japan,JP28,JP,Prefecture,Japan,Asia,Small island,,,134.9006963,34.63859245,3782
 Jambi,Indonesia,IDJA,ID,Province,Indonesia,Asia,Very small island,,,104.208054,-1.054153491,3783
 Izabal,Guatemala,GTIZ,GT,Department,Guatemala,North America,Primary land,,,-89.03301171,15.55506684,3784
-Sardegna,Italy,IT88,IT,Autonomous Region,Italy,Europe,Small island,,,8.607069498,39.9650159,3785
+Hy?go,Japan,JP28,JP,Prefecture,Japan,Asia,Very small island,,,134.6173105,34.63907973,3785
 Sicilia,Italy,IT82,IT,Autonomous Region,Italy,Europe,Very small island,,,13.50785452,37.7252501,3786
 Sicilia,Italy,IT82,IT,Autonomous Region,Italy,Europe,Small island,,,13.38583687,37.67581572,3787
 Hy?go,Japan,JP28,JP,Prefecture,Japan,Asia,Medium island,,,134.8383858,34.36316434,3788
 Jutiapa,Guatemala,GTJU,GT,Department,Guatemala,North America,Primary land,,,-89.89713035,14.21097014,3789
 Pet?n,Guatemala,GTPE,GT,Department,Guatemala,North America,Primary land,,,-90.01624576,16.97516134,3790
 Quetzaltenango,Guatemala,GTQZ,GT,Department,Guatemala,North America,Primary land,,,-91.71192844,14.78729351,3791
-Lazio,Italy,IT62,IT,Region,Italy,Europe,Small island,,,13.01742143,40.90251866,3792
+Quich?,Guatemala,GTQC,GT,Department,Guatemala,North America,Primary land,,,-90.9401098,15.44266674,3792
 Bok?,Guinea,GNB,GN,Region,Guinea,Africa,Small island,,,-14.54330158,10.54545082,3793
 Liguria,Italy,IT42,IT,Region,Italy,Europe,Very small island,,,9.179436599,44.07956437,3794
 Bok?,Guinea,GNB,GN,Region,Guinea,Africa,Primary land,,,-13.74294983,11.38201602,3795
@@ -5000,7 +5000,7 @@ Jubbada Hoose,Somalia,SOJH,SO,Province,Somalia,Africa,Very small island,,,42.171
 Jubbada Hoose,Somalia,SOJH,SO,Province,Somalia,Africa,Primary land,,,41.78630397,0.095599528,4999
 Mudug,Somalia,SOMU,SO,Province,Somalia,Africa,Primary land,,,48.04699985,6.42603507,5000
 Texas,United States,USTX,United States,State,United States,North America,Small island,,,-96.68225715,27.86666656,5001
-Amuria,Uganda,UG216,UG,District,Uganda,Africa,Primary land,,,33.68660118,2.105280676,5002
+Texas,United States,USTX,United States,State,United States,North America,Very small island,,,-96.83692168,27.76286256,5002
 Virginia,United States,USVA,United States,State,United States,North America,Small island,,,-75.87476984,37.40945678,5003
 Virginia,United States,USVA,United States,State,United States,North America,Very small island,,,-76.01548181,37.54270948,5004
 Washington,United States,USWA,United States,State,United States,North America,Small island,,,-122.8271579,48.11274791,5005
@@ -5705,7 +5705,7 @@ Andaluc?a,Spain,ESAN,ES,Autonomous Community,Spain,Europe,Small island,,,-6.9582
 Tristan da Cunha,Saint Helena,SHTC,SH,Overseas Territory,United Kingdom,Africa,Small island,,,-11.40560414,-38.40042706,5704
 Asturias,Spain,ESAS,ES,Autonomous Community,Spain,Europe,Very small island,,,-6.337001219,43.53936999,5705
 Cantabria,Spain,ESCB,ES,Autonomous Community,Spain,Europe,Very small island,,,-3.803560455,43.46970655,5706
-Baker Island,US Minor Outlying Islands,UM81,UM,Territory,United States,Oceania,Small island,,,-176.4781807,0.194784591,5707
+Galicia,Spain,ESGA,ES,Autonomous Community,Spain,Europe,Small island,,,-8.910594768,42.46262149,5707
 Galicia,Spain,ESGA,ES,Autonomous Community,Spain,Europe,Very small island,,,-8.778024203,42.80564385,5708
 Illes Balears,Spain,ESIB,ES,Autonomous Community,Spain,Europe,Small island,,,1.690130699,38.79438569,5709
 Johnston Atoll,US Minor Outlying Islands,UM67,UM,Territory,United States,Oceania,Small island,,,-169.5316532,16.73870711,5710
