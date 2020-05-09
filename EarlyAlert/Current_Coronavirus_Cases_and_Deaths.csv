@@ -35,7 +35,7 @@ Indiana,United States,https://www.worldometers.info/coronavirus/country/us/,Unit
 Virginia,United States,https://www.worldometers.info/coronavirus/country/us/,United States,VA,United States,North America,Primary land,22352.0,812.0,-78.84423614,37.52599266,34
 Ohio,United States,https://www.worldometers.info/coronavirus/country/us/,United States,OH,United States,North America,Primary land,22134.0,1274.0,-82.70557769,40.43348178,35
 Singapore,Singapore,https://www.moh.gov.sg/2019-ncov-wuhan,SG,Undifferentiated Area,Singapore,Asia,Small island,19410.0,18.0,103.8609507,1.323983767,36
-Singapore,Singapore,https://www.moh.gov.sg/2019-ncov-wuhan,SG,Undifferentiated Area,Singapore,Asia,Small island,19410.0,18.0,103.8609507,1.323983767,37
+Veneto,Italy,https://twitter.com/RvanderDonk1/status/1237108536011882498,IT,Region,Italy,Europe,Primary land,18373.0,1528.0,11.8395023,45.67259809,37
 Colorado,United States,https://www.worldometers.info/coronavirus/country/us/,United States,CO,United States,North America,Primary land,18371.0,944.0,-105.5479732,39.02688423,38
 Ontario,Canada,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,CA,Province,Canada,North America,Primary land,18310.0,1427.0,-86.014189,50.41643847,39
 Castilla y Leon,Spain,https://www.rtve.es/noticias/20200304/mapa-del-coronavirus-espana/2004681.shtml,ES,Autonomous Community,Spain,Europe,Primary land,17716.0,1876.0,-4.779718158,41.76805701,40
@@ -119,7 +119,7 @@ Utenos,Lithuania,LTUT,LT,County,Lithuania,Europe,Primary land,151.0,6.0,25.67040
 Khulna,Bangladesh,BDD,BD,Division,Bangladesh,Asia,Medium island,150.0,0.0,89.67063325,22.33813632,118
 Khulna,Bangladesh,BDD,BD,Division,Bangladesh,Asia,Medium island,150.0,0.0,89.67063325,22.33813632,119
 Vidin,Bulgaria,BG05,BG,Region,Bulgaria,Europe,Primary land,150.0,0.0,22.69773664,43.80424644,120
-Dnipropetrovs'ka,Ukraine,UA12,UA,Province,Ukraine,Europe,Primary land,150.0,1.0,34.84854523,48.30649034,121
+Gifu,Japan,https://www3.nhk.or.jp/news/html/20200304/k10012312901000.html,JP,Prefecture,Japan,Asia,Primary land,150.0,6.0,137.0499441,35.78468172,121
 Dnipropetrovs'ka,Ukraine,UA12,UA,Province,Ukraine,Europe,Primary land,150.0,1.0,34.84854523,48.30649034,122
 Antananarivo,Madagascar,MGT,MG,Province,Madagascar,Africa,Primary land,149.0,0.0,46.80807901,-18.94349523,123
 Guam,Guam,https://www.worldometers.info/coronavirus/country/us/,United States,GU,United States,Oceania,Small island,149.0,5.0,144.7770466,13.44352004,124
@@ -188,7 +188,7 @@ Siauliu,Lithuania,https://www.15min.lt/naujiena/aktualu/lietuva/koronavirusas-pa
 Ida-Virumaa,Estonia,https://koroonakaart.ee/en,EE,County,Estonia,Europe,Primary land,122.0,2.0,27.33794707,59.19245515,187
 Hukui,Japan,JP18,JP,Prefecture,Japan,Asia,Primary land,122.0,8.0,136.2232566,35.85094436,188
 D?mbovita,Romania,RODB,RO,Department,Romania,Europe,Primary land,122.0,2.0,25.48554129,44.86582326,189
-Yogyakarta,Indonesia,IDYO,ID,Special Region,Indonesia,Asia,Primary land,121.0,7.0,110.4416819,-7.892703117,190
+D?mbovita,Romania,RODB,RO,Department,Romania,Europe,Primary land,122.0,2.0,25.48554129,44.86582326,190
 Pulau Pinang,Malaysia,MY07,MY,State,Malaysia,Asia,Primary land,121.0,1.0,100.4609646,5.360969711,191
 Ad D_khil_yah,Oman,OMDA,OM,Governorate,Oman,Asia,Primary land,121.0,0.0,57.42110128,22.19289991,192
 Mu_la,Turkey,TR48,TR,Province,Turkey,Asia,Primary land,120.0,1.0,28.4927387,37.01334731,193
@@ -222,7 +222,7 @@ Jihomoravsk_,Czech Republic,https://onemocneni-aktualne.mzcr.cz/covid-19,CZ,Regi
 Karachayevo-Cherkesskaya,Russian Federation,RUKC,RU,Republic,Russian Federation,Europe,Primary land,453.0,2.0,41.75365161,43.77184274,221
 Innlandet,Norway,https://www.vg.no/spesial/2020/corona-viruset/,NO,County,Norway,Europe,Primary land,452.0,18.0,9.345503545,61.42362128,222
 Pomorskie,Poland,https://twitter.com/MZ_GOV_PL/status/1236731347571478531,PL,Province,Poland,Europe,Primary land,451.0,19.0,17.9747512,54.14987185,223
-Loja,Ecuador,https://www.salud.gob.ec/actualizacion-de-casos-de-coronavirus-en-ecuador/,EC,Province,Ecuador,South America,Primary land,316.0,16.0,-79.65931834,-4.092197078,224
+Yucat?n,Mexico,MXYUC,MX,State,Mexico,North America,Primary land,448.0,26.0,-88.93300267,20.76258815,224
 Khuzestan,Iran,https://en.irna.ir/,IR,Province,Iran,Asia,Primary land,444.0,4.0,48.97740895,31.52944345,225
 Antioquia,Colombia,COANT,CO,Department,Colombia,South America,Primary land,443.0,20.0,-75.56335052,6.931122941,226
 Zachodniopomorskie,Poland,https://twitter.com/MZ_GOV_PL/status/1236731347571478531,PL,Province,Poland,Europe,Primary land,441.0,14.0,15.59507239,53.57327962,227
@@ -232,7 +232,7 @@ Yerushalayim,Israel,https://www.jpost.com//Breaking-News/Breaking-28-Israelis-di
 Centre-Ouest,Burkina Faso,BF06,BF,Province,Burkina Faso,Africa,Primary land,437.0,29.0,-2.217144234,11.81412148,231
 Baja California Sur,Mexico,MXBCS,MX,State,Mexico,North America,Primary land,308.0,16.0,-112.0712841,25.95865053,232
 Rogaland,Norway,https://www.vg.no/spesial/2020/corona-viruset/,NO,County,Norway,Europe,Primary land,435.0,14.0,6.256283062,59.1068739,233
-Fej?r,Hungary,https://koronavirus.gov.hu/terkepek/fertozottek,HU,County,Hungary,Europe,Primary land,306.0,24.0,18.53768905,47.1323564,234
+Kandahar,Afghanistan,AFKAN,AF,Province,Afghanistan,Asia,Primary land,434.0,8.0,65.81072108,31.03943835,234
 Cluj,Romania,ROCJ,RO,Department,Romania,Europe,Primary land,428.0,4.0,23.5187337,46.78773813,235
 Arkhangel'skaya,Russian Federation,RUARK,RU,Oblast,Russian Federation,Europe,Primary land,305.0,1.0,49.49113967,68.58300362,236
 Quaratine,South Korea,http://ncov.mohw.go.kr/index_main.jsp,KR,Metropolitan City,South Korea,Asia,Primary land,426.0,0.0,128.5692355,35.83474138,237
@@ -259,9 +259,9 @@ Montevideo,Uruguay,UYMO,UY,Department,Uruguay,South America,Primary land,393.0,7
 Kronobergs,Sweden,SEG,SE,L?n,Sweden,Europe,Primary land,392.0,29.0,14.57380159,56.79553519,258
 Golestan,Iran,https://en.irna.ir/,IR,Province,Iran,Asia,Primary land,391.0,6.0,55.1367178,37.29316906,259
 Ky?vs'ka,Ukraine,UA32,UA,Province,Ukraine,Europe,Primary land,390.0,11.0,30.454682,50.30788062,260
-Kostromskaya,Russian Federation,RUKOS,RU,Oblast,Russian Federation,Europe,Primary land,278.0,3.0,43.80174061,58.46592666,261
-Bali,Indonesia,IDBA,ID,Province,Indonesia,Asia,Medium island,277.0,4.0,115.11619,-8.355536437,262
-Vestfold and Telemark,Norway,https://www.vg.no/spesial/2020/corona-viruset/,NO,County,Norway,Europe,Primary land,277.0,6.0,10.12756261,59.33030822,263
+Basilicata,Italy,https://twitter.com/RvanderDonk1/status/1237108536011882498,IT,Region,Italy,Europe,Primary land,386.0,25.0,16.07997923,40.50186239,261
+Jamtlands,Sweden,https://www.svd.se/tre-nya-fall-i-orebro--en-smittad-i-usa,SE,L?n,Sweden,Europe,Primary land,386.0,11.0,14.31888925,63.28844983,262
+Baghdad,Iraq,https://www.facebook.com/MOH.GOV.IQ/photos/a.860171854037214/2786981578022889/,IQ,Governorate,Iraq,Asia,Primary land,384.0,30.0,44.37949954,33.33269853,263
 Samsun,Turkey,TR55,TR,Province,Turkey,Asia,Primary land,382.0,1.0,36.006506,41.20520463,264
 Vrancea,Romania,ROVN,RO,Department,Romania,Europe,Primary land,380.0,13.0,26.97525298,45.7933592,265
 Podlaskie,Poland,https://twitter.com/MZ_GOV_PL/status/1236731347571478531,PL,Province,Poland,Europe,Primary land,379.0,6.0,22.92928936,53.27297089,266
@@ -282,7 +282,7 @@ Estuaire,Gabon,https://www.reuters.com/article/us-health-coronavirus-ghana-gabon
 Podkarpackie,Poland,https://twitter.com/MZ_GOV_PL/status/1236731347571478531,PL,Province,Poland,Europe,Primary land,366.0,24.0,22.16139682,49.9535023,281
 Kano,Nigeria,NGKN,NG,State,Nigeria,Africa,Primary land,365.0,8.0,8.55344946,11.75059247,282
 Tirane,Albania,https://www.facebook.com/MinistriaeShendetesisedheMbrojtjesSociale/photos/a.486584464785969/2594099957367732/,AL,County,Albania,Europe,Primary land,359.0,18.0,19.80695419,41.26837498,283
-Constanta,Romania,ROCT,RO,Department,Romania,Europe,Primary land,245.0,5.0,28.24732059,44.24402211,284
+Bratislavsky kraj,Slovakia,https://spectator.sme.sk/c/22352401/three-coronavirus-cases-in-slovakia.html,SK,Region,Slovakia,Europe,Primary land,357.0,4.0,17.17866004,48.31806203,284
 Fujian,China,https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=singlemessage&isappinstalled=0,CN,Province,China,Asia,Primary land,356.0,1.0,117.9782158,26.09658524,285
 Bol?var,Colombia,COBOL,CO,Department,Colombia,South America,Primary land,353.0,29.0,-74.50195573,8.749762106,286
 Jablanica,Serbia,RS23,RS,District,Serbia,Europe,Primary land,353.0,0.0,21.89804206,42.88870163,287
@@ -298,7 +298,7 @@ Balikesir,Turkey,TR10,TR,Province,Turkey,Asia,Primary land,345.0,5.0,27.89207101
 Mato Grosso,Brazil,https://twitter.com/minsaude/status/1236423393362264065,BR,State,Brazil,South America,Primary land,344.0,13.0,-55.90826902,-12.98147783,297
 Chaco,Argentina,ARH,AR,Province,Argentina,South America,Primary land,342.0,19.0,-60.75967662,-26.39947117,298
 Ljubljana,Slovenia,https://www.gov.si/en/news/2020-03-12-slovenia-declares-coronavirus-epidemic/,SI,Municipality,Slovenia,Europe,Primary land,341.0,16.0,14.56889276,46.05254993,299
-Kayseri,Turkey,TR38,TR,Province,Turkey,Asia,Primary land,225.0,1.0,35.83741413,38.63487291,300
+V?sterbottens,Sweden,https://www.svd.se/tre-nya-fall-i-orebro--en-smittad-i-usa,SE,L?n,Sweden,Europe,Primary land,336.0,17.0,17.80387519,64.88703715,300
 Coimbra,Portugal,PT06,PT,District,Portugal,Europe,Primary land,335.0,13.0,-8.331701269,40.20497262,301
 Murmanskaya,Russian Federation,RUMUR,RU,Oblast,Russian Federation,Europe,Primary land,2101.0,4.0,34.52364275,67.85450554,302
 Dagestan,Russian Federation,RUDA,RU,Republic,Russian Federation,Europe,Primary land,2086.0,14.0,46.86458532,43.07476145,303
@@ -311,7 +311,7 @@ Illes Balears,Spain,https://www.rtve.es/noticias/20200304/mapa-del-coronavirus-e
 Valais,Switzerland,https://www.swissinfo.ch/eng/covid-19_switzerland-confirms-second-coronavirus-case/45582788?utm_content=o&utm_campaign=own-posts&utm_medium=socialflow&utm_source=twitter,CH,Canton,Switzerland,Europe,Primary land,1893.0,144.0,7.608721987,46.21020386,310
 Praha,Czech Republic,https://onemocneni-aktualne.mzcr.cz/covid-19,CZ,City,Czech Republic,Europe,Primary land,1846.0,87.0,14.46577692,50.06666652,311
 Piura,Peru,PEPIU,PE,Region,Peru,South America,Primary land,1804.0,23.0,-80.35336084,-5.119455382,312
-Saskatchewan,Canada,CASK,CA,Province,Canada,North America,Primary land,467.0,6.0,-105.9002356,54.79284582,313
+Schleswig-Holstein,Germany,https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/?fbclid=IwAR04HlqzakGaNssQzbz4d8o8R3gz0C910U8tvfYlBT6P0lVJJvHfk9uS2rc,DE,State,Germany,Europe,Primary land,1799.0,118.0,9.808266518,54.18159125,313
 Bern,Switzerland,https://www.swissinfo.ch/eng/covid-19_switzerland-confirms-second-coronavirus-case/45582788?utm_content=o&utm_campaign=own-posts&utm_medium=socialflow&utm_source=twitter,CH,Canton,Switzerland,Europe,Primary land,1798.0,90.0,7.627862163,46.8191565,314
 Steiermark,Austria,https://www.sozialministerium.at/Informationen-zum-Coronavirus/Neuartiges-Coronavirus-(2019-nCov).html,AT,State,Austria,Europe,Primary land,1777.0,134.0,15.01133028,47.27066345,315
 Dolnoslaskie,Poland,https://twitter.com/MZ_GOV_PL/status/1236731347571478531,PL,Province,Poland,Europe,Primary land,1769.0,57.0,16.39987843,51.07793352,316
@@ -330,7 +330,7 @@ Osaka,Japan,https://www3.nhk.or.jp/news/html/20200304/k10012312901000.html,JP,Pr
 Unknown Locations,Germany,DESH,DE,State,Germany,Europe,Primary land,1614.0,49.0,11.0,52.0,329
 Wielkopolskie,Poland,https://twitter.com/MZ_GOV_PL/status/1236731347571478531,PL,Province,Poland,Europe,Primary land,1598.0,97.0,17.24584809,52.31424745,330
 Loreto,Peru,PELOR,PE,Region,Peru,South America,Primary land,1595.0,26.0,-74.42003162,-4.127601136,331
-Brestskaya,Belarus,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Belarus,BY,Oblast,Belarus,Europe,Primary land,435.0,2.0,25.4878272,52.38538833,332
+Ostergotlands,Sweden,https://www.svd.se/tre-nya-fall-i-orebro--en-smittad-i-usa,SE,L?n,Sweden,Europe,Primary land,1593.0,134.0,15.65816436,58.3651498,332
 Sachsen-Anhalt,Germany,https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/?fbclid=IwAR04HlqzakGaNssQzbz4d8o8R3gz0C910U8tvfYlBT6P0lVJJvHfk9uS2rc,DE,State,Germany,Europe,Primary land,1592.0,46.0,11.69333781,52.00851447,333
 Guangdong,China,https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=singlemessage&isappinstalled=0,CN,Province,China,Asia,Primary land,1588.0,8.0,113.4216452,23.37890599,334
 Paran?,Brazil,https://veja.abril.com.br/saude/brasil-passa-de-121-para-176-casos-de-coronavirus-confirmados/,BR,State,Brazil,South America,Primary land,1562.0,94.0,-51.62733973,-24.63935648,335
@@ -341,7 +341,7 @@ Alagoas,Brazil,https://veja.abril.com.br/saude/brasil-passa-de-121-para-176-caso
 Krung Thep Maha Nakhon (bangkok),Thailand,https://pr.moph.go.th/?url=pr/detail/2/04/139288/,TH,Metropolitan Administration,Thailand,Asia,Primary land,1515.0,20.0,100.6223092,13.76995269,340
 Murcia,Spain,https://www.rtve.es/noticias/20200308/mapa-del-coronavirus-espana/2004681.shtml,ES,Autonomous Community,Spain,Europe,Primary land,1504.0,137.0,-1.484661011,38.00416327,341
 Budapest,Hungary,https://koronavirus.gov.hu/terkepek/fertozottek,HU,Capital City,Hungary,Europe,Primary land,1503.0,220.0,19.1092458,47.48451926,342
-Yerushalayim,Israel,https://www.jpost.com//Breaking-News/Breaking-28-Israelis-diagnosed-with-coronavirus-Health-Ministry-620244,IL,District,Israel,Asia,Primary land,1481.0,10.0,35.00637075,31.74328458,343
+Bissau,Guinea-Bissau,GWBS,GW,Region,Guinea-Bissau,Africa,Primary land,413.0,1.0,-15.59985837,11.8839513,343
 Bretagne,France,https://www.bfmtv.com/sante/en-direct-coronavirus-test-stade-3-epidemie-ecoles-gel-masques-oise-haut-rhin-morts-contaminations/,FR,Metropolitan Region,France,Europe,Primary land,1458.0,222.0,-2.840119847,48.18451934,344
 Distrito Nacional,Dominican Republic,DO01,DO,District,Dominican Republic,North America,Primary land,1457.0,35.0,-69.94560892,18.48607902,345
 Krasnodyarskiy,Russian Federation,RUKDA,RU,Kray,Russian Federation,Europe,Primary land,1437.0,21.0,39.45902912,45.28519355,346
@@ -391,7 +391,7 @@ Alborz,Iran,https://en.irna.ir/,IR,Province,Iran,Asia,Primary land,1177.0,12.0,5
 Vinnyts'ka,Ukraine,UA05,UA,Province,Ukraine,Europe,Primary land,349.0,0.0,28.68504899,48.9265797,390
 Severnaya Osetiya,Russian Federation,RUSE,RU,Republic,Russian Federation,Europe,Primary land,1160.0,7.0,44.26134571,43.09323967,391
 Ancash,Peru,PEANC,PE,Region,Peru,South America,Primary land,1159.0,11.0,-77.68849661,-9.397945656,392
-Balkh,Afghanistan,https://ariananews.af/two-new-covid-19-cases-tested-positive-afghanistan/,AF,Province,Afghanistan,Asia,Primary land,346.0,13.0,67.11924147,36.64690978,393
+Cavite,Philippines,PHCAV,PH,Province,Philippines,Asia,Primary land,1150.0,76.0,120.8699645,14.26216488,393
 Leningradskaya,Russian Federation,RULEN,RU,Oblast,Russian Federation,Europe,Primary land,1149.0,3.0,31.74094879,59.95634646,394
 Uppsala,Sweden,https://www.svd.se/tre-nya-fall-i-orebro--en-smittad-i-usa,SE,L?n,Sweden,Europe,Primary land,1146.0,115.0,17.67073503,60.04683528,395
 Valle d'Aosta,Italy,https://twitter.com/RvanderDonk1/status/1237108536011882498,IT,Autonomous Region,Italy,Europe,Primary land,1143.0,139.0,7.388451771,45.73057083,396
@@ -423,7 +423,7 @@ Tabasco,Mexico,MXTAB,MX,State,Mexico,North America,Primary land,984.0,124.0,-92.
 Santa Cruz,Bolivia,https://eldeber.com.bo/169041_confirman-dos-casos-de-coronavirus-en-bolivia,BO,Department,Bolivia,South America,Primary land,979.0,44.0,-61.51052791,-17.24356941,422
 Republika Srpska,Bosnia and Herzegovina,https://avaz.ba/vijesti/bih/552474/ministar-seranic-zarazeno-i-dijete-skola-zatvorena,BA,Autonomous Entity,Bosnia and Herzegovina,Europe,Primary land,969.0,42.0,18.04069986,44.24594527,423
 Tabasco,Mexico,MXTAB,MX,State,Mexico,North America,Primary land,984.0,124.0,-92.58639384,17.93019888,424
-Santa Cruz,Bolivia,https://eldeber.com.bo/169041_confirman-dos-casos-de-coronavirus-en-bolivia,BO,Department,Bolivia,South America,Primary land,979.0,44.0,-61.51052791,-17.24356941,425
+Basel City,Switzerland,https://www.swissinfo.ch/eng/covid-19_switzerland-confirms-second-coronavirus-case/45582788?utm_content=o&utm_campaign=own-posts&utm_medium=socialflow&utm_source=twitter,CH,Canton,Switzerland,Europe,Primary land,962.0,50.0,7.610462834,47.5628832,425
 Heilongjiang,China,https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=singlemessage&isappinstalled=0,CN,Province,China,Asia,Primary land,944.0,13.0,127.6579959,48.04457916,426
 Vladimirskaya,Russian Federation,RUVLA,RU,Oblast,Russian Federation,Europe,Primary land,944.0,12.0,40.67811484,56.01822741,427
 Basel City,Switzerland,https://www.swissinfo.ch/eng/covid-19_switzerland-confirms-second-coronavirus-case/45582788?utm_content=o&utm_campaign=own-posts&utm_medium=socialflow&utm_source=twitter,CH,Canton,Switzerland,Europe,Primary land,962.0,50.0,7.610462834,47.5628832,428
@@ -434,7 +434,7 @@ Los R?os,Ecuador,https://www.salud.gob.ec/actualizacion-de-casos-de-coronavirus-
 Stredocesky,Czech Republic,https://onemocneni-aktualne.mzcr.cz/covid-19,CZ,Region,Czech Republic,Europe,Primary land,924.0,22.0,14.547456,50.00056155,433
 Mordoviya,Russian Federation,RUMO,RU,Republic,Russian Federation,Europe,Primary land,923.0,5.0,44.45996471,54.36609139,434
 Bremen,Germany,https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/?fbclid=IwAR04HlqzakGaNssQzbz4d8o8R3gz0C910U8tvfYlBT6P0lVJJvHfk9uS2rc,DE,State,Germany,Europe,Primary land,917.0,32.0,8.755432028,53.19400481,435
-Stredocesky,Czech Republic,https://onemocneni-aktualne.mzcr.cz/covid-19,CZ,Region,Czech Republic,Europe,Primary land,924.0,22.0,14.547456,50.00056155,436
+Vermont,United States,https://www.worldometers.info/coronavirus/country/us/,United States,VT,United States,North America,Primary land,916.0,53.0,-72.66083838,44.08550942,436
 Tambovskaya,Russian Federation,RUTAM,RU,Oblast,Russian Federation,Europe,Primary land,909.0,2.0,41.58587587,52.68990209,437
 Saitama,Japan,https://www3.nhk.or.jp/news/html/20200304/k10012312901000.html,JP,Prefecture,Japan,Asia,Primary land,903.0,37.0,139.3442264,36.0002317,438
 Centre,Cameroon,https://fr-fr.facebook.com/MINSANTE.PageOfficielle/photos/a.1480278031987670/3360924203923034/,CM,Region,Cameroon,Africa,Primary land,901.0,43.0,11.82320821,4.667342663,439
@@ -442,7 +442,7 @@ Riga,Latvia,http://www.leta.lv/home/important/B38ABA0D-11DC-4602-8932-81FFBC3902
 Dalarnas,Sweden,https://sverigesradio.se/artikel/7425886,SE,L?n,Sweden,Europe,Primary land,895.0,102.0,14.33477612,60.97431482,441
 Jonkopings,Sweden,https://www.svd.se/tre-nya-fall-i-orebro--en-smittad-i-usa,SE,Lan,Sweden,Europe,Primary land,887.0,85.0,14.43507971,57.50945536,442
 Markazi,Iran,https://en.irna.ir/,IR,Province,Iran,Asia,Primary land,882.0,15.0,49.99989956,34.60893081,443
-Dalarnas,Sweden,https://sverigesradio.se/artikel/7425886,SE,L?n,Sweden,Europe,Primary land,895.0,102.0,14.33477612,60.97431482,444
+Vorarlberg,Austria,https://www.sozialministerium.at/Informationen-zum-Coronavirus/Neuartiges-Coronavirus-(2019-nCov).html,AT,State,Austria,Europe,Primary land,874.0,18.0,9.894773314,47.24287193,444
 Larnaka,Cyprus,CY03,CY,District,Cyprus,Asia,Primary land,874.0,15.0,33.48723329,34.91220455,445
 Vestland,Norway,https://www.vg.no/spesial/2020/corona-viruset/,NO,County,Norway,Europe,Primary land,871.0,19.0,6.384057001,60.35060431,446
 Krasnoyarskiy,Russian Federation,RUKYA,RU,Kray,Russian Federation,Asia,Primary land,868.0,12.0,96.42313146,69.78550394,447
@@ -612,7 +612,7 @@ Zabaykal'skiy,Russian Federation,RUZAB,RU,Kray,Russian Federation,Asia,Primary l
 Aveiro,Portugal,PT01,PT,District,Portugal,Europe,Primary land,86.0,0.0,-8.467657932,40.72260083,611
 Sums'ka,Ukraine,UA59,UA,Province,Ukraine,Europe,Primary land,86.0,4.0,34.11960988,51.1172455,612
 El Beni,Bolivia,BOB,BO,Department,Bolivia,South America,Primary land,212.0,6.0,-65.25238757,-13.78039395,613
-Kalimantan Selatan (south),Indonesia,IDKS,ID,Province,Indonesia,Asia,Primary land,212.0,9.0,115.4409237,-2.923333206,614
+Bangui,Central African Republic,https://nationalpost.com/pmn/health-pmn/central-african-republic-confirms-first-coronavirus-case-who,CF,Autonomous Commune,Central African Republic,Africa,Primary land,85.0,0.0,18.54356959,4.401756451,614
 Zadarska,Croatia,https://www.koronavirus.hr/en,HR,County,Croatia,Europe,Primary land,85.0,1.0,15.69271766,44.21965196,615
 Nuevo Le?n,Mexico,MXNLE,MX,State,Mexico,North America,Primary land,334.0,16.0,-99.97400351,25.57739956,616
 Alberta,Canada,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,CA,Province,Canada,North America,Primary land,5836.0,104.0,-114.5609794,55.48838183,617
@@ -622,9 +622,9 @@ Aguascalientes,Mexico,MXAGU,MX,State,Mexico,North America,Primary land,205.0,6.0
 Mauritius,Mauritius,MU,MU,Undifferentiated Area,Mauritius,Africa,Medium island,332.0,10.0,57.57283094,-20.28203758,621
 Nevada,United States,https://www.worldometers.info/coronavirus/country/us/,United States,NV,United States,North America,Primary land,5766.0,286.0,-116.6669545,39.41414637,622
 Udmurtskaya,Russian Federation,RUUD,RU,Republic,Russian Federation,Europe,Primary land,332.0,10.0,52.79918712,57.18661489,623
-Nei Mongol,China,https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=singlemessage&isappinstalled=0,CN,Autonomous Region,China,Asia,Primary land,201.0,1.0,114.2275683,44.45573378,624
-Nari?o,Colombia,CONAR,CO,Department,Colombia,South America,Primary land,201.0,8.0,-77.84276541,1.528683218,625
-Irkutskaya,Russian Federation,RUIRK,RU,Oblast,Russian Federation,Asia,Primary land,200.0,4.0,106.6025638,57.42870822,626
+Utah,United States,https://www.worldometers.info/coronavirus/country/us/,United States,UT,United States,North America,Primary land,5724.0,61.0,-111.6823676,39.36426736,624
+Sakha,Russian Federation,RUSA,RU,Republic,Russian Federation,Asia,Primary land,331.0,4.0,130.1981609,66.85724941,625
+District of Columbia,United States,https://www.worldometers.info/coronavirus/country/us/,United States,DC,United States,North America,Primary land,5654.0,285.0,-77.01414534,38.91002916,626
 Bacau,Romania,ROBC,RO,Department,Romania,Europe,Primary land,330.0,8.0,26.76639528,46.42596315,627
 Toyama,Japan,JP16,JP,Prefecture,Japan,Asia,Primary land,213.0,10.0,137.264816,36.6404267,628
 Sankt-Peterburg,Russian Federation,https://ria.ru/20200302/1566843474.html,RU,Federal City,Russian Federation,Europe,Primary land,5572.0,37.0,30.21490347,59.92411645,629
@@ -654,7 +654,7 @@ Khakasiya,Russian Federation,RUKK,RU,Republic,Russian Federation,Asia,Primary la
 Arbil,Iraq,https://www.facebook.com/156490947738645/posts/2789237301130650/,IQ,Governorate,Iraq,Asia,Primary land,208.0,1.0,44.20314827,36.34680583,653
 Navarra,Spain,https://www.rtve.es/noticias/20200304/mapa-del-coronavirus-espana/2004681.shtml,ES,Autonomous Community,Spain,Europe,Primary land,5006.0,484.0,-1.644277004,42.66991486,654
 Orhei,Moldova,MDOR,MD,District,Moldova,Europe,Primary land,317.0,3.0,28.71613862,47.55329098,655
-Ilam,Iran,https://en.irna.ir/,IR,Province,Iran,Asia,Primary land,183.0,2.0,46.92042412,33.09943002,656
+Melaka,Malaysia,MY04,MY,State,Malaysia,Asia,Primary land,207.0,1.0,102.3055144,2.324517063,656
 Geneva,Switzerland,https://www.swissinfo.ch/eng/covid-19_switzerland-confirms-second-coronavirus-case/45582788?utm_content=o&utm_campaign=own-posts&utm_medium=socialflow&utm_source=twitter,CH,Canton,Switzerland,Europe,Primary land,4949.0,253.0,6.130282379,46.22129718,657
 Amazonas,Colombia,COAMA,CO,Department,Colombia,South America,Primary land,182.0,9.0,-71.50117149,-1.535515106,658
 Cherkas'ka,Ukraine,UA71,UA,Province,Ukraine,Europe,Primary land,206.0,2.0,31.3578434,49.26448872,659
@@ -683,7 +683,7 @@ Luxembourg,Luxembourg,https://www.sudinfo.be/id170416/article/2020-02-29/un-prem
 Uusimaa,Finland,https://thl.fi/fi/-/suomessa-on-todettu-viisi-uutta-koronavirustartuntaa?redirect=%2Ffi%2F,FI,Region,Finland,Europe,Primary land,3787.0,94.0,24.76872184,60.37118838,682
 Bahia,Brazil,https://veja.abril.com.br/saude/brasil-passa-de-121-para-176-casos-de-coronavirus-confirmados/,BR,State,Brazil,South America,Primary land,3734.0,141.0,-41.70320102,-12.49463724,683
 Arkansas,United States,https://www.worldometers.info/coronavirus/country/us/,United States,AR,United States,North America,Primary land,3694.0,88.0,-92.43714004,34.91725711,684
-Tokat,Turkey,TR60,TR,Province,Turkey,Asia,Primary land,172.0,3.0,36.54540527,40.3468621,685
+Al Manamah,Bahrain,https://www.moh.gov.bh/COVID19,BH,Governorate,Bahrain,Asia,Primary land,3679.0,8.0,50.56738519,26.22260123,685
 Tamil Nadu,India,https://pib.gov.in/PressReleseDetail.aspx?PRID=1605744,IN,State,India,Asia,Primary land,3550.0,31.0,78.4039331,11.03310066,686
 Tyrol,Austria,https://www.sozialministerium.at/Informationen-zum-Coronavirus/Neuartiges-Coronavirus-(2019-nCov).html,AT,State,Austria,Europe,Primary land,3509.0,105.0,11.50231656,47.19654779,687
 Zurich,Switzerland,https://www.swissinfo.ch/eng/covid-19_switzerland-confirms-second-coronavirus-case/45582788?utm_content=o&utm_campaign=own-posts&utm_medium=socialflow&utm_source=twitter,CH,Canton,Switzerland,Europe,Primary land,3509.0,124.0,8.65525944,47.41480444,688
@@ -700,11 +700,11 @@ Rajasthan,India,https://pib.gov.in/PressReleseDetail.aspx?PRID=1605744,IN,State,
 Madhya Pradesh,India,INMP,IN,State,India,Asia,Primary land,3049.0,176.0,78.31929853,23.55608731,699
 New South Wales,Australia,https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert,AU,State,Australia,Australia,Primary land,3035.0,44.0,146.9996757,-32.23804363,700
 Nizhegorodskaya,Russian Federation,https://ria.ru/20200302/1566843474.html,RU,Oblast,Russian Federation,Europe,Primary land,3026.0,16.0,44.62690794,56.34659483,701
-Hirosima,Japan,JP34,JP,Prefecture,Japan,Asia,Primary land,165.0,2.0,132.7849033,34.62342286,702
+Suceava,Romania,ROSV,RO,Department,Romania,Europe,Primary land,3010.0,105.0,25.74006994,47.55292244,702
 Lambayeque,Peru,PELAM,PE,Region,Peru,South America,Primary land,3008.0,39.0,-79.83258413,-6.343944864,703
 Brandenburg,Germany,https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/?fbclid=IwAR04HlqzakGaNssQzbz4d8o8R3gz0C910U8tvfYlBT6P0lVJJvHfk9uS2rc,DE,State,Germany,Europe,Primary land,3006.0,151.0,13.3994118,52.48251753,704
 Abruzzo,Italy,https://twitter.com/RvanderDonk1/status/1237108536011882498,IT,Region,Italy,Europe,Primary land,3000.0,332.0,13.85546281,42.22875436,705
-Rajshahi,Bangladesh,BDE,BD,Division,Bangladesh,Asia,Primary land,115.0,0.0,89.03074676,24.60030496,706
+Oregon,United States,https://www.worldometers.info/coronavirus/country/us/,United States,OR,United States,North America,Primary land,2989.0,121.0,-120.5460723,43.96600174,706
 Vastra Gotalands,Sweden,https://www.svd.se/tre-nya-fall-i-orebro--en-smittad-i-usa,SE,L?n,Sweden,Europe,Primary land,2971.0,246.0,12.88556481,58.31599278,707
 Utrecht,Netherlands,https://www.rivm.nl/nieuws/actuele-informatie-over-coronavirus,NL,Province,Netherlands,Europe,Primary land,2964.0,357.0,5.176810814,52.10522733,708
 Distrito Capital de Bogot?,Colombia,https://www.larepublica.co/economia/se-confirmo-el-primer-caso-de-covid-19-en-colombia-en-una-joven-de-19-anos-2973846,CO,Capital District,Colombia,South America,Primary land,2958.0,114.0,-74.18175709,4.328543118,709
@@ -714,7 +714,7 @@ Federal Prisions,United States,https://www.worldometers.info/coronavirus/country
 _zmir,Turkey,TR35,TR,Province,Turkey,Asia,Primary land,2884.0,18.0,27.30261939,38.4836315,713
 Uttar Pradesh,India,https://pib.gov.in/PressReleseDetail.aspx?PRID=1605744,IN,State,India,Asia,Primary land,2859.0,53.0,80.55061584,26.94372463,714
 New Hampshire,United States,https://www.worldometers.info/coronavirus/country/us/,United States,NH,United States,North America,Primary land,2843.0,114.0,-71.57736216,43.697189,715
-Oruro,Bolivia,https://eldeber.com.bo/169041_confirman-dos-casos-de-coronavirus-en-bolivia,BO,Department,Bolivia,South America,Primary land,111.0,7.0,-67.70798039,-18.66242846,716
+Overijssel,Netherlands,https://www.rivm.nl/nieuws/actuele-informatie-over-coronavirus,NL,Province,Netherlands,Europe,Primary land,2800.0,278.0,6.439905241,52.44814797,716
 Slaskie,Poland,https://twitter.com/MZ_GOV_PL/status/1236731347571478531,PL,Province,Poland,Europe,Primary land,2790.0,133.0,19.01288453,50.33568058,717
 Navajo Nation,Reservation,https://www.worldometers.info/coronavirus/country/us/,Territory,Territory,United States,North America,Primary land,2654.0,85.0,109.344,35.4022,718
 Niederosterreich,Austria,https://www.sozialministerium.at/Informationen-zum-Coronavirus/Neuartiges-Coronavirus-(2019-nCov).html,AT,State,Austria,Europe,Primary land,2650.0,95.0,15.75119197,48.27578293,719
@@ -753,10 +753,10 @@ Michoac?n,Mexico,MXMIC,MX,State,Mexico,North America,Primary land,313.0,42.0,-10
 Trabzon,Turkey,TR61,TR,Province,Turkey,Asia,Primary land,200.0,5.0,39.81420405,40.797626,752
 Luzern,Switzerland,https://www.swissinfo.ch/eng/covid-19_switzerland-confirms-second-coronavirus-case/45582788?utm_content=o&utm_campaign=own-posts&utm_medium=socialflow&utm_source=twitter,CH,Canton,Switzerland,Europe,Primary land,709.0,18.0,8.107892289,47.06827729,753
 Yerushalayim,Israel,https://www.jpost.com//Breaking-News/Breaking-28-Israelis-diagnosed-with-coronavirus-Health-Ministry-620244,IL,District,Israel,Asia,Primary land,310.0,2.0,34.9,32.0,754
-Nor_urland eystra,Iceland,https://www.mbl.is/frettir/innlent/2020/03/16/1_733_i_sottkvi_og_180_smitadir/,IS,Region,Iceland,Europe,Primary land,97.0,0.0,-17.15407014,65.55630277,755
+Denizli,Turkey,TR20,TR,Province,Turkey,Asia,Primary land,200.0,2.0,29.26430577,37.73618955,755
 Olomoucky,Czech Republic,https://onemocneni-aktualne.mzcr.cz/covid-19,CZ,Region,Czech Republic,Europe,Primary land,702.0,15.0,17.19008233,49.78166807,756
 Arica y Parinacota,Chile,CLAP,CL,Region,Chile,South America,Primary land,308.0,4.0,-69.62403093,-18.48879617,757
-Pcinja,Serbia,RS24,RS,District,Serbia,Europe,Primary land,97.0,0.0,22.09606354,42.51567242,758
+Baja California Sur,Mexico,MXBCS,MX,State,Mexico,North America,Primary land,308.0,16.0,-112.0712841,25.95865053,758
 Shaanxi,China,https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=singlemessage&isappinstalled=0,CN,Province,China,Asia,Primary land,306.0,3.0,108.8877839,35.28089341,759
 Fej?r,Hungary,https://koronavirus.gov.hu/terkepek/fertozottek,HU,County,Hungary,Europe,Primary land,306.0,24.0,18.53768905,47.1323564,760
 Pahang,Malaysia,MY06,MY,State,Malaysia,Asia,Primary land,305.0,2.0,102.5416414,3.734353593,761
@@ -777,7 +777,7 @@ Ardabil,Iran,https://en.irna.ir/,IR,Province,Iran,Asia,Primary land,289.0,3.0,48
 Varsinais-Suomi,Finland,https://thl.fi/fi/-/suomessa-on-todettu-viisi-uutta-koronavirustartuntaa?redirect=%2Ffi%2F,FI,Region,Finland,Europe,Primary land,288.0,8.0,22.64732952,60.62677659,776
 Norrbottens,Sweden,https://www.svd.se/tre-nya-fall-i-orebro--en-smittad-i-usa,SE,L?n,Sweden,Europe,Primary land,288.0,38.0,20.08324642,67.00576722,777
 Ben Arous,Tunisia,https://covid-19.tn/blog/13-%d8%a3%d9%81%d8%b1%d9%8a%d9%84-%d8%a7%d9%84%d9%88%d8%b6%d8%b9-%d8%a7%d9%84%d9%88%d8%a8%d8%a7%d8%a6%d9%8a-%d8%a7%d9%84%d9%8a%d9%88%d9%85%d9%8a-%d9%84%d9%81%d9%8a%d8%b1%d9%88%d8%b3-%d8%a7%d9%84/,TN,Governorate,Tunisia,Africa,Primary land,91.0,3.0,10.22533426,36.61699991,778
-Uri,Switzerland,CHUR,CH,Canton,Switzerland,Europe,Primary land,91.0,7.0,8.630383308,46.77412049,779
+Kyoto,Japan,https://www3.nhk.or.jp/news/html/20200304/k10012312901000.html,JP,Prefecture,Japan,Asia,Primary land,286.0,8.0,135.4396879,35.25781474,779
 Nusa Tenggara Barat (west),Indonesia,IDNB,ID,Province,Indonesia,Asia,Large island,285.0,4.0,117.8578648,-8.631033241,780
 Arusha,Tanzania,https://www.voanews.com/science-health/coronavirus-outbreak/tanzania-confirms-first-case-coronavirus,TZ,Region,Tanzania,Africa,Primary land,284.0,10.0,36.04262226,-3.083326628,781
 Klaipedos,Lithuania,LTKL,LT,County,Lithuania,Europe,Primary land,283.0,6.0,21.55519362,55.70370185,782
@@ -795,8 +795,8 @@ Antalya,Turkey,TR07,TR,Province,Turkey,Asia,Primary land,270.0,2.0,30.95063346,3
 Tocantins,Brazil,BRTO,BR,State,Brazil,South America,Primary land,267.0,6.0,-48.32092109,-10.14143746,794
 Ishikawa,Japan,https://www3.nhk.or.jp/news/html/20200304/k10012312901000.html,JP,Prefecture,Japan,Asia,Primary land,267.0,13.0,136.7697561,36.77245342,795
 Guanajuato,Mexico,MXGUA,MX,State,Mexico,North America,Primary land,263.0,24.0,-101.0162597,20.90364572,796
-Karbala',Iraq,https://www.facebook.com/MOH.GOV.IQ/photos/a.860171854037214/2786981578022889/,IQ,Governorate,Iraq,Asia,Primary land,86.0,6.0,43.82309614,32.47576867,797
-Aveiro,Portugal,PT01,PT,District,Portugal,Europe,Primary land,86.0,0.0,-8.467657932,40.72260083,798
+Oran,Algeria,http://covid19.sante.gov.dz/carte/,DZ,Province,Algeria,Africa,Primary land,261.0,13.0,-0.568421216,35.64001411,797
+Hidalgo,Mexico,MXHID,MX,State,Mexico,North America,Primary land,261.0,30.0,-98.88800487,20.47358513,798
 Ville de Kigali,Rwanda,https://www.theeastafrican.co.ke/scienceandhealth/Rwanda-coronavirus-cases/3073694-5493772-156tke0/index.html,RW,Town Council,Rwanda,Africa,Primary land,261.0,0.0,30.11919435,-1.979749234,799
 Newfoundland and Labrador,Canada,CANL,CA,Province,Canada,North America,Primary land,259.0,3.0,-60.69561648,53.16481689,800
 Huenuco,Peru,https://elcomercio.pe/peru/coronavirus-en-peru-ministra-de-salud-confirma-dos-nuevo-casos-en-el-pais-ambos-en-huanuco-nndc-noticia/,PE,Region,Peru,South America,Primary land,255.0,1.0,-76.01356885,-9.442131538,801
@@ -817,7 +817,7 @@ Neuchatel,Switzerland,https://www.swissinfo.ch/eng/covid-19_switzerland-confirms
 Hefa,Israel,https://www.jpost.com//Breaking-News/Breaking-28-Israelis-diagnosed-with-coronavirus-Health-Ministry-620244,IL,District,Israel,Asia,Primary land,242.0,2.0,35.01678574,32.61370444,816
 Tekirda_,Turkey,TR59,TR,Province,Turkey,Europe,Primary land,240.0,0.0,27.39766356,41.0936437,817
 Varmlands,Sweden,https://www.svd.se/tre-nya-fall-i-orebro--en-smittad-i-usa,SE,L?n,Sweden,Europe,Primary land,240.0,16.0,13.15456962,59.78256137,818
-Gyeonggido,South Korea,http://ncov.mohw.go.kr/index_main.jsp,KR,Province,South Korea,Asia,Primary land,681.0,16.0,127.1802853,37.53764183,819
+Kordestan,Iran,https://en.irna.ir/,IR,Province,Iran,Asia,Primary land,238.0,3.0,47.02421944,35.74270449,819
 Kwazulu-Natal,South Africa,http://www.nicd.ac.za/third-confirmed-case-of-covid-19-in-south-africa/,ZA,Province,South Africa,Africa,Primary land,671.0,23.0,30.72167365,-28.7418327,820
 Pirkanmaa,Finland,https://thl.fi/fi/-/suomessa-on-todettu-viisi-uutta-koronavirustartuntaa?redirect=%2Ffi%2F,FI,Region,Finland,Europe,Primary land,236.0,8.0,23.72435529,61.70943654,821
 Kosicky kraj,Slovakia,SKKI,SK,Region,Slovakia,Europe,Primary land,236.0,4.0,21.26603932,48.69765007,822
@@ -874,7 +874,7 @@ Hokkaido,Japan,https://www3.nhk.or.jp/news/html/20200304/k10012312901000.html,JP
 Sichuan,China,https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=singlemessage&isappinstalled=0,CN,Province,China,Asia,Primary land,561.0,3.0,102.7342203,30.6598919,873
 Kujawsko-pomorskie,Poland,https://twitter.com/MZ_GOV_PL/status/1236731347571478531,PL,Province,Poland,Europe,Primary land,561.0,30.0,18.48547282,53.06390403,874
 Beijing,China,https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=singlemessage&isappinstalled=0,CN,Municipality,China,Asia,Primary land,593.0,9.0,116.408001,40.20121548,875
-Uthuru,Maldives,https://en.sun.mv/58602,MV,Administrative Atoll,Maldives,Asia,Small island,557.0,1.0,73.31425386,5.609636851,876
+Tyumenskaya,Russian Federation,https://ria.ru/20200302/1566843474.html,RU,Oblast,Russian Federation,Asia,Primary land,589.0,4.0,69.16479021,57.73835264,876
 San Marino,San Marino,https://www.sanmarinortv.sm/news/attualita-c4/coronavirus-e-morto-il-sammarinese-ricoverato-a-rimini-a184415,SM,Undifferentiated Country,San Marino,Europe,Primary land,589.0,41.0,12.46291297,43.93870406,877
 Ivano-Frankivs'ka,Ukraine,UA26,UA,Province,Ukraine,Europe,Primary land,589.0,37.0,24.61776516,48.70308152,878
 Azuay,Ecuador,https://www.salud.gob.ec/actualizacion-de-casos-de-coronavirus-en-ecuador/,EC,Province,Ecuador,South America,Primary land,551.0,16.0,-79.18228414,-3.00695544,879
@@ -904,7 +904,7 @@ Ul'yanovskaya,Russian Federation,RUULY,RU,Oblast,Russian Federation,Europe,Prima
 Jersey,Jersey,JE,JE,Crown Dependency,United Kingdom,Europe,Small island,544.0,41.0,-2.132803928,49.21375741,903
 Alger,Algeria,http://covid19.sante.gov.dz/carte/,DZ,Province,Algeria,Africa,Primary land,543.0,111.0,3.196735992,36.71058872,904
 Hunedoara,Romania,http://www.ms.ro/2020/03/07/2-noi-cazuri-de-persoane-care-sunt-infectate-cu-noul-coronavirus/,RO,Department,Romania,Europe,Primary land,541.0,25.0,22.93983258,45.73943344,905
-Delaware,United States,https://www.worldometers.info/coronavirus/country/us/,United States,DE,United States,North America,Primary land,5939.0,202.0,-75.50666805,38.99474557,906
+Friesland,Netherlands,https://www.rivm.nl/nieuws/actuele-informatie-over-coronavirus,NL,Province,Netherlands,Europe,Primary land,535.0,59.0,5.867388637,53.09002501,906
 Astrakhanskaya,Russian Federation,RUAST,RU,Oblast,Russian Federation,Europe,Primary land,535.0,6.0,47.33569146,47.10181454,907
 Neamt,Romania,RONT,RO,Department,Romania,Europe,Primary land,534.0,10.0,26.36687005,46.9701798,908
 Botosani,Romania,ROBT,RO,Department,Romania,Europe,Primary land,534.0,3.0,26.75665121,47.8568476,909
@@ -1049,7 +1049,7 @@ Amasya,Turkey,TR05,TR,Province,Turkey,Asia,Primary land,55.0,1.0,35.70783319,40.
 Strumica,North Macedonia,MK73,MK,Municipality,North Macedonia,Europe,Primary land,2.0,0.0,22.63780518,41.39643025,1048
 Probistip,North Macedonia,MK63,MK,Municipality,North Macedonia,Europe,Primary land,2.0,1.0,22.12153464,41.98029668,1049
 Kicevo,North Macedonia,MK40,MK,Municipality,North Macedonia,Europe,Primary land,2.0,0.0,20.96341146,41.52688555,1050
-Tochigi,Japan,https://www3.nhk.or.jp/news/html/20200304/k10012312901000.html,JP,Prefecture,Japan,Asia,Primary land,54.0,0.0,139.8117303,36.69266486,1051
+Makedonski Brod,North Macedonia,MK52,MK,Municipality,North Macedonia,Europe,Primary land,2.0,0.0,21.21800809,41.65170755,1051
 Pehcevo,North Macedonia,MK60,MK,Municipality,North Macedonia,Europe,Primary land,2.0,0.0,22.90733266,41.77807514,1052
 Vinica,North Macedonia,MK14,MK,Municipality,North Macedonia,Europe,Primary land,2.0,0.0,22.57423657,41.85699027,1053
 Al Wus_?,Oman,OMWU,OM,Governorate,Oman,Asia,Primary land,2.0,0.0,56.53736449,20.01161925,1054
@@ -1068,13 +1068,13 @@ Kri_evci,Slovenia,SI166,SI,Municipality,Slovenia,Europe,Primary land,2.0,0.0,16.
 Log-Dragomer,Slovenia,SI208,SI,Municipality,Slovenia,Europe,Primary land,2.0,0.0,14.38018228,46.01049099,1067
 Morav_e,Slovenia,SI077,SI,Municipality,Slovenia,Europe,Primary land,2.0,0.0,14.75957694,46.13021434,1068
 Pesnica,Slovenia,SI089,SI,Municipality,Slovenia,Europe,Primary land,2.0,0.0,15.71468821,46.60957491,1069
-Debar,North Macedonia,MK21,MK,Municipality,North Macedonia,Europe,Primary land,51.0,4.0,20.59137818,41.51790434,1070
+Ptuj,Slovenia,SI096,SI,Municipality,Slovenia,Europe,Primary land,2.0,0.0,15.87817952,46.43553404,1070
 Rade_e,Slovenia,SI099,SI,Municipality,Slovenia,Europe,Primary land,2.0,0.0,15.14696847,46.05332608,1071
 Ribnica na Pohorju,Slovenia,SI177,SI,Municipality,Slovenia,Europe,Primary land,2.0,1.0,15.26560869,46.51761006,1072
 Macva,Serbia,RS08,RS,District,Serbia,Europe,Primary land,51.0,0.0,19.50718426,44.56275725,1073
-Panjshayr,Afghanistan,AFPAN,AF,Province,Afghanistan,Asia,Primary land,50.0,0.0,69.77307334,35.43665227,1074
+Slovenske Konjice,Slovenia,SI114,SI,Municipality,Slovenia,Europe,Primary land,2.0,0.0,15.46237025,46.31775872,1074
 Tabor,Slovenia,SI184,SI,Municipality,Slovenia,Europe,Primary land,2.0,0.0,15.00826071,46.2154547,1075
-Pinar del R?o,Cuba,CU01,CU,Province,Cuba,North America,Primary land,50.0,2.0,-83.86037595,22.35926181,1076
+Turni__e,Slovenia,SI132,SI,Municipality,Slovenia,Europe,Primary land,2.0,0.0,16.31683011,46.61245107,1076
 Woqooyi Galbeed,Somalia,SOWO,SO,Province,Somalia,Africa,Primary land,2.0,0.0,44.52659045,9.871543777,1077
 Negenahira,Sri Lanka,LK5,LK,Province,Sri Lanka,Asia,Small island,2.0,0.0,81.66863446,7.741984114,1078
 Negenahira,Sri Lanka,LK5,LK,Province,Sri Lanka,Asia,Very small island,2.0,0.0,81.60602331,7.810829749,1079
@@ -1099,7 +1099,7 @@ Canillo,Andorra,AD02,AD,Parish,Andorra,Europe,Primary land,1.0,0.0,1.659466472,4
 Jijel,Algeria,http://covid19.sante.gov.dz/carte/,DZ,Province,Algeria,Africa,Primary land,46.0,5.0,6.000974596,36.68722852,1098
 Escaldes-Engordany,Andorra,AD08,AD,Parish,Andorra,Europe,Primary land,1.0,0.0,1.592429634,42.48707023,1099
 A?n T?mouchent,Algeria,http://covid19.sante.gov.dz/carte/,DZ,Province,Algeria,Africa,Primary land,46.0,4.0,-1.043605362,35.33599867,1100
-Yoro,Honduras,HNYO,HN,Department,Honduras,North America,Primary land,46.0,3.0,-87.20519224,15.30495034,1101
+Ordino,Andorra,AD05,AD,Parish,Andorra,Europe,Primary land,1.0,0.0,1.534568896,42.60722817,1101
 Nor_urland vestra,Iceland,IS5,IS,Region,Iceland,Europe,Primary land,46.0,0.0,-19.70942148,65.32823221,1102
 Vayoc Jor,Armenia,AMVD,AM,Province,Armenia,Asia,Primary land,1.0,0.0,45.45495174,39.76948138,1103
 Naxchivan,Azerbaijan,AZNV,AZ,City,Azerbaijan,Asia,Primary land,1.0,0.0,45.40239066,39.20979135,1104
@@ -1150,7 +1150,7 @@ Logar,Afghanistan,https://ariananews.af/two-new-covid-19-cases-tested-positive-a
 Nouakchott,Mauritania,https://www.africanews.com/2020/03/14/mauritania-confirms-first-coronavirus-case//,MR,District,Mauritania,Africa,Primary land,8.0,1.0,-15.90295228,18.16998931,1149
 Armavir,Armenia,AMAV,AM,Province,Armenia,Asia,Primary land,83.0,0.0,44.03734718,40.12903143,1150
 Upper East,Ghana,GHUE,GH,Region,Ghana,Africa,Primary land,19.0,0.0,-0.805181994,10.78031419,1151
-Nakhon Ratchasima,Thailand,TH30,TH,Province,Thailand,Asia,Primary land,18.0,0.0,102.1140616,14.96085314,1152
+Lubombo,Swaziland,https://ewn.co.za/2020/03/14/eswatini-reports-first-confirmed-case-of-coronavirus,SZ,District,Swaziland,Africa,Primary land,31.0,1.0,31.84403082,-26.54653556,1152
 Cesar,Colombia,COCES,CO,Department,Colombia,South America,Primary land,62.0,6.0,-73.51054243,9.488555867,1153
 Arauca,Colombia,COARA,CO,Department,Colombia,South America,Primary land,44.0,1.0,-70.94819048,6.569717171,1154
 Enugu,Nigeria,NGEN,NG,State,Nigeria,Africa,Primary land,8.0,0.0,7.421733061,6.509151779,1155
@@ -1230,7 +1230,7 @@ K?r_ehir,Turkey,TR40,TR,Province,Turkey,Asia,Primary land,23.0,0.0,34.14337287,3
 Maldonado,Uruguay,UYMA,UY,Department,Uruguay,South America,Primary land,23.0,1.0,-54.86444695,-34.55927043,1229
 Guanacaste,Costa Rica,CRG,CR,Province,Costa Rica,North America,Primary land,22.0,0.0,-85.39224928,10.44614129,1230
 Brodsko-posavska,Croatia,https://www.koronavirus.hr/en,HR,County,Croatia,Europe,Primary land,22.0,1.0,17.73659006,45.20045122,1231
-Negenahira,Sri Lanka,LK5,LK,Province,Sri Lanka,Asia,Primary land,45.0,1.0,81.40561655,7.748319021,1232
+Peloponnisos,Greece,https://www.keeptalkinggreece.com/2020/03/10/coronavirus-greece-updates-march10/,GR,Region,Greece,Europe,Primary land,22.0,0.0,22.45964117,37.34726675,1232
 Intibuc?,Honduras,HNIN,HN,Department,Honduras,North America,Primary land,8.0,1.0,-88.21003866,14.33211213,1233
 Al Basrah,Iraq,IQBA,IQ,Governorate,Iraq,Asia,Small island,22.0,0.0,48.08917179,30.33738401,1234
 Albay,Philippines,PHALB,PH,Province,Philippines,Asia,Primary land,22.0,2.0,123.5723351,13.20680593,1235
@@ -1272,7 +1272,7 @@ Gy?r-Moson-Sopron,Hungary,https://koronavirus.gov.hu/terkepek/fertozottek,HU,Cou
 Kaduna,Nigeria,NGKD,NG,State,Nigeria,Africa,Primary land,81.0,1.0,7.715155155,10.35799923,1271
 Veles,North Macedonia,MK13,MK,Municipality,North Macedonia,Europe,Primary land,81.0,3.0,21.73163322,41.75803824,1272
 Tambacounda,Senegal,SNTC,SN,Region,Senegal,Africa,Primary land,81.0,0.0,-13.22296807,13.88734895,1273
-Ionia Nisia,Greece,GRVI,GR,Region,Greece,Europe,Medium island,13.0,0.0,20.25460864,38.84736005,1274
+Caldas,Colombia,COCAL,CO,Department,Colombia,South America,Primary land,80.0,2.0,-75.30244827,5.349045611,1274
 Cabo Delgado,Mozambique,MZP,MZ,Province,Mozambique,Africa,Primary land,80.0,0.0,39.35024265,-12.46978556,1275
 Cotabato City,Philippines,PH,PH,Province,Philippines,Asia,Primary land,44.0,1.0,124.2502925,7.200237916,1276
 Sinop,Turkey,TR57,TR,Province,Turkey,Asia,Primary land,80.0,1.0,34.8562218,41.61395136,1277
@@ -1322,7 +1322,7 @@ Takh_r,Afghanistan,AFTAK,AF,Province,Afghanistan,Asia,Primary land,70.0,4.0,69.7
 Djelfa,Algeria,DZ17,DZ,Province,Algeria,Africa,Primary land,70.0,5.0,3.593754596,34.34352093,1321
 Atacama,Chile,CLAT,CL,Region,Chile,South America,Primary land,70.0,0.0,-69.90684183,-27.407619,1322
 Sulawesi Tengah (central),Indonesia,IDST,ID,Province,Indonesia,Asia,Primary land,70.0,3.0,121.0860719,-0.971369937,1323
-Balti,Moldova,MDBA,MD,District,Moldova,Europe,Primary land,72.0,1.0,27.80822687,47.69568823,1324
+Gorj,Romania,https://www.antena3.ro/actualitate/surse-primul-roman-confirmat-cu-coronavirus-560472.html,RO,Department,Romania,Europe,Primary land,70.0,1.0,23.3179952,45.00643555,1324
 Mehedinti,Romania,https://en.wikipedia.org/wiki/2020_coronavirus_outbreak_in_Romania,RO,Department,Romania,Europe,Primary land,72.0,3.0,22.79275074,44.58286063,1325
 ?anakkale,Turkey,TR17,TR,Province,Turkey,Asia,Primary land,70.0,2.0,26.82815884,39.97497672,1326
 Van,Turkey,TR65,TR,Province,Turkey,Asia,Primary land,70.0,0.0,43.59434631,38.51947115,1327
@@ -1403,7 +1403,7 @@ Zinder,Niger,NE7,NE,Region,Niger,Africa,Primary land,1.0,0.0,10.0149729,14.98828
 Saint Martin,Saint Martin,FRMF,FR,Overseas Territorial Collectivity,France,North America,Primary land,38.0,2.0,-63.06237276,18.07828003,1402
 Central,Ghana,GHCP,GH,Region,Ghana,Africa,Primary land,38.0,0.0,-1.209096208,5.565297468,1403
 Wayamba,Sri Lanka,LK6,LK,Province,Sri Lanka,Asia,Primary land,38.0,0.0,80.11211727,7.785269941,1404
-Valandovo,North Macedonia,MK10,MK,Municipality,North Macedonia,Europe,Primary land,1.0,0.0,22.52083434,41.34140894,1405
+La Manouba,Tunisia,https://covid-19.tn/blog/13-%d8%a3%d9%81%d8%b1%d9%8a%d9%84-%d8%a7%d9%84%d9%88%d8%b6%d8%b9-%d8%a7%d9%84%d9%88%d8%a8%d8%a7%d8%a6%d9%8a-%d8%a7%d9%84%d9%8a%d9%88%d9%85%d9%8a-%d9%84%d9%81%d9%8a%d8%b1%d9%88%d8%b3-%d8%a7%d9%84/,TN,Governorate,Tunisia,Africa,Primary land,38.0,5.0,9.843168317,36.78984197,1405
 Kuk?s,Albania,AL7,AL,County,Albania,Europe,Primary land,37.0,1.0,20.2418318,42.19752059,1406
 Smolyan,Bulgaria,BG21,BG,Region,Bulgaria,Europe,Primary land,37.0,1.0,24.66946845,41.65233817,1407
 Peravia,Dominican Republic,DO17,DO,Province,Dominican Republic,North America,Primary land,37.0,1.0,-70.3667163,18.31970921,1408
@@ -1428,7 +1428,7 @@ Sabaragamuwa,Sri Lanka,LK9,LK,Province,Sri Lanka,Asia,Primary land,35.0,0.0,80.4
 Wakiso,Uganda,UG113,UG,District,Uganda,Africa,Primary land,35.0,0.0,32.44561417,0.222662601,1427
 Abu Dhabi,United Arab Emirates,AEAZ,AE,Emirate,United Arab Emirates,Asia,Primary land,35.0,0.0,53.80965952,24.18479649,1428
 T?bessa,Algeria,http://covid19.sante.gov.dz/carte/,DZ,Province,Algeria,Africa,Primary land,34.0,3.0,7.848609796,34.97803869,1429
-Kobilje,Slovenia,SI047,SI,Municipality,Slovenia,Europe,Primary land,1.0,0.0,16.3918099,46.67968852,1430
+Sisacko-moslavacka,Croatia,https://www.koronavirus.hr/en,HR,County,Croatia,Europe,Primary land,34.0,0.0,16.37801678,45.38054401,1430
 Wasit,Iraq,https://www.facebook.com/MOH.GOV.IQ/photos/a.860171854037214/2786981578022889/,IQ,Governorate,Iraq,Asia,Primary land,34.0,2.0,45.71201409,32.67238453,1431
 Stip,North Macedonia,MK83,MK,Municipality,North Macedonia,Europe,Primary land,34.0,2.0,22.14147298,41.69383863,1432
 Ilocos Norte,Philippines,PHILN,PH,Province,Philippines,Asia,Primary land,34.0,1.0,120.7279944,18.19715749,1433
@@ -1466,18 +1466,18 @@ Semic,Slovenia,SI109,SI,Municipality,Slovenia,Europe,Primary land,8.0,0.0,15.152
 Suphan Buri,Thailand,TH72,TH,Province,Thailand,Asia,Primary land,5.0,0.0,99.89413395,14.6088938,1465
 Kastamonu,Turkey,TR37,TR,Province,Turkey,Asia,Primary land,61.0,0.0,33.66402144,41.4808749,1466
 Krabi,Thailand,TH81,TH,Province,Thailand,Asia,Primary land,19.0,0.0,99.00470523,8.180170273,1467
-Flores,Uruguay,UYFS,UY,Department,Uruguay,South America,Primary land,1.0,0.0,-56.89338635,-33.57397881,1468
+Repartriated,Canada,https://www.tvanouvelles.ca/2020/03/17/en-direct--les-derniers-developpements-sur-le-coronavirus,CA,Territory,Canada,North America,Primary land,13.0,0.0,-86.014189,50.41643847,1468
 Ordubad,Azerbaijan,AZORD,AZ,Rayon,Azerbaijan,Asia,Primary land,1.0,0.0,45.93826454,39.04331641,1469
 Sveta Ana,Slovenia,SI181,SI,Municipality,Slovenia,Europe,Primary land,8.0,0.0,15.84107466,46.64351037,1470
 Le Kef,Tunisia,https://covid-19.tn/blog/13-%d8%a3%d9%81%d8%b1%d9%8a%d9%84-%d8%a7%d9%84%d9%88%d8%b6%d8%b9-%d8%a7%d9%84%d9%88%d8%a8%d8%a7%d8%a6%d9%8a-%d8%a7%d9%84%d9%8a%d9%88%d9%85%d9%8a-%d9%84%d9%81%d9%8a%d8%b1%d9%88%d8%b3-%d8%a7%d9%84/,TN,Governorate,Tunisia,Africa,Primary land,5.0,1.0,8.675199311,36.03979121,1471
 Mostaganem,Algeria,http://covid19.sante.gov.dz/carte/,DZ,Province,Algeria,Africa,Primary land,60.0,3.0,0.36049242,35.97376028,1472
 Bizerte,Tunisia,https://covid-19.tn/blog/13-%d8%a3%d9%81%d8%b1%d9%8a%d9%84-%d8%a7%d9%84%d9%88%d8%b6%d8%b9-%d8%a7%d9%84%d9%88%d8%a8%d8%a7%d8%a6%d9%8a-%d8%a7%d9%84%d9%8a%d9%88%d9%85%d9%8a-%d9%84%d9%81%d9%8a%d8%b1%d9%88%d8%b3-%d8%a7%d9%84/,TN,Governorate,Tunisia,Africa,Primary land,19.0,1.0,9.613140524,37.07741173,1473
-Zamfara,Nigeria,NGZA,NG,State,Nigeria,Africa,Primary land,13.0,1.0,6.185530158,12.10333801,1474
-Pivka,Slovenia,SI091,SI,Municipality,Slovenia,Europe,Primary land,8.0,0.0,14.24465556,45.67814938,1475
+Monte Plata,Dominican Republic,https://listindiario.com/la-republica/2020/03/01/606407/se-registra-primer-caso-de-coronavirus-en-rd,DO,Province,Dominican Republic,North America,Primary land,13.0,3.0,-69.79786495,18.83521441,1474
+Qazax,Azerbaijan,AZQAZ,AZ,Rayon,Azerbaijan,Asia,Primary land,1.0,0.0,45.2146208,41.16333366,1475
 Udon Thani,Thailand,TH41,TH,Province,Thailand,Asia,Primary land,8.0,0.0,102.8919322,17.41764451,1476
-Navoiy,Uzbekistan,UZNW,UZ,Province,Uzbekistan,Asia,Primary land,3.0,0.0,64.34429396,41.99588925,1477
+Sidi Bouzid,Tunisia,https://covid-19.tn/blog/13-%d8%a3%d9%81%d8%b1%d9%8a%d9%84-%d8%a7%d9%84%d9%88%d8%b6%d8%b9-%d8%a7%d9%84%d9%88%d8%a8%d8%a7%d8%a6%d9%8a-%d8%a7%d9%84%d9%8a%d9%88%d9%85%d9%8a-%d9%84%d9%81%d9%8a%d8%b1%d9%88%d8%b3-%d8%a7%d9%84/,TN,Governorate,Tunisia,Africa,Primary land,5.0,1.0,9.510327879,34.87440934,1477
 Quind?o,Colombia,COQUI,CO,Department,Colombia,South America,Primary land,60.0,2.0,-75.68046289,4.482373377,1478
-Kisela Voda,North Macedonia,MK39,MK,Municipality,North Macedonia,Europe,Primary land,30.0,0.0,21.4811102,41.94578106,1479
+Jizzax,Uzbekistan,UZJI,UZ,Province,Uzbekistan,Asia,Primary land,19.0,0.0,67.68374169,40.36612822,1479
 Hiiumaa,Estonia,https://koroonakaart.ee/en,EE,County,Estonia,Europe,Medium island,13.0,1.0,22.63284369,58.88747746,1480
 Zamboanga City,Philippines,PH,PH,Province,Philippines,Asia,Primary land,13.0,2.0,122.1345593,7.136165765,1481
 Xa?maz,Azerbaijan,AZXAC,AZ,Rayon,Azerbaijan,Asia,Primary land,1.0,0.0,48.7576807,41.55995228,1482
@@ -2095,7 +2095,7 @@ Moh?li,Comoros,KMM,KM,Autonomous Island,Comoros,Africa,Very small island,,,43.72
 Bouenza,Congo,CG11,CG,Department,Congo,Africa,Primary land,,,13.55970175,-4.066794608,2094
 Kouilou,Congo,CG5,CG,Department,Congo,Africa,Small island,,,11.76756409,-4.412110273,2095
 Ou?m?,Benin,BJOU,BJ,Department,Benin,Africa,Very small island,,,2.588880988,6.464197788,2096
-Ou?m?,Benin,BJOU,BJ,Department,Benin,Africa,Primary land,,,2.571313338,6.661898366,2097
+L?koumou,Congo,CG2,CG,Department,Congo,Africa,Primary land,,,13.50173903,-3.107213132,2097
 Likouala,Congo,CG7,CG,Department,Congo,Africa,Primary land,,,17.44617035,1.915440486,2098
 Niari,Congo,CG9,CG,Department,Congo,Africa,Primary land,,,12.46862665,-3.139540906,2099
 Plateaux,Congo,CG14,CG,Department,Congo,Africa,Primary land,,,15.39132159,-2.098322499,2100
@@ -2117,8 +2117,8 @@ Bas-Sassandra,C?te d'Ivoire,CI09,CI,Region,Cote d'Ivoire,Africa,Very small islan
 Bas-Sassandra,C?te d'Ivoire,CI09,CI,Region,Cote d'Ivoire,Africa,Small island,,,-6.092357829,4.980793905,2116
 Bas-Sassandra,C?te d'Ivoire,CI09,CI,Region,Cote d'Ivoire,Africa,Primary land,,,-6.752231479,5.360623667,2117
 Dengu?l?,C?te d'Ivoire,CI10,CI,Region,Cote d'Ivoire,Africa,Primary land,,,-7.386388812,9.635557247,2118
-Gaborone,Botswana,BWGA,BW,City,Botswana,Africa,Primary land,,,25.85256104,-24.77889145,2119
-Chobe,Botswana,BWCH,BW,District,Botswana,Africa,Primary land,,,24.80704437,-18.51343065,2120
+Fromager,C?te d'Ivoire,CI18,CI,Region,Cote d'Ivoire,Africa,Primary land,,,-5.860618411,6.229573811,2119
+Haut-Sassandra,C?te d'Ivoire,CI02,CI,Region,Cote d'Ivoire,Africa,Primary land,,,-6.602499898,7.028158045,2120
 Ghanzi,Botswana,BWGH,BW,District,Botswana,Africa,Primary land,,,22.59844129,-22.30405764,2121
 Lagunes,C?te d'Ivoire,CI01,CI,Region,Cote d'Ivoire,Africa,Small island,,,-4.163605909,5.25419909,2122
 Lagunes,C?te d'Ivoire,CI01,CI,Region,Cote d'Ivoire,Africa,Very small island,,,-4.273544851,5.262915062,2123
@@ -2132,15 +2132,15 @@ Toshkent,Uzbekistan,https://www.reuters.com/article/us-health-coronavirus-uzbeki
 Sud-Como?,C?te d'Ivoire,CI13,CI,Region,Cote d'Ivoire,Africa,Very small island,,,-3.249565484,5.162289864,2131
 Esp?rito Santo,Brazil,BRES,BR,State,Brazil,South America,Small island,,,-35.44763071,-19.92293499,2132
 Khulna,Bangladesh,BDD,BD,Division,Bangladesh,Asia,Primary land,,,89.2348993,23.17934354,2133
-Maranh?o,Brazil,BRMA,BR,State,Brazil,South America,Small island,,,-44.43586046,-2.099060519,2134
+Apure,Venezuela,VEC,VE,State,Venezuela,South America,Primary land,1.0,0.0,-68.80103704,7.143248569,2134
 Maranh?o,Brazil,BRMA,BR,State,Brazil,South America,Very small island,,,-44.44898563,-1.959420318,2135
 Pernambuco,Brazil,BRPE,BR,State,Brazil,South America,Small island,,,-34.23393931,-6.736699774,2136
 Obock,Djibouti,DJOB,DJ,Region,Djibouti,Africa,Primary land,,,43.08601705,12.27835515,2137
 Obock,Djibouti,DJOB,DJ,Region,Djibouti,Africa,Small island,,,43.14722276,12.71669568,2138
-Para?ba,Brazil,BRPB,BR,State,Brazil,South America,Very small island,,,-34.86250353,-7.090713029,2139
+South,Cameroon,CMSU,CM,Region,Cameroon,Africa,Very small island,,,9.993206894,3.231068561,2139
 Sud-Como?,C?te d'Ivoire,CI13,CI,Region,Cote d'Ivoire,Africa,Primary land,,,-3.123602389,5.532413427,2140
 Dhaka,Bangladesh,BDC,BD,Division,Bangladesh,Asia,Medium island,,,90.34692657,23.23245021,2141
-Arta,Djibouti,DJAR,DJ,Region,Djibouti,Africa,Primary land,,,42.69005904,11.44173861,2142
+Kie-Ntem,Equatorial Guinea,GQKN,GQ,Province,Equatorial Guinea,Africa,Primary land,,,10.94886725,1.998278642,2142
 Western Australia,Australia,AUWA,AU,State,Australia,Australia,Medium island,,,113.0540533,-25.7945171,2143
 Obock,Djibouti,DJOB,DJ,Region,Djibouti,Africa,Very small island,,,43.40975857,12.47945865,2144
 Pernambuco,Brazil,BRPE,BR,State,Brazil,South America,Very small island,,,-34.38925386,-7.141996714,2145
@@ -2148,7 +2148,7 @@ Jarvis Bay Territory,Australia,AUACT,AU,Territory,Australia,Australia,Small isla
 South,Cameroon,CMSU,CM,Region,Cameroon,Africa,Small island,,,9.924965889,3.258232802,2147
 M?rida,Venezuela,VEL,VE,State,Venezuela,South America,Primary land,1.0,0.0,-71.2933554,8.516152483,2148
 Litoral,Equatorial Guinea,GQLI,GQ,Province,Equatorial Guinea,Africa,Small island,,,9.437347969,0.967180659,2149
-Rio Grande do Norte,Brazil,BRRN,BR,State,Brazil,South America,Very small island,,,-36.51240335,-5.177528885,2150
+Vall?e du Bandama,C?te d'Ivoire,CI04,CI,Region,Cote d'Ivoire,Africa,Primary land,,,-4.963900636,8.251377571,2150
 Northern Territory,Australia,AUNT,AU,Territory,Australia,Australia,Small island,,,134.7401837,-12.93844134,2151
 Dubrovacko-neretvanska,Croatia,HR19,HR,County,Croatia,Europe,Small island,,,17.09377743,42.86316073,2152
 Cojedes,Venezuela,VEH,VE,State,Venezuela,South America,Primary land,1.0,0.0,-68.3487109,9.335973396,2153
@@ -2173,7 +2173,7 @@ Primorsko-goranska,Croatia,HR08,HR,County,Croatia,Europe,Medium island,,,14.4037
 Wele-Nz?s,Equatorial Guinea,GQWN,GQ,Province,Equatorial Guinea,Africa,Primary land,,,10.99886577,1.48503814,2172
 Northwest Territories,Canada,CANT,CA,Territory,Canada,North America,Large island,,,-116.2496335,77.18323823,2173
 Rio de Janeiro,Brazil,BRRJ,BR,State,Brazil,South America,Small island,,,-43.83805247,-23.01316468,2174
-Splitsko-dalmatinska,Croatia,HR17,HR,County,Croatia,Europe,Small island,,,16.57974855,43.23617489,2175
+Barisal,Bangladesh,BDA,BD,Division,Bangladesh,Asia,Very small island,,,90.520433,22.17044162,2175
 Zadarska,Croatia,HR13,HR,County,Croatia,Europe,Small island,,,15.04675482,44.11517411,2176
 Debub,Eritrea,ERDU,ER,Region,Eritrea,Africa,Primary land,,,38.90581289,14.81152707,2177
 Khanh Hoa,Vietnam,https://ncov.moh.gov.vn/,VN,Province,Vietnam,Asia,Primary land,1.0,0.0,109.028847,12.32699601,2178
@@ -2187,11 +2187,11 @@ Nunavut,Canada,CANU,CA,Territory,Canada,North America,Very small island,,,-82.83
 Bac Ninh,Vietnam,https://ncov.moh.gov.vn/,VN,Province,Vietnam,Asia,Primary land,1.0,0.0,106.1050796,21.10895436,2186
 Barisal,Bangladesh,BDA,BD,Division,Bangladesh,Asia,Medium island,,,90.34705349,22.37572547,2187
 Rio Grande do Norte,Brazil,BRRN,BR,State,Brazil,South America,Small island,,,-36.55923017,-5.096607449,2188
-Holgu?n,Cuba,CU11,CU,Province,Cuba,North America,Very small island,,,-75.36258505,20.71719228,2189
+Debubawi Keyih Bahri,Eritrea,ERDK,ER,Region,Eritrea,Africa,Very small island,,,42.35705367,13.39713683,2189
 Saint John,Dominica,DM05,DM,Parish,Dominica,North America,Primary land,,,-61.44183759,15.56264511,2190
 Queensland,Australia,AUQLD,AU,State,Australia,Australia,Small island,,,147.2044771,-19.07352265,2191
 Dubrovacko-neretvanska,Croatia,HR19,HR,County,Croatia,Europe,Very small island,,,17.19513002,42.79747337,2192
-Matanzas,Cuba,CU04,CU,Province,Cuba,North America,Small island,,,-80.94313683,22.98840795,2193
+Hai Duong,Vietnam,https://ncov.moh.gov.vn/,VN,Province,Vietnam,Asia,Primary land,1.0,0.0,106.3658945,20.92972452,2193
 Nunavut,Canada,CANU,CA,Territory,Canada,North America,Small island,,,-85.20590273,70.82676796,2194
 Chittagong,Bangladesh,BDB,BD,Division,Bangladesh,Asia,Small island,,,91.07386747,22.70230521,2195
 Rio Grande do Norte,Brazil,BRRN,BR,State,Brazil,South America,Very small island,,,-36.51240335,-5.177528885,2196
@@ -2200,8 +2200,8 @@ Saint Joseph,Dominica,DM06,DM,Parish,Dominica,North America,Primary land,,,-61.3
 Queensland,Australia,AUQLD,AU,State,Australia,Australia,Very small island,,,147.3750191,-18.50452615,2199
 Istarska,Croatia,HR18,HR,County,Croatia,Europe,Small island,,,13.7564052,44.91451973,2200
 Ben Tre,Vietnam,https://ncov.moh.gov.vn/,VN,Province,Vietnam,Asia,Primary land,1.0,0.0,106.398508,10.05503666,2201
-Villa Clara,Cuba,CU05,CU,Province,Cuba,North America,Small island,,,-79.77118937,22.87201249,2202
-Villa Clara,Cuba,CU05,CU,Province,Cuba,North America,Very small island,,,-79.90629886,22.90451783,2203
+Nunavut,Canada,CANU,CA,Territory,Canada,North America,Primary land,,,-86.83416432,74.87370013,2202
+Chittagong,Bangladesh,BDB,BD,Division,Bangladesh,Asia,Very small island,,,91.2905403,22.33648134,2203
 Basse-Normandie,France,FRP,FR,Metropolitan Region,France,Europe,Small island,,,-1.838720652,48.87661717,2204
 Rio Grande do Sul,Brazil,BRRS,BR,State,Brazil,South America,Small island,,,-51.52186511,-30.74167566,2205
 Gash-Barka,Eritrea,ERGB,ER,Region,Eritrea,Africa,Primary land,,,37.4333291,15.20221958,2206
@@ -2210,7 +2210,7 @@ Lefkosia,Cyprus,CY01,CY,District,Cyprus,Asia,Primary land,,,33.10858482,35.08583
 Istarska,Croatia,HR18,HR,County,Croatia,Europe,Very small island,,,13.76283992,44.9377833,2209
 Dong Nai,Vietnam,https://ncov.moh.gov.vn/,VN,Province,Vietnam,Asia,Primary land,1.0,0.0,107.1914565,11.05819491,2210
 British Columbia,Canada,CABC,CA,Province,Canada,North America,Very small island,,,-128.1578628,51.76215834,2211
-Pafos,Cyprus,CY05,CY,District,Cyprus,Asia,Very small island,,,32.3117439,34.89952325,2212
+Dhaka,Bangladesh,BDC,BD,Division,Bangladesh,Asia,Very small island,,,90.16951169,23.59863196,2212
 Rajshahi,Bangladesh,BDE,BD,Division,Bangladesh,Asia,Very small island,,,89.70309656,24.03534681,2213
 Christ Church,Barbados,BB01,BB,Parish,Barbados,North America,Primary land,,,-59.53404913,13.08447356,2214
 Saint Andrew,Barbados,BB02,BB,Parish,Barbados,North America,Primary land,,,-59.57756319,13.24416032,2215
@@ -2256,18 +2256,18 @@ Dagana,Bhutan,BT22,BT,Zone,Bhutan,Asia,Primary land,,,89.8668935,27.05055786,225
 Western Australia,Australia,AUWA,AU,State,Australia,Australia,Medium island,,,113.0540533,-25.7945171,2255
 Ha,Bhutan,BT13,BT,Zone,Bhutan,Asia,Primary land,,,89.16134762,27.3328636,2256
 Lhuentse,Bhutan,BT44,BT,Zone,Bhutan,Asia,Primary land,,,91.1413156,27.77325767,2257
-Obock,Djibouti,DJOB,DJ,Region,Djibouti,Africa,Very small island,,,43.40975857,12.47945865,2258
-Northwest Territories,Canada,CANT,CA,Territory,Canada,North America,Small island,,,-127.874957,71.22710235,2259
+Monggar,Bhutan,BT42,BT,Zone,Bhutan,Asia,Primary land,,,91.21422493,27.24543125,2258
+Paro,Bhutan,BT11,BT,Zone,Bhutan,Asia,Primary land,,,89.37964879,27.52969885,2259
 Hainan,China,CN46,CN,Province,China,Asia,Very small island,,,112.045586,16.79309026,2260
 Punakha,Bhutan,BT23,BT,Zone,Bhutan,Asia,Primary land,,,89.88527323,27.70260431,2261
 Samdrup Jongkha,Bhutan,BT45,BT,Zone,Bhutan,Asia,Primary land,,,91.68705347,26.9418819,2262
-Tadjoura,Djibouti,DJTA,DJ,Region,Djibouti,Africa,Very small island,,,42.66581338,11.55601581,2263
+Samtse,Bhutan,BT14,BT,Zone,Bhutan,Asia,Primary land,,,89.06342312,27.03660339,2263
 Sarpang,Bhutan,BT31,BT,Zone,Bhutan,Asia,Primary land,,,90.31807263,26.89870529,2264
 Trashi Yangtse,Bhutan,BTTY,BT,Zone,Bhutan,Asia,Primary land,,,91.73718393,27.2484181,2265
 Trashigang,Bhutan,BT41,BT,Zone,Bhutan,Asia,Primary land,,,91.49310077,27.64016697,2266
 Trongsa,Bhutan,BT32,BT,Zone,Bhutan,Asia,Primary land,,,90.49074749,27.3837819,2267
 Tsirang,Bhutan,BT21,BT,Zone,Bhutan,Asia,Primary land,,,90.14933545,27.02489478,2268
-Debub,Eritrea,ERDU,ER,Region,Eritrea,Africa,Primary land,,,38.90581289,14.81152707,2269
+Wangdue Phodrang,Bhutan,BT24,BT,Zone,Bhutan,Asia,Primary land,,,90.14745631,27.54544997,2269
 Zhemgang,Bhutan,BT34,BT,Zone,Bhutan,Asia,Primary land,,,90.85143606,27.06628975,2270
 Gaborone,Botswana,BWGA,BW,City,Botswana,Africa,Primary land,,,25.85256104,-24.77889145,2271
 Chobe,Botswana,BWCH,BW,District,Botswana,Africa,Primary land,,,24.80704437,-18.51343065,2272
@@ -2314,7 +2314,7 @@ Matebeleland South,Zimbabwe,ZWMS,ZW,Province,Zimbabwe,Africa,Primary land,1.0,1.
 Bretagne,France,FRE,FR,Metropolitan Region,France,Europe,Very small island,,,-3.580951364,48.38143199,2313
 Semenawi Keyih Bahri,Eritrea,ERSK,ER,Region,Eritrea,Africa,Small island,,,40.15156555,15.77585046,2314
 British Columbia,Canada,CABC,CA,Province,Canada,North America,Large island,,,-125.744666,49.65669454,2315
-Ouaka,Central African Republic,CFUK,CF,Prefecture,Central African Republic,Africa,Primary land,,,20.74812376,6.123909921,2316
+Tasmania,Australia,AUTAS,AU,State,Australia,Australia,Small island,,,149.1463598,-44.59965866,2316
 S?o Paulo,Brazil,BRSP,BR,State,Brazil,South America,Very small island,,,-46.33625216,-24.15862453,2317
 Saint Paul,Dominica,DM10,DM,Parish,Dominica,North America,Primary land,,,-61.36691734,15.36600956,2318
 Primorsko-goranska,Croatia,HR08,HR,County,Croatia,Europe,Medium island,,,14.40378386,44.8288539,2319
@@ -2331,7 +2331,7 @@ Corse,France,FRH,FR,Metropolitan Region,France,Europe,Small island,,,9.130084133
 Corse,France,FRH,FR,Metropolitan Region,France,Europe,Very small island,,,9.271174883,41.81853109,2330
 Franche-Comt?,France,FRI,FR,Metropolitan Region,France,Europe,Primary land,,,6.090453439,47.21182296,2331
 Logone-Oriental,Chad,TDLR,TD,Region,Chad,Africa,Primary land,,,16.40613116,8.194539811,2332
-Mayo-K?bbi-Est,Chad,TDME,TD,Region,Chad,Africa,Primary land,,,15.54777078,10.19351881,2333
+Haute-Normandie,France,FRQ,FR,Metropolitan Region,France,Europe,Primary land,,,1.010531929,49.39486869,2333
 Languedoc-Roussillon,France,FRK,FR,Metropolitan Region,France,Europe,Very small island,,,3.253457132,43.11111106,2334
 Languedoc-Roussillon,France,FRK,FR,Metropolitan Region,France,Europe,Small island,,,4.213212426,43.62927178,2335
 Languedoc-Roussillon,France,FRK,FR,Metropolitan Region,France,Europe,Primary land,,,3.23116946,43.60749704,2336
@@ -2562,18 +2562,18 @@ Ciego de ?vila,Cuba,CU08,CU,Province,Cuba,North America,Small island,,,-79.00280
 Monte Cristi,Dominican Republic,DO15,DO,Province,Dominican Republic,North America,Very small island,,,-71.73033888,19.8803832,2561
 Saaremaa,Estonia,EE74,EE,County,Estonia,Europe,Small island,,,22.61147798,58.19867853,2562
 Kasai-Oriental,Congo DRC,CDKE,CD,Province,Congo DRC,Africa,Primary land,,,23.94640901,-4.594741758,2563
-Maniema,Congo DRC,CDMA,CD,Province,Congo DRC,Africa,Primary land,,,26.3718261,-3.097567093,2564
+Nova Scotia,Canada,CANS,CA,Province,Canada,North America,Large island,,,-60.7424362,46.17677765,2564
 Gjirokast?r,Albania,AL5,AL,County,Albania,Europe,Primary land,,,20.17827821,40.21799648,2565
 Puntarenas,Costa Rica,CRP,CR,Province,Costa Rica,North America,Small island,,,-85.34722009,8.830392966,2566
 Pedernales,Dominican Republic,DO16,DO,Province,Dominican Republic,North America,Small island,,,-71.51894621,17.57294428,2567
-Guanacaste,Costa Rica,CRG,CR,Province,Costa Rica,North America,Very small island,,,-85.76769364,10.66418952,2568
+Saaremaa,Estonia,EE74,EE,County,Estonia,Europe,Very small island,,,22.52064978,58.37913918,2568
 Temburong,Brunei Darussalam,BNTE,BN,District,Brunei Darussalam,Asia,Primary land,,,115.1766204,4.588913448,2569
 Ontario,Canada,CAON,CA,Province,Canada,North America,Small island,,,-82.1256901,52.39300766,2570
 Shkod?r,Albania,AL10,AL,County,Albania,Europe,Very small island,,,19.44612403,41.85560664,2571
 Cienfuegos,Cuba,CU06,CU,Province,Cuba,North America,Very small island,,,-80.44744226,22.08811146,2572
 Pedernales,Dominican Republic,DO16,DO,Province,Dominican Republic,North America,Very small island,,,-71.43191818,17.80961076,2573
 Dire Dawa,Ethiopia,ETDD,ET,Administration,Ethiopia,Africa,Primary land,,,42.00769601,9.60986756,2574
-Bas-Sassandra,C?te d'Ivoire,CI09,CI,Region,Cote d'Ivoire,Africa,Small island,,,-6.092357829,4.980793905,2575
+Tutong,Brunei Darussalam,BNTU,BN,District,Brunei Darussalam,Asia,Very small island,,,114.6132094,4.778396719,2575
 Bas-Sassandra,C?te d'Ivoire,CI09,CI,Region,Cote d'Ivoire,Africa,Primary land,,,-6.752231479,5.360623667,2576
 Vlor?,Albania,AL12,AL,County,Albania,Europe,Very small island,,,19.99110046,39.77417007,2577
 Granma,Cuba,CU12,CU,Province,Cuba,North America,Small island,,,-77.20982419,20.41620443,2578
@@ -2617,7 +2617,7 @@ Satakunta,Finland,FI17,FI,Region,Finland,Europe,Very small island,,,21.42807741,
 Satakunta,Finland,FI17,FI,Region,Finland,Europe,Small island,,,21.45878173,61.49509637,2616
 Uusimaa,Finland,FI18,FI,Region,Finland,Europe,Small island,,,24.81765565,60.1131461,2617
 Uusimaa,Finland,FI18,FI,Region,Finland,Europe,Very small island,,,24.50217934,60.05368844,2618
-Unknown Locations,Austria,https://www.sozialministerium.at/Informationen-zum-Coronavirus/Neuartiges-Coronavirus-(2019-nCov).html,AT,State,Austria,Europe,Primary land,,,14.89477331,47.24287193,2619
+Varsinais-Suomi,Finland,FI19,FI,Region,Finland,Europe,Small island,,,21.90493156,60.29139393,2619
 Varsinais-Suomi,Finland,FI19,FI,Region,Finland,Europe,Very small island,,,21.78182054,60.19671801,2620
 Unknown Locations,France,https://www.bfmtv.com/sante/en-direct-coronavirus-test-stade-3-epidemie-ecoles-gel-masques-oise-haut-rhin-morts-contaminations/,FR,Metropolitan Region,France,Europe,Primary land,,,2.502781689,48.71103164,2621
 French Guiana,French Guiana,FRGF,FR,Overseas Region/Department,France,South America,Small island,,,-53.25816535,5.068064223,2622
@@ -2649,7 +2649,7 @@ Ain Temouchent,Algeria,http://covid19.sante.gov.dz/carte/,DZ,Province,Algeria,Af
 Santo Domingo,Dominican Republic,DO32,DO,Province,Dominican Republic,North America,Very small island,,,-69.62483944,18.43910814,2648
 Burgas,Bulgaria,BG02,BG,Region,Bulgaria,Europe,Very small island,,,27.69148492,42.43844314,2649
 Guant?namo,Cuba,CU14,CU,Province,Cuba,North America,Very small island,,,-75.14338174,19.95757205,2650
-Inagua,Bahamas,BSIN,BS,District,Bahamas,North America,Small island,,,-73.00030304,21.49552377,2651
+Ain Temouchent,Algeria,DZ46,DZ,Province,Algeria,Africa,Very small island,,,-1.366442519,35.45127329,2651
 El Oro,Ecuador,ECO,EC,Province,Ecuador,South America,Small island,,,-80.18255198,-3.347542645,2652
 Ontario,Canada,CAON,CA,Province,Canada,North America,Medium island,,,-82.55824989,52.8698923,2653
 Holgu?n,Cuba,CU11,CU,Province,Cuba,North America,Very small island,,,-75.36258505,20.71719228,2654
@@ -2677,7 +2677,7 @@ Gal?pagos,Ecuador,ECW,EC,Province,Ecuador,South America,Very small island,,,-90.
 Cascades,Burkina Faso,BF02,BF,Province,Burkina Faso,Africa,Primary land,,,-4.547695512,10.3530442,2676
 Quebec,Canada,CAQC,CA,Province,Canada,North America,Medium island,,,-73.67501687,45.51815278,2677
 Oran,Algeria,DZ31,DZ,Province,Algeria,Africa,Very small island,,,-0.536083582,35.77934143,2678
-South Abaco,Bahamas,BSSO,BS,District,Bahamas,North America,Very small island,,,-77.19793198,26.29261441,2679
+Matanzas,Cuba,CU04,CU,Province,Cuba,North America,Very small island,,,-81.25480524,22.54515909,2679
 Guayas,Ecuador,ECG,EC,Province,Ecuador,South America,Small island,,,-79.9274009,-2.552581272,2680
 South Andros,Bahamas,BSSA,BS,District,Bahamas,North America,Small island,,,-77.65610035,23.771665,2681
 Northwest Territories,Canada,CANT,CA,Territory,Canada,North America,Very small island,,,-123.7169675,72.4336568,2682
@@ -2689,7 +2689,7 @@ Bengo,Angola,AOBGO,AO,Province,Angola,Africa,Primary land,,,13.86770217,-8.99089
 Benguela,Angola,AOBGU,AO,Province,Angola,Africa,Very small island,,,12.82984495,-13.05822975,2688
 Bi?,Angola,AOBIE,AO,Province,Angola,Africa,Primary land,,,17.33888222,-12.31949628,2689
 Cabinda,Angola,AOCAB,AO,Province,Angola,Africa,Primary land,,,12.47201211,-5.035176533,2690
-Al Jan_b_yah,Bahrain,BH14,BH,Governorate,Bahrain,Asia,Very small island,,,50.65777305,25.78258354,2691
+Cuando-Cubango,Angola,AOCCU,AO,Province,Angola,Africa,Primary land,,,19.50523339,-16.1189734,2691
 Cuanza Norte,Angola,AOCNO,AO,Province,Angola,Africa,Primary land,,,14.92993872,-8.918467979,2692
 Cuanza Sul,Angola,AOCUS,AO,Province,Angola,Africa,Primary land,,,15.03121022,-10.82952295,2693
 Cunene,Angola,AOCNN,AO,Province,Angola,Africa,Primary land,,,15.56836224,-16.50430194,2694
@@ -2697,7 +2697,7 @@ Hu?la,Angola,AOHUI,AO,Province,Angola,Africa,Primary land,,,14.94141992,-14.7416
 Huambo,Angola,AOHUA,AO,Province,Angola,Africa,Primary land,,,15.73726455,-12.56605984,2696
 Luanda,Angola,AOLUA,AO,Province,Angola,Africa,Small island,,,13.09701445,-8.928875552,2697
 Luanda,Angola,AOLUA,AO,Province,Angola,Africa,Very small island,,,13.13750395,-8.920539344,2698
-Limousin,France,FRL,FR,Metropolitan Region,France,Europe,Primary land,,,1.714598073,45.77777907,2699
+Lunda Norte,Angola,AOLNO,AO,Province,Angola,Africa,Primary land,,,19.51983194,-8.583588316,2699
 Lunda Sul,Angola,AOLSU,AO,Province,Angola,Africa,Primary land,,,20.61552504,-10.17155867,2700
 Malange,Angola,AOMAL,AO,Province,Angola,Africa,Primary land,,,16.99833635,-9.532027853,2701
 Moxico,Angola,AOMOX,AO,Province,Angola,Africa,Primary land,,,21.02934466,-12.88988054,2702
@@ -2721,7 +2721,7 @@ Saint John,Antigua and Barbuda,AG04,AG,Dependency,Antigua and Barbuda,North Amer
 Provence-Alpes-C?te d'Azur,France,FRU,FR,Metropolitan Region,France,Europe,Small island,,,6.253246355,43.07315521,2720
 Saint Mary,Antigua and Barbuda,AG05,AG,Dependency,Antigua and Barbuda,North America,Very small island,,,-61.88745264,17.09587894,2721
 Saint Mary,Antigua and Barbuda,AG05,AG,Dependency,Antigua and Barbuda,North America,Primary land,,,-61.85580101,17.04844917,2722
-French Southern Territories,French Southern Territories,TF,TF,Overseas Territory,France,Antarctica,Very small island,,,68.84872029,-48.95558243,2723
+Saint Paul,Antigua and Barbuda,AG06,AG,Dependency,Antigua and Barbuda,North America,Primary land,,,-61.77155537,17.03173483,2723
 Saint Peter,Antigua and Barbuda,AG07,AG,Dependency,Antigua and Barbuda,North America,Very small island,,,-61.72237928,17.12300607,2724
 Saint Peter,Antigua and Barbuda,AG07,AG,Dependency,Antigua and Barbuda,North America,Primary land,,,-61.76203904,17.09131177,2725
 French Southern Territories,French Southern Territories,TF,TF,Overseas Territory,France,Africa,Very small island,,,40.38295811,-22.35003599,2726
@@ -2741,7 +2741,7 @@ R?o Negro,Argentina,ARR,AR,Province,Argentina,South America,Very small island,,,
 Santa Cruz,Argentina,ARZ,AR,Province,Argentina,South America,Small island,,,-67.73282414,-49.38930726,2740
 Nyanga,Gabon,GA5,GA,Province,Gabon,Africa,Small island,,,10.91808224,-3.620436651,2741
 Tierra del Fuego,Argentina,ARV,AR,Province,Argentina,South America,Small island,,,-66.67777163,-54.83936551,2742
-Lower River,Gambia,GML,GM,Division,Gambia,Africa,Primary land,,,-15.74046356,13.38876404,2743
+Tierra del Fuego,Argentina,ARV,AR,Province,Argentina,South America,Very small island,,,-66.2238384,-54.85492854,2743
 Tierra del Fuego,Argentina,ARV,AR,Province,Argentina,South America,Medium island,,,-64.31580245,-54.79841136,2744
 Centre-Sud,Burkina Faso,BF07,BF,Province,Burkina Faso,Africa,Primary land,,,-1.243532071,11.61032581,2745
 Mayabeque,Cuba,CU,CU,Province,Cuba,North America,Small island,,,-82.33231156,22.47243019,2746
@@ -2761,7 +2761,7 @@ Girne,Cyprus,CY06,CY,District,Cyprus,Asia,Very small island,,,33.29185763,35.349
 Girne,Cyprus,CY06,CY,District,Cyprus,Asia,Primary land,,,33.2359545,35.30626044,2760
 Lefkosia,Cyprus,CY01,CY,District,Cyprus,Asia,Very small island,,,32.7384775,35.18145799,2761
 Lefkosia,Cyprus,CY01,CY,District,Cyprus,Asia,Primary land,,,33.10858482,35.08583094,2762
-Shida K'art'li,Georgia,GESK,GE,Region,Georgia,Asia,Primary land,,,44.08918646,42.13693415,2763
+Lemesos,Cyprus,CY02,CY,District,Cyprus,Asia,Primary land,,,32.95092172,34.77770514,2763
 Magusa,Cyprus,CY04,CY,District,Cyprus,Asia,Very small island,,,34.60339305,35.70655169,2764
 Magusa,Cyprus,CY04,CY,District,Cyprus,Asia,Primary land,,,33.91525282,35.28611905,2765
 Hamburg,Germany,DEHH,DE,State,Germany,Europe,Small island,,,9.913671849,53.52963228,2766
@@ -2789,17 +2789,17 @@ Qeqqata Kommunia,Greenland,GLQA,GL,Autonomous Constituent Country,Denmark,North 
 Qeqqata Kommunia,Greenland,GLQE,GL,Autonomous Constituent Country,Denmark,North America,Primary land,,,-49.20283641,66.40361876,2788
 Faroe Islands,Faroe Islands,FO,FO,Autonomous Constituent Country,Denmark,Europe,Small island,,,-6.846922203,62.04998855,2789
 Faroe Islands,Faroe Islands,FO,FO,Autonomous Constituent Country,Denmark,Europe,Very small island,,,-6.999293701,61.67397608,2790
-Kentriki Makedonia,Greece,GRII,GR,Region,Greece,Europe,Small island,,,23.86149517,40.26295092,2791
+Hovedstaden,Denmark,DK84,DK,Region,Denmark,Europe,Small island,,,12.61790813,55.62399034,2791
 Hovedstaden,Denmark,DK84,DK,Region,Denmark,Europe,Very small island,,,13.77260464,55.55618642,2792
 Hovedstaden,Denmark,DK84,DK,Region,Denmark,Europe,Medium island,,,14.90999198,55.12442918,2793
 Midtjylland,Denmark,DK82,DK,Region,Denmark,Europe,Small island,,,10.38563305,56.10455644,2794
 Nordjylland,Denmark,DK81,DK,Region,Denmark,Europe,Small island,,,10.82626926,57.23438145,2795
-Notio Aigaio,Greece,GRXII,GR,Region,Greece,Europe,Small island,,,25.72170224,36.94779226,2796
+Nordjylland,Denmark,DK81,DK,Region,Denmark,Europe,Very small island,,,10.32990195,57.1709185,2796
 Nordjylland,Denmark,DK81,DK,Region,Denmark,Europe,Medium island,,,8.7321629,56.80037404,2797
 Nordjylland,Denmark,DK81,DK,Region,Denmark,Europe,Primary land,,,9.702984992,57.06444031,2798
 Sjaelland,Denmark,DK85,DK,Region,Denmark,Europe,Small island,,,12.04277384,55.06813098,2799
 Sjaelland,Denmark,DK85,DK,Region,Denmark,Europe,Very small island,,,11.61581453,55.07714929,2800
-Est,Burkina Faso,BF08,BF,Province,Burkina Faso,Africa,Primary land,,,0.922399731,12.23683261,2801
+Sjaelland,Denmark,DK85,DK,Region,Denmark,Europe,Medium island,,,11.5723176,54.79162407,2801
 Syddanmark,Denmark,DK83,DK,Region,Denmark,Europe,Small island,,,10.13232622,55.00262113,2802
 Syddanmark,Denmark,DK83,DK,Region,Denmark,Europe,Very small island,,,10.21947321,55.21916102,2803
 Syddanmark,Denmark,DK83,DK,Region,Denmark,Europe,Primary land,,,9.04959093,55.41141471,2804
@@ -2807,7 +2807,7 @@ Syddanmark,Denmark,DK83,DK,Region,Denmark,Europe,Medium island,,,10.32837946,55.
 Djibouti,Djibouti,DJDJ,DJ,City,Djibouti,Africa,Small island,,,43.19798017,11.72152952,2806
 Djibouti,Djibouti,DJDJ,DJ,City,Djibouti,Africa,Very small island,,,43.16755674,11.64034263,2807
 Ali Sabieh,Djibouti,DJAS,DJ,Region,Djibouti,Africa,Primary land,,,42.91682383,11.23079433,2808
-Jijel,Algeria,DZ18,DZ,Province,Algeria,Africa,Very small island,,,5.627270656,36.79242244,2809
+Arta,Djibouti,DJAR,DJ,Region,Djibouti,Africa,Very small island,,,42.5440609,11.53747146,2809
 Bujumbura Mairie,Burundi,BIBM,BI,Province,Burundi,Africa,Primary land,,,29.36326013,-3.372979232,2810
 Nord,Burkina Faso,BF10,BF,Province,Burkina Faso,Africa,Primary land,,,-2.276120735,13.47602663,2811
 Yukon Territory,Canada,CAYT,CA,Territory,Canada,North America,Small island,,,-138.9690018,69.54572993,2812
@@ -2819,7 +2819,7 @@ Sud-Ouest,Burkina Faso,BF13,BF,Province,Burkina Faso,Africa,Primary land,,,-3.22
 Basse-Kotto,Central African Republic,CFBK,CF,Prefecture,Central African Republic,Africa,Primary land,,,21.36801994,4.902246689,2818
 Haute-Kotto,Central African Republic,CFHK,CF,Prefecture,Central African Republic,Africa,Primary land,,,22.92716351,7.468358701,2819
 Haut-Mbomou,Central African Republic,CFHM,CF,Prefecture,Central African Republic,Africa,Primary land,,,25.58789442,6.309723436,2820
-Amhara,Ethiopia,ETAM,ET,State,Ethiopia,Africa,Primary land,,,38.05130395,11.58896806,2821
+K?mo-Gribingui,Central African Republic,CFKG,CF,Prefecture,Central African Republic,Africa,Primary land,,,19.28766913,5.807595113,2821
 Lobaye,Central African Republic,CFLB,CF,Prefecture,Central African Republic,Africa,Primary land,,,17.62418072,4.170674999,2822
 Mamb?r?-Kad??,Central African Republic,CFHS,CF,Prefecture,Central African Republic,Africa,Primary land,,,15.92620648,4.574865014,2823
 Mbomou,Central African Republic,CFMB,CF,Prefecture,Central African Republic,Africa,Primary land,,,23.39290505,5.501256946,2824
@@ -2831,7 +2831,7 @@ Ouham,Central African Republic,CFAC,CF,Prefecture,Central African Republic,Afric
 Ouham-Pend?,Central African Republic,CFOP,CF,Prefecture,Central African Republic,Africa,Primary land,,,16.14213981,6.725899548,2830
 Sangha-Mba?r?,Central African Republic,CFSE,CF,Prefecture,Central African Republic,Africa,Primary land,,,16.27950564,3.460433244,2831
 Vakaga,Central African Republic,CFVK,CF,Prefecture,Central African Republic,Africa,Primary land,,,22.52157026,9.822198573,2832
-Cuanza Norte,Angola,AOCNO,AO,Province,Angola,Africa,Primary land,,,14.92993872,-8.918467979,2833
+Mandoul,Chad,TDMA,TD,Region,Chad,Africa,Primary land,,,17.59922073,8.692850523,2833
 Bahr el Gazel,Chad,TDBG,TD,Region,Chad,Africa,Primary land,,,16.86433107,14.57255152,2834
 Batha,Chad,TDBA,TD,Region,Chad,Africa,Primary land,,,18.76229853,14.00240829,2835
 Borkou,Chad,TDBO,TD,Region,Chad,Africa,Primary land,,,18.53446179,18.41406015,2836
@@ -2842,7 +2842,7 @@ Hadjer Lamis,Chad,TDHL,TD,Region,Chad,Africa,Primary land,,,16.17571331,12.56562
 Kanem,Chad,TDKA,TD,Region,Chad,Africa,Primary land,,,15.26485666,15.12804203,2841
 Lac,Chad,TDLC,TD,Region,Chad,Africa,Primary land,,,14.39635495,13.67479739,2842
 Logone-Occidental,Chad,TDLO,TD,Region,Chad,Africa,Primary land,,,15.89839798,8.755533532,2843
-Namibe,Angola,AONAM,AO,Province,Angola,Africa,Small island,,,11.70507771,-16.59581541,2844
+Logone-Oriental,Chad,TDLR,TD,Region,Chad,Africa,Primary land,,,16.40613116,8.194539811,2844
 Mayo-K?bbi-Est,Chad,TDME,TD,Region,Chad,Africa,Primary land,,,15.54777078,10.19351881,2845
 Mayo-K?bbi-Ouest,Chad,TDMO,TD,Region,Chad,Africa,Primary land,,,14.76693977,9.320469349,2846
 U?ge,Angola,AOUIG,AO,Province,Angola,Africa,Primary land,,,15.47443263,-7.037413225,2847
@@ -2861,7 +2861,7 @@ Antofagasta,Chile,CLAN,CL,Region,Chile,South America,Small island,,,-70.60895245
 Antofagasta,Chile,CLAN,CL,Region,Chile,South America,Very small island,,,-70.55316739,-24.24264625,2860
 Araucan?a,Chile,CLAR,CL,Region,Chile,South America,Small island,,,-73.35553549,-38.7311332,2861
 Atacama,Chile,CLAT,CL,Region,Chile,South America,Small island,,,-71.40538329,-28.49329028,2862
-Saint Mary,Antigua and Barbuda,AG05,AG,Dependency,Antigua and Barbuda,North America,Primary land,,,-61.85580101,17.04844917,2863
+Atacama,Chile,CLAT,CL,Region,Chile,South America,Very small island,,,-71.06618486,-27.78601553,2863
 B?o-B?o,Chile,CLBI,CL,Region,Chile,South America,Small island,,,-73.72479365,-37.81689575,2864
 B?o-B?o,Chile,CLBI,CL,Region,Chile,South America,Very small island,,,-73.11162523,-37.23156481,2865
 Coquimbo,Chile,CLCO,CL,Region,Chile,South America,Small island,,,-71.50375687,-29.32430973,2866
@@ -2884,7 +2884,7 @@ Cankuzo,Burundi,BICA,BI,Province,Burundi,Africa,Primary land,,,30.60282809,-3.14
 Cibitoke,Burundi,BICI,BI,Province,Burundi,Africa,Primary land,,,29.22896769,-2.818167023,2883
 Gitega,Burundi,BIGI,BI,Province,Burundi,Africa,Primary land,,,29.92281944,-3.49165163,2884
 Tierra del Fuego,Argentina,ARV,AR,Province,Argentina,South America,Medium island,,,-64.31580245,-54.79841136,2885
-Harari People,Ethiopia,ETHA,ET,State,Ethiopia,Africa,Primary land,,,42.17632916,9.293039926,2886
+Kayanza,Burundi,BIKY,BI,Province,Burundi,Africa,Primary land,,,29.65983897,-3.00669765,2886
 Kirundo,Burundi,BIKI,BI,Province,Burundi,Africa,Primary land,,,30.15820753,-2.543388203,2887
 Makamba,Burundi,BIMA,BI,Province,Burundi,Africa,Primary land,,,29.74534621,-4.245979792,2888
 Muramvya,Burundi,BIMU,BI,Province,Burundi,Africa,Primary land,,,29.64874209,-3.270088238,2889
@@ -2917,9 +2917,9 @@ S?o Vicente,Cabo Verde,CVSV,CV,Municipality,Cabo Verde,Africa,Very small island,
 Sal,Cabo Verde,CVSL,CV,Municipality,Cabo Verde,Africa,Small island,,,-22.93128522,16.73719669,2916
 Santa Catarina,Cabo Verde,CVCA,CV,Municipality,Cabo Verde,Africa,Primary land,,,-23.70880804,15.10359039,2917
 S?o Louren?o dos ?rg?os,Cabo Verde,CVSO,CV,Municipality,Cabo Verde,Africa,Primary land,,,-23.59431941,15.06736968,2918
-S?o Miguel,Cabo Verde,CVSM,CV,Municipality,Cabo Verde,Africa,Primary land,,,-23.63572218,15.19073546,2919
+Santa Cruz,Cabo Verde,CVCR,CV,Municipality,Cabo Verde,Africa,Primary land,,,-23.55224519,15.11049749,2919
 S?o Salvador do Mundo,Cabo Verde,CVSS,CV,Municipality,Cabo Verde,Africa,Primary land,,,-23.63446478,15.09096246,2920
-S?o Vicente,Cabo Verde,CVSV,CV,Municipality,Cabo Verde,Africa,Small island,,,-24.9272642,16.82808817,2921
+Tarrafal de S?o Nicolau,Cabo Verde,CVTS,CV,Municipality,Cabo Verde,Africa,Primary land,,,-24.35893027,16.59508875,2921
 Krong Pailin,Cambodia,KH24,KH,Autonomous Municipality,Cambodia,Asia,Primary land,,,102.6260031,12.87024952,2922
 Krong Preah Sihanouk,Cambodia,KH18,KH,Autonomous Municipality,Cambodia,Asia,Small island,,,103.6282272,10.42827894,2923
 Krong Preah Sihanouk,Cambodia,KH18,KH,Autonomous Municipality,Cambodia,Asia,Very small island,,,103.433519,10.47228866,2924
@@ -2929,11 +2929,11 @@ Kampot,Cambodia,KH7,KH,Province,Cambodia,Asia,Very small island,,,104.2956915,10
 Kandaal,Cambodia,KH8,KH,Province,Cambodia,Asia,Small island,,,105.1249304,11.30792842,2928
 Krong Pailin,Cambodia,KH24,KH,Autonomous Municipality,Cambodia,Asia,Primary land,,,102.6260031,12.87024952,2929
 Kaol Kong,Cambodia,KH9,KH,Province,Cambodia,Asia,Small island,,,103.1122428,11.11480287,2930
-Krong Preah Sihanouk,Cambodia,KH18,KH,Autonomous Municipality,Cambodia,Asia,Very small island,,,103.433519,10.47228866,2931
+Kaol Kong,Cambodia,KH9,KH,Province,Cambodia,Asia,Very small island,,,103.1434638,11.30644022,2931
 Kampong Spueu,Cambodia,KH5,KH,Province,Cambodia,Asia,Primary land,,,104.2919634,11.53511859,2932
 Kampot,Cambodia,KH7,KH,Province,Cambodia,Asia,Small island,,,104.1974486,10.5573189,2933
 Kampot,Cambodia,KH7,KH,Province,Cambodia,Asia,Very small island,,,104.2956915,10.44733314,2934
-Kandaal,Cambodia,KH8,KH,Province,Cambodia,Asia,Small island,,,105.1249304,11.30792842,2935
+Rotanak Kiri,Cambodia,KH16,KH,Province,Cambodia,Asia,Primary land,,,107.0865219,13.7978602,2935
 Stueng Traeng,Cambodia,KH19,KH,Province,Cambodia,Asia,Primary land,,,106.1778194,13.80747855,2936
 Svaay Rieng,Cambodia,KH20,KH,Province,Cambodia,Asia,Primary land,,,105.8632133,11.1577512,2937
 Taakaev,Cambodia,KH21,KH,Province,Cambodia,Asia,Primary land,,,104.8159735,10.94159908,2938
@@ -2947,7 +2947,7 @@ Janub Sina',Egypt,EGJS,EG,Governorate,Egypt,Asia,Very small island,,,33.05560297
 Janub Sina',Egypt,EGJS,EG,Governorate,Egypt,Asia,Primary land,,,33.8012713,29.01951611,2946
 Shamal Sina',Egypt,EGSIN,EG,Governorate,Egypt,Asia,Small island,,,33.06985043,31.19524053,2947
 Shamal Sina',Egypt,EGSIN,EG,Governorate,Egypt,Asia,Very small island,,,33.22102228,31.15095457,2948
-Eastern,Fiji,FJE,FJ,Division,Fiji,Oceania,Very small island,,,-78.54991616,-18.873011,2949
+Shamal Sina',Egypt,EGSIN,EG,Governorate,Egypt,Asia,Primary land,,,33.73826735,30.42224919,2949
 Ad Daqahliyah,Egypt,EGDK,EG,Governorate,Egypt,Africa,Primary land,,,31.62569878,31.12565286,2950
 Al Bah_r al A__mar,Egypt,EGBA,EG,Governorate,Egypt,Africa,Small island,,,34.0233583,27.17089615,2951
 Al Buhayrah,Egypt,EGBH,EG,Governorate,Egypt,Africa,Very small island,,,30.57776849,31.14558894,2952
@@ -2979,7 +2979,7 @@ Kafr ash Shaykh,Egypt,EGKFS,EG,Governorate,Egypt,Africa,Very small island,,,30.5
 Kafr ash Shaykh,Egypt,EGKFS,EG,Governorate,Egypt,Africa,Primary land,,,30.91110872,31.31243204,2978
 Matruh,Egypt,EGMT,EG,Governorate,Egypt,Africa,Primary land,,,26.97405877,29.70893322,2979
 Qina,Egypt,EGKN,EG,Governorate,Egypt,Africa,Primary land,,,32.55942416,25.86423739,2980
-New Caledonia,New Caledonia,FRNC,FR,Overseas Territorial Collectivity,France,Oceania,Small island,,,166.0924348,-21.25297358,2981
+Suhaj,Egypt,EGSHG,EG,Governorate,Egypt,Africa,Primary land,,,31.77473766,26.5158625,2981
 Ahuachap?n,El Salvador,SVAH,SV,Department,El Salvador,North America,Primary land,,,-89.89889057,13.8639129,2982
 Caba?as,El Salvador,SVCA,SV,Department,El Salvador,North America,Primary land,,,-88.71282726,13.88142057,2983
 Chalatenango,El Salvador,SVCH,SV,Department,El Salvador,North America,Primary land,,,-89.08448806,14.15048765,2984
@@ -2987,7 +2987,7 @@ Cuscatl?n,El Salvador,SVCU,SV,Department,El Salvador,North America,Primary land,
 La Libertad,El Salvador,SVLI,SV,Department,El Salvador,North America,Primary land,,,-89.37073273,13.70308595,2986
 La Paz,El Salvador,SVPA,SV,Department,El Salvador,North America,Small island,,,-88.89694026,13.30803002,2987
 La Paz,El Salvador,SVPA,SV,Department,El Salvador,North America,Very small island,,,-88.93240369,13.32623489,2988
-La Paz,El Salvador,SVPA,SV,Department,El Salvador,North America,Primary land,,,-88.96740371,13.48100721,2989
+Guadeloupe,Guadeloupe,FRGP,FR,Overseas Region/Department,France,North America,Very small island,,,-61.55054435,16.13491784,2989
 La Uni?n,El Salvador,SVUN,SV,Department,El Salvador,North America,Small island,,,-87.74487747,13.23666639,2990
 La Uni?n,El Salvador,SVUN,SV,Department,El Salvador,North America,Very small island,,,-87.78467544,13.24246281,2991
 La Uni?n,El Salvador,SVUN,SV,Department,El Salvador,North America,Primary land,,,-87.89171351,13.5270939,2992
@@ -3018,7 +3018,7 @@ Veracruz,Mexico,MXVER,MX,State,Mexico,North America,Very small island,,,-96.2447
 Col?n,Honduras,HNCL,HN,Department,Honduras,North America,Small island,,,-85.73812412,15.94903207,3017
 Yucat?n,Mexico,MXYUC,MX,State,Mexico,North America,Small island,,,-88.35281287,21.56703286,3018
 Col?n,Honduras,HNCL,HN,Department,Honduras,North America,Very small island,,,-85.689381,15.94484497,3019
-Atyrau,Kazakhstan,KZATY,KZ,Region,Kazakhstan,Asia,Primary land,,,52.09044991,47.5852029,3020
+Yucat?n,Mexico,MXYUC,MX,State,Mexico,North America,Very small island,,,-89.53430876,21.96658178,3020
 Valle,Honduras,HNVA,HN,Department,Honduras,North America,Very small island,,,-87.6301502,13.36992417,3021
 Baja California,Mexico,MXBCN,MX,State,Mexico,North America,Small island,,,-115.9326493,29.12380007,3022
 Trelawny,Jamaica,JM07,JM,Parish,Jamaica,North America,Primary land,,,-77.6054799,18.36498859,3023
@@ -3044,7 +3044,7 @@ Vestfir_ir,Iceland,IS4,IS,Region,Iceland,Europe,Small island,,,-22.59647266,65.7
 Vestfir_ir,Iceland,IS4,IS,Region,Iceland,Europe,Very small island,,,-22.46489086,65.51297566,3043
 Vesturland,Iceland,IS3,IS,Region,Iceland,Europe,Small island,,,-22.50196432,64.98412385,3044
 Vesturland,Iceland,IS3,IS,Region,Iceland,Europe,Very small island,,,-22.46387545,65.03541455,3045
-Aur,Marshall Islands,MHAUR,MH,Municipality,Marshall Islands,Oceania,Small island,,,171.1662767,8.224828884,3046
+Andaman and Nicobar Islands,India,INAN,IN,Union Territory,India,Asia,Small island,,,93.04579195,10.46312473,3046
 Andhra Pradesh,India,INAP,IN,State,India,Asia,Small island,,,81.65779887,16.32463647,3047
 Andhra Pradesh,India,INAP,IN,State,India,Asia,Medium island,,,82.01505969,16.61382416,3048
 Goa,India,INGA,IN,State,India,Asia,Very small island,,,73.8917126,15.33453173,3049
@@ -3052,12 +3052,12 @@ Goa,India,INGA,IN,State,India,Asia,Small island,,,73.8964214,15.51247816,3050
 Gujarat,India,INGJ,IN,State,India,Asia,Small island,,,69.70756951,23.14966853,3051
 Gujarat,India,INGJ,IN,State,India,Asia,Very small island,,,69.83741175,22.76664067,3052
 Karnataka,India,INKA,IN,State,India,Asia,Small island,,,74.45485319,14.29931287,3053
-Eniwetok,Marshall Islands,MHENI,MH,Municipality,Marshall Islands,Oceania,Very small island,,,162.2710835,11.52798681,3054
+Karnataka,India,INKA,IN,State,India,Asia,Very small island,,,74.49626048,13.95232931,3054
 Kerala,India,INKL,IN,State,India,Asia,Small island,,,76.2197797,10.13210791,3055
 Sumatera Barat,Indonesia,IDSB,ID,Province,Indonesia,Asia,Medium island,,,99.18883881,-1.683019965,3056
 Kerala,India,INKL,IN,State,India,Asia,Very small island,,,75.97492759,10.67406017,3057
 Maharashtra,India,INMH,IN,State,India,Asia,Small island,,,72.92561608,19.11515542,3058
-Jaluit,Marshall Islands,MHJAL,MH,Municipality,Marshall Islands,Oceania,Small island,,,169.5880243,6.017881031,3059
+Maharashtra,India,INMH,IN,State,India,Asia,Very small island,,,73.24565731,17.59151731,3059
 Orissa,India,INOR,IN,State,India,Asia,Small island,,,86.72312645,20.58089789,3060
 Orissa,India,INOR,IN,State,India,Asia,Very small island,,,86.38703483,20.51163146,3061
 Pondicherry,India,INPY,IN,State,India,Asia,Very small island,,,79.84327739,10.82525505,3062
@@ -3068,7 +3068,7 @@ West Bengal,India,INWB,IN,State,India,Asia,Small island,,,88.70562818,21.9291913
 West Bengal,India,INWB,IN,State,India,Asia,Very small island,,,88.2833723,22.31078163,3067
 Andaman and Nicobar Islands,India,INAN,IN,Union Territory,India,Asia,Very small island,,,92.91065922,11.96401565,3068
 Dadra and Nagar Haveli,India,INDN,IN,Union Territory,India,Asia,Primary land,,,73.07914201,20.18871322,3069
-Daman and Diu,India,INDD,IN,Union Territory,India,Asia,Primary land,,,72.12342648,20.5305459,3070
+Likiep,Marshall Islands,MHLIK,MH,Municipality,Marshall Islands,Oceania,Small island,,,169.1164381,9.932994497,3070
 Lakshadweep,India,INLD,IN,Union Territory,India,Asia,Small island,,,72.96323262,10.45871678,3071
 Kalimantan Timur,Indonesia,IDKI,ID,Province,Indonesia,Asia,Small island,,,117.5879175,0.12531401,3072
 Wotho,Marshall Islands,MHWTH,MH,Municipality,Marshall Islands,Oceania,Very small island,,,166.0034814,10.09392275,3073
@@ -3087,7 +3087,7 @@ Maluku Utara,Indonesia,IDMU,ID,Province,Indonesia,Asia,Small island,,,127.069599
 Rongerik Atoll,Marshall Islands, ,MH,Municipality,Marshall Islands,Oceania,Small island,,,167.5157201,11.3795506,3086
 Maluku Utara,Indonesia,IDMU,ID,Province,Indonesia,Asia,Medium island,,,126.8215018,-0.674842067,3087
 Nusa Tenggara Barat,Indonesia,IDNB,ID,Province,Indonesia,Asia,Very small island,,,117.3959765,-8.625484243,3088
-Nusa Tenggara Barat,Indonesia,IDNB,ID,Province,Indonesia,Asia,Small island,,,117.9344659,-8.301866822,3089
+Taongi Atoll,Marshall Islands, ,MH,Municipality,Marshall Islands,Oceania,Small island,,,168.9830226,14.6503192,3089
 Nusa Tenggara Barat,Indonesia,IDNB,ID,Province,Indonesia,Asia,Medium island,,,116.3308191,-8.577371838,3090
 Nusa Tenggara Timur,Indonesia,IDNT,ID,Province,Indonesia,Asia,Very small island,,,120.7769706,-8.83688352,3091
 Nusa Tenggara Timur,Indonesia,IDNT,ID,Province,Indonesia,Asia,Small island,,,121.8943455,-9.11927207,3092
@@ -3110,7 +3110,7 @@ Sulawesi Tenggara,Indonesia,IDSG,ID,Province,Indonesia,Asia,Small island,,,123.1
 Sulawesi Tenggara,Indonesia,IDSG,ID,Province,Indonesia,Asia,Medium island,,,122.495638,-4.927509481,3109
 Sulawesi Utara,Indonesia,IDSA,ID,Province,Indonesia,Asia,Very small island,,,125.2684716,2.564927184,3110
 Sulawesi Utara,Indonesia,IDSA,ID,Province,Indonesia,Asia,Small island,,,125.6674477,3.170655728,3111
-Sulawesi Utara,Indonesia,IDSA,ID,Province,Indonesia,Asia,Medium island,,,126.7804996,4.28727747,3112
+Cargados Carajos Shoals,Mauritius,MUCC,MU,Dependency,Mauritius,Africa,Very small island,,,59.59460076,-16.59869832,3112
 Sumatera Barat,Indonesia,IDSB,ID,Province,Indonesia,Asia,Very small island,,,99.8893315,-1.757436808,3113
 Chiapas,Mexico,MXCHP,MX,State,Mexico,North America,Small island,,,-93.2346738,15.50369133,3114
 Saint Catherine,Jamaica,JM14,JM,Parish,Jamaica,North America,Primary land,,,-77.01799779,18.05041185,3115
@@ -3132,7 +3132,7 @@ Saint James,Jamaica,JM08,JM,Parish,Jamaica,North America,Very small island,,,-77
 X?kong,Laos,LAXE,LA,Province,Laos,Asia,Primary land,,,107.0489753,15.55551742,3131
 Ailinginae Atoll,Marshall Islands, ,MH,Municipality,Marshall Islands,Oceania,Small island,,,166.404628,11.11914749,3132
 J_rmala,Latvia,LVJUR,LV,City,Latvia,Europe,Primary land,,,23.68480407,56.95871142,3133
-Tabasco,Mexico,MXTAB,MX,State,Mexico,North America,Very small island,,,-92.96162598,18.35193208,3134
+Grevenmacher,Luxembourg,LUG,LU,District,Luxembourg,Europe,Primary land,,,6.359954584,49.73351722,3134
 Atyrau,Kazakhstan,KZATY,KZ,Region,Kazakhstan,Asia,Small island,,,51.63201192,46.57297849,3135
 Chuuk,Micronesia,FMTRK,FM,State,Micronesia,Oceania,Small island,,,151.6850833,7.242126284,3136
 Saint James,Jamaica,JM08,JM,Parish,Jamaica,North America,Primary land,,,-77.84801206,18.39087475,3137
@@ -3446,7 +3446,7 @@ S_ja,Latvia,LV090,LV,Municipality,Latvia,Europe,Primary land,,,24.54674039,57.21
 Sala,Latvia,LV085,LV,Municipality,Latvia,Europe,Primary land,,,25.70734599,56.48204944,3445
 Salacgr_va,Latvia,LV086,LV,Municipality,Latvia,Europe,Primary land,,,24.47711807,57.7044755,3446
 Salaspils,Latvia,LV087,LV,Municipality,Latvia,Europe,Primary land,,,24.35640742,56.87800023,3447
-Arhangay,Mongolia,MN073,MN,Province,Mongolia,Asia,Primary land,,,101.0269661,47.88204445,3448
+Saldus,Latvia,LV088,LV,Municipality,Latvia,Europe,Primary land,,,22.38849781,56.58291081,3448
 Saulkrasti,Latvia,LV089,LV,Municipality,Latvia,Europe,Primary land,,,24.41984585,57.25263147,3449
 Sigulda,Latvia,LV091,LV,Municipality,Latvia,Europe,Primary land,,,24.89442786,57.08620329,3450
 Skr_veri,Latvia,LV092,LV,Municipality,Latvia,Europe,Primary land,,,25.09618483,56.67261313,3451
@@ -3496,7 +3496,7 @@ Aceh,Indonesia,IDAC,ID,Autonomous Province,Indonesia,Asia,Medium island,,,96.066
 San Marcos,Guatemala,GTSM,GT,Department,Guatemala,North America,Primary land,,,-91.93117045,15.02032217,3495
 Aizpute,Latvia,LV003,LV,Municipality,Latvia,Europe,Primary land,,,21.56803261,56.71622199,3496
 Orhon,Mongolia,MN035,MN,Municipality,Mongolia,Asia,Primary land,,,104.2772364,49.06524734,3497
-Sofala,Mozambique,MZS,MZ,Province,Mozambique,Africa,Primary land,,,34.67359314,-19.06815928,3498
+?mn?govi,Mongolia,MN053,MN,Province,Mongolia,Asia,Primary land,,,104.1156139,43.28253853,3498
 ?v?rhangay,Mongolia,MN055,MN,Province,Mongolia,Asia,Primary land,,,102.7185345,45.84323869,3499
 Arhangay,Mongolia,MN073,MN,Province,Mongolia,Asia,Primary land,,,101.0269661,47.88204445,3500
 Bayan-?lgiy,Mongolia,MN071,MN,Province,Mongolia,Asia,Primary land,,,89.84852353,48.56143819,3501
@@ -3514,12 +3514,12 @@ Selenge,Mongolia,MN049,MN,Province,Mongolia,Asia,Primary land,,,106.2179382,49.4
 T?v,Mongolia,MN047,MN,Province,Mongolia,Asia,Primary land,,,106.627079,47.67667757,3513
 Uvs,Mongolia,MN046,MN,Province,Mongolia,Asia,Primary land,,,92.94207045,49.64583126,3514
 Montenegro,Montenegro,ME,ME,Undifferentiated Country,Montenegro,Europe,Small island,,,18.79744099,42.31078754,3515
-Mon,Myanmar,MM15,MM,State,Myanmar,Asia,Small island,,,97.52351598,16.38693208,3516
+Chaouia-Ouardigha,Morocco,MA09,MA,Region,Morocco,Africa,Very small island,,,-7.161303825,33.81900998,3516
 Chaouia-Ouardigha,Morocco,MA09,MA,Region,Morocco,Africa,Primary land,,,-7.176954178,33.03205982,3517
 Doukhala-Abda,Morocco,MA10,MA,Region,Morocco,Africa,Very small island,,,-8.725478042,33.00938129,3518
 Gharb-Chrarda-Beni Hssen,Morocco,MA02,MA,Region,Morocco,Africa,Very small island,,,-6.277379999,34.86154548,3519
 La?youne-Boujdour-Sakia el Hamra,Morocco,MA15,MA,Region,Morocco,Africa,Small island,,,-12.2779671,28.03014773,3520
-Rakhine,Myanmar,MM16,MM,State,Myanmar,Asia,Medium island,,,93.75450607,19.14532355,3521
+La?youne-Boujdour-Sakia el Hamra,Morocco,MA15,MA,Region,Morocco,Africa,Very small island,,,-12.23437891,28.04021345,3521
 Marrakech-Tensift-Al Haouz,Morocco,MA11,MA,Region,Morocco,Africa,Small island,,,-9.786700707,31.49693547,3522
 Oued ed Dahab-Lagouira,Morocco,MA16,MA,Region,Morocco,Africa,Very small island,,,-16.78885479,22.19664099,3523
 Dobele,Latvia,LV026,LV,Municipality,Latvia,Europe,Primary land,,,23.19561871,56.62517612,3524
@@ -3529,7 +3529,7 @@ Tadla-Azilal,Morocco,MA12,MA,Region,Morocco,Africa,Primary land,,,-6.424549985,3
 Tanger-T?touan,Morocco,MA01,MA,Region,Morocco,Africa,Very small island,,,-5.386078986,35.84347226,3528
 Taza-Al Hoceima-Taounate,Morocco,MA03,MA,Region,Morocco,Africa,Very small island,,,-4.360152136,35.15228026,3529
 Taza-Al Hoceima-Taounate,Morocco,MA03,MA,Region,Morocco,Africa,Primary land,,,-4.102163894,34.39618622,3530
-Maputo,Mozambique,MZMPM,MZ,City,Mozambique,Africa,Very small island,,,32.48668204,-26.00658529,3531
+Zacapa,Guatemala,GTZA,GT,Department,Guatemala,North America,Primary land,,,-89.51012067,15.03597008,3531
 Maputo,Mozambique,MZMPM,MZ,City,Mozambique,Africa,Primary land,,,32.56105932,-25.85662845,3532
 Cabo Delgado,Mozambique,MZP,MZ,Province,Mozambique,Africa,Small island,,,40.61186649,-11.81099121,3533
 Cabo Delgado,Mozambique,MZP,MZ,Province,Mozambique,Africa,Very small island,,,40.49727853,-12.02609506,3534
@@ -3548,7 +3548,7 @@ Nampula,Mozambique,MZN,MZ,Province,Mozambique,Africa,Primary land,,,39.24393607,
 Niassa,Mozambique,MZA,MZ,Province,Mozambique,Africa,Primary land,,,36.45815643,-13.0661856,3547
 Sofala,Mozambique,MZS,MZ,Province,Mozambique,Africa,Small island,,,34.9800927,-20.2212537,3548
 Sofala,Mozambique,MZS,MZ,Province,Mozambique,Africa,Very small island,,,35.39032267,-19.46764612,3549
-Bengkulu,Indonesia,IDBE,ID,Province,Indonesia,Asia,Very small island,,,102.3900079,-5.449636361,3550
+Sofala,Mozambique,MZS,MZ,Province,Mozambique,Africa,Primary land,,,34.67359314,-19.06815928,3550
 Tete,Mozambique,MZT,MZ,Province,Mozambique,Africa,Primary land,,,32.76890395,-15.52224988,3551
 Zamb?zia,Mozambique,MZQ,MZ,Province,Mozambique,Africa,Small island,,,36.44328548,-18.55552181,3552
 Zamb?zia,Mozambique,MZQ,MZ,Province,Mozambique,Africa,Very small island,,,37.16930877,-17.8744713,3553
@@ -3572,8 +3572,8 @@ Mon,Myanmar,MM15,MM,State,Myanmar,Asia,Primary land,,,97.57956415,16.41436918,35
 Rakhine,Myanmar,MM16,MM,State,Myanmar,Asia,Small island,,,93.51267027,19.66809254,3571
 Rakhine,Myanmar,MM16,MM,State,Myanmar,Asia,Very small island,,,93.56674261,19.6340748,3572
 Rakhine,Myanmar,MM16,MM,State,Myanmar,Asia,Medium island,,,93.75450607,19.14532355,3573
-Quthing,Lesotho,LSG,LS,District,Lesotho,Africa,Primary land,,,27.98403506,-30.36357504,3574
-Thaba-Tseka,Lesotho,LSK,LS,District,Lesotho,Africa,Primary land,,,28.6035157,-29.56634019,3575
+Rakhine,Myanmar,MM16,MM,State,Myanmar,Asia,Primary land,,,93.73544651,19.78136173,3574
+Akn_ste,Latvia,LV004,LV,Municipality,Latvia,Europe,Primary land,,,25.80882049,56.14558555,3575
 Garissa,Kenya,KE07,KE,County,Kenya,Africa,Primary land,,,40.18179903,-0.498730512,3576
 Papua Barat,Indonesia,IDPB,ID,Autonomous Province,Indonesia,Asia,Small island,,,132.0265889,-1.728191975,3577
 Santa Rosa,Guatemala,GTSR,GT,Department,Guatemala,North America,Primary land,,,-90.33646271,14.16475198,3578
@@ -3581,7 +3581,7 @@ Grand Bassa,Liberia,LRGB,LR,County,Liberia,Africa,Very small island,,,-10.212503
 Aiti,Japan,JP23,JP,Prefecture,Japan,Asia,Small island,,,136.8980053,34.9054229,3580
 Homa Bay,Kenya,KE08,KE,County,Kenya,Africa,Primary land,,,34.36041014,-0.543908149,3581
 Al_ksne,Latvia,LV007,LV,Municipality,Latvia,Europe,Primary land,,,27.15517209,57.41226256,3582
-Grand Cape Mount,Liberia,LRCM,LR,County,Liberia,Africa,Primary land,,,-11.01759158,7.117139231,3583
+Suchitep?quez,Guatemala,GTSU,GT,Department,Guatemala,North America,Primary land,,,-91.40658554,14.40404013,3583
 Papua Barat,Indonesia,IDPB,ID,Autonomous Province,Indonesia,Asia,Very small island,,,131.293838,-1.616221303,3584
 Aiti,Japan,JP23,JP,Prefecture,Japan,Asia,Very small island,,,137.0120213,34.8852857,3585
 Isiolo,Kenya,KE09,KE,County,Kenya,Africa,Primary land,,,38.54577225,1.008854123,3586
@@ -3613,7 +3613,7 @@ Kilifi,Kenya,KE14,KE,County,Kenya,Africa,Primary land,,,39.69307968,-3.168286431
 Kilifi,Kenya,KE14,KE,County,Kenya,Africa,Very small island,,,40.0790588,-3.177276386,3612
 Kirinyaga,Kenya,KE15,KE,County,Kenya,Africa,Primary land,,,37.31964144,-0.524903612,3613
 Kisii,Kenya,KE16,KE,County,Kenya,Africa,Primary land,,,34.77499428,-0.774245146,3614
-Murzuq,Libya,LYMQ,LY,District,Libya,Africa,Primary land,,,15.41210872,24.61067017,3615
+Kisumu,Kenya,KE17,KE,County,Kenya,Africa,Primary land,,,34.83490829,-0.16953867,3615
 Kitui,Kenya,KE18,KE,County,Kenya,Africa,Primary land,,,38.40401609,-1.496522024,3616
 Kwale,Kenya,KE19,KE,County,Kenya,Africa,Very small island,,,39.39631701,-4.559556525,3617
 Kwale,Kenya,KE19,KE,County,Kenya,Africa,Small island,,,39.36319029,-4.63595446,3618
@@ -3625,8 +3625,8 @@ Lamu,Kenya,KE21,KE,County,Kenya,Africa,Primary land,,,40.77195067,-2.041902919,3
 Machakos,Kenya,KE22,KE,County,Kenya,Africa,Primary land,,,37.40970413,-1.276873915,3624
 Makueni,Kenya,KE23,KE,County,Kenya,Africa,Primary land,,,37.78632314,-2.157502021,3625
 Mandera,Kenya,KE24,KE,County,Kenya,Africa,Primary land,,,40.69863446,3.41827286,3626
-Schaan,Liechtenstein,LI07,LI,Commune,Liechtenstein,Europe,Primary land,,,9.552156919,47.14782949,3627
-Schellenberg,Liechtenstein,LI08,LI,Commune,Liechtenstein,Europe,Primary land,,,9.549920629,47.2379028,3628
+Marsabit,Kenya,KE25,KE,County,Kenya,Africa,Primary land,,,37.56965533,2.981862333,3627
+Meru,Kenya,KE26,KE,County,Kenya,Africa,Primary land,,,37.75000152,0.147109188,3628
 Migori,Kenya,KE27,KE,County,Kenya,Africa,Primary land,,,34.3603584,-0.987232885,3629
 Mombasa,Kenya,KE28,KE,County,Kenya,Africa,Very small island,,,39.62953575,-4.030014759,3630
 Mombasa,Kenya,KE28,KE,County,Kenya,Africa,Small island,,,39.66210181,-4.049821862,3631
@@ -3641,9 +3641,9 @@ Nyeri,Kenya,KE36,KE,County,Kenya,Africa,Primary land,,,36.95537885,-0.340943414,
 Samburu,Kenya,KE37,KE,County,Kenya,Africa,Primary land,,,37.11872396,1.320772636,3640
 Siaya,Kenya,KE38,KE,County,Kenya,Africa,Primary land,,,34.24614974,-0.064632233,3641
 Taita/Taveta,Kenya,KE39,KE,County,Kenya,Africa,Primary land,,,38.42570916,-3.43981229,3642
-Jambi,Indonesia,IDJA,ID,Province,Indonesia,Asia,Small island,,,104.2201724,-1.043387139,3643
+Tana River,Kenya,KE40,KE,County,Kenya,Africa,Very small island,,,40.54596357,-2.543749356,3643
 Tana River,Kenya,KE40,KE,County,Kenya,Africa,Primary land,,,39.39993877,-1.549829195,3644
-Ik__ile,Latvia,LV035,LV,Municipality,Latvia,Europe,Primary land,,,24.58402607,56.86027741,3645
+Tharaka-Nithi,Kenya,KE41,KE,County,Kenya,Africa,Primary land,,,37.93194257,-0.20010832,3645
 Trans Nzoia,Kenya,KE42,KE,County,Kenya,Africa,Primary land,,,34.95784201,1.051952148,3646
 Turkana,Kenya,KE43,KE,County,Kenya,Africa,Primary land,,,35.44980456,3.186024277,3647
 Uasin Gishu,Kenya,KE44,KE,County,Kenya,Africa,Primary land,,,35.32097583,0.530731689,3648
@@ -3654,7 +3654,7 @@ Gilbert Islands,Kiribati,KIG,KI,Island Group,Kiribati,Oceania,Small island,,,174
 Gilbert Islands,Kiribati,KIG,KI,Island Group,Kiribati,Oceania,Very small island,,,174.0513831,0.044358968,3653
 Gilbert Islands,Kiribati,KIG,KI,Island Group,Kiribati,Oceania,Small island,,,169.5359784,-0.856361594,3654
 In_ukalns,Latvia,LV037,LV,Municipality,Latvia,Europe,Primary land,,,24.65125475,57.10234431,3655
-Huehuetenango,Guatemala,GTHU,GT,Department,Guatemala,North America,Primary land,,,-91.55644017,15.65620512,3656
+Line Islands,Kiribati,KIL,KI,Island Group,Kiribati,Oceania,Very small island,,,-154.7001588,-2.608442631,3656
 Phoenix Islands,Kiribati,KIP,KI,Island Group,Kiribati,Oceania,Small island,,,-171.952822,-3.813417395,3657
 Phoenix Islands,Kiribati,KIP,KI,Island Group,Kiribati,Oceania,Very small island,,,-171.6487463,-3.654883741,3658
 Al Ahmadi,Kuwait,KWAH,KW,Governorate,Kuwait,Asia,Very small island,,,48.58273712,28.88320378,3659
@@ -3663,7 +3663,7 @@ Al Jahrah,Kuwait,KWJA,KW,Governorate,Kuwait,Asia,Small island,,,48.08549419,29.9
 Al Jahrah,Kuwait,KWJA,KW,Governorate,Kuwait,Asia,Very small island,,,48.01657612,29.73128833,3662
 Al Jahrah,Kuwait,KWJA,KW,Governorate,Kuwait,Asia,Medium island,,,48.21741505,29.77991504,3663
 Al Jahrah,Kuwait,KWJA,KW,Governorate,Kuwait,Asia,Primary land,,,47.42276153,29.52048651,3664
-Jaunjelgava,Latvia,LV038,LV,Municipality,Latvia,Europe,Primary land,,,25.29827815,56.51421357,3665
+Al Kuwayt,Kuwait,KWKU,KW,Governorate,Kuwait,Asia,Small island,,,48.18707231,29.74008185,3665
 Izabal,Guatemala,GTIZ,GT,Department,Guatemala,North America,Primary land,,,-89.03301171,15.55506684,3666
 Kagawa,Japan,JP37,JP,Prefecture,Japan,Asia,Very small island,,,133.9450604,34.41472167,3667
 Hawalli,Kuwait,KWHA,KW,Governorate,Kuwait,Asia,Primary land,,,48.04314663,29.30539826,3668
@@ -3688,11 +3688,11 @@ Ph?ngsali,Laos,LAPH,LA,Province,Laos,Asia,Primary land,,,102.2382124,21.65399086
 Banten,Indonesia,IDBT,ID,Province,Indonesia,Asia,Small island,,,105.3440519,-6.55673017,3687
 Hirosima,Japan,JP34,JP,Prefecture,Japan,Asia,Small island,,,132.7710976,34.26093457,3688
 Bab_te,Latvia,LV012,LV,Municipality,Latvia,Europe,Primary land,,,23.76700571,56.90138638,3689
-Nagasaki,Japan,JP42,JP,Prefecture,Japan,Asia,Medium island,,,129.326672,34.40912077,3690
-Niigata,Japan,JP15,JP,Prefecture,Japan,Asia,Small island,,,139.1330697,38.18587824,3691
+Hirosima,Japan,JP34,JP,Prefecture,Japan,Asia,Very small island,,,132.7226795,34.21755759,3690
+Banten,Indonesia,IDBT,ID,Province,Indonesia,Asia,Very small island,,,105.7818926,-6.37357417,3691
 Chiquimula,Guatemala,GTCQ,GT,Department,Guatemala,North America,Primary land,,,-89.42489631,14.68973272,3692
 Baldone,Latvia,LV013,LV,Municipality,Latvia,Europe,Primary land,,,24.3741409,56.73195578,3693
-Okayama,Japan,JP33,JP,Prefecture,Japan,Asia,Small island,,,133.9096226,34.53608698,3694
+El Progreso,Guatemala,GTPR,GT,Department,Guatemala,North America,Primary land,,,-90.08352711,14.90145582,3694
 Bengkulu,Indonesia,IDBE,ID,Province,Indonesia,Asia,Small island,,,102.2367963,-5.381437475,3695
 Hokkaid?,Japan,JP01,JP,Prefecture,Japan,Asia,Small island,,,140.7766721,44.14191382,3696
 Bengkulu,Indonesia,IDBE,ID,Province,Indonesia,Asia,Very small island,,,102.3900079,-5.449636361,3697
@@ -3705,7 +3705,7 @@ Beyrouth,Lebanon,LBBA,LB,Governorate,Lebanon,Asia,Primary land,,,35.5030021,33.8
 T?ky?,Japan,JP13,JP,Prefecture,Japan,Asia,Very small island,,,140.9605408,28.81015832,3704
 Gorontalo,Indonesia,IDGO,ID,Province,Indonesia,Asia,Very small island,,,122.1215873,0.594799241,3705
 Huehuetenango,Guatemala,GTHU,GT,Department,Guatemala,North America,Primary land,,,-91.55644017,15.65620512,3706
-Tiba,Japan,JP12,JP,Prefecture,Japan,Asia,Very small island,,,140.063301,35.22181323,3707
+El B?qaa,Lebanon,LBBI,LB,Governorate,Lebanon,Asia,Primary land,,,36.13743753,33.99308923,3707
 Hukusima,Japan,JP07,JP,Prefecture,Japan,Asia,Very small island,,,140.9394632,37.45047442,3708
 Tokusima,Japan,JP36,JP,Prefecture,Japan,Asia,Very small island,,,134.5246001,33.76775004,3709
 Izabal,Guatemala,GTIZ,GT,Department,Guatemala,North America,Very small island,,,-88.9024197,15.60015864,3710
@@ -3717,7 +3717,7 @@ Butha-Buthe,Lesotho,LSB,LS,District,Lesotho,Africa,Primary land,,,28.56238429,-2
 Leribe,Lesotho,LSC,LS,District,Lesotho,Africa,Primary land,,,28.26422606,-29.0178772,3716
 Mafeteng,Lesotho,LSE,LS,District,Lesotho,Africa,Primary land,,,27.38309366,-29.78203929,3717
 Maseru,Lesotho,LSA,LS,District,Lesotho,Africa,Primary land,,,27.81548402,-29.58121113,3718
-Al Mafraq,Jordan,JOMA,JO,Governorate,Jordan,Asia,Primary land,,,37.92042936,32.37502023,3719
+Mohale's Hoek,Lesotho,LSF,LS,District,Lesotho,Africa,Primary land,,,27.82520426,-30.05540922,3719
 Mokhotlong,Lesotho,LSJ,LS,District,Lesotho,Africa,Primary land,,,29.03386652,-29.2189905,3720
 Qacha's Nek,Lesotho,LSH,LS,District,Lesotho,Africa,Primary land,,,28.72717275,-29.97279577,3721
 Quthing,Lesotho,LSG,LS,District,Lesotho,Africa,Primary land,,,27.98403506,-30.36357504,3722
@@ -3742,14 +3742,14 @@ River Gee,Liberia,LRRG,LR,County,Liberia,Africa,Primary land,,,-7.857446253,5.26
 Rivercess,Liberia,LRRI,LR,County,Liberia,Africa,Primary land,,,-9.386618995,5.87641588,3741
 Sinoe,Liberia,LRSI,LR,County,Liberia,Africa,Primary land,,,-8.845756366,5.375478092,3742
 _ar_bulus,Libya,LYTB,LY,District,Libya,Africa,Primary land,,,13.52230225,32.56804989,3743
-Maharashtra,India,INMH,IN,State,India,Asia,Small island,,,72.92561608,19.11515542,3744
+Al Bu_n_n,Libya,LYBU,LY,District,Libya,Africa,Very small island,,,24.3475587,31.9961005,3744
 Al Bu_n_n,Libya,LYBU,LY,District,Libya,Africa,Primary land,,,23.98293429,30.0207645,3745
 Al Jabal al Akhd_ar,Libya,LYJA,LY,District,Libya,Africa,Primary land,,,21.7574385,32.19738448,3746
 Al Jabal al Gharb_,Libya,LYJG,LY,District,Libya,Africa,Primary land,,,12.98300153,30.28587975,3747
 Al Jufrah,Libya,LYJU,LY,District,Libya,Africa,Primary land,,,17.03467531,27.81190406,3748
 Al Kufrah,Libya,LYKF,LY,District,Libya,Africa,Primary land,,,22.16332028,23.81551013,3749
 Al Marj,Libya,LYMJ,LY,District,Libya,Africa,Primary land,,,21.21892039,32.0328338,3750
-Kalimantan Barat,Indonesia,IDKB,ID,Province,Indonesia,Asia,Small island,,,109.3018495,-1.088782517,3751
+Al Marqab,Libya,LYMB,LY,District,Libya,Africa,Very small island,,,14.10788409,32.71914774,3751
 Al Marqab,Libya,LYMB,LY,District,Libya,Africa,Primary land,,,14.16335149,32.21682526,3752
 Al W____t,Libya,LYWA,LY,District,Libya,Africa,Very small island,,,19.89069609,30.77781808,3753
 Al W____t,Libya,LYWA,LY,District,Libya,Africa,Primary land,,,21.33734187,28.80949667,3754
@@ -3757,7 +3757,7 @@ An Nuq__ al Khams,Libya,LYNQ,LY,District,Libya,Africa,Primary land,,,11.9271694,
 Az Z_wiyah,Libya,LYZA,LY,District,Libya,Africa,Primary land,,,12.58304191,32.4405096,3756
 Bangh_z_,Libya,LYBA,LY,District,Libya,Africa,Primary land,,,20.57358838,31.62037431,3757
 Darnah,Libya,LYDR,LY,District,Libya,Africa,Small island,,,23.28223826,32.23105596,3758
-Kalimantan Timur,Indonesia,IDKU,ID,Province,Indonesia,Asia,Very small island,,,117.7583166,0.101063187,3759
+Darnah,Libya,LYDR,LY,District,Libya,Africa,Very small island,,,23.2077023,32.38141323,3759
 Darnah,Libya,LYDR,LY,District,Libya,Africa,Primary land,,,22.56736456,31.98080992,3760
 Gh_t,Libya,LYGT,LY,District,Libya,Africa,Primary land,,,10.50235795,26.03573671,3761
 Golestan,Iran,IR27,IR,Province,Iran,Asia,Small island,,,53.97553759,37.07201589,3762
@@ -3784,7 +3784,7 @@ Hy?go,Japan,JP28,JP,Prefecture,Japan,Asia,Small island,,,134.9006963,34.63859245
 Jambi,Indonesia,IDJA,ID,Province,Indonesia,Asia,Very small island,,,104.208054,-1.054153491,3783
 Izabal,Guatemala,GTIZ,GT,Department,Guatemala,North America,Primary land,,,-89.03301171,15.55506684,3784
 Hy?go,Japan,JP28,JP,Prefecture,Japan,Asia,Very small island,,,134.6173105,34.63907973,3785
-Sicilia,Italy,IT82,IT,Autonomous Region,Italy,Europe,Very small island,,,13.50785452,37.7252501,3786
+Jalapa,Guatemala,GTJA,GT,Department,Guatemala,North America,Primary land,,,-89.94817623,14.62082694,3786
 Sicilia,Italy,IT82,IT,Autonomous Region,Italy,Europe,Small island,,,13.38583687,37.67581572,3787
 Hy?go,Japan,JP28,JP,Prefecture,Japan,Asia,Medium island,,,134.8383858,34.36316434,3788
 Jutiapa,Guatemala,GTJU,GT,Department,Guatemala,North America,Primary land,,,-89.89713035,14.21097014,3789
@@ -3813,7 +3813,7 @@ Bolama,Guinea-Bissau,GWBL,GW,Region,Guinea-Bissau,Africa,Small island,,,-16.0043
 Bolama,Guinea-Bissau,GWBL,GW,Region,Guinea-Bissau,Africa,Very small island,,,-15.95501428,11.28050096,3812
 Bolama,Guinea-Bissau,GWBL,GW,Region,Guinea-Bissau,Africa,Primary land,,,-15.39075035,11.62626243,3813
 Cacheu,Guinea-Bissau,GWCA,GW,Region,Guinea-Bissau,Africa,Small island,,,-16.13531378,11.86952559,3814
-Saint Catherine,Jamaica,JM14,JM,Parish,Jamaica,North America,Very small island,,,-77.04451361,17.89454162,3815
+Cacheu,Guinea-Bissau,GWCA,GW,Region,Guinea-Bissau,Africa,Very small island,,,-16.30267324,11.97563358,3815
 Cacheu,Guinea-Bissau,GWCA,GW,Region,Guinea-Bissau,Africa,Primary land,,,-16.0339073,12.22085809,3816
 Gab?,Guinea-Bissau,GWGA,GW,Region,Guinea-Bissau,Africa,Primary land,,,-14.10341809,12.16047584,3817
 Koknese,Latvia,LV046,LV,Municipality,Latvia,Europe,Primary land,,,25.46066812,56.70991913,3818
@@ -3844,7 +3844,7 @@ Upper Demerara-Berbice,Guyana,GYUD,GY,Region,Guyana,South America,Very small isl
 Upper Demerara-Berbice,Guyana,GYUD,GY,Region,Guyana,South America,Primary land,,,-58.28241278,5.379519076,3843
 Upper Takutu-Upper Essequibo,Guyana,GYUT,GY,Region,Guyana,South America,Primary land,,,-58.97946911,2.814491229,3844
 Artibonite,Haiti,HTAR,HT,Department,Haiti,North America,Very small island,,,-72.73495339,19.34151575,3845
-Maluku,Indonesia,IDMA,ID,Province,Indonesia,Asia,Large island,,,129.4606783,-3.201484483,3846
+Artibonite,Haiti,HTAR,HT,Department,Haiti,North America,Primary land,,,-72.56727573,19.33268125,3846
 Grande-Anse,Haiti,HTGA,HT,Department,Haiti,North America,Small island,,,-73.74997222,18.61306043,3847
 Grande-Anse,Haiti,HTGA,HT,Department,Haiti,North America,Very small island,,,-73.90459938,18.586068,3848
 Grande-Anse,Haiti,HTGA,HT,Department,Haiti,North America,Primary land,,,-74.14187034,18.50390572,3849
@@ -3852,7 +3852,7 @@ Nippes,Haiti,HTNI,HT,Department,Haiti,North America,Small island,,,-73.61230087,
 Nippes,Haiti,HTNI,HT,Department,Haiti,North America,Very small island,,,-73.51150952,18.51908701,3851
 Nippes,Haiti,HTNI,HT,Department,Haiti,North America,Primary land,,,-73.39194542,18.43240042,3852
 Nord,Haiti,HTND,HT,Department,Haiti,North America,Very small island,,,-72.37613292,19.81496347,3853
-Nusa Tenggara Timur,Indonesia,IDNT,ID,Province,Indonesia,Asia,Small island,,,121.8943455,-9.11927207,3854
+Nord,Haiti,HTND,HT,Department,Haiti,North America,Primary land,,,-72.297143,19.60021824,3854
 Nord-Est,Haiti,HTNE,HT,Department,Haiti,North America,Very small island,,,-71.94207142,19.68752458,3855
 Nord-Est,Haiti,HTNE,HT,Department,Haiti,North America,Primary land,,,-71.88961908,19.5086877,3856
 Nord-Ouest,Haiti,HTNO,HT,Department,Haiti,North America,Small island,,,-72.78902473,20.04478778,3857
@@ -3866,7 +3866,7 @@ Iwate,Japan,JP03,JP,Prefecture,Japan,Asia,Very small island,,,141.959504,39.4908
 Kagawa,Japan,JP37,JP,Prefecture,Japan,Asia,Small island,,,134.1539699,34.47211609,3865
 Kagawa,Japan,JP37,JP,Prefecture,Japan,Asia,Very small island,,,133.9450604,34.41472167,3866
 Jawa Barat,Indonesia,IDJB,ID,Province,Indonesia,Asia,Very small island,,,107.5943077,-6.797606693,3867
-Sulawesi Tengah,Indonesia,IDST,ID,Province,Indonesia,Asia,Medium island,,,123.1406421,-1.37505817,3868
+Kagosima,Japan,JP46,JP,Prefecture,Japan,Asia,Small island,,,130.0995495,29.91310635,3868
 Kagosima,Japan,JP46,JP,Prefecture,Japan,Asia,Very small island,,,129.933178,30.66017729,3869
 Jawa Barat,Indonesia,IDJB,ID,Province,Indonesia,Asia,Small island,,,108.3796263,-5.929884463,3870
 Kagosima,Japan,JP46,JP,Prefecture,Japan,Asia,Medium island,,,129.4266008,28.31189982,3871
@@ -3875,10 +3875,10 @@ Kanagawa,Japan,JP14,JP,Prefecture,Japan,Asia,Small island,,,139.7212819,35.46232
 Jawa Tengah,Indonesia,IDJT,ID,Province,Indonesia,Asia,Very small island,,,110.0547744,-6.370857198,3874
 Kanagawa,Japan,JP14,JP,Prefecture,Japan,Asia,Very small island,,,139.6417445,35.32821116,3875
 Jawa Timur,Indonesia,IDJI,ID,Province,Indonesia,Asia,Very small island,,,114.1146256,-7.395548769,3876
-Krustpils,Latvia,LV049,LV,Municipality,Latvia,Europe,Primary land,,,26.17256151,56.54841616,3877
+Kumamoto,Japan,JP43,JP,Prefecture,Japan,Asia,Small island,,,130.4217676,32.49415535,3877
 Jawa Timur,Indonesia,IDJI,ID,Province,Indonesia,Asia,Small island,,,114.5708831,-6.878417247,3878
 Kumamoto,Japan,JP43,JP,Prefecture,Japan,Asia,Very small island,,,130.3100237,32.38777961,3879
-Faranah,Guinea,GNF,GN,Region,Guinea,Africa,Primary land,,,-10.66515246,10.51893521,3880
+Jawa Timur,Indonesia,IDJI,ID,Province,Indonesia,Asia,Medium island,,,113.3501963,-7.03526911,3880
 Kumamoto,Japan,JP43,JP,Prefecture,Japan,Asia,Medium island,,,130.1634825,32.40249763,3881
 Kalimantan Barat,Indonesia,IDKB,ID,Province,Indonesia,Asia,Small island,,,109.3018495,-1.088782517,3882
 Ky?to,Japan,JP26,JP,Prefecture,Japan,Asia,Very small island,,,135.413679,35.60042226,3883
@@ -3907,7 +3907,7 @@ Hormozgan,Iran,IR23,IR,Province,Iran,Asia,Medium island,,,55.81055968,26.7841856
 Khuzestan,Iran,IR10,IR,Province,Iran,Asia,Small island,,,49.02150387,30.27729372,3906
 Khuzestan,Iran,IR10,IR,Province,Iran,Asia,Very small island,,,49.10975717,30.37758232,3907
 Mazandaran,Iran,IR21,IR,Province,Iran,Asia,Small island,,,53.63163679,36.85093074,3908
-P_vilosta,Latvia,LV071,LV,Municipality,Latvia,Europe,Primary land,,,21.22860857,56.8054395,3909
+Mazandaran,Iran,IR21,IR,Province,Iran,Asia,Very small island,,,53.48060419,36.80771413,3909
 Sistan va Baluchestan,Iran,IR13,IR,Province,Iran,Asia,Very small island,,,61.53198533,25.18354144,3910
 Connaught,Ireland,IEC,IE,Province,Ireland,Europe,Very small island,,,-9.753527715,53.697441,3911
 Priekule,Latvia,LV074,LV,Municipality,Latvia,Europe,Primary land,,,21.56488588,56.43318063,3912
@@ -3925,7 +3925,7 @@ Sardegna,Italy,IT88,IT,Autonomous Region,Italy,Europe,Very small island,,,9.1801
 Sardegna,Italy,IT88,IT,Autonomous Region,Italy,Europe,Small island,,,8.607069498,39.9650159,3924
 Sicilia,Italy,IT82,IT,Autonomous Region,Italy,Europe,Very small island,,,13.50785452,37.7252501,3925
 Sicilia,Italy,IT82,IT,Autonomous Region,Italy,Europe,Small island,,,13.38583687,37.67581572,3926
-Saulkrasti,Latvia,LV089,LV,Municipality,Latvia,Europe,Primary land,,,24.41984585,57.25263147,3927
+Basilicata,Italy,IT77,IT,Region,Italy,Europe,Very small island,,,16.33685305,40.11611799,3927
 Calabria,Italy,IT78,IT,Region,Italy,Europe,Very small island,,,15.80171896,39.69843567,3928
 Campania,Italy,IT72,IT,Region,Italy,Europe,Small island,,,13.96793881,40.69862723,3929
 Campania,Italy,IT72,IT,Region,Italy,Europe,Very small island,,,14.26112292,40.67800365,3930
@@ -3945,7 +3945,7 @@ Hanover,Jamaica,JM09,JM,Parish,Jamaica,North America,Very small island,,,-78.347
 Hanover,Jamaica,JM09,JM,Parish,Jamaica,North America,Primary land,,,-78.13405245,18.38642005,3944
 Kingston,Jamaica,JM01,JM,Parish,Jamaica,North America,Very small island,,,-76.9581043,17.18543813,3945
 Manchester,Jamaica,JM12,JM,Parish,Jamaica,North America,Primary land,,,-77.50473559,18.03748658,3946
-Zilupe,Latvia,LV110,LV,Municipality,Latvia,Europe,Primary land,,,28.08732374,56.30361997,3947
+Portland,Jamaica,JM04,JM,Parish,Jamaica,North America,Very small island,,,-76.45330299,18.18697199,3947
 Portland,Jamaica,JM04,JM,Parish,Jamaica,North America,Primary land,,,-76.51949152,18.12163319,3948
 Biombo,Guinea-Bissau,GWBM,GW,Region,Guinea-Bissau,Africa,Primary land,,,-15.77500679,11.87615242,3949
 Saint Andrew,Jamaica,JM02,JM,Parish,Jamaica,North America,Primary land,,,-76.76303994,18.04974551,3950
@@ -3957,17 +3957,17 @@ Nagasaki,Japan,JP42,JP,Prefecture,Japan,Asia,Small island,,,129.1615444,33.05947
 Nagasaki,Japan,JP42,JP,Prefecture,Japan,Asia,Very small island,,,129.3827719,33.23360061,3956
 Nagasaki,Japan,JP42,JP,Prefecture,Japan,Asia,Medium island,,,129.326672,34.40912077,3957
 Niigata,Japan,JP15,JP,Prefecture,Japan,Asia,Small island,,,139.1330697,38.18587824,3958
-Oio,Guinea-Bissau,GWOI,GW,Region,Guinea-Bissau,Africa,Primary land,,,-15.26482959,12.29158368,3959
-Quinara,Guinea-Bissau,GWQU,GW,Region,Guinea-Bissau,Africa,Small island,,,-15.44570465,11.84161052,3960
+Niigata,Japan,JP15,JP,Prefecture,Japan,Asia,Very small island,,,138.8453179,37.86565767,3959
+Niigata,Japan,JP15,JP,Prefecture,Japan,Asia,Medium island,,,138.3902296,38.04468934,3960
 Okayama,Japan,JP33,JP,Prefecture,Japan,Asia,Small island,,,133.9096226,34.53608698,3961
 Okayama,Japan,JP33,JP,Prefecture,Japan,Asia,Very small island,,,133.9243595,34.52286189,3962
-Tombali,Guinea-Bissau,GWTO,GW,Region,Guinea-Bissau,Africa,Small island,,,-15.23628462,11.08495091,3963
+Okinawa,Japan,JP47,JP,Prefecture,Japan,Asia,Very small island,,,126.8827143,26.01406747,3963
 Okinawa,Japan,JP47,JP,Prefecture,Japan,Asia,Small island,,,125.1899718,24.93415926,3964
 Saga,Japan,JP41,JP,Prefecture,Japan,Asia,Small island,,,130.0618857,33.40094567,3965
 Saga,Japan,JP41,JP,Prefecture,Japan,Asia,Very small island,,,129.8168864,33.47636704,3966
 Simane,Japan,JP32,JP,Prefecture,Japan,Asia,Small island,,,133.2082583,36.18799052,3967
-Cuyuni-Mazaruni,Guyana,GYCU,GY,Region,Guyana,South America,Very small island,,,-58.61369382,6.403030439,3968
-Demerara-Mahaica,Guyana,GYDE,GY,Region,Guyana,South America,Small island,,,-58.21653684,6.599635538,3969
+Simane,Japan,JP32,JP,Prefecture,Japan,Asia,Very small island,,,132.9568995,35.72683102,3968
+Sizuoka,Japan,JP22,JP,Prefecture,Japan,Asia,Small island,,,138.4835741,34.8895171,3969
 Sizuoka,Japan,JP22,JP,Prefecture,Japan,Asia,Very small island,,,137.9608459,34.71031754,3970
 T?ky?,Japan,JP13,JP,Prefecture,Japan,Asia,Very small island,,,140.9605408,28.81015832,3971
 T?ky?,Japan,JP13,JP,Prefecture,Japan,Asia,Small island,,,140.0894998,32.47926649,3972
@@ -3986,10 +3986,10 @@ Al Balqa',Jordan,JOBA,JO,Governorate,Jordan,Asia,Primary land,,,35.67154248,31.9
 Al Karak,Jordan,JOKA,JO,Governorate,Jordan,Asia,Primary land,,,35.78725596,31.11732314,3985
 Al Mafraq,Jordan,JOMA,JO,Governorate,Jordan,Asia,Primary land,,,37.92042936,32.37502023,3986
 Amman,Jordan,JOAM,JO,Governorate,Jordan,Asia,Primary land,,,36.36624551,31.56303717,3987
-Grande-Anse,Haiti,HTGA,HT,Department,Haiti,North America,Very small island,,,-73.90459938,18.586068,3988
+At Tafilah,Jordan,JOAT,JO,Governorate,Jordan,Asia,Primary land,,,35.63689412,30.76451198,3988
 Az Zarqa',Jordan,JOAZ,JO,Governorate,Jordan,Asia,Primary land,,,36.83601902,31.81768647,3989
 Irbid,Jordan,JOIR,JO,Governorate,Jordan,Asia,Primary land,,,35.7979501,32.50612729,3990
-Nippes,Haiti,HTNI,HT,Department,Haiti,North America,Very small island,,,-73.51150952,18.51908701,3991
+Jarash,Jordan,JOJA,JO,Governorate,Jordan,Asia,Primary land,,,35.88083289,32.20571626,3991
 Madaba,Jordan,JOMD,JO,Governorate,Jordan,Asia,Primary land,,,35.68517982,31.56328249,3992
 Ongt?stik Qazaqstan,Kazakhstan,KZYUZ,KZ,Region,Kazakhstan,Asia,Primary land,,,68.45506123,43.26906659,3993
 Pavlodar,Kazakhstan,KZPAV,KZ,Region,Kazakhstan,Asia,Primary land,,,76.23740179,52.10506746,3994
@@ -4000,17 +4000,17 @@ Shyghys Qazaqstan,Kazakhstan,KZVOS,KZ,Region,Kazakhstan,Asia,Primary land,,,81.5
 Solt?stik Qazaqstan,Kazakhstan,KZSEV,KZ,Region,Kazakhstan,Asia,Primary land,,,69.5009473,53.69764676,3999
 Almaty,Kazakhstan,KZALA,KZ,City,Kazakhstan,Asia,Primary land,,,76.89236803,43.24804374,4000
 Aurora,Philippines,PHAUR,PH,Province,Philippines,Asia,Very small island,,,121.59611,15.64890997,4001
-Central,Papua New Guinea,PGCPM,PG,Province,Papua New Guinea,Asia,Primary land,,,147.6141825,-9.198776923,4002
+Basilan,Philippines,PHBAS,PH,Province,Philippines,Asia,Very small island,,,121.763716,6.550323858,4002
 Ash Sharq_yah,Oman,OMSH,OM,Governorate,Oman,Asia,Very small island,,,58.83550145,20.95160328,4003
 Basilan,Philippines,PHBAS,PH,Province,Philippines,Asia,Small island,,,121.7963852,6.551150052,4004
-East Sepik,Papua New Guinea,PGESW,PG,Province,Papua New Guinea,Asia,Very small island,,,144.0961804,-4.031696338,4005
+Bataan,Philippines,PHBAN,PH,Province,Philippines,Asia,Small island,,,120.5823743,14.38464305,4005
 Nanshan Island,Philippines,PHPLW,PH,Province,Philippines,Asia,Very small island,,,115.8032204,10.73217108,4006
-Tulcea,Romania,ROTL,RO,Department,Romania,Europe,Small island,,,29.42813142,45.35574944,4007
+Ash Sharq_yah,Oman,OMSH,OM,Governorate,Oman,Asia,Medium island,,,58.77870069,20.41181107,4007
 Bataan,Philippines,PHBAN,PH,Province,Philippines,Asia,Very small island,,,120.6177886,14.38501581,4008
 East Sepik,Papua New Guinea,PGESW,PG,Province,Papua New Guinea,Asia,Primary land,,,143.1878545,-4.288653621,4009
 Az_ ___hirah,Oman,OMZA,OM,Governorate,Oman,Asia,Primary land,,,56.1381504,22.64453082,4010
 Shan,Myanmar,MM17,MM,State,Myanmar,Asia,Primary land,,,98.1211663,21.73715067,4011
-Enga,Papua New Guinea,PGEPW,PG,Province,Papua New Guinea,Asia,Primary land,,,143.4639956,-5.401792302,4012
+Campbell Islands,New Zealand,NZ,NZ,Island,New Zealand,Oceania,Very small island,,,169.0820088,-52.55875272,4012
 Tulcea,Romania,ROTL,RO,Department,Romania,Europe,Small island,,,29.42813142,45.35574944,4013
 Gulf,Papua New Guinea,PGGPK,PG,Province,Papua New Guinea,Asia,Very small island,,,144.7609577,-7.485142804,4014
 Western Area,Sierra Leone,SLW,SL,Province,Sierra Leone,Africa,Primary land,,,-13.11124736,8.339888483,4015
@@ -4019,7 +4019,7 @@ Batanes,Philippines,PHBTN,PH,Province,Philippines,Asia,Small island,,,121.888890
 Batanes,Philippines,PHBTN,PH,Province,Philippines,Asia,Very small island,,,122.0055354,20.59652259,4018
 Batangas,Philippines,PHBTG,PH,Province,Philippines,Asia,Small island,,,120.9575835,13.61253229,4019
 Batangas,Philippines,PHBTG,PH,Province,Philippines,Asia,Very small island,,,120.8677426,13.72658061,4020
-Madang,Papua New Guinea,PGMPM,PG,Province,Papua New Guinea,Asia,Primary land,,,145.2502431,-5.164030534,4021
+Biliran,Philippines,PHBIL,PH,Province,Philippines,Asia,Small island,,,124.4749995,11.59679667,4021
 Biliran,Philippines,PHBIL,PH,Province,Philippines,Asia,Very small island,,,124.3492912,11.66158187,4022
 Bohol,Philippines,PHBOH,PH,Province,Philippines,Asia,Small island,,,124.0733138,9.845457419,4023
 Bohol,Philippines,PHBOH,PH,Province,Philippines,Asia,Very small island,,,124.27385,10.09248603,4024
@@ -4035,7 +4035,7 @@ Capiz,Philippines,PHCAP,PH,Province,Philippines,Asia,Small island,,,122.8375107,
 Capiz,Philippines,PHCAP,PH,Province,Philippines,Asia,Very small island,,,122.8754127,11.52854263,4034
 Catanduanes,Philippines,PHCAT,PH,Province,Philippines,Asia,Small island,,,124.2713326,13.97205773,4035
 Western,Papua New Guinea,PGWPD,PG,Province,Papua New Guinea,Asia,Small island,,,143.0312604,-8.577803817,4036
-Western,Papua New Guinea,PGWPD,PG,Province,Papua New Guinea,Asia,Very small island,,,142.278583,-8.089251623,4037
+Catanduanes,Philippines,PHCAT,PH,Province,Philippines,Asia,Medium island,,,124.2364638,13.78151558,4037
 Cavite,Philippines,PHCAV,PH,Province,Philippines,Asia,Very small island,,,120.5984208,14.24598662,4038
 Cebu,Philippines,PHCEB,PH,Province,Philippines,Asia,Small island,,,124.1319362,10.78358192,4039
 Cebu,Philippines,PHCEB,PH,Province,Philippines,Asia,Very small island,,,123.8812856,10.57421294,4040
@@ -4048,7 +4048,7 @@ Davao del Sur,Philippines,PHDAS,PH,Province,Philippines,Asia,Small island,,,125.
 Davao del Sur,Philippines,PHDAS,PH,Province,Philippines,Asia,Very small island,,,125.4728164,5.731920651,4047
 Davao Oriental,Philippines,PHDAO,PH,Province,Philippines,Asia,Small island,,,126.4402405,6.114193526,4048
 Davao Oriental,Philippines,PHDAO,PH,Province,Philippines,Asia,Very small island,,,126.4624979,7.603893507,4049
-Misiones,Paraguay,PY8,PY,Department,Paraguay,South America,Primary land,,,-57.03117949,-26.90831831,4050
+Eastern Samar,Philippines,PHEAS,PH,Province,Philippines,Asia,Small island,,,125.7194252,10.88964329,4050
 ?eembuc?,Paraguay,PY12,PY,Department,Paraguay,South America,Primary land,,,-57.84211083,-26.789175,4051
 Eastern Samar,Philippines,PHEAS,PH,Province,Philippines,Asia,Very small island,,,125.5566569,11.64531022,4052
 Flat Island,Philippines,PHPLW,PH,Province,Philippines,Asia,Very small island,,,115.8222288,10.81642763,4053
@@ -4084,7 +4084,7 @@ Leiria,Portugal,PT10,PT,District,Portugal,Europe,Primary land,,,-8.772789436,39.
 Lisboa,Portugal,PT11,PT,District,Portugal,Europe,Small island,,,-9.028639607,38.86077161,4083
 Portalegre,Portugal,PT12,PT,District,Portugal,Europe,Primary land,,,-7.613315829,39.19422091,4084
 Benguet,Philippines,PHBEN,PH,Province,Philippines,Asia,Primary land,,,120.6962056,16.52923075,4085
-Bukidnon,Philippines,PHBUK,PH,Province,Philippines,Asia,Primary land,,,125.0030656,8.025860819,4086
+Santar?m,Portugal,PT14,PT,District,Portugal,Europe,Primary land,,,-8.477857565,39.29384324,4086
 Set?bal,Portugal,PT15,PT,District,Portugal,Europe,Small island,,,-8.753395915,38.4859312,4087
 Set?bal,Portugal,PT15,PT,District,Portugal,Europe,Very small island,,,-8.805826524,38.4642105,4088
 Set?bal,Portugal,PT15,PT,District,Portugal,Europe,Primary land,,,-8.64498558,38.309184,4089
@@ -4112,11 +4112,11 @@ Az_ Z__`_yin,Qatar,QAZA,QA,Municipality,Qatar,Asia,Primary land,,,51.45576454,25
 Umm _al_l,Qatar,QAUS,QA,Municipality,Qatar,Asia,Primary land,,,51.34426546,25.4714919,4111
 Constanta,Romania,ROCT,RO,Department,Romania,Europe,Very small island,,,28.59292922,43.80307821,4112
 Tulcea,Romania,ROTL,RO,Department,Romania,Europe,Very small island,,,29.05764322,45.0575947,4113
-Ayeyarwady,Myanmar,MM07,MM,Division,Myanmar,Asia,Small island,,,95.02251228,16.12986596,4114
+Arkhangel'skaya,Russian Federation,RUARK,RU,Oblast,Russian Federation,Europe,Small island,,,54.0341379,78.39666917,4114
 _entjernej,Slovenia,SI119,SI,Municipality,Slovenia,Europe,Primary land,,,15.33544161,45.82277565,4115
 _entjernej,Slovenia,SI119,SI,Municipality,Slovenia,Europe,Primary land,,,15.33544161,45.82277565,4116
 Masqa_,Oman,OMMA,OM,Governorate,Oman,Asia,Small island,,,58.42395712,23.68989588,4117
-Basilan,Philippines,PHBAS,PH,Province,Philippines,Asia,Small island,,,121.7963852,6.551150052,4118
+Pr?ncipe,Sao Tome and Principe,STP,ST,Province,Sao Tome and Principe,Africa,Small island,,,7.397215063,1.615232605,4118
 Nay Pyi Taw,Myanmar,MM18,MM,Union Territory Division,Myanmar,Asia,Primary land,,,96.15543097,19.84802043,4119
 Chatham Islands Territory,New Zealand,NZCIT,NZ,Island,New Zealand,Oceania,Small island,,,-176.2185529,-44.28496368,4120
 Negros Occidental,Philippines,PHNEC,PH,Province,Philippines,Asia,Very small island,,,123.1670783,10.51414462,4121
@@ -4141,22 +4141,22 @@ Astrakhanskaya,Russian Federation,RUAST,RU,Oblast,Russian Federation,Europe,Smal
 Musandam,Oman,OMMU,OM,Governorate,Oman,Asia,Small island,,,56.42314671,26.36065355,4140
 S?o Tom?,Sao Tome and Principe,STS,ST,Province,Sao Tome and Principe,Africa,Very small island,,,6.665161412,0.305569459,4141
 East Sepik,Papua New Guinea,PGESW,PG,Province,Papua New Guinea,Asia,Small island,,,143.9189492,-3.47883348,4142
-Koror,Palau,PW150,PW,State,Palau,Oceania,Very small island,,,134.3700641,7.218697301,4143
-Melekeok,Palau,PW212,PW,State,Palau,Oceania,Primary land,,,134.6040651,7.508479349,4144
+Kermadec Islands,New Zealand,NZ,NZ,Island,New Zealand,Oceania,Small island,,,-177.9722274,-29.34937583,4143
+Bloke,Slovenia,SI150,SI,Municipality,Slovenia,Europe,Primary land,,,14.52354638,45.78500856,4144
 Ngaraard,Palau,PW214,PW,State,Palau,Oceania,Primary land,,,134.6249079,7.61282893,4145
 S?o Tom?,Sao Tome and Principe,STS,ST,Province,Sao Tome and Principe,Africa,Medium island,,,6.602420323,0.238976902,4146
-Ngarchelong,Palau,PW218,PW,State,Palau,Oceania,Primary land,,,134.6268447,7.707464663,4147
+Astrakhanskaya,Russian Federation,RUAST,RU,Oblast,Russian Federation,Europe,Very small island,,,48.52727658,45.72076924,4147
 Caska,North Macedonia,MK80,MK,Municipality,North Macedonia,Europe,Primary land,,,21.59457104,41.59730788,4148
-Ngatpang,Palau,PW224,PW,State,Palau,Oceania,Primary land,,,134.5396246,7.464878102,4149
+Musandam,Oman,OMMU,OM,Governorate,Oman,Asia,Very small island,,,56.44011047,26.31736366,4149
 Kermadec Islands,New Zealand,NZ,NZ,Island,New Zealand,Oceania,Very small island,,,-178.2469747,-29.95233618,4150
 Negros Oriental,Philippines,PHNER,PH,Province,Philippines,Asia,Small island,,,123.270893,9.078942543,4151
 Bohinj,Slovenia,SI004,SI,Municipality,Slovenia,Europe,Primary land,,,13.9173431,46.29246623,4152
 Bago,Myanmar,MM02,MM,Division,Myanmar,Asia,Small island,,,96.87639468,17.00188164,4153
-Al Hudud ash Shamaliyah,Saudi Arabia,SA08,SA,Emirate,Saudi Arabia,Asia,Primary land,,,42.0514952,29.96848449,4154
+Ngiwai,Palau,PW228,PW,State,Palau,Oceania,Very small island,,,134.6203758,7.532622239,4154
 Kaliningradskaya,Russian Federation,RUKGD,RU,Oblast,Russian Federation,Europe,Small island,,,20.14085048,54.66451513,4155
 Cesinovo-Oblesevo,North Macedonia,MK81,MK,Municipality,North Macedonia,Europe,Primary land,,,22.25714909,41.88150784,4156
 Peleliu,Palau,PW350,PW,State,Palau,Oceania,Very small island,,,134.2777974,7.063732638,4157
-Sonsorol,Palau,PW370,PW,State,Palau,Oceania,Small island,,,132.2636292,4.864956952,4158
+Z_uf_r,Oman,OMZU,OM,Governorate,Oman,Asia,Small island,,,55.9949337,17.50440523,4158
 The Snares,New Zealand,NZ,NZ,Island,New Zealand,Oceania,Small island,,,166.6000238,-48.02971021,4159
 Northeast Cay,Philippines, ,PH,Province,Philippines,Asia,Very small island,,,114.3545138,11.45278365,4160
 Northern Samar,Philippines,PHNSA,PH,Province,Philippines,Asia,Small island,,,124.5447177,12.53505359,4161
@@ -4175,7 +4175,7 @@ Romblon,Philippines,PHROM,PH,Province,Philippines,Asia,Small island,,,122.435266
 Romblon,Philippines,PHROM,PH,Province,Philippines,Asia,Very small island,,,122.1678506,12.62350765,4174
 Romblon,Philippines,PHROM,PH,Province,Philippines,Asia,Medium island,,,122.0396714,12.40752321,4175
 Samar,Philippines,PHWSA,PH,Province,Philippines,Asia,Small island,,,124.6361011,11.76759732,4176
-Panam?,Panama,PA8,PA,Province,Panama,South America,Primary land,,,-78.85760389,9.093046021,4177
+Samar,Philippines,PHWSA,PH,Province,Philippines,Asia,Very small island,,,124.7566779,11.73510445,4177
 Siquijor,Philippines,PHSIG,PH,Province,Philippines,Asia,Small island,,,123.58839,9.184999878,4178
 Sorsogon,Philippines,PHSOR,PH,Province,Philippines,Asia,Small island,,,123.9280403,12.74624934,4179
 Sorsogon,Philippines,PHSOR,PH,Province,Philippines,Asia,Very small island,,,123.9704607,12.8213491,4180
@@ -4195,14 +4195,14 @@ Tawi-Tawi,Philippines,PHTAW,PH,Province,Philippines,Asia,Small island,,,119.7168
 Tawi-Tawi,Philippines,PHTAW,PH,Province,Philippines,Asia,Medium island,,,120.0563512,5.194990693,4194
 Thitu Island,Philippines,PHPLW,PH,Province,Philippines,Asia,Very small island,,,114.2841888,11.05250933,4195
 West York Island,Philippines, ,PH,Province,Philippines,Asia,Very small island,,,115.0240004,11.08176811,4196
-Panam?,Panama,PA8,PA,Province,Panama,North America,Very small island,,,-79.78243024,8.916754404,4197
+Zambales,Philippines,PHZMB,PH,Province,Philippines,Asia,Small island,,,119.8862041,15.54239842,4197
 Zambales,Philippines,PHZMB,PH,Province,Philippines,Asia,Very small island,,,120.0434842,15.1814685,4198
 Veraguas,Panama,PA9,PA,Province,Panama,North America,Very small island,,,-81.34892964,7.634241702,4199
 Zamboanga City,Philippines,PH,PH,Province,Philippines,Asia,Very small island,,,122.2555291,7.108430187,4200
 Zamboanga del Norte,Philippines,PHZAN,PH,Province,Philippines,Asia,Small island,,,123.3243174,8.802526252,4201
 Zamboanga del Norte,Philippines,PHZAN,PH,Province,Philippines,Asia,Very small island,,,123.034739,8.394397626,4202
 Zamboanga del Sur,Philippines,PHZAS,PH,Province,Philippines,Asia,Small island,,,123.4595266,7.609285139,4203
-East New Britain,Papua New Guinea,PGEBR,PG,Province,Papua New Guinea,Oceania,Small island,,,152.3611841,-4.195985382,4204
+Zamboanga del Sur,Philippines,PHZAS,PH,Province,Philippines,Asia,Very small island,,,123.2536417,7.585278958,4204
 East New Britain,Papua New Guinea,PGEBR,PG,Province,Papua New Guinea,Oceania,Very small island,,,151.8923983,-4.807828313,4205
 East New Britain,Papua New Guinea,PGEBR,PG,Province,Papua New Guinea,Oceania,Primary land,,,151.6351127,-5.104574491,4206
 Compostela Valley,Philippines,PHCOM,PH,Province,Philippines,Asia,Primary land,,,126.065907,7.579211549,4207
@@ -4253,9 +4253,9 @@ Albay,Philippines,PHALB,PH,Province,Philippines,Asia,Small island,,,123.9871062,
 Antique,Philippines,PHANT,PH,Province,Philippines,Asia,Very small island,,,121.6129044,11.52057903,4252
 Antique,Philippines,PHANT,PH,Province,Philippines,Asia,Small island,,,121.4703926,11.93990377,4253
 Apayao,Philippines,PHAPA,PH,Province,Philippines,Asia,Very small island,,,121.4156973,18.3231724,4254
-Al Jawf,Saudi Arabia,SA12,SA,Emirate,Saudi Arabia,Asia,Very small island,,,34.90890214,29.208066,4255
+The Snares,New Zealand,NZ,NZ,Island,New Zealand,Oceania,Small island,,,166.6000238,-48.02971021,4255
 Bago,Myanmar,MM02,MM,Division,Myanmar,Asia,Very small island,,,96.87211587,17.11982335,4256
-Bago,Myanmar,MM02,MM,Division,Myanmar,Asia,Small island,,,96.87639468,17.00188164,4257
+Z_uf_r,Oman,OMZU,OM,Governorate,Oman,Asia,Very small island,,,54.91837043,17.00210008,4257
 Kaliningradskaya,Russian Federation,RUKGD,RU,Oblast,Russian Federation,Europe,Very small island,,,20.18180457,54.66363017,4258
 Borovnica,Slovenia,SI005,SI,Municipality,Slovenia,Europe,Primary land,,,14.38812801,45.91217351,4259
 Cucer Sandevo,North Macedonia,MK82,MK,Municipality,North Macedonia,Europe,Primary land,,,21.40469719,42.16752621,4260
@@ -4265,7 +4265,7 @@ Baluchistan,Pakistan,PKBA,PK,Province,Pakistan,Asia,Small island,,,63.84694503,2
 Auckland,New Zealand,NZAUK,NZ,Region,New Zealand,Oceania,Very small island,,,174.9793368,-36.43349055,4264
 Leningradskaya,Russian Federation,RULEN,RU,Oblast,Russian Federation,Europe,Small island,,,29.06875192,60.42110133,4265
 Al Jawf,Saudi Arabia,SA12,SA,Emirate,Saudi Arabia,Asia,Primary land,,,38.75186276,29.68114734,4266
-Braslov_e,Slovenia,SI151,SI,Municipality,Slovenia,Europe,Primary land,,,15.02394399,46.27647136,4267
+Bago,Myanmar,MM02,MM,Division,Myanmar,Asia,Primary land,,,96.10329055,18.30753251,4267
 Braslov_e,Slovenia,SI151,SI,Municipality,Slovenia,Europe,Primary land,,,15.02394399,46.27647136,4268
 Eastern Highlands,Papua New Guinea,PGEHG,PG,Province,Papua New Guinea,Asia,Primary land,,,145.6124988,-6.434521162,4269
 Baluchistan,Pakistan,PKBA,PK,Province,Pakistan,Asia,Very small island,,,65.42990267,25.40333124,4270
@@ -4282,7 +4282,7 @@ Kayangel,Palau,PW100,PW,State,Palau,Oceania,Small island,,,134.7177389,8.0835449
 Kayangel,Palau,PW100,PW,State,Palau,Oceania,Very small island,,,134.7078923,8.054337051,4281
 Koror,Palau,PW150,PW,State,Palau,Oceania,Small island,,,134.4147501,7.263827703,4282
 Koror,Palau,PW150,PW,State,Palau,Oceania,Very small island,,,134.3700641,7.218697301,4283
-Murmanskaya,Russian Federation,RUMUR,RU,Oblast,Russian Federation,Europe,Small island,,,34.29412432,68.34992917,4284
+Melekeok,Palau,PW212,PW,State,Palau,Oceania,Primary land,,,134.6040651,7.508479349,4284
 Ngaraard,Palau,PW214,PW,State,Palau,Oceania,Primary land,,,134.6249079,7.61282893,4285
 Ngarchelong,Palau,PW218,PW,State,Palau,Oceania,Very small island,,,134.6225129,7.748877802,4286
 Ngarchelong,Palau,PW218,PW,State,Palau,Oceania,Primary land,,,134.6268447,7.707464663,4287
@@ -4348,9 +4348,9 @@ East New Britain,Papua New Guinea,PGEBR,PG,Province,Papua New Guinea,Oceania,Ver
 East New Britain,Papua New Guinea,PGEBR,PG,Province,Papua New Guinea,Oceania,Primary land,,,151.6351127,-5.104574491,4347
 Manus,Papua New Guinea,PGMRL,PG,Province,Papua New Guinea,Oceania,Small island,,,146.9554,-2.103521066,4348
 Manus,Papua New Guinea,PGMRL,PG,Province,Papua New Guinea,Oceania,Very small island,,,146.1526635,-1.910010739,4349
-Charlotte,Saint Vincent and the Grenadines,VC01,VC,Parish,Saint Vincent and the Grenadines,North America,Primary land,,,-61.15232196,13.27051825,4350
+Manus,Papua New Guinea,PGMRL,PG,Province,Papua New Guinea,Oceania,Medium island,,,146.9122957,-2.088826932,4350
 New Ireland,Papua New Guinea,PGNIK,PG,Province,Papua New Guinea,Oceania,Small island,,,151.359265,-2.604349159,4351
-Grenadines,Saint Vincent and the Grenadines,VC06,VC,Parish,Saint Vincent and the Grenadines,North America,Small island,,,-61.28369127,12.84496004,4352
+New Ireland,Papua New Guinea,PGNIK,PG,Province,Papua New Guinea,Oceania,Very small island,,,150.6896795,-2.558208743,4352
 New Ireland,Papua New Guinea,PGNIK,PG,Province,Papua New Guinea,Oceania,Medium island,,,152.0192597,-3.616669321,4353
 West New Britain,Papua New Guinea,PGWBK,PG,Province,Papua New Guinea,Oceania,Small island,,,149.9492499,-5.115778433,4354
 West New Britain,Papua New Guinea,PGWBK,PG,Province,Papua New Guinea,Oceania,Very small island,,,149.6581184,-5.976827188,4355
@@ -4374,14 +4374,14 @@ Palawan,Philippines,PHPLW,PH,Province,Philippines,Asia,Medium island,,,120.08204
 Bay of Plenty,New Zealand,NZBOP,NZ,Region,New Zealand,Oceania,Very small island,,,176.5427916,-37.73693661,4373
 Al Qasim,Saudi Arabia,SA05,SA,Emirate,Saudi Arabia,Asia,Primary land,,,43.22172291,25.95120145,4374
 Murmanskaya,Russian Federation,RUMUR,RU,Oblast,Russian Federation,Europe,Small island,,,34.29412432,68.34992917,4375
-Bohol,Philippines,PHBOH,PH,Province,Philippines,Asia,Small island,,,124.0733138,9.845457419,4376
+Destrnik,Slovenia,SI018,SI,Municipality,Slovenia,Europe,Primary land,,,15.8820448,46.47543843,4376
 Erongo,Namibia,NAER,NA,Region,Namibia,Africa,Very small island,,,13.92633617,-21.63801556,4377
 Dojran,North Macedonia,MK26,MK,Municipality,North Macedonia,Europe,Primary land,,,22.69101808,41.22812055,4378
 Cirkulane,Slovenia,SI196,SI,Municipality,Slovenia,Europe,Primary land,,,15.99616922,46.34275224,4379
 Bounty Islands,New Zealand,NZ,NZ,Region,New Zealand,Oceania,Very small island,,,179.0338202,-47.75489614,4380
 Ash Sharq_yah,Saudi Arabia,SA04,SA,Emirate,Saudi Arabia,Asia,Small island,,,49.69093062,26.99387971,4381
 Ash Sharq_yah,Saudi Arabia,SA04,SA,Emirate,Saudi Arabia,Asia,Very small island,,,49.71700292,26.79902945,4382
-Cagayan,Philippines,PHCAG,PH,Province,Philippines,Asia,Very small island,,,121.7129151,18.4059559,4383
+Ash Sharqiyah,Saudi Arabia,SA04,SA,Emirate,Saudi Arabia,Asia,Very small island,,,50.31830849,26.25517477,4383
 Ash Sharqiyah,Saudi Arabia,SA04,SA,Emirate,Saudi Arabia,Asia,Primary land,,,50.12362823,23.00964438,4384
 Asir,Saudi Arabia,SA14,SA,Emirate,Saudi Arabia,Asia,Primary land,,,42.99522135,19.27656621,4385
 Ha'il,Saudi Arabia,SA06,SA,Emirate,Saudi Arabia,Asia,Primary land,,,41.60942755,27.35887523,4386
@@ -4408,21 +4408,21 @@ Eastern Samar,Philippines,PHEAS,PH,Province,Philippines,Asia,Small island,,,125.
 Kolda,Senegal,SNKD,SN,Region,Senegal,Africa,Very small island,,,-15.36803758,12.82919189,4407
 Louga,Senegal,SNLG,SN,Region,Senegal,Africa,Small island,,,-16.53405582,15.80151414,4408
 Matam,Senegal,SNMT,SN,Region,Senegal,Africa,Primary land,,,-13.74012875,15.15237937,4409
-Guimaras,Philippines,PHGUI,PH,Province,Philippines,Asia,Very small island,,,122.6147093,10.43898369,4410
+S?dhiou,Senegal,SNSE,SN,Region,Senegal,Africa,Primary land,,,-15.58263691,12.90395151,4410
 Saint-Louis,Senegal,SNSL,SN,Region,Senegal,Africa,Small island,,,-16.42282522,16.14104276,4411
 Saint-Louis,Senegal,SNSL,SN,Region,Senegal,Africa,Very small island,,,-16.46167702,16.07636178,4412
 Anse aux Pins,Seychelles,SC01,SC,District,Seychelles,Africa,Primary land,,,55.51789504,-4.688418812,4413
 Anse Boileau,Seychelles,SC02,SC,District,Seychelles,Africa,Primary land,,,55.49186844,-4.711165623,4414
 Anse Etoile,Seychelles,SC03,SC,District,Seychelles,Africa,Small island,,,55.46493327,-4.604710548,4415
 Anse Etoile,Seychelles,SC03,SC,District,Seychelles,Africa,Very small island,,,55.4620287,-4.59239299,4416
-Ilocos Sur,Philippines,PHILS,PH,Province,Philippines,Asia,Very small island,,,120.430017,17.55819365,4417
+Anse Etoile,Seychelles,SC03,SC,District,Seychelles,Africa,Primary land,,,55.45181007,-4.59204633,4417
 Anse Royale,Seychelles,SC05,SC,District,Seychelles,Africa,Primary land,,,55.51165008,-4.741124381,4418
 Au Cap,Seychelles,SC04,SC,District,Seychelles,Africa,Primary land,,,55.51345838,-4.709054861,4419
 Baie Lazare,Seychelles,SC06,SC,District,Seychelles,Africa,Primary land,,,55.48681308,-4.75218294,4420
 Baie Sainte Anne,Seychelles,SC07,SC,District,Seychelles,Africa,Very small island,,,55.79041969,-4.341061844,4421
 Baie Sainte Anne,Seychelles,SC07,SC,District,Seychelles,Africa,Small island,,,55.72577416,-4.2829059,4422
 Baie Sainte Anne,Seychelles,SC07,SC,District,Seychelles,Africa,Primary land,,,55.74061055,-4.321660514,4423
-Kujawsko-pomorskie,Poland,https://twitter.com/MZ_GOV_PL/status/1236731347571478531,PL,Province,Poland,Europe,Very small island,,,18.88101833,52.84216258,4424
+Beau Vallon,Seychelles,SC08,SC,District,Seychelles,Africa,Primary land,,,55.43574387,-4.609474554,4424
 Bel Air,Seychelles,SC09,SC,District,Seychelles,Africa,Primary land,,,55.4487462,-4.63686648,4425
 Bel Ombre,Seychelles,SC10,SC,District,Seychelles,Africa,Primary land,,,55.40787318,-4.627242857,4426
 Cascade,Seychelles,SC11,SC,District,Seychelles,Africa,Primary land,,,55.49212033,-4.671111511,4427
@@ -4730,7 +4730,7 @@ Unknown Locations,Netherlands,,NL,Province,Netherlands,Europe,Primary land,,,5.2
 Curacao,Curacao,CW,CW,Autonomous Constituent Country,Netherlands,South America,Very small island,,,-68.8662181,12.09033732,4729
 Sint Maarten,Sint Maarten,SX,SX,Autonomous Constituent Country,Netherlands,North America,Very small island,,,-63.0185691,18.01771692,4730
 Saba,Saba,NL,NL,Special Municipality,Netherlands,North America,Small island,,,-63.23752158,17.63134336,4731
-Agadez,Niger,NE1,NE,Region,Niger,Africa,Primary land,,,10.52169675,19.50664139,4732
+Saint Eustatius,Saint Eustatius,NL,NL,Special Municipality,Netherlands,North America,Small island,,,-62.97626239,17.49085632,4732
 Flevoland,Netherlands,NLFL,NL,Province,Netherlands,Europe,Very small island,,,5.410895894,52.50437109,4733
 Friesland,Netherlands,NLFR,NL,Province,Netherlands,Europe,Small island,,,5.531777024,53.39813173,4734
 Gelderland,Netherlands,NLGE,NL,Province,Netherlands,Europe,Very small island,,,5.421848139,51.87091709,4735
@@ -4745,12 +4745,12 @@ Zuid-Holland,Netherlands,NLZH,NL,Province,Netherlands,Europe,Small island,,,4.39
 Zuid-Holland,Netherlands,NLZH,NL,Province,Netherlands,Europe,Very small island,,,4.869933945,51.95604128,4744
 Canterbury,New Zealand,NZCAN,NZ,Region,New Zealand,Oceania,Very small island,,,172.9893408,-43.16927889,4745
 Gisborne,New Zealand,NZGIS,NZ,Region,New Zealand,Oceania,Small island,,,178.3454084,-38.38425699,4746
-Ogun,Nigeria,NGOG,NG,State,Nigeria,Africa,Very small island,,,4.213445622,6.405044875,4747
+Gisborne,New Zealand,NZGIS,NZ,Region,New Zealand,Oceania,Very small island,,,178.3127385,-38.30698776,4747
 Hawke's Bay,New Zealand,NZHKB,NZ,Region,New Zealand,Oceania,Very small island,,,177.0268424,-39.83404883,4748
 Hawke's Bay,New Zealand,NZHKB,NZ,Region,New Zealand,Oceania,Small island,,,177.8681227,-39.2919154,4749
 Marlborough,New Zealand,NZMBH,NZ,Region,New Zealand,Oceania,Small island,,,174.010445,-40.9441663,4750
 Marlborough,New Zealand,NZMBH,NZ,Region,New Zealand,Oceania,Very small island,,,173.9645321,-41.07402867,4751
-Hamgyongbuk-do,North Korea,KPHAB,KP,Province,North Korea,Asia,Small island,,,129.521221,40.75913894,4752
+Nelson City,New Zealand,NZNSN,NZ,Region,New Zealand,Oceania,Very small island,,,173.2600672,-41.26608156,4752
 Nelson City,New Zealand,NZNSN,NZ,Region,New Zealand,Oceania,Small island,,,173.4265026,-41.15026308,4753
 Northland,New Zealand,NZNTL,NZ,Region,New Zealand,Oceania,Very small island,,,173.8811037,-35.20273043,4754
 Northland,New Zealand,NZNTL,NZ,Region,New Zealand,Oceania,Small island,,,174.291065,-35.40284432,4755
@@ -4787,7 +4787,7 @@ Atl?ntico Norte,Nicaragua,NIAN,NI,Autonomous Region,Nicaragua,North America,Prim
 Lo_ki Potok,Slovenia,SI066,SI,Municipality,Slovenia,Europe,Primary land,,,14.65526988,45.66228564,4786
 Resen,North Macedonia,MK66,MK,Municipality,North Macedonia,Europe,Primary land,,,21.03330363,41.00219501,4787
 Atl?ntico Sur,Nicaragua,NIAS,NI,Autonomous Region,Nicaragua,North America,Small island,,,-83.53144422,12.03652593,4788
-Otjozondjupa,Namibia,NAOD,NA,Region,Namibia,Africa,Primary land,,,18.17348885,-20.31494101,4789
+Luce,Slovenia,SI067,SI,Municipality,Slovenia,Europe,Primary land,,,14.72826077,46.35355491,4789
 Sulu,Philippines,PHSLU,PH,Province,Philippines,Asia,Very small island,,,120.7521072,5.829709784,4790
 Atl?ntico Sur,Nicaragua,NIAS,NI,Autonomous Region,Nicaragua,North America,Very small island,,,-83.60252794,12.32162424,4791
 Makole,Slovenia,SI198,SI,Municipality,Slovenia,Europe,Primary land,,,15.67576439,46.31009749,4792
@@ -4811,13 +4811,13 @@ Le?n,Nicaragua,NILE,NI,Department,Nicaragua,North America,Very small island,,,-8
 Le?n,Nicaragua,NILE,NI,Department,Nicaragua,North America,Primary land,,,-86.63146973,12.58370397,4810
 Madriz,Nicaragua,NIMD,NI,Department,Nicaragua,North America,Primary land,,,-86.41047297,13.47407724,4811
 Masaya,Nicaragua,NIMS,NI,Department,Nicaragua,North America,Primary land,,,-86.1811239,12.005346,4812
-Buada,Nauru,NR07,NR,District,Nauru,Oceania,Primary land,,,166.9252562,-0.534203926,4813
+Matagalpa,Nicaragua,NIMT,NI,Department,Nicaragua,North America,Primary land,,,-85.6901434,12.89237473,4813
 Nueva Segovia,Nicaragua,NINS,NI,Department,Nicaragua,North America,Primary land,,,-86.21146474,13.72840584,4814
 R?o San Juan,Nicaragua,NISJ,NI,Department,Nicaragua,North America,Primary land,,,-84.57469821,11.25207122,4815
-Saint-Louis,Senegal,SNSL,SN,Region,Senegal,Africa,Small island,,,-16.42282522,16.14104276,4816
-Saint-Louis,Senegal,SNSL,SN,Region,Senegal,Africa,Very small island,,,-16.46167702,16.07636178,4817
-Anse aux Pins,Seychelles,SC01,SC,District,Seychelles,Africa,Primary land,,,55.51789504,-4.688418812,4818
-Anse Boileau,Seychelles,SC02,SC,District,Seychelles,Africa,Primary land,,,55.49186844,-4.711165623,4819
+Rivas,Nicaragua,NIRI,NI,Department,Nicaragua,North America,Very small island,,,-86.00324372,11.35144001,4816
+Rivas,Nicaragua,NIRI,NI,Department,Nicaragua,North America,Primary land,,,-85.65112788,11.4282782,4817
+Niamey,Niger,https://www.usnews.com/news/world/articles/2020-03-19/niger-confirms-first-case-of-coronavirus-health-minister-says,NE,Capital District,Niger,Africa,Primary land,,,2.109473764,13.51216538,4818
+Agadez,Niger,NE1,NE,Region,Niger,Africa,Primary land,,,10.52169675,19.50664139,4819
 Diffa,Niger,NE2,NE,Region,Niger,Africa,Primary land,,,13.23739214,15.88628637,4820
 Akwa Ibom,Nigeria,NGAK,NG,State,Nigeria,Africa,Small island,,,8.022074719,4.823943298,4821
 Akwa Ibom,Nigeria,NGAK,NG,State,Nigeria,Africa,Very small island,,,8.021863573,5.150935697,4822
@@ -4832,7 +4832,7 @@ Delta,Nigeria,NGDE,NG,State,Nigeria,Africa,Medium island,,,5.638612185,5.2556510
 Kogi,Nigeria,NGKO,NG,State,Nigeria,Africa,Primary land,,,6.743254947,7.712089272,4831
 Lagos,Nigeria,NGLA,NG,State,Nigeria,Africa,Small island,,,3.730605615,6.441633096,4832
 Lagos,Nigeria,NGLA,NG,State,Nigeria,Africa,Very small island,,,3.373731948,6.418188201,4833
-English River,Seychelles,SC16,SC,District,Seychelles,Africa,Primary land,,,55.45461952,-4.611805892,4834
+Ogun,Nigeria,NGOG,NG,State,Nigeria,Africa,Very small island,,,4.213445622,6.405044875,4834
 Ondo,Nigeria,NGON,NG,State,Nigeria,Africa,Very small island,,,4.939266694,5.933410775,4835
 Rivers,Nigeria,NGRI,NG,State,Nigeria,Africa,Small island,,,7.041037941,4.558846776,4836
 Rivers,Nigeria,NGRI,NG,State,Nigeria,Africa,Very small island,,,7.146579183,4.598349725,4837
@@ -4845,12 +4845,12 @@ Hamgyongnam-do,North Korea,KPHAN,KP,Province,North Korea,Asia,Very small island,
 Hamgyongnam-do,North Korea,KPHAN,KP,Province,North Korea,Asia,Primary land,,,127.8108387,40.27982751,4844
 Hwanghaebuk-do,North Korea,KPHWB,KP,Province,North Korea,Asia,Primary land,,,126.3264429,38.59211956,4845
 Hwanghaenam-do,North Korea,KPHWN,KP,Province,North Korea,Asia,Small island,,,125.0978723,38.10551426,4846
-Pointe Larue,Seychelles,SC20,SC,District,Seychelles,Africa,Very small island,,,55.52359462,-4.664043129,4847
+Hwanghaenam-do,North Korea,KPHWN,KP,Province,North Korea,Asia,Very small island,,,125.3713543,38.0723642,4847
 Hwanghaenam-do,North Korea,KPHWN,KP,Province,North Korea,Asia,Primary land,,,125.539224,38.19089541,4848
 Kangwon-do,North Korea,KPKAN,KP,Province,North Korea,Asia,Small island,,,127.5960459,39.22763626,4849
 Kangwon-do,North Korea,KPKAN,KP,Province,North Korea,Asia,Very small island,,,127.8851191,38.99841936,4850
 Kangwon-do,North Korea,KPKAN,KP,Province,North Korea,Asia,Primary land,,,127.4623654,38.7208045,4851
-Roche Caiman,Seychelles,SC25,SC,District,Seychelles,Africa,Very small island,,,55.47581907,-4.634885613,4852
+Nas_n,North Korea,KP13,KP,Province,North Korea,Asia,Small island,,,130.447345,42.22621427,4852
 Nas_n,North Korea,KP13,KP,Province,North Korea,Asia,Very small island,,,130.4574991,42.26874398,4853
 Nas_n,North Korea,KP13,KP,Province,North Korea,Asia,Primary land,,,130.4342712,42.37011393,4854
 Pyonganbuk-do,North Korea,KPPYB,KP,Province,North Korea,Asia,Very small island,,,124.7149143,39.6256067,4855
@@ -4859,16 +4859,16 @@ Pyonganbuk-do,North Korea,KPPYB,KP,Province,North Korea,Asia,Primary land,,,125.
 Pyongannam-do,North Korea,KPPYN,KP,Province,North Korea,Asia,Very small island,,,125.4306368,39.074716,4858
 Pyongannam-do,North Korea,KPPYN,KP,Province,North Korea,Asia,Primary land,,,126.2109389,39.48659366,4859
 Yanggang-do,North Korea,KPYAN,KP,Province,North Korea,Asia,Primary land,,,128.1609798,41.31482648,4860
-Outer Islands,Seychelles,SC,SC,Island,Seychelles,Africa,Small island,,,51.07209606,-9.854914242,4861
+Kaesong Industrial Region,North Korea, ,KP,Special Administrative Region,North Korea,Asia,Primary land,,,126.6370958,38.02414916,4861
 Outer Islands,Seychelles,SC,SC,Island,Seychelles,Africa,Small island,,,56.28012717,-7.129970771,4862
 Pyongyang-si,North Korea,KPPYO,KP,Special City,North Korea,Asia,Primary land,,,125.9236437,39.00136405,4863
 Centar Zupa,North Macedonia,MK78,MK,Municipality,North Macedonia,Europe,Primary land,,,20.60634028,41.46598377,4864
 Outer Islands,Seychelles,SC,SC,Island,Seychelles,Africa,Small island,,,53.43887351,-5.663223269,4865
-Outer Islands,Seychelles,SC,SC,Island,Seychelles,Africa,Very small island,,,53.20493228,-5.639854486,4866
+Berovo,North Macedonia,MK03,MK,Municipality,North Macedonia,Europe,Primary land,,,22.81742686,41.65713861,4866
 Bogdanci,North Macedonia,MK05,MK,Municipality,North Macedonia,Europe,Primary land,,,22.58650785,41.18608193,4867
-Northern,Sierra Leone,SLN,SL,Province,Sierra Leone,Africa,Very small island,,,-13.05360846,8.767602042,4868
+Muta,Slovenia,SI081,SI,Municipality,Slovenia,Europe,Primary land,,,15.13366773,46.62335138,4868
 Sveti Nikole,North Macedonia,MK69,MK,Municipality,North Macedonia,Europe,Primary land,,,21.90891923,41.89725602,4869
-Southern,Sierra Leone,SLS,SL,Province,Sierra Leone,Africa,Small island,,,-12.56245283,7.598591674,4870
+Osilnica,Slovenia,SI088,SI,Municipality,Slovenia,Europe,Primary land,,,14.73439992,45.54861354,4870
 Podlehnik,Slovenia,SI172,SI,Municipality,Slovenia,Europe,Primary land,,,15.86760801,46.30925401,4871
 Tearce,North Macedonia,MK75,MK,Municipality,North Macedonia,Europe,Primary land,,,21.06235568,42.10328221,4872
 Polj_ane,Slovenia,SI200,SI,Municipality,Slovenia,Europe,Primary land,,,15.59527863,46.29776581,4873
@@ -4899,8 +4899,8 @@ Sveti Jurij v Slovenskih Goricah,Slovenia,SI210,SI,Municipality,Slovenia,Europe,
 Vestfold,Norway,NO07,NO,County,Norway,Europe,Small island,,,10.39760131,59.1480807,4898
 Sveti Toma_,Slovenia,SI205,SI,Municipality,Slovenia,Europe,Primary land,,,16.06858932,46.47422452,4899
 Vestfold,Norway,NO07,NO,County,Norway,Europe,Very small island,,,10.38538443,59.14564695,4900
-Isabela,Philippines,PHISA,PH,Province,Philippines,Asia,Primary land,,,121.9626888,16.98506203,4901
-Isabela City,Philippines,PH,PH,Province,Philippines,Asia,Primary land,,,121.9883438,6.646780814,4902
+Trnovska vas,Slovenia,SI185,SI,Municipality,Slovenia,Europe,Primary land,,,15.89238417,46.51494062,4901
+Unknown Locations,Norway,https://www.vg.no/spesial/2020/corona-viruset/,NO,Territory,Norway,Europe,Small island,,,19.95689342,79.71804629,4902
 Velika Polana,Slovenia,SI187,SI,Municipality,Slovenia,Europe,Primary land,,,16.35607853,46.576651,4903
 Jan Mayen,Norway,NO22,NO,Territory,Norway,Europe,Medium island,,,-8.392296914,71.01242065,4904
 Svalbard,Norway,NO21,NO,Territory,Norway,Europe,Very small island,,,18.46754685,79.00132026,4905
@@ -4926,7 +4926,7 @@ Hordaland,Norway,NO12,NO,County,Norway,Europe,Very small island,,,5.122636658,60
 Hordaland,Norway,NO12,NO,County,Norway,Europe,Medium island,,,5.580984168,60.55394915,4925
 M?re og Romsdal,Norway,NO15,NO,County,Norway,Europe,Very small island,,,7.37570451,63.04625567,4926
 Southern Leyte,Philippines,PHSLE,PH,Province,Philippines,Asia,Primary land,,,125.0456001,10.30798106,4927
-Surigao del Norte,Philippines,PHSUN,PH,Province,Philippines,Asia,Primary land,,,125.5851107,9.580054237,4928
+Nordland,Norway,NO18,NO,County,Norway,Europe,Small island,,,13.83669372,67.33097506,4928
 Nordland,Norway,NO18,NO,County,Norway,Europe,Very small island,,,13.34245789,66.94720351,4929
 Nordland,Norway,NO18,NO,County,Norway,Europe,Medium island,,,14.85091764,68.63500045,4930
 Nord-Tr?ndelag,Norway,NO17,NO,County,Norway,Europe,Small island,,,11.14571246,64.76355307,4931
@@ -4986,7 +4986,7 @@ Western,Solomon Islands,SBWE,SB,Province,Solomon Islands,Oceania,Small island,,,
 Western,Solomon Islands,SBWE,SB,Province,Solomon Islands,Oceania,Very small island,,,157.3205934,-8.165216533,4985
 Western,Solomon Islands,SBWE,SB,Province,Solomon Islands,Oceania,Medium island,,,157.2908244,-8.108290203,4986
 Awdal,Somalia,SOAW,SO,Province,Somalia,Africa,Small island,,,43.45444579,11.44773985,4987
-Southland,New Zealand,NZSTL,NZ,Region,New Zealand,Oceania,Very small island,,,167.4404912,-46.38008612,4988
+Awdal,Somalia,SOAW,SO,Province,Somalia,Africa,Very small island,,,43.39153198,11.42360969,4988
 Southland,New Zealand,NZSTL,NZ,Region,New Zealand,Oceania,Primary land,,,167.9344631,-45.63020398,4989
 Bari,Somalia,SOBR,SO,Province,Somalia,Africa,Very small island,,,51.18764645,10.54610408,4990
 Bari,Somalia,SOBR,SO,Province,Somalia,Africa,Primary land,,,49.9969839,10.18590618,4991
@@ -5021,7 +5021,7 @@ Canelones,Uruguay,UYCA,UY,Department,Uruguay,South America,Small island,,,-55.92
 Canelones,Uruguay,UYCA,UY,Department,Uruguay,South America,Very small island,,,-55.5677216,-34.80309395,5020
 Cerro Largo,Uruguay,UYCL,UY,Department,Uruguay,South America,Primary land,,,-54.33976049,-32.44560924,5021
 Colonia,Uruguay,UYCO,UY,Department,Uruguay,South America,Small island,,,-58.36684228,-33.98498842,5022
-Gomba,Uganda,UG121,UG,District,Uganda,Africa,Primary land,,,31.70522878,0.195596579,5023
+Colonia,Uruguay,UYCO,UY,Department,Uruguay,South America,Very small island,,,-58.0983277,-34.25892031,5023
 Florida,Uruguay,UYFD,UY,Department,Uruguay,South America,Primary land,,,-55.86223923,-33.77867292,5024
 Maldonado,Uruguay,UYMA,UY,Department,Uruguay,South America,Small island,,,-54.9379202,-34.93574645,5025
 Maldonado,Uruguay,UYMA,UY,Department,Uruguay,South America,Very small island,,,-54.89712125,-34.90012709,5026
@@ -5222,9 +5222,9 @@ Mbeya,Tanzania,TZ14,TZ,Region,Tanzania,Africa,Primary land,,,33.35945578,-8.2311
 Mjini Magharibi,Tanzania,TZ15,TZ,Region,Tanzania,Africa,Small island,,,39.21426933,-6.271229217,5221
 Mjini Magharibi,Tanzania,TZ15,TZ,Region,Tanzania,Africa,Very small island,,,39.20710203,-6.22110769,5222
 Mjini Magharibi,Tanzania,TZ15,TZ,Region,Tanzania,Africa,Primary land,,,39.24439472,-6.159334683,5223
-Morogoro,Tanzania,TZ16,TZ,Region,Tanzania,Africa,Primary land,,,36.98362855,-7.931558124,5224
+Shabwah,Yemen,YESH,YE,Governorate,Yemen,Asia,Very small island,,,48.38710829,13.94206532,5224
 Mtwara,Tanzania,TZ17,TZ,Region,Tanzania,Africa,Small island,,,40.30529562,-10.43197808,5225
-Mtwara,Tanzania,TZ17,TZ,Region,Tanzania,Africa,Very small island,,,40.33845115,-10.56412343,5226
+T_?izz,Yemen,YETA,YE,Governorate,Yemen,Asia,Very small island,,,43.46000368,12.67444961,5226
 Mtwara,Tanzania,TZ17,TZ,Region,Tanzania,Africa,Primary land,,,39.11779035,-10.78568875,5227
 Pwani,Tanzania,TZ19,TZ,Region,Tanzania,Africa,Small island,,,39.64737118,-7.847231765,5228
 Pwani,Tanzania,TZ19,TZ,Region,Tanzania,Africa,Very small island,,,39.2064887,-7.672487549,5229
@@ -5239,7 +5239,7 @@ Geita,Tanzania,27,TZ,Region,"Tanzania, United Republic of",Africa,Primary land,,
 Iringa,Tanzania,4,TZ,Region,"Tanzania, United Republic of",Africa,Primary land,,,35.4530465,-7.787484513,5238
 Kagera,Tanzania,5,TZ,Region,"Tanzania, United Republic of",Africa,Primary land,,,31.45824772,-1.881435663,5239
 Katavi,Tanzania,28,TZ,Region,"Tanzania, United Republic of",Africa,Primary land,,,31.35024988,-6.490722573,5240
-Eastern,Zambia,ZM03,ZM,Province,Zambia,Africa,Primary land,,,31.89655996,-13.58495098,5241
+Mwanza,Tanzania,18,TZ,Region,"Tanzania, United Republic of",Africa,Primary land,,,32.95951458,-2.353027596,5241
 Njombe,Tanzania,29,TZ,Region,"Tanzania, United Republic of",Africa,Primary land,,,34.76249998,-9.44351305,5242
 Rukwa,Tanzania,20,TZ,Region,"Tanzania, United Republic of",Africa,Primary land,,,31.3609869,-7.996965303,5243
 Shinyanga,Tanzania,22,TZ,Region,"Tanzania, United Republic of",Africa,Primary land,,,32.89750096,-3.7860865,5244
@@ -5273,7 +5273,7 @@ Songkhla,Thailand,TH90,TH,Province,Thailand,Asia,Very small island,,,100.6235082
 Buikwe,Uganda,UG108,UG,District,Uganda,Africa,Primary land,,,33.04029654,0.307109598,5272
 Falkland Islands,Falkland Islands,FK,FK,Overseas Territory,United Kingdom,South America,Small island,,,-60.19587358,-51.71227278,5273
 Northern Cape,South Africa,ZANC,ZA,Province,South Africa,Africa,Very small island,,,16.86687743,-29.2540566,5274
-Incheon,South Korea,KR28,KR,Metropolitan City,South Korea,Asia,Very small island,,,126.2404589,37.36839524,5275
+Ho Chi Minh,Vietnam,VN65,VN,Province,Vietnam,Asia,Small island,,,106.8135116,10.55099229,5275
 Surat Thani,Thailand,TH84,TH,Province,Thailand,Asia,Very small island,,,99.72984809,9.529728265,5276
 Bukedea,Uganda,UG224,UG,District,Uganda,Africa,Primary land,,,34.12391296,1.363477907,5277
 Hoa Binh,Vietnam,VN14,VN,Province,Vietnam,Asia,Primary land,,,105.3249302,20.67673459,5278
@@ -5309,7 +5309,7 @@ Illes Balears,Spain,ESIB,ES,Autonomous Community,Spain,Europe,Very small island,
 Incheon,South Korea,KR28,KR,Metropolitan City,South Korea,Asia,Small island,,,126.1842085,37.63840424,5308
 Cayman Islands,Cayman Islands,KY,KY,Overseas Territory,United Kingdom,North America,Very small island,,,-80.74843699,19.47258007,5309
 Busia,Uganda,UG202,UG,District,Uganda,Africa,Primary land,,,34.00432593,0.411305339,5310
-Valenciana,Spain,ESVC,ES,Autonomous Community,Spain,Europe,Small island,,,-0.47506424,38.16472041,5311
+Lang Son,Vietnam,VN09,VN,Province,Vietnam,Asia,Primary land,,,106.6195655,21.84202666,5311
 Long An,Vietnam,VN41,VN,Province,Vietnam,Asia,Small island,,,106.6870374,10.4784899,5312
 Nam Dinh,Vietnam,VN67,VN,Province,Vietnam,Asia,Very small island,,,106.4213393,20.2525568,5313
 Nam Dinh,Vietnam,VN67,VN,Province,Vietnam,Asia,Primary land,,,106.1435268,20.27640452,5314
@@ -5632,7 +5632,7 @@ Nabeul,Tunisia,TN21,TN,Governorate,Tunisia,Africa,Small island,,,10.80453929,37.
 Nabeul,Tunisia,TN21,TN,Governorate,Tunisia,Africa,Very small island,,,10.75318576,36.98412123,5631
 Sfax,Tunisia,TN61,TN,Governorate,Tunisia,Africa,Small island,,,11.14915142,34.70660032,5632
 Sfax,Tunisia,TN61,TN,Governorate,Tunisia,Africa,Very small island,,,10.41134531,34.42071793,5633
-Kaskazini Unguja,Tanzania,TZ07,TZ,Region,Tanzania,Africa,Small island,,,39.22564989,-5.821934222,5634
+Ariana,Tunisia,TN12,TN,Governorate,Tunisia,Africa,Very small island,,,10.19540554,37.08248484,5634
 Bizerte,Tunisia,TN23,TN,Governorate,Tunisia,Africa,Small island,,,9.122219824,37.46474615,5635
 Bizerte,Tunisia,TN23,TN,Governorate,Tunisia,Africa,Very small island,,,9.827144743,37.35606414,5636
 ?anakkale,Turkey,TR17,TR,Province,Turkey,Europe,Small island,,,25.84008374,40.16140226,5637
@@ -5643,7 +5643,7 @@ Ankara,Turkey,TR51,TR,Province,Turkey,Asia,Primary land,,,34.65582696,37.9177699
 ?anakkale,Turkey,TR17,TR,Province,Turkey,Asia,Small island,,,26.03382983,39.82530776,5642
 ?anakkale,Turkey,TR17,TR,Province,Turkey,Asia,Very small island,,,26.50718983,40.236478,5643
 _zmir,Turkey,TR35,TR,Province,Turkey,Asia,Very small island,,,26.63625849,38.44068402,5644
-Mara,Tanzania,TZ13,TZ,Region,Tanzania,Africa,Primary land,,,34.13934719,-1.722949508,5645
+_zmir,Turkey,TR35,TR,Province,Turkey,Asia,Small island,,,26.65284931,38.52237508,5645
 Adana,Turkey,TR01,TR,Province,Turkey,Asia,Very small island,,,35.53221755,36.6944802,5646
 Antalya,Turkey,TR07,TR,Province,Turkey,Asia,Small island,,,29.84804268,36.17430018,5647
 Antalya,Turkey,TR07,TR,Province,Turkey,Asia,Very small island,,,29.9351268,36.22537359,5648
@@ -5652,7 +5652,7 @@ Aydin,Turkey,TR09,TR,Province,Turkey,Asia,Very small island,,,27.02812183,37.645
 Balikesir,Turkey,TR10,TR,Province,Turkey,Asia,Small island,,,27.44033355,40.37738077,5651
 Balikesir,Turkey,TR10,TR,Province,Turkey,Asia,Very small island,,,27.13388512,39.80003135,5652
 Bartin,Turkey,TR74,TR,Province,Turkey,Asia,Very small island,,,32.3885986,41.75336126,5653
-Pwani,Tanzania,TZ19,TZ,Region,Tanzania,Africa,Small island,,,39.64737118,-7.847231765,5654
+Bursa,Turkey,TR16,TR,Province,Turkey,Asia,Primary land,,,29.02381941,40.1302847,5654
 Giresun,Turkey,TR28,TR,Province,Turkey,Asia,Very small island,,,38.43687591,40.92931062,5655
 Hatay,Turkey,TR31,TR,Province,Turkey,Asia,Very small island,,,36.18673313,36.72320888,5656
 Istanbul,Turkey,TR34,TR,Province,Turkey,Asia,Small island,,,29.09785983,40.87101757,5657
@@ -5669,7 +5669,7 @@ Balkan,Turkmenistan,TMB,TM,Province,Turkmenistan,Asia,Small island,,,53.38577302
 Balkan,Turkmenistan,TMB,TM,Province,Turkmenistan,Asia,Very small island,,,53.39439714,39.82470333,5668
 Balkan,Turkmenistan,TMB,TM,Province,Turkmenistan,Asia,Primary land,,,55.06058392,39.81277765,5669
 Da_oguz,Turkmenistan,TMD,TM,Province,Turkmenistan,Asia,Primary land,,,58.71858877,41.17154057,5670
-Simiyu,Tanzania,30,TZ,Region,"Tanzania, United Republic of",Africa,Primary land,,,34.32358333,-3.080455906,5671
+Lebap,Turkmenistan,TML,TM,Province,Turkmenistan,Asia,Primary land,,,63.17884902,38.9252134,5671
 Mary,Turkmenistan,TMM,TM,Province,Turkmenistan,Asia,Primary land,,,62.29932629,37.25229739,5672
 Funafuti,Tuvalu,TVFUN,TV,District,Tuvalu,Oceania,Small island,,,179.1563315,-8.547680127,5673
 Funafuti,Tuvalu,TVFUN,TV,District,Tuvalu,Oceania,Very small island,,,179.1203664,-8.52880135,5674
@@ -5678,9 +5678,9 @@ Nanumea,Tuvalu,TVNMA,TV,District,Tuvalu,Oceania,Small island,,,176.1067859,-5.67
 Chon Buri,Thailand,TH20,TH,Province,Thailand,Asia,Very small island,,,100.8076825,12.82844678,5677
 Niulakita Island,Tuvalu,TVNIL,TV,District,Tuvalu,Oceania,Very small island,,,179.4731116,-10.78905302,5678
 Niutao,Tuvalu,TVNIT,TV,District,Tuvalu,Oceania,Small island,,,177.3427791,-6.108791709,5679
-Kamphaeng Phet,Thailand,TH62,TH,Province,Thailand,Asia,Primary land,,,99.50391405,16.3345062,5680
-Krabi,Thailand,TH81,TH,Province,Thailand,Asia,Very small island,,,98.90623357,7.9271322,5681
-Nakhon Si Thammarat,Thailand,TH80,TH,Province,Thailand,Asia,Small island,,,99.87436745,9.315507553,5682
+Nui,Tuvalu,TVNIU,TV,District,Tuvalu,Oceania,Small island,,,177.1555122,-7.223665659,5680
+Nukufetau,Tuvalu,TVNKF,TV,District,Tuvalu,Oceania,Small island,,,178.3812925,-8.019987034,5681
+Nukufetau,Tuvalu,TVNKF,TV,District,Tuvalu,Oceania,Very small island,,,178.3582705,-7.987030623,5682
 Nukulaelae,Tuvalu,TVNKL,TV,District,Tuvalu,Oceania,Small island,,,179.8529823,-9.386739129,5683
 Nukulaelae,Tuvalu,TVNKL,TV,District,Tuvalu,Oceania,Very small island,,,179.8321403,-9.396896384,5684
 Vaitupu,Tuvalu,TVVAI,TV,District,Tuvalu,Oceania,Small island,,,178.6800437,-7.479758157,5685
@@ -5688,10 +5688,10 @@ Kyenjojo,Uganda,UG415,UG,District,Uganda,Africa,Primary land,,,30.66228044,0.656
 Lamwo,Uganda,UG327,UG,District,Uganda,Africa,Primary land,,,32.72748143,3.543721468,5687
 Lira,Uganda,UG307,UG,District,Uganda,Africa,Primary land,,,32.96812061,2.302165004,5688
 Luuka,Uganda,UG229,UG,District,Uganda,Africa,Primary land,,,33.33889248,0.808101779,5689
-Phatthalung,Thailand,TH93,TH,Province,Thailand,Asia,Very small island,,,100.3298014,7.458724382,5690
+Luwero,Uganda,UG104,UG,District,Uganda,Africa,Primary land,,,32.58130798,0.830040795,5690
 Lwengo,Uganda,UG105,UG,District,Uganda,Africa,Primary land,,,31.39884075,-0.420079961,5691
 Lyantonde,Uganda,UG116,UG,District,Uganda,Africa,Primary land,,,31.19020211,-0.218218985,5692
-Northern Ireland,United Kingdom,GBNIR,GB,Province,United Kingdom,Europe,Small island,,,-6.051703747,55.08235178,5693
+Manafwa,Uganda,UG221,UG,District,Uganda,Africa,Primary land,,,34.34174915,0.889968549,5693
 Maracha,Uganda,UG320,UG,District,Uganda,Africa,Primary land,,,31.09717982,3.1953843,5694
 Masaka,Uganda,UG105,UG,District,Uganda,Africa,Primary land,,,31.84553826,-0.481491976,5695
 Dokolo,Uganda,UG318,UG,District,Uganda,Africa,Primary land,,,33.07845152,1.93772773,5696
@@ -5713,7 +5713,7 @@ Murcia,Spain,ESMC,ES,Autonomous Community,Spain,Europe,Small island,,,-0.7701744
 Murcia,Spain,ESMC,ES,Autonomous Community,Spain,Europe,Very small island,,,-0.916587853,37.65049257,5712
 Pa?s Vasco,Spain,ESPV,ES,Autonomous Community,Spain,Europe,Very small island,,,-2.59612823,43.39773432,5713
 Valenciana,Spain,ESVC,ES,Autonomous Community,Spain,Europe,Small island,,,-0.47506424,38.16472041,5714
-Northern Mariana Islands,Northern Mariana Islands,USMP,United States,Territory,United States,Oceania,Very small island,,,145.2463072,18.68524731,5715
+Valenciana,Spain,ESVC,ES,Autonomous Community,Spain,Europe,Very small island,,,0.445185005,39.41722225,5715
 Melilla,Spain,ESML,ES,Autonomous City,Spain,Africa,Very small island,,,-2.926780431,35.27544411,5716
 Unknown Locations,Canarias,ESCN,ES,Autonomous Community,Spain,Africa,Very small island,,,-15.30354048,28.43273201,5717
 Canarias,Canarias,ESCN,ES,Autonomous Community,Spain,Africa,Small island,,,-17.27800138,28.0505579,5718
@@ -5732,14 +5732,14 @@ Sham_l Kurduf_n,Sudan,SDKN,SD,State,Sudan,Africa,Primary land,,,29.4151072,14.43
 Sharq D_rf_r,Sudan,SDDE,SD,State,Sudan,Africa,Primary land,,,26.4779465,10.96797252,5731
 California,United States,USCA,United States,State,United States,North America,Small island,,,-119.7069114,34.30303394,5732
 California,United States,USCA,United States,State,United States,North America,Very small island,,,-121.7948334,37.93355248,5733
-Connecticut,United States,USCT,United States,State,United States,North America,Small island,,,-72.38464529,41.40799043,5734
+Al Ba_r al A_mar,Sudan,SDRS,SD,State,Sudan,Africa,Very small island,,,38.01309005,19.18806305,5734
 Al Ba_r al A_mar,Sudan,SDRS,SD,State,Sudan,Africa,Very small island,,,37.25716782,19.83908804,5735
 Al Ba_r al A_mar,Sudan,SDRS,SD,State,Sudan,Africa,Small island,,,37.68461671,19.72776918,5736
 Al Ba_r al A_mar,Sudan,SDRS,SD,State,Sudan,Africa,Primary land,,,35.69982858,19.86394333,5737
 Al Ba_r al A_mar,Sudan,SDRS,SD,State,Sudan,Africa,Primary land,,,37.71984765,18.7715294,5738
 Al Jaz_rah,Sudan,SDGZ,SD,State,Sudan,Africa,Primary land,,,33.35185442,14.61159111,5739
 Al Qa__rif,Sudan,SDGD,SD,State,Sudan,Africa,Primary land,,,35.21245341,14.16737079,5740
-Georgia,United States,USGA,United States,State,United States,North America,Very small island,,,-81.9184394,31.34547564,5741
+An N_l,Sudan,SDNR,SD,State,Sudan,Africa,Primary land,,,33.46532965,18.3736142,5741
 An N_l al Abya_,Sudan,SDNW,SD,State,Sudan,Africa,Primary land,,,32.34615937,13.44426245,5742
 An N_l al Azraq,Sudan,SDNB,SD,State,Sudan,Africa,Primary land,,,34.12309012,11.2892968,5743
 Ash Sham_l_yah,Sudan,SDNO,SD,State,Sudan,Africa,Primary land,,,29.33775706,19.59813385,5744
@@ -5755,15 +5755,15 @@ Nickerie,Suriname,SRNI,SR,District,Suriname,South America,Small island,,,-57.153
 Nickerie,Suriname,SRNI,SR,District,Suriname,South America,Very small island,,,-57.22409936,5.50282047,5754
 Nickerie,Suriname,SRNI,SR,District,Suriname,South America,Primary land,,,-56.87647938,5.608323372,5755
 Para,Suriname,SRPR,SR,District,Suriname,South America,Primary land,,,-55.31889539,5.341880258,5756
-New Jersey,United States,USNJ,United States,State,United States,North America,Very small island,,,-74.51281477,39.55288378,5757
+Saramacca,Suriname,SRSA,SR,District,Suriname,South America,Very small island,,,-55.35611926,5.960835736,5757
 Saramacca,Suriname,SRSA,SR,District,Suriname,South America,Primary land,,,-55.63413922,5.712218703,5758
 Sipaliwini,Suriname,SRSI,SR,District,Suriname,South America,Very small island,,,-54.3679797,5.129391162,5759
-North Carolina,United States,USNC,United States,State,United States,North America,Small island,,,-76.57770499,34.96242932,5760
+Sipaliwini,Suriname,SRSI,SR,District,Suriname,South America,Primary land,,,-56.03184351,3.757251254,5760
 Wanica,Suriname,SRWA,SR,District,Suriname,South America,Primary land,,,-55.23153352,5.74446609,5761
 Hhohho,Swaziland,SZHH,SZ,District,Swaziland,Africa,Primary land,,,31.32507565,-26.08666324,5762
 Manzini,Swaziland,SZMA,SZ,District,Swaziland,Africa,Primary land,,,31.23123024,-26.55019114,5763
 Shiselweni,Swaziland,SZSH,SZ,District,Swaziland,Africa,Primary land,,,31.42380627,-27.06731671,5764
-Pennsylvania,United States,USPA,United States,State,United States,North America,Small island,,,-76.76148138,40.45097923,5765
+?sterg?tlands,Sweden,SEE,SE,L?n,Sweden,Europe,Small island,,,16.82651173,58.34724218,5765
 ?sterg?tlands,Sweden,SEE,SE,L?n,Sweden,Europe,Very small island,,,16.88389389,58.34587305,5766
 Blekinge,Sweden,SEK,SE,L?n,Sweden,Europe,Small island,,,15.57783247,56.1050241,5767
 Blekinge,Sweden,SEK,SE,L?n,Sweden,Europe,Very small island,,,15.38887214,56.13887807,5768
