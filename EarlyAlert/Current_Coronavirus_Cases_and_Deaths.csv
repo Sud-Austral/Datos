@@ -2555,7 +2555,7 @@ Nova Scotia,Canada,CANS,CA,Province,Canada,North America,Small island,,,-62.1706
 Camag?ey,Cuba,CU09,CU,Province,Cuba,North America,Very small island,,,-78.13445866,21.27265372,2554
 La Romana,Dominican Republic,DO12,DO,Province,Dominican Republic,North America,Small island,,,-69.00830553,18.35711803,2555
 P?rnumaa,Estonia,EE67,EE,County,Estonia,Europe,Very small island,,,23.89279792,58.31147496,2556
-Likouala,Congo,CG7,CG,Department,Congo,Africa,Primary land,,,17.44617035,1.915440486,2557
+Temburong,Brunei Darussalam,BNTE,BN,District,Brunei Darussalam,Asia,Small island,,,115.1185252,4.874680506,2557
 Nova Scotia,Canada,CANS,CA,Province,Canada,North America,Very small island,,,-63.21241111,44.7628281,2558
 Dib?r,Albania,AL9,AL,County,Albania,Europe,Primary land,,,20.24498099,41.5967553,2559
 Ciego de ?vila,Cuba,CU08,CU,Province,Cuba,North America,Small island,,,-79.00280281,21.31773415,2560
@@ -2571,7 +2571,7 @@ Temburong,Brunei Darussalam,BNTE,BN,District,Brunei Darussalam,Asia,Primary land
 Ontario,Canada,CAON,CA,Province,Canada,North America,Small island,,,-82.1256901,52.39300766,2570
 Shkod?r,Albania,AL10,AL,County,Albania,Europe,Very small island,,,19.44612403,41.85560664,2571
 Cienfuegos,Cuba,CU06,CU,Province,Cuba,North America,Very small island,,,-80.44744226,22.08811146,2572
-Bafing,C?te d'Ivoire,CI17,CI,Region,Cote d'Ivoire,Africa,Primary land,,,-7.633123993,8.394361324,2573
+Pedernales,Dominican Republic,DO16,DO,Province,Dominican Republic,North America,Very small island,,,-71.43191818,17.80961076,2573
 Dire Dawa,Ethiopia,ETDD,ET,Administration,Ethiopia,Africa,Primary land,,,42.00769601,9.60986756,2574
 Bas-Sassandra,C?te d'Ivoire,CI09,CI,Region,Cote d'Ivoire,Africa,Small island,,,-6.092357829,4.980793905,2575
 Bas-Sassandra,C?te d'Ivoire,CI09,CI,Region,Cote d'Ivoire,Africa,Primary land,,,-6.752231479,5.360623667,2576
@@ -5674,7 +5674,7 @@ Mary,Turkmenistan,TMM,TM,Province,Turkmenistan,Asia,Primary land,,,62.29932629,3
 Funafuti,Tuvalu,TVFUN,TV,District,Tuvalu,Oceania,Small island,,,179.1563315,-8.547680127,5673
 Funafuti,Tuvalu,TVFUN,TV,District,Tuvalu,Oceania,Very small island,,,179.1203664,-8.52880135,5674
 Nanumanga,Tuvalu,TVNMG,TV,District,Tuvalu,Oceania,Small island,,,176.3207534,-6.288647372,5675
-Chanthaburi,Thailand,TH22,TH,Province,Thailand,Asia,Very small island,,,102.038208,12.46874468,5676
+Nanumea,Tuvalu,TVNMA,TV,District,Tuvalu,Oceania,Small island,,,176.1067859,-5.670185217,5676
 Chon Buri,Thailand,TH20,TH,Province,Thailand,Asia,Very small island,,,100.8076825,12.82844678,5677
 Niulakita Island,Tuvalu,TVNIL,TV,District,Tuvalu,Oceania,Very small island,,,179.4731116,-10.78905302,5678
 Niutao,Tuvalu,TVNIT,TV,District,Tuvalu,Oceania,Small island,,,177.3427791,-6.108791709,5679
@@ -5694,7 +5694,7 @@ Lyantonde,Uganda,UG116,UG,District,Uganda,Africa,Primary land,,,31.19020211,-0.2
 Northern Ireland,United Kingdom,GBNIR,GB,Province,United Kingdom,Europe,Small island,,,-6.051703747,55.08235178,5693
 Maracha,Uganda,UG320,UG,District,Uganda,Africa,Primary land,,,31.09717982,3.1953843,5694
 Masaka,Uganda,UG105,UG,District,Uganda,Africa,Primary land,,,31.84553826,-0.481491976,5695
-British Indian Ocean Territory,British Indian Ocean Territory,IO,IO,Overseas Territory,United Kingdom,Asia,Very small island,,,71.93665269,-5.547716927,5696
+Dokolo,Uganda,UG318,UG,District,Uganda,Africa,Primary land,,,33.07845152,1.93772773,5696
 South Georgia and the South Sandwich Islands,South Georgia,GS,GS,Overseas Territory,United Kingdom,Antarctica,Small island,,,-27.53256594,-58.09983014,5697
 Agago,Uganda,UG322,UG,District,Uganda,Africa,Primary land,,,33.34722991,2.911083985,5698
 Alebtong,Uganda,UG323,UG,District,Uganda,Africa,Primary land,,,33.25713393,2.267897238,5699
@@ -5719,7 +5719,7 @@ Unknown Locations,Canarias,ESCN,ES,Autonomous Community,Spain,Africa,Very small 
 Canarias,Canarias,ESCN,ES,Autonomous Community,Spain,Africa,Small island,,,-17.27800138,28.0505579,5718
 Isla Congreso,Spain,ES,ES,Overseas Territory,Spain,Africa,Very small island,,,-2.440855446,35.17853798,5719
 Isla de Mar,Spain,ES,ES,Overseas Territory,Spain,Africa,Very small island,,,-3.901399851,35.21699349,5720
-American Samoa,American Samoa,USAS,United States,AS,United States,Oceania,Very small island,,,-169.7868749,-14.26498768,5721
+Isla de Tierra,Spain,ES,ES,Overseas Territory,Spain,Africa,Very small island,,,-3.902743355,35.21457714,5721
 Isla del Rey,Spain,ES,ES,Overseas Territory,Spain,Africa,Very small island,,,-2.422315568,35.18060134,5722
 Isla Isabel II,Spain,ES,ES,Overseas Territory,Spain,Africa,Very small island,,,-2.429753247,35.18162731,5723
 La Gomera,Spain,https://www.rtve.es/noticias/20200304/mapa-del-coronavirus-espana/2004681.shtml,ES,Overseas Territory,Spain,Africa,Primary land,,,-17.213,28.114,5724
