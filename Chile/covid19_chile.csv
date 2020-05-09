@@ -38425,3 +38425,1767 @@ ID,Fecha,Region_Numero,País,Region,Sexo,Edad,Centro_de_Salud,Comuna,lat,lon,Tip
 38424,08-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
 38425,08-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
 38426,08-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+38427,09-05-2020,15.0,Chile,Arica y Parinacota,,,,Arica,,,Confirmado,-18.5321930844,-69.9714910871
+38428,09-05-2020,15.0,Chile,Arica y Parinacota,,,,Arica,,,Confirmado,-18.5321930844,-69.9714910871
+38429,09-05-2020,15.0,Chile,Arica y Parinacota,,,,Arica,,,Confirmado,-18.5321930844,-69.9714910871
+38430,09-05-2020,15.0,Chile,Arica y Parinacota,,,,Arica,,,Confirmado,-18.5321930844,-69.9714910871
+38431,09-05-2020,15.0,Chile,Arica y Parinacota,,,,Arica,,,Confirmado,-18.5321930844,-69.9714910871
+38432,09-05-2020,15.0,Chile,Arica y Parinacota,,,,Arica,,,Confirmado,-18.5321930844,-69.9714910871
+38433,09-05-2020,15.0,Chile,Arica y Parinacota,,,,Arica,,,Confirmado,-18.5321930844,-69.9714910871
+38434,09-05-2020,15.0,Chile,Arica y Parinacota,,,,Arica,,,Confirmado,-18.5321930844,-69.9714910871
+38435,09-05-2020,15.0,Chile,Arica y Parinacota,,,,Arica,,,Confirmado,-18.5321930844,-69.9714910871
+38436,09-05-2020,15.0,Chile,Arica y Parinacota,,,,Arica,,,Confirmado,-18.5321930844,-69.9714910871
+38437,09-05-2020,1.0,Chile,Tarapacá,,,,No Informado,,,Confirmado,-20.2133874287,-69.3928397127
+38438,09-05-2020,1.0,Chile,Tarapacá,,,,No Informado,,,Confirmado,-20.2133874287,-69.3928397127
+38439,09-05-2020,1.0,Chile,Tarapacá,,,,No Informado,,,Confirmado,-20.2133874287,-69.3928397127
+38440,09-05-2020,1.0,Chile,Tarapacá,,,,No Informado,,,Confirmado,-20.2133874287,-69.3928397127
+38441,09-05-2020,1.0,Chile,Tarapacá,,,,No Informado,,,Confirmado,-20.2133874287,-69.3928397127
+38442,09-05-2020,1.0,Chile,Tarapacá,,,,No Informado,,,Confirmado,-20.2133874287,-69.3928397127
+38443,09-05-2020,1.0,Chile,Tarapacá,,,,No Informado,,,Confirmado,-20.2133874287,-69.3928397127
+38444,09-05-2020,1.0,Chile,Tarapacá,,,,No Informado,,,Confirmado,-20.2133874287,-69.3928397127
+38445,09-05-2020,1.0,Chile,Tarapacá,,,,No Informado,,,Confirmado,-20.2133874287,-69.3928397127
+38446,09-05-2020,1.0,Chile,Tarapacá,,,,No Informado,,,Confirmado,-20.2133874287,-69.3928397127
+38447,09-05-2020,1.0,Chile,Tarapacá,,,,No Informado,,,Confirmado,-20.2133874287,-69.3928397127
+38448,09-05-2020,1.0,Chile,Tarapacá,,,,No Informado,,,Confirmado,-20.2133874287,-69.3928397127
+38449,09-05-2020,1.0,Chile,Tarapacá,,,,No Informado,,,Confirmado,-20.2133874287,-69.3928397127
+38450,09-05-2020,1.0,Chile,Tarapacá,,,,No Informado,,,Confirmado,-20.2133874287,-69.3928397127
+38451,09-05-2020,1.0,Chile,Tarapacá,,,,No Informado,,,Confirmado,-20.2133874287,-69.3928397127
+38452,09-05-2020,1.0,Chile,Tarapacá,,,,No Informado,,,Confirmado,-20.2133874287,-69.3928397127
+38453,09-05-2020,1.0,Chile,Tarapacá,,,,No Informado,,,Confirmado,-20.2133874287,-69.3928397127
+38454,09-05-2020,1.0,Chile,Tarapacá,,,,No Informado,,,Confirmado,-20.2133874287,-69.3928397127
+38455,09-05-2020,1.0,Chile,Tarapacá,,,,No Informado,,,Confirmado,-20.2133874287,-69.3928397127
+38456,09-05-2020,1.0,Chile,Tarapacá,,,,No Informado,,,Confirmado,-20.2133874287,-69.3928397127
+38457,09-05-2020,1.0,Chile,Tarapacá,,,,No Informado,,,Confirmado,-20.2133874287,-69.3928397127
+38458,09-05-2020,1.0,Chile,Tarapacá,,,,No Informado,,,Confirmado,-20.2133874287,-69.3928397127
+38459,09-05-2020,1.0,Chile,Tarapacá,,,,No Informado,,,Confirmado,-20.2133874287,-69.3928397127
+38460,09-05-2020,1.0,Chile,Tarapacá,,,,No Informado,,,Confirmado,-20.2133874287,-69.3928397127
+38461,09-05-2020,1.0,Chile,Tarapacá,,,,No Informado,,,Confirmado,-20.2133874287,-69.3928397127
+38462,09-05-2020,1.0,Chile,Tarapacá,,,,No Informado,,,Confirmado,-20.2133874287,-69.3928397127
+38463,09-05-2020,2.0,Chile,Antofagasta,,,,No Informado,,,Confirmado,-23.5278557228,-69.1155677706
+38464,09-05-2020,2.0,Chile,Antofagasta,,,,No Informado,,,Confirmado,-23.5278557228,-69.1155677706
+38465,09-05-2020,2.0,Chile,Antofagasta,,,,No Informado,,,Confirmado,-23.5278557228,-69.1155677706
+38466,09-05-2020,2.0,Chile,Antofagasta,,,,No Informado,,,Confirmado,-23.5278557228,-69.1155677706
+38467,09-05-2020,2.0,Chile,Antofagasta,,,,No Informado,,,Confirmado,-23.5278557228,-69.1155677706
+38468,09-05-2020,2.0,Chile,Antofagasta,,,,No Informado,,,Confirmado,-23.5278557228,-69.1155677706
+38469,09-05-2020,2.0,Chile,Antofagasta,,,,No Informado,,,Confirmado,-23.5278557228,-69.1155677706
+38470,09-05-2020,2.0,Chile,Antofagasta,,,,No Informado,,,Confirmado,-23.5278557228,-69.1155677706
+38471,09-05-2020,2.0,Chile,Antofagasta,,,,No Informado,,,Confirmado,-23.5278557228,-69.1155677706
+38472,09-05-2020,2.0,Chile,Antofagasta,,,,No Informado,,,Confirmado,-23.5278557228,-69.1155677706
+38473,09-05-2020,2.0,Chile,Antofagasta,,,,No Informado,,,Confirmado,-23.5278557228,-69.1155677706
+38474,09-05-2020,2.0,Chile,Antofagasta,,,,No Informado,,,Confirmado,-23.5278557228,-69.1155677706
+38475,09-05-2020,2.0,Chile,Antofagasta,,,,No Informado,,,Confirmado,-23.5278557228,-69.1155677706
+38476,09-05-2020,2.0,Chile,Antofagasta,,,,No Informado,,,Confirmado,-23.5278557228,-69.1155677706
+38477,09-05-2020,2.0,Chile,Antofagasta,,,,No Informado,,,Confirmado,-23.5278557228,-69.1155677706
+38478,09-05-2020,2.0,Chile,Antofagasta,,,,No Informado,,,Confirmado,-23.5278557228,-69.1155677706
+38479,09-05-2020,2.0,Chile,Antofagasta,,,,No Informado,,,Confirmado,-23.5278557228,-69.1155677706
+38480,09-05-2020,2.0,Chile,Antofagasta,,,,No Informado,,,Confirmado,-23.5278557228,-69.1155677706
+38481,09-05-2020,2.0,Chile,Antofagasta,,,,No Informado,,,Confirmado,-23.5278557228,-69.1155677706
+38482,09-05-2020,2.0,Chile,Antofagasta,,,,No Informado,,,Confirmado,-23.5278557228,-69.1155677706
+38483,09-05-2020,2.0,Chile,Antofagasta,,,,No Informado,,,Confirmado,-23.5278557228,-69.1155677706
+38484,09-05-2020,2.0,Chile,Antofagasta,,,,No Informado,,,Confirmado,-23.5278557228,-69.1155677706
+38485,09-05-2020,2.0,Chile,Antofagasta,,,,No Informado,,,Confirmado,-23.5278557228,-69.1155677706
+38486,09-05-2020,2.0,Chile,Antofagasta,,,,No Informado,,,Confirmado,-23.5278557228,-69.1155677706
+38487,09-05-2020,3.0,Chile,Atacama,,,,No Informado,,,Confirmado,-27.3879774222,-69.9023342263
+38488,09-05-2020,3.0,Chile,Atacama,,,,No Informado,,,Confirmado,-27.3879774222,-69.9023342263
+38489,09-05-2020,3.0,Chile,Atacama,,,,No Informado,,,Confirmado,-27.3879774222,-69.9023342263
+38490,09-05-2020,3.0,Chile,Atacama,,,,No Informado,,,Confirmado,-27.3879774222,-69.9023342263
+38491,09-05-2020,3.0,Chile,Atacama,,,,No Informado,,,Confirmado,-27.3879774222,-69.9023342263
+38492,09-05-2020,3.0,Chile,Atacama,,,,No Informado,,,Confirmado,-27.3879774222,-69.9023342263
+38493,09-05-2020,3.0,Chile,Atacama,,,,No Informado,,,Confirmado,-27.3879774222,-69.9023342263
+38494,09-05-2020,3.0,Chile,Atacama,,,,No Informado,,,Confirmado,-27.3879774222,-69.9023342263
+38495,09-05-2020,3.0,Chile,Atacama,,,,No Informado,,,Confirmado,-27.3879774222,-69.9023342263
+38496,09-05-2020,3.0,Chile,Atacama,,,,No Informado,,,Confirmado,-27.3879774222,-69.9023342263
+38497,09-05-2020,3.0,Chile,Atacama,,,,No Informado,,,Confirmado,-27.3879774222,-69.9023342263
+38498,09-05-2020,3.0,Chile,Atacama,,,,No Informado,,,Confirmado,-27.3879774222,-69.9023342263
+38499,09-05-2020,3.0,Chile,Atacama,,,,No Informado,,,Confirmado,-27.3879774222,-69.9023342263
+38500,09-05-2020,3.0,Chile,Atacama,,,,No Informado,,,Confirmado,-27.3879774222,-69.9023342263
+38501,09-05-2020,3.0,Chile,Atacama,,,,No Informado,,,Confirmado,-27.3879774222,-69.9023342263
+38502,09-05-2020,3.0,Chile,Atacama,,,,No Informado,,,Confirmado,-27.3879774222,-69.9023342263
+38503,09-05-2020,3.0,Chile,Atacama,,,,No Informado,,,Confirmado,-27.3879774222,-69.9023342263
+38504,09-05-2020,3.0,Chile,Atacama,,,,No Informado,,,Confirmado,-27.3879774222,-69.9023342263
+38505,09-05-2020,3.0,Chile,Atacama,,,,No Informado,,,Confirmado,-27.3879774222,-69.9023342263
+38506,09-05-2020,3.0,Chile,Atacama,,,,No Informado,,,Confirmado,-27.3879774222,-69.9023342263
+38507,09-05-2020,3.0,Chile,Atacama,,,,No Informado,,,Confirmado,-27.3879774222,-69.9023342263
+38508,09-05-2020,3.0,Chile,Atacama,,,,No Informado,,,Confirmado,-27.3879774222,-69.9023342263
+38509,09-05-2020,3.0,Chile,Atacama,,,,No Informado,,,Confirmado,-27.3879774222,-69.9023342263
+38510,09-05-2020,3.0,Chile,Atacama,,,,No Informado,,,Confirmado,-27.3879774222,-69.9023342263
+38511,09-05-2020,3.0,Chile,Atacama,,,,No Informado,,,Confirmado,-27.3879774222,-69.9023342263
+38512,09-05-2020,3.0,Chile,Atacama,,,,No Informado,,,Confirmado,-27.3879774222,-69.9023342263
+38513,09-05-2020,3.0,Chile,Atacama,,,,No Informado,,,Confirmado,-27.3879774222,-69.9023342263
+38514,09-05-2020,3.0,Chile,Atacama,,,,No Informado,,,Confirmado,-27.3879774222,-69.9023342263
+38515,09-05-2020,3.0,Chile,Atacama,,,,No Informado,,,Confirmado,-27.3879774222,-69.9023342263
+38516,09-05-2020,4.0,Chile,Coquimbo,,,,No Informado,,,Confirmado,-30.6120814048,-70.8585239858
+38517,09-05-2020,4.0,Chile,Coquimbo,,,,No Informado,,,Confirmado,-30.6120814048,-70.8585239858
+38518,09-05-2020,4.0,Chile,Coquimbo,,,,No Informado,,,Confirmado,-30.6120814048,-70.8585239858
+38519,09-05-2020,4.0,Chile,Coquimbo,,,,No Informado,,,Confirmado,-30.6120814048,-70.8585239858
+38520,09-05-2020,4.0,Chile,Coquimbo,,,,No Informado,,,Confirmado,-30.6120814048,-70.8585239858
+38521,09-05-2020,4.0,Chile,Coquimbo,,,,No Informado,,,Confirmado,-30.6120814048,-70.8585239858
+38522,09-05-2020,4.0,Chile,Coquimbo,,,,No Informado,,,Confirmado,-30.6120814048,-70.8585239858
+38523,09-05-2020,4.0,Chile,Coquimbo,,,,No Informado,,,Confirmado,-30.6120814048,-70.8585239858
+38524,09-05-2020,4.0,Chile,Coquimbo,,,,No Informado,,,Confirmado,-30.6120814048,-70.8585239858
+38525,09-05-2020,4.0,Chile,Coquimbo,,,,No Informado,,,Confirmado,-30.6120814048,-70.8585239858
+38526,09-05-2020,4.0,Chile,Coquimbo,,,,No Informado,,,Confirmado,-30.6120814048,-70.8585239858
+38527,09-05-2020,4.0,Chile,Coquimbo,,,,No Informado,,,Confirmado,-30.6120814048,-70.8585239858
+38528,09-05-2020,4.0,Chile,Coquimbo,,,,No Informado,,,Confirmado,-30.6120814048,-70.8585239858
+38529,09-05-2020,4.0,Chile,Coquimbo,,,,No Informado,,,Confirmado,-30.6120814048,-70.8585239858
+38530,09-05-2020,4.0,Chile,Coquimbo,,,,No Informado,,,Confirmado,-30.6120814048,-70.8585239858
+38531,09-05-2020,4.0,Chile,Coquimbo,,,,No Informado,,,Confirmado,-30.6120814048,-70.8585239858
+38532,09-05-2020,4.0,Chile,Coquimbo,,,,No Informado,,,Confirmado,-30.6120814048,-70.8585239858
+38533,09-05-2020,4.0,Chile,Coquimbo,,,,No Informado,,,Confirmado,-30.6120814048,-70.8585239858
+38534,09-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+38535,09-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+38536,09-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+38537,09-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+38538,09-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+38539,09-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+38540,09-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+38541,09-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+38542,09-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+38543,09-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+38544,09-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+38545,09-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+38546,09-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+38547,09-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+38548,09-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+38549,09-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+38550,09-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+38551,09-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+38552,09-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+38553,09-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+38554,09-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+38555,09-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+38556,09-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+38557,09-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+38558,09-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+38559,09-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+38560,09-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+38561,09-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+38562,09-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+38563,09-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+38564,09-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+38565,09-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+38566,09-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+38567,09-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+38568,09-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+38569,09-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+38570,09-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+38571,09-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+38572,09-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+38573,09-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+38574,09-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+38575,09-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+38576,09-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+38577,09-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+38578,09-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+38579,09-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+38580,09-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+38581,09-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+38582,09-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+38583,09-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Confirmado,-32.4993565791,-70.8915740187
+38584,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38585,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38586,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38587,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38588,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38589,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38590,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38591,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38592,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38593,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38594,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38595,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38596,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38597,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38598,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38599,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38600,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38601,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38602,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38603,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38604,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38605,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38606,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38607,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38608,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38609,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38610,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38611,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38612,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38613,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38614,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38615,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38616,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38617,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38618,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38619,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38620,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38621,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38622,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38623,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38624,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38625,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38626,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38627,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38628,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38629,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38630,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38631,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38632,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38633,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38634,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38635,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38636,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38637,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38638,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38639,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38640,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38641,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38642,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38643,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38644,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38645,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38646,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38647,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38648,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38649,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38650,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38651,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38652,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38653,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38654,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38655,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38656,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38657,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38658,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38659,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38660,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38661,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38662,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38663,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38664,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38665,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38666,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38667,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38668,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38669,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38670,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38671,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38672,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38673,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38674,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38675,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38676,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38677,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38678,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38679,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38680,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38681,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38682,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38683,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38684,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38685,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38686,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38687,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38688,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38689,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38690,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38691,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38692,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38693,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38694,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38695,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38696,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38697,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38698,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38699,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38700,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38701,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38702,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38703,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38704,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38705,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38706,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38707,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38708,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38709,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38710,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38711,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38712,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38713,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38714,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38715,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38716,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38717,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38718,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38719,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38720,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38721,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38722,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38723,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38724,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38725,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38726,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38727,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38728,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38729,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38730,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38731,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38732,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38733,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38734,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38735,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38736,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38737,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38738,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38739,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38740,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38741,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38742,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38743,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38744,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38745,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38746,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38747,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38748,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38749,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38750,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38751,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38752,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38753,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38754,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38755,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38756,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38757,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38758,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38759,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38760,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38761,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38762,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38763,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38764,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38765,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38766,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38767,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38768,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38769,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38770,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38771,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38772,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38773,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38774,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38775,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38776,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38777,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38778,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38779,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38780,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38781,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38782,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38783,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38784,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38785,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38786,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38787,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38788,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38789,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38790,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38791,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38792,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38793,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38794,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38795,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38796,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38797,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38798,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38799,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38800,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38801,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38802,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38803,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38804,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38805,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38806,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38807,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38808,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38809,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38810,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38811,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38812,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38813,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38814,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38815,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38816,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38817,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38818,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38819,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38820,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38821,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38822,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38823,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38824,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38825,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38826,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38827,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38828,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38829,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38830,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38831,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38832,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38833,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38834,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38835,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38836,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38837,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38838,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38839,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38840,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38841,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38842,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38843,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38844,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38845,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38846,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38847,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38848,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38849,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38850,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38851,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38852,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38853,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38854,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38855,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38856,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38857,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38858,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38859,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38860,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38861,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38862,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38863,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38864,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38865,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38866,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38867,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38868,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38869,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38870,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38871,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38872,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38873,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38874,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38875,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38876,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38877,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38878,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38879,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38880,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38881,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38882,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38883,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38884,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38885,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38886,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38887,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38888,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38889,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38890,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38891,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38892,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38893,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38894,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38895,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38896,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38897,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38898,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38899,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38900,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38901,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38902,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38903,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38904,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38905,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38906,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38907,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38908,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38909,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38910,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38911,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38912,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38913,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38914,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38915,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38916,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38917,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38918,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38919,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38920,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38921,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38922,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38923,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38924,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38925,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38926,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38927,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38928,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38929,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38930,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38931,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38932,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38933,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38934,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38935,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38936,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38937,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38938,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38939,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38940,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38941,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38942,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38943,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38944,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38945,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38946,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38947,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38948,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38949,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38950,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38951,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38952,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38953,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38954,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38955,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38956,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38957,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38958,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38959,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38960,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38961,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38962,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38963,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38964,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38965,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38966,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38967,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38968,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38969,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38970,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38971,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38972,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38973,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38974,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38975,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38976,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38977,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38978,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38979,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38980,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38981,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38982,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38983,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38984,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38985,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38986,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38987,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38988,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38989,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38990,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38991,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38992,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38993,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38994,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38995,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38996,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38997,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38998,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+38999,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39000,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39001,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39002,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39003,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39004,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39005,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39006,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39007,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39008,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39009,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39010,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39011,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39012,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39013,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39014,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39015,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39016,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39017,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39018,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39019,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39020,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39021,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39022,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39023,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39024,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39025,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39026,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39027,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39028,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39029,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39030,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39031,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39032,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39033,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39034,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39035,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39036,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39037,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39038,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39039,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39040,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39041,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39042,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39043,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39044,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39045,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39046,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39047,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39048,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39049,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39050,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39051,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39052,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39053,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39054,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39055,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39056,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39057,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39058,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39059,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39060,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39061,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39062,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39063,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39064,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39065,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39066,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39067,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39068,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39069,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39070,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39071,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39072,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39073,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39074,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39075,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39076,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39077,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39078,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39079,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39080,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39081,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39082,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39083,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39084,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39085,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39086,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39087,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39088,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39089,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39090,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39091,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39092,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39093,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39094,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39095,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39096,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39097,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39098,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39099,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39100,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39101,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39102,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39103,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39104,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39105,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39106,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39107,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39108,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39109,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39110,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39111,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39112,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39113,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39114,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39115,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39116,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39117,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39118,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39119,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39120,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39121,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39122,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39123,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39124,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39125,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39126,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39127,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39128,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39129,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39130,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39131,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39132,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39133,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39134,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39135,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39136,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39137,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39138,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39139,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39140,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39141,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39142,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39143,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39144,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39145,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39146,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39147,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39148,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39149,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39150,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39151,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39152,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39153,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39154,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39155,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39156,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39157,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39158,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39159,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39160,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39161,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39162,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39163,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39164,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39165,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39166,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39167,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39168,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39169,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39170,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39171,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39172,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39173,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39174,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39175,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39176,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39177,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39178,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39179,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39180,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39181,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39182,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39183,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39184,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39185,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39186,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39187,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39188,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39189,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39190,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39191,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39192,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39193,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39194,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39195,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39196,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39197,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39198,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39199,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39200,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39201,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39202,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39203,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39204,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39205,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39206,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39207,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39208,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39209,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39210,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39211,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39212,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39213,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39214,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39215,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39216,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39217,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39218,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39219,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39220,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39221,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39222,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39223,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39224,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39225,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39226,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39227,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39228,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39229,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39230,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39231,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39232,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39233,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39234,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39235,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39236,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39237,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39238,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39239,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39240,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39241,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39242,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39243,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39244,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39245,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39246,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39247,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39248,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39249,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39250,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39251,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39252,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39253,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39254,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39255,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39256,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39257,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39258,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39259,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39260,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39261,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39262,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39263,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39264,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39265,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39266,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39267,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39268,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39269,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39270,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39271,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39272,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39273,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39274,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39275,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39276,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39277,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39278,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39279,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39280,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39281,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39282,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39283,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39284,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39285,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39286,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39287,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39288,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39289,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39290,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39291,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39292,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39293,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39294,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39295,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39296,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39297,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39298,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39299,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39300,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39301,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39302,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39303,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39304,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39305,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39306,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39307,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39308,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39309,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39310,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39311,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39312,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39313,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39314,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39315,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39316,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39317,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39318,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39319,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39320,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39321,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39322,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39323,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39324,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39325,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39326,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39327,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39328,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39329,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39330,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39331,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39332,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39333,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39334,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39335,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39336,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39337,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39338,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39339,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39340,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39341,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39342,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39343,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39344,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39345,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39346,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39347,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39348,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39349,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39350,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39351,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39352,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39353,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39354,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39355,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39356,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39357,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39358,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39359,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39360,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39361,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39362,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39363,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39364,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39365,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39366,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39367,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39368,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39369,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39370,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39371,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39372,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39373,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39374,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39375,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39376,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39377,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39378,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39379,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39380,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39381,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39382,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39383,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39384,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39385,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39386,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39387,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39388,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39389,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39390,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39391,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39392,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39393,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39394,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39395,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39396,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39397,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39398,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39399,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39400,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39401,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39402,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39403,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39404,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39405,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39406,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39407,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39408,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39409,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39410,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39411,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39412,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39413,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39414,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39415,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39416,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39417,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39418,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39419,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39420,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39421,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39422,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39423,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39424,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39425,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39426,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39427,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39428,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39429,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39430,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39431,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39432,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39433,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39434,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39435,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39436,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39437,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39438,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39439,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39440,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39441,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39442,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39443,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39444,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39445,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39446,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39447,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39448,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39449,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39450,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39451,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39452,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39453,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39454,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39455,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39456,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39457,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39458,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39459,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39460,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39461,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39462,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39463,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39464,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39465,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39466,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39467,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39468,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39469,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39470,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39471,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39472,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39473,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39474,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39475,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39476,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39477,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39478,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39479,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39480,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39481,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39482,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39483,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39484,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39485,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39486,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39487,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39488,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39489,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39490,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39491,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39492,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39493,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39494,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39495,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39496,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39497,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39498,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39499,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39500,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39501,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39502,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39503,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39504,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39505,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39506,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39507,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39508,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39509,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39510,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39511,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39512,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39513,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39514,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39515,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39516,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39517,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39518,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39519,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39520,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39521,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39522,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39523,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39524,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39525,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39526,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39527,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39528,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39529,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39530,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39531,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39532,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39533,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39534,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39535,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39536,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39537,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39538,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39539,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39540,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39541,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39542,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39543,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39544,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39545,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39546,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39547,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39548,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39549,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39550,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39551,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39552,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39553,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39554,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39555,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39556,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39557,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39558,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39559,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39560,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39561,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39562,09-05-2020,6.0,Chile,O’Higgins,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39563,09-05-2020,6.0,Chile,O’Higgins,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39564,09-05-2020,6.0,Chile,O’Higgins,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39565,09-05-2020,6.0,Chile,O’Higgins,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39566,09-05-2020,6.0,Chile,O’Higgins,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39567,09-05-2020,6.0,Chile,O’Higgins,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39568,09-05-2020,6.0,Chile,O’Higgins,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39569,09-05-2020,6.0,Chile,O’Higgins,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39570,09-05-2020,6.0,Chile,O’Higgins,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39571,09-05-2020,6.0,Chile,O’Higgins,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39572,09-05-2020,6.0,Chile,O’Higgins,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39573,09-05-2020,6.0,Chile,O’Higgins,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39574,09-05-2020,6.0,Chile,O’Higgins,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39575,09-05-2020,6.0,Chile,O’Higgins,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39576,09-05-2020,6.0,Chile,O’Higgins,,,,No Informado,,,Confirmado,-33.6043642941,-70.6266370305
+39577,09-05-2020,7.0,Chile,Maule,,,,No Informado,,,Confirmado,-35.6203720727,-71.4463212218
+39578,09-05-2020,7.0,Chile,Maule,,,,No Informado,,,Confirmado,-35.6203720727,-71.4463212218
+39579,09-05-2020,7.0,Chile,Maule,,,,No Informado,,,Confirmado,-35.6203720727,-71.4463212218
+39580,09-05-2020,7.0,Chile,Maule,,,,No Informado,,,Confirmado,-35.6203720727,-71.4463212218
+39581,09-05-2020,7.0,Chile,Maule,,,,No Informado,,,Confirmado,-35.6203720727,-71.4463212218
+39582,09-05-2020,7.0,Chile,Maule,,,,No Informado,,,Confirmado,-35.6203720727,-71.4463212218
+39583,09-05-2020,7.0,Chile,Maule,,,,No Informado,,,Confirmado,-35.6203720727,-71.4463212218
+39584,09-05-2020,16.0,Chile,Ñuble,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+39585,09-05-2020,16.0,Chile,Ñuble,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+39586,09-05-2020,16.0,Chile,Ñuble,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+39587,09-05-2020,16.0,Chile,Ñuble,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+39588,09-05-2020,16.0,Chile,Ñuble,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+39589,09-05-2020,16.0,Chile,Ñuble,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+39590,09-05-2020,16.0,Chile,Ñuble,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+39591,09-05-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+39592,09-05-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+39593,09-05-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+39594,09-05-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+39595,09-05-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+39596,09-05-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+39597,09-05-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+39598,09-05-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+39599,09-05-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+39600,09-05-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+39601,09-05-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+39602,09-05-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+39603,09-05-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+39604,09-05-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+39605,09-05-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+39606,09-05-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+39607,09-05-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+39608,09-05-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+39609,09-05-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+39610,09-05-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+39611,09-05-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+39612,09-05-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+39613,09-05-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+39614,09-05-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+39615,09-05-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+39616,09-05-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+39617,09-05-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+39618,09-05-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+39619,09-05-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+39620,09-05-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+39621,09-05-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+39622,09-05-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+39623,09-05-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+39624,09-05-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+39625,09-05-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+39626,09-05-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+39627,09-05-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+39628,09-05-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+39629,09-05-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+39630,09-05-2020,8.0,Chile,Biobío,,,,No Informado,,,Confirmado,-37.3539275137,-72.2634281286
+39631,09-05-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+39632,09-05-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+39633,09-05-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+39634,09-05-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+39635,09-05-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+39636,09-05-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+39637,09-05-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+39638,09-05-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+39639,09-05-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+39640,09-05-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+39641,09-05-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+39642,09-05-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+39643,09-05-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+39644,09-05-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+39645,09-05-2020,9.0,Chile,La Araucanía,,,,No Informado,,,Confirmado,-38.6482295784,-72.276375641
+39646,09-05-2020,14.0,Chile,Los Ríos,,,,No Informado,,,Confirmado,-40.0034147045,-72.5764331101
+39647,09-05-2020,14.0,Chile,Los Ríos,,,,No Informado,,,Confirmado,-40.0034147045,-72.5764331101
+39648,09-05-2020,14.0,Chile,Los Ríos,,,,No Informado,,,Confirmado,-40.0034147045,-72.5764331101
+39649,09-05-2020,10.0,Chile,Los Lagos,,,,San Juan de la Costa,,,Confirmado,-40.5089957648,-73.5591952549
+39650,09-05-2020,10.0,Chile,Los Lagos,,,,San Juan de la Costa,,,Confirmado,-40.5089957648,-73.5591952549
+39651,09-05-2020,10.0,Chile,Los Lagos,,,,San Juan de la Costa,,,Confirmado,-40.5089957648,-73.5591952549
+39652,09-05-2020,10.0,Chile,Los Lagos,,,,Ancud,,,Confirmado,-42.0159379209,-73.8013178115
+39653,09-05-2020,10.0,Chile,Los Lagos,,,,Ancud,,,Confirmado,-42.0159379209,-73.8013178115
+39654,09-05-2020,10.0,Chile,Los Lagos,,,,Ancud,,,Confirmado,-42.0159379209,-73.8013178115
+39655,09-05-2020,10.0,Chile,Los Lagos,,,,Ancud,,,Confirmado,-42.0159379209,-73.8013178115
+39656,09-05-2020,10.0,Chile,Los Lagos,,,,Ancud,,,Confirmado,-42.0159379209,-73.8013178115
+39657,09-05-2020,10.0,Chile,Los Lagos,,,,Ancud,,,Confirmado,-42.0159379209,-73.8013178115
+39658,09-05-2020,10.0,Chile,Los Lagos,,,,Ancud,,,Confirmado,-42.0159379209,-73.8013178115
+39659,09-05-2020,10.0,Chile,Los Lagos,,,,Ancud,,,Confirmado,-42.0159379209,-73.8013178115
+39660,09-05-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
+39661,09-05-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
+39662,09-05-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
+39663,09-05-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
+39664,09-05-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
+39665,09-05-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
+39666,09-05-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
+39667,09-05-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
+39668,09-05-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
+39669,09-05-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
+39670,09-05-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
+39671,09-05-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
+39672,09-05-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
+39673,09-05-2020,12.0,Chile,Magallanes,,,,No Informado,,,Confirmado,-52.2809432987,-70.0516354499
+39674,09-05-2020,2.0,Chile,Antofagasta,,,,No Informado,,,Muerte,-23.5278557228,-69.1155677706
+39675,09-05-2020,5.0,Chile,Valparaíso,,,,No Informado,,,Muerte,-32.4993565791,-70.8915740187
+39676,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
+39677,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
+39678,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
+39679,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
+39680,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
+39681,09-05-2020,13.0,Chile,Metropolitana,,,,No Informado,,,Muerte,-33.6043642941,-70.6266370305
+39682,09-05-2020,7.0,Chile,Maule,,,,No Informado,,,Muerte,-35.6203720727,-71.4463212218
+39683,09-05-2020,14.0,Chile,Los Ríos,,,,No Informado,,,Muerte,-40.0034147045,-72.5764331101
+39684,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39685,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39686,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39687,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39688,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39689,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39690,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39691,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39692,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39693,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39694,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39695,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39696,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39697,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39698,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39699,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39700,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39701,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39702,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39703,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39704,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39705,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39706,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39707,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39708,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39709,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39710,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39711,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39712,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39713,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39714,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39715,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39716,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39717,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39718,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39719,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39720,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39721,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39722,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39723,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39724,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39725,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39726,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39727,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39728,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39729,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39730,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39731,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39732,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39733,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39734,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39735,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39736,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39737,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39738,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39739,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39740,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39741,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39742,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39743,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39744,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39745,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39746,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39747,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39748,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39749,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39750,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39751,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39752,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39753,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39754,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39755,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39756,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39757,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39758,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39759,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39760,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39761,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39762,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39763,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39764,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39765,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39766,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39767,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39768,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39769,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39770,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39771,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39772,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39773,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39774,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39775,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39776,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39777,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39778,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39779,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39780,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39781,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39782,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39783,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39784,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39785,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39786,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39787,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39788,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39789,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39790,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39791,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39792,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39793,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39794,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39795,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39796,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39797,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39798,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39799,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39800,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39801,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39802,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39803,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39804,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39805,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39806,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39807,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39808,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39809,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39810,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39811,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39812,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39813,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39814,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39815,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39816,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39817,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39818,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39819,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39820,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39821,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39822,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39823,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39824,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39825,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39826,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39827,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39828,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39829,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39830,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39831,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39832,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39833,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39834,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39835,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39836,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39837,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39838,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39839,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39840,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39841,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39842,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39843,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39844,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39845,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39846,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39847,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39848,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39849,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39850,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39851,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39852,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39853,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39854,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39855,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39856,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39857,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39858,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39859,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39860,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39861,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39862,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39863,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39864,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39865,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39866,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39867,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39868,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39869,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39870,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39871,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39872,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39873,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39874,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39875,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39876,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39877,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39878,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39879,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39880,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39881,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39882,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39883,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39884,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39885,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39886,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39887,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39888,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39889,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39890,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39891,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39892,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39893,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39894,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39895,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39896,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39897,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39898,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39899,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39900,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39901,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39902,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39903,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39904,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39905,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39906,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39907,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39908,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39909,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39910,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39911,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39912,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39913,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39914,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39915,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39916,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39917,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39918,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39919,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39920,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39921,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39922,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39923,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39924,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39925,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39926,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39927,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39928,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39929,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39930,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39931,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39932,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39933,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39934,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39935,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39936,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39937,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39938,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39939,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39940,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39941,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39942,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39943,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39944,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39945,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39946,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39947,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39948,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39949,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39950,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39951,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39952,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39953,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39954,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39955,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39956,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39957,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39958,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39959,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39960,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39961,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39962,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39963,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39964,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39965,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39966,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39967,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39968,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39969,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39970,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39971,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39972,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39973,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39974,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39975,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39976,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39977,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39978,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39979,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39980,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39981,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39982,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39983,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39984,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39985,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39986,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39987,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39988,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39989,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39990,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39991,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39992,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39993,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39994,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39995,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39996,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39997,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39998,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+39999,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40000,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40001,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40002,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40003,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40004,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40005,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40006,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40007,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40008,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40009,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40010,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40011,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40012,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40013,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40014,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40015,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40016,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40017,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40018,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40019,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40020,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40021,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40022,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40023,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40024,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40025,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40026,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40027,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40028,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40029,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40030,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40031,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40032,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40033,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40034,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40035,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40036,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40037,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40038,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40039,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40040,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40041,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40042,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40043,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40044,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40045,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40046,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40047,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40048,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40049,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40050,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40051,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40052,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40053,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40054,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40055,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40056,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40057,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40058,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40059,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40060,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40061,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40062,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40063,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40064,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40065,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40066,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40067,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40068,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40069,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40070,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40071,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40072,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40073,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40074,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40075,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40076,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40077,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40078,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40079,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40080,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40081,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40082,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40083,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40084,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40085,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40086,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40087,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40088,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40089,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40090,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40091,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40092,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40093,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40094,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40095,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40096,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40097,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40098,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40099,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40100,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40101,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40102,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40103,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40104,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40105,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40106,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40107,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40108,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40109,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40110,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40111,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40112,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40113,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40114,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40115,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40116,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40117,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40118,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40119,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40120,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40121,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40122,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40123,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40124,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40125,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40126,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40127,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40128,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40129,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40130,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40131,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40132,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40133,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40134,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40135,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40136,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40137,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40138,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40139,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40140,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40141,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40142,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40143,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40144,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40145,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40146,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40147,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40148,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40149,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40150,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40151,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40152,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40153,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40154,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40155,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40156,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40157,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40158,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40159,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40160,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40161,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40162,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40163,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40164,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40165,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40166,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40167,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40168,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40169,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40170,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40171,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40172,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40173,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40174,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40175,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40176,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40177,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40178,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40179,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40180,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40181,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40182,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40183,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40184,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40185,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40186,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40187,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40188,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40189,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
+40190,09-05-2020,,Chile,No Informado,,,,No Informado,,,Recuperado,-33.6043642941,-70.6266370305
