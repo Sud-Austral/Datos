@@ -920,6 +920,10 @@ def guardarDataCovid():
     urllib.request.urlretrieve(url, "datacovidChile/casosporcomunalistos.xlsx")
 
     url = "https://onedrive.live.com/download?cid=9f999e057ad8c646&page=view&resid=9F999E057AD8C646!62361&parId=9F999E057AD8C646!62390&authkey=!AgJICaWKd7tHakw&app=Excel"
+    urllib.request.urlretrieve(url, "datacovidChile/Covid Chile V2a.xlsx")
+    urllib.request.urlretrieve(url, "datacovidChile/CovidChileV2a.xlsx")
+
+    url = "https://onedrive.live.com/download?cid=9f999e057ad8c646&page=view&resid=9F999E057AD8C646!62547&parId=9F999E057AD8C646!62390&authkey=!AkePW7UW1KXQkMM&app=Excel"
     urllib.request.urlretrieve(url, "datacovidChile/Covid Chile V2.xlsx")
     urllib.request.urlretrieve(url, "datacovidChile/CovidChileV2.xlsx")
 
