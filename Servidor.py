@@ -25,6 +25,17 @@ import gc
 from azure.ai.textanalytics import TextAnalyticsClient
 from azure.core.credentials import AzureKeyCredential
 #from datetime import datetime
+#************************************Ciclo****************************************************************
+def Ciclo():
+    now = datetime.datetime.now()
+    hora = now.strftime("%H")
+    if(hora == "13"):
+        UpdateDatabase()
+    if(hora == "15"):
+        UpdateDatabase()    
+    time.sleep(30)
+    Ciclo()
+#************************************Ciclo****************************************************************
 #************************************Actualizar Database**************************************************
 def UpdateDatabase():
     print("Comenzo...")
