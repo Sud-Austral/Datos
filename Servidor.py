@@ -29,9 +29,9 @@ from azure.core.credentials import AzureKeyCredential
 def Ciclo():
     now = datetime.datetime.now()
     hora = now.strftime("%H")
-    if(hora == "13"):
-        UpdateDatabase()
     if(hora == "15"):
+        UpdateDatabase()
+    if(hora == "17"):
         UpdateDatabase()    
     time.sleep(30)
     Ciclo()
