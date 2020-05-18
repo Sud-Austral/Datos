@@ -2,7 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time
 import requests
-import json  
+import json
 import codecs
 import pandas as pd
 import os
@@ -28,12 +28,17 @@ from azure.core.credentials import AzureKeyCredential
 #************************************Ciclo****************************************************************
 def Ciclo():
     now = datetime.datetime.now()
+    print(now.strftime("%d/%m/%Y, %H:%M:%S"))
     hora = now.strftime("%H")
     if(hora == "15"):
         UpdateDatabase()
     if(hora == "17"):
-        UpdateDatabase()    
+        UpdateDatabase()
     time.sleep(30)
+        UpdateDatabase()
+    if(hora == "18"):
+        UpdateDatabase()
+    time.sleep(600)
     Ciclo()
 #************************************Ciclo****************************************************************
 #************************************Actualizar Database**************************************************
@@ -87,7 +92,7 @@ def UpdateDatabase():
         print("Error a cargar a Farmacias")
     gc.collect()
     try:
-        Chile()    
+        Chile()
         print("Chile completo...")
     except:
         print("Error a cargar a Chile")
@@ -132,8 +137,13 @@ def UpdateDatabase():
         KoBoToolbox()
         print("KoBoToolbox completo...")
     except:
-        print("Error a cargar a KoBoToolbox") 
+        print("Error a cargar a KoBoToolbox")
     gc.collect()
+    print("**************************************************************************")
+    print("**************************************************************************")
+    print("                            Ciclo completo")
+    print("**************************************************************************")
+    print("**************************************************************************")
     return
 #************************************Actualizar Database**************************************************
 
@@ -143,9 +153,9 @@ def verificarColumnas(data, referencia):
     df = data
     ref = pd.read_csv(ruta + referencia)
     existe = False
-    columna = 0    
-    #Eliminar Columnas que sobran    
-    for col in df.columns:        
+    columna = 0
+    #Eliminar Columnas que sobran
+    for col in df.columns:
         for colRef in ref.columns:
             if col == colRef:
                 #print("existe la columna" + col)
@@ -154,9 +164,9 @@ def verificarColumnas(data, referencia):
             del df[col]
             #df.to_csv(csvPorVerificar, index = False)
             print("se Eliminó la columna " + col)
-        existe = False   
-    #Agregar columnas faltantes    
-    for colRef in ref.columns:        
+        existe = False
+    #Agregar columnas faltantes
+    for colRef in ref.columns:
         for col in df.columns:
             if col == colRef:
                 #print("existe la columna" + col)
@@ -175,7 +185,7 @@ def guardarRepositorio():
     #repoLocal = git.Repo( 'C:/Users/mario1/Documents/GitHub/Python/Datos' )
     repoLocal = git.Repo('C:/Users/datos/Documents/GitHub/Datos')
     #print(repoLocal.git.status())
-    
+
     try:
         repoLocal.git.add(".")
         repoLocal.git.commit(m='Update automatico via Actualizar ' + datetime.datetime.now().strftime("%m-%d-%Y %H-%M-%S"))
@@ -183,7 +193,7 @@ def guardarRepositorio():
         origin.push()
     except:
         print("Error de GITHUB")
-    
+
     return
 #************************************Actualizar repositorio***********************************************
 
@@ -199,7 +209,7 @@ def Chile():
     url_comunas = "https://raw.githubusercontent.com/ivanMSC/COVID19_Chile/master/covid19_comunas.csv"
     pd.read_csv(url_chile).to_csv("Chile/covid19_comunas.csv", index=False)
     url_old = "https://raw.githubusercontent.com/ivanMSC/COVID19_Chile/master/old/covid19_chile.csv"
-    pd.read_csv(url_chile).to_csv("Chile/covid19_chile_old.csv", index=False)    
+    pd.read_csv(url_chile).to_csv("Chile/covid19_chile_old.csv", index=False)
     #data = pd.read_excel("Chile/covid19_chile.xlsx")
     data = pd.read_excel("Chile/covid19_chile.xlsx", sheet_name="Sheet1")
     try:
@@ -208,12 +218,12 @@ def Chile():
         del data["Unnamed: 16"]
     except:
         pass
-    
+
     data["Fecha"] = data["Fecha"].apply(cambiaFecha)
     data = verificarColumnas(data, "covid19_chile.csv")
     data.to_csv("Chile/covid19_chile.csv", index=False)
-    
-    guardarRepositorio()    
+
+    guardarRepositorio()
     return
 
 def cambiaFecha(texto):
@@ -265,12 +275,12 @@ def ecdcEuropa():
 
 #************************************Actualizar johnsHopkins**********************************************
 #DATO DIARIO
-def johnsHopkinsCovid19Diario(): 
+def johnsHopkinsCovid19Diario():
     #Carpeta Diario
-    url = "https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/" 
+    url = "https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/"
     inicio = datetime.datetime(2020,1,22)
     fin    = datetime.datetime.now()
-    lista_fechas = [inicio + timedelta(days=d) for d in range((fin - inicio).days + 1)] 
+    lista_fechas = [inicio + timedelta(days=d) for d in range((fin - inicio).days + 1)]
     for i in lista_fechas:
         nombre = i.strftime("%m-%d-%Y.csv")
         nombre2 = "Johns_Hopkins-covid19/diario/"+ str(nombre)
@@ -285,29 +295,29 @@ def johnsHopkinsCovid19Diario():
     return
 #DATO SERIE
 def johnsHopkinsCovid19Series():
-    
+
     #Carpeta Series
-    
+
     pd.read_csv("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_US.csv").to_csv("Johns_Hopkins-covid19/series/time_series_covid19_confirmed_US.csv", index=False)
     pd.read_csv("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv").to_csv("Johns_Hopkins-covid19/series/time_series_covid19_confirmed_global.csv", index=False)
     pd.read_csv("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_US.csv").to_csv("Johns_Hopkins-covid19/series/time_series_covid19_deaths_US.csv", index=False)
     pd.read_csv("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv").to_csv("Johns_Hopkins-covid19/series/time_series_covid19_deaths_global.csv", index=False)
     pd.read_csv("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_global.csv").to_csv("Johns_Hopkins-covid19/series/time_series_covid19_recovered_global.csv", index=False)
-    
+
     data_confirmed = pd.read_csv("Johns_Hopkins-covid19/series/time_series_covid19_confirmed_global.csv")
     data_recovered = pd.read_csv("Johns_Hopkins-covid19/series/time_series_covid19_recovered_global.csv")
     data_death     = pd.read_csv("Johns_Hopkins-covid19/series/time_series_covid19_deaths_global.csv")
 
-    data_salida_confirmed = pd.DataFrame() 
+    data_salida_confirmed = pd.DataFrame()
     data_salida_recovered = pd.DataFrame()
     data_salida_death = pd.DataFrame()
-    data_salida_confirmed["Province/State"] = data_confirmed["Province/State"] 
-    data_salida_confirmed["Country/Region"] = data_confirmed["Country/Region"] 
+    data_salida_confirmed["Province/State"] = data_confirmed["Province/State"]
+    data_salida_confirmed["Country/Region"] = data_confirmed["Country/Region"]
     data_salida_confirmed["Lat"] = data_confirmed["Lat"]
     data_salida_confirmed["Long"] = data_confirmed["Long"]
 
-    data_salida_recovered["Country/Region"] = data_recovered["Country/Region"] 
-    data_salida_recovered["Province/State"] = data_recovered["Province/State"] 
+    data_salida_recovered["Country/Region"] = data_recovered["Country/Region"]
+    data_salida_recovered["Province/State"] = data_recovered["Province/State"]
     data_salida_death["Country/Region"] = data_death["Country/Region"]
 
     columna_anterior = ""
@@ -337,7 +347,7 @@ def johnsHopkinsCovid19Series():
     for i in range(len(lista_confirmed)):
         dias_correlativo = 0
         flag = True
-        for columna in data_salida_confirmed.columns[4:]:         
+        for columna in data_salida_confirmed.columns[4:]:
             #print(columna)
             #print(i[1][columna])
             entrada["Province/State"] = lista_confirmed[i][1]["Province/State"]
@@ -347,7 +357,7 @@ def johnsHopkinsCovid19Series():
             entrada["Long"] = lista_confirmed[i][1]["Long"]
             formato = columna.split("/")
             entrada["fecha"] = datetime.datetime(int(formato[2]+"20"),int(formato[0]),int(formato[1])).strftime("%d-%m-%Y")
-            #print(lista_confirmed[i][1][columna]) 
+            #print(lista_confirmed[i][1][columna])
             #print(entrada["Country/Region"])
             entrada["confirmados"] = lista_confirmed[i][1][columna]
             entrada["fallecidos"] = lista_death[i][1][columna]
@@ -422,7 +432,7 @@ def worldometersInfo():
     data = pd.read_html(response.content)
     data_hoy = data[0]     #.to_csv("worldometers.csv", index=False)
     getWorld(data_hoy)
-    
+
     data_aux = pd.read_csv("worldometers.info/Historico/worldometers.csv")
     for i in data_aux.columns[1:10]:
         del data_aux[i]
@@ -437,7 +447,7 @@ def worldometersInfo():
     data = pd.read_html(response.content)[0]
 
     data.to_csv("worldometers.info/Poblacion/worldometersPoblacion.csv", index=False)
-    
+
     guardarRepositorio()
     return
 
@@ -454,9 +464,9 @@ def KoBoToolbox():
     #response = requests.patch(url, auth=('sudaustral', 'Sudaustral2020+'))
     response = requests.get(url, auth=('sudaustral', 'Sudaustral2020+'))
     decoded_data = codecs.decode(response.content, 'utf-8-sig')
-    archivo = open("data_aux.txt", "w") 
-    archivo.write(decoded_data) 
-    archivo.close() 
+    archivo = open("data_aux.txt", "w")
+    archivo.write(decoded_data)
+    archivo.close()
     #data = pd.read_csv("data_aux.txt")
     data = pd.read_csv("data_aux.txt",encoding='latin-1')
     data.to_csv("KoBoToolbox/COVID-19DataIntelligenceCHILE.csv",index=False)
@@ -476,12 +486,12 @@ def ourWorldInData():
                 "physicians-per-1000-people.csv",
                 "hospital-beds-per-1000-people.csv",
                 "share-of-the-population-that-is-70-years-and-older.csv",
-                "total-and-daily-cases-covid-19.csv"      
+                "total-and-daily-cases-covid-19.csv"
                 ]
     ruta = "C:/Users/datos/Downloads/"
-    
+
     for i in archivos:
-        try:    
+        try:
             remove(ruta + i)
         except:
             pass
@@ -498,13 +508,13 @@ def ourWorldInData():
 
     driver.get("https://ourworldindata.org/grapher/tests-vs-confirmed-cases-covid-19")
     try:
-        time.sleep(5)   
+        time.sleep(5)
         driver.find_element_by_xpath("/html/body/div[3]/div/div/div/div[2]/button").click()
         driver.find_element_by_xpath("/html/body/main/figure/div/div[3]/div/nav/ul/li[2]/a").click()
         time.sleep(1)
         driver.find_element_by_xpath("/html/body/main/figure/div/div[4]/div/a").click()
         time.sleep(1)
-        
+
         driver.get("https://ourworldindata.org/grapher/covid-19-tests-country")
         time.sleep(2)
         driver.find_element_by_xpath("/html/body/main/figure/div/div[3]/div/nav/ul/li[2]/a").click()
@@ -520,62 +530,62 @@ def ourWorldInData():
         driver.find_element_by_xpath("/html/body/main/figure/div/div[4]/div/a").click()
         time.sleep(1)
         """
-        
+
         driver.get("https://ourworldindata.org/grapher/total-deaths-covid-19")
         time.sleep(5)
         driver.find_element_by_xpath("/html/body/main/figure/div/div[3]/div[2]/nav/ul/li[3]/a").click()
         time.sleep(1)
         driver.find_element_by_xpath("/html/body/main/figure/div/div[4]/div/a").click()
-        time.sleep(1) 
+        time.sleep(1)
 
         driver.get("https://ourworldindata.org/grapher/total-daily-covid-deaths-per-million")
         time.sleep(5)
         driver.find_element_by_xpath("/html/body/main/figure/div/div[3]/div[2]/nav/ul/li[3]/a").click()
         time.sleep(1)
         driver.find_element_by_xpath("/html/body/main/figure/div/div[4]/div/a").click()
-        time.sleep(1) 
+        time.sleep(1)
 
         driver.get("https://ourworldindata.org/grapher/total-cases-covid-19")
         time.sleep(5)
         driver.find_element_by_xpath("/html/body/main/figure/div/div[3]/div[2]/nav/ul/li[3]/a").click()
         time.sleep(1)
         driver.find_element_by_xpath("/html/body/main/figure/div/div[4]/div/a").click()
-        time.sleep(1)  
+        time.sleep(1)
 
         driver.get("https://ourworldindata.org/grapher/total-and-daily-cases-covid-19")
         time.sleep(5)
         driver.find_element_by_xpath("/html/body/main/figure/div/div[3]/div[2]/nav/ul/li[3]/a").click()
         time.sleep(1)
         driver.find_element_by_xpath("/html/body/main/figure/div/div[4]/div/a").click()
-        time.sleep(1)  
+        time.sleep(1)
 
         driver.get("https://ourworldindata.org/grapher/daily-cases-covid-19")
         time.sleep(5)
         driver.find_element_by_xpath("/html/body/main/figure/div/div[3]/div[2]/nav/ul/li[3]/a").click()
         time.sleep(1)
         driver.find_element_by_xpath("/html/body/main/figure/div/div[4]/div/a").click()
-        time.sleep(1)  
+        time.sleep(1)
 
         driver.get("https://ourworldindata.org/grapher/physicians-per-1000-people")
         time.sleep(5)
         driver.find_element_by_xpath("/html/body/main/figure/div/div[3]/div[2]/nav/ul/li[3]/a").click()
         time.sleep(1)
         driver.find_element_by_xpath("/html/body/main/figure/div/div[4]/div/a").click()
-        time.sleep(1)  
+        time.sleep(1)
 
         driver.get("https://ourworldindata.org/grapher/hospital-beds-per-1000-people")
         time.sleep(5)
         driver.find_element_by_xpath("/html/body/main/figure/div/div[3]/div[2]/nav/ul/li[3]/a").click()
         time.sleep(1)
         driver.find_element_by_xpath("/html/body/main/figure/div/div[4]/div/a").click()
-        time.sleep(1)  
+        time.sleep(1)
 
         driver.get("https://ourworldindata.org/grapher/share-of-the-population-that-is-70-years-and-older")
         time.sleep(5)
         driver.find_element_by_xpath("/html/body/main/figure/div/div[3]/div[2]/nav/ul/li[3]/a").click()
         time.sleep(1)
         driver.find_element_by_xpath("/html/body/main/figure/div/div[4]/div/a").click()
-        time.sleep(1)  
+        time.sleep(1)
         driver.close()
     except:
         driver.close()
@@ -618,7 +628,7 @@ def Farmacias():
 #https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto2/2020-04-08-CasosConfirmados.csv
 #Casos totales por región incremental:
 #https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto3/CasosTotalesCumulativo.csv
-#Casos totales por región 
+#Casos totales por región
 #https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto4/2020-03-03-CasosConfirmados-totalRegional.csv
 #...
 #https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto4/2020-04-09-CasosConfirmados-totalRegional.csv
@@ -642,11 +652,11 @@ def realizarColumna(data, largo):
             aux = {"Region":i[1]["Region"],"Comuna":i[1]["Comuna"],"Poblacion":i[1]["Poblacion"]}
         for j in data_aux.columns[largo:]:
             entrada = aux.copy()
-            #entrada[j] = 
+            #entrada[j] =
             entrada["Fecha"] = i[1][j]
             salida.append(entrada.copy())
 
-    return pd.DataFrame(salida) 
+    return pd.DataFrame(salida)
 
 def realizarColumnaParticular(data, key):
     lista = list(data.iterrows())
@@ -658,7 +668,7 @@ def realizarColumnaParticular(data, key):
         aux = {key:i[1][key]}
         for j in data_aux.columns[1:]:
             entrada = aux.copy()
-            #entrada[j] = 
+            #entrada[j] =
             entrada["fecha"] = j
             entrada["Recuperado"] = i[1][j]
             salida.append(entrada.copy())
@@ -674,7 +684,7 @@ def minsal():
         data = realizarColumna(pd.read_csv(url),3)
         data.to_csv(ruta + "Principal.csv", index=False)
     except:
-        pass    
+        pass
     #Guardar CSV Producto1
     url = "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto1/Covid-19.csv"
     data = realizarColumna(pd.read_csv(url),3)
@@ -684,7 +694,7 @@ def minsal():
     inicio = datetime.datetime(2020,3,30)
     fin    = datetime.datetime.now()
     url = "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto2/"  #2020-03-30-CasosConfirmados.csv
-    lista_fechas = [inicio + datetime.timedelta(days=d) for d in range((fin - inicio).days + 1)] 
+    lista_fechas = [inicio + datetime.timedelta(days=d) for d in range((fin - inicio).days + 1)]
     for i in lista_fechas:
         try:
             data = pd.read_csv(url + i.strftime("%Y-%m-%d-CasosConfirmados.csv"))
@@ -703,7 +713,7 @@ def minsal():
     inicio = datetime.datetime(2020,3,3)
     fin    = datetime.datetime.now()
     url = "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto4/"  #2020-03-03-CasosConfirmados-totalRegional.csv
-    lista_fechas = [inicio + timedelta(days=d) for d in range((fin - inicio).days + 1)] 
+    lista_fechas = [inicio + timedelta(days=d) for d in range((fin - inicio).days + 1)]
     for i in lista_fechas:
         try:
             data = pd.read_csv(url + i.strftime("%Y-%m-%d-CasosConfirmados-totalRegional.csv"))
@@ -844,69 +854,69 @@ def organizarMinCienciaInput():
     url = "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/InformeEpidemiologico/CasosActivosPorComuna.csv"
     resultado = pd.read_csv(url)
     resultado.to_csv("Chile/MinCiencia/Input-minCiencia/InformeEpidemiologico/CasosActivosPorComuna.csv")
-    
+
     url = "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/InformeEpidemiologico/CasosAcumuladosPorComuna.csv"
     resultado = pd.read_csv(url)
     resultado.to_csv("Chile/MinCiencia/Input-minCiencia/InformeEpidemiologico/CasosAcumuladosPorComuna.csv")
-    
+
     url = "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/InformeEpidemiologico/CasosGeneroEtario.csv"
     resultado = pd.read_csv(url)
     resultado.to_csv("Chile/MinCiencia/Input-minCiencia/InformeEpidemiologico/CasosGeneroEtario.csv")
-    
+
     url = "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/InformeEpidemiologico/FechaInicioSintomas.csv"
     resultado = pd.read_csv(url)
     resultado.to_csv("Chile/MinCiencia/Input-minCiencia/InformeEpidemiologico/FechaInicioSintomas.csv")
-    
+
     url = "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/InformeEpidemiologico/SemanasEpidemiologicas.csv"
     resultado = pd.read_csv(url)
     resultado.to_csv("Chile/MinCiencia/Input-minCiencia/InformeEpidemiologico/SemanasEpidemiologicas.csv")
-    
+
     url = "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/InformeEpidemiologico/Tasadeincidencia.csv"
     resultado = pd.read_csv(url)
     resultado.to_csv("Chile/MinCiencia/Input-minCiencia/InformeEpidemiologico/Tasadeincidencia.csv")
-    
+
     #carpeta InformeSituacionCOVID19
     url = "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/InformeSituacionCOVID19/HospitalizadosGeneroEtario.csv"
     resultado = pd.read_csv(url)
     resultado.to_csv("Chile/MinCiencia/Input-minCiencia/InformeSituacionCOVID19/HospitalizadosGeneroEtario.csv")
-    
+
     url = "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/InformeSituacionCOVID19/SintomasCasosConfirmados.csv"
     resultado = pd.read_csv(url)
     resultado.to_csv("Chile/MinCiencia/Input-minCiencia/InformeSituacionCOVID19/SintomasCasosConfirmados.csv")
-    
+
     url = "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/InformeSituacionCOVID19/SintomasHospitalizados.csv"
     resultado = pd.read_csv(url)
     resultado.to_csv("Chile/MinCiencia/Input-minCiencia/InformeSituacionCOVID19/SintomasHospitalizados.csv")
-    
+
     #carpeta ReporteDiario
     url = "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/ReporteDiario/FallecidosEtario.csv"
     resultado = pd.read_csv(url)
     resultado.to_csv("Chile/MinCiencia/Input-minCiencia/ReporteDiario/FallecidosEtario.csv")
-    
+
     url = "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/ReporteDiario/HospitalizadosUCIEtario.csv"
     resultado = pd.read_csv(url)
     resultado.to_csv("Chile/MinCiencia/Input-minCiencia/ReporteDiario/HospitalizadosUCIEtario.csv")
-    
+
     url = "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/ReporteDiario/NumeroVentiladores.csv"
     resultado = pd.read_csv(url)
     resultado.to_csv("Chile/MinCiencia/Input-minCiencia/ReporteDiario/NumeroVentiladores.csv")
-    
+
     url = "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/ReporteDiario/PCR.csv"
     resultado = pd.read_csv(url)
     resultado.to_csv("Chile/MinCiencia/Input-minCiencia/ReporteDiario/PCR.csv")
-    
+
     url = "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/ReporteDiario/PCREstablecimiento.csv"
     resultado = pd.read_csv(url)
     resultado.to_csv("Chile/MinCiencia/Input-minCiencia/ReporteDiario/PCREstablecimiento.csv")
-    
+
     url = "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/ReporteDiario/PacientesCriticos.csv"
     resultado = pd.read_csv(url)
     resultado.to_csv("Chile/MinCiencia/Input-minCiencia/ReporteDiario/PacientesCriticos.csv")
-    
+
     url = "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/ReporteDiario/UCI.csv"
     resultado = pd.read_csv(url)
     resultado.to_csv("Chile/MinCiencia/Input-minCiencia/ReporteDiario/UCI.csv")
-    
+
     return
 #************************************Actualizar organizarMinCienciaInput*******************************************
 #************************************Actualizar Datos de la organizacion*******************************************
@@ -954,7 +964,7 @@ def guardarDataCovid():
 
     url = "https://onedrive.live.com/download?cid=9f999e057ad8c646&page=view&resid=9F999E057AD8C646!62381&parId=9F999E057AD8C646!62371&authkey=!Au8PrBa4C6_6k_M&app=Excel"
     urllib.request.urlretrieve(url, "datacovidhn/Tabla_INSTALACIONES_Honduras_v1.xlsx")
-    
+
     return
 #************************************Actualizar Datos de la organizacion*******************************************
 #************************************Actualizar Datos Productos avanzados*******************************************
@@ -964,7 +974,7 @@ def descargarProductos():
                 "producto20/NumeroVentiladores.csv",
                 "producto21/SintomasHospitalizados.csv",
                 "producto21/SintomasCasosConfirmados.csv",
-                "producto24/CamasHospital_Diario.csv"                
+                "producto24/CamasHospital_Diario.csv"
                 ]
     url = "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/"
     for i in archivos:
@@ -1015,7 +1025,7 @@ def FechaTweeter(palabra):
     }
     mes = meses[palabra[4:7]]
     dia = int(palabra[8:10])
-    hora = int(palabra[11:13]) 
+    hora = int(palabra[11:13])
     minuto = int(palabra[14:16])
     segundo = int(palabra[17:19])
     return datetime.datetime(anio,mes,dia,hora,minuto,segundo) - datetime.timedelta(hours = 4)
@@ -1038,8 +1048,8 @@ def definirDatasetPorCuenta(cuenta):
     for i in lista:  #get_tweetConFecha("colmedchile"):
         jsonObject = i._json.copy()
         datos = {
-                    "Contenido" : jsonObject["text"], 
-                    "IR" : "https://twitter.com/i/web/status/" + jsonObject["id_str"], 
+                    "Contenido" : jsonObject["text"],
+                    "IR" : "https://twitter.com/i/web/status/" + jsonObject["id_str"],
                     "Fecha" : FechaTweeter(jsonObject["created_at"]).strftime("%d/%m/%Y %H:%M:%S"),
                     "Dispositivo" : depurarFuenteTweet(jsonObject["source"]),
                     "Likes" : jsonObject["favorite_count"],
@@ -1069,7 +1079,7 @@ def datasetFinalTweet():
     del data["FechaAux"]
     data.to_csv("Twitter/Tweet.csv", index=False)
     return data
-    
+
 
 #tweepy.Cursor(api.search, q='#मराठी OR #माझाक्लिक OR #म')
 #tweepy.Cursor(api.friends)
@@ -1115,7 +1125,7 @@ def minSal3Carpeta():
         archivo = ruta + i.split("/")[-2] + "/" + i.split("/")[-1]
         data.to_csv(archivo, index=False)
     url = "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/Cuarentenas/Cuarentenas-Geo.geojson"
-    urllib.request.urlretrieve(url, ruta + "Cuarentenas/Cuarentenas-Geo.geojson")    
+    urllib.request.urlretrieve(url, ruta + "Cuarentenas/Cuarentenas-Geo.geojson")
     #print(i.split("/")[-2] + "/" + i.split("/")[-1])
 #************************************Actualizar Datos MinSal 3 carpetas*******************************************
 #************************************Analisis Twitter*******************************************
