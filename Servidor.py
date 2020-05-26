@@ -28,16 +28,13 @@ from azure.core.credentials import AzureKeyCredential
 #************************************Ciclo****************************************************************
 def Ciclo():
     now = datetime.datetime.now()
-    print(now.strftime("%d/%m/%Y, %H:%M:%S"))
     hora = now.strftime("%H")
     if(hora == "15"):
         UpdateDatabase()
     if(hora == "17"):
-        UpdateDatabase()
-    time.sleep(30)
-        UpdateDatabase()
+        UpdateDatabase() 
     if(hora == "18"):
-        UpdateDatabase()
+        UpdateDatabase()   
     time.sleep(600)
     Ciclo()
 #************************************Ciclo****************************************************************
