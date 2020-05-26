@@ -1117,8 +1117,11 @@ def minSal3Carpeta():
         "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/ReporteDiario/PacientesVMI.csv",
         "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/ReporteDiario/UCI.csv"
         ]
+    minsalud.append("https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/" + datetime.datetime.now().strftime("%Y-%m-%d-FechaInicioSintomas.csv"))
+    minsalud.append("https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/" + datetime.datetime.now().strftime("%Y-%m-%d-FechaInicioSintomas_reportadosSEREMI.csv"))
     ruta = "Chile/MinCiencia/Input-minCiencia/"
-    #ruta = ""
+    #print(datetime.now.strftime("%d %m %Y-"))
+    #ruta = ""    2020-05-01-FechaInicioSintomas.csv
     for i in minsalud:
         #print(i)
         archivo = ruta + i.split("/")[-2] + "/" + i.split("/")[-1]
@@ -1127,6 +1130,8 @@ def minSal3Carpeta():
             data.to_csv(archivo, index=False)
         except:
             print("Error en " + archivo)
+
+    
         
     url = "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/Cuarentenas/Cuarentenas-Geo.geojson"
     urllib.request.urlretrieve(url, ruta + "Cuarentenas/Cuarentenas-Geo.geojson")
