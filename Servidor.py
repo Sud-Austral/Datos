@@ -1094,10 +1094,12 @@ def minSal3Carpeta():
         "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/InformeEpidemiologico/CasosActualesPorComuna.csv",
         "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/InformeEpidemiologico/CasosAcumuladosPorComuna.csv",
         "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/InformeEpidemiologico/CasosGeneroEtario.csv",
-        "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/InformeEpidemiologico/FechaInicioSintomas.csv",
+        #Se necesita hacer un buble por fecha
+        #"https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/InformeEpidemiologico/FechaInicioSintomas.csv",
         "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/InformeEpidemiologico/SemanasEpidemiologicas.csv",
         "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/InformeEpidemiologico/TasaDeIncidencia.csv",
-        "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/InformeEpidemiologico/FechaInicioSintomas_reportadosSEREMI.csv",
+        #Se necesita hacer un buble por fecha
+        #"https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/InformeEpidemiologico/FechaInicioSintomas_reportadosSEREMI.csv",
         #InformeSituacionCOVID19
         #"https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/InformeSituacionCOVID19/HospitalizadosEtario_Acumulado_Post20200422.csv",
         "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/InformeSituacionCOVID19/HospitalizadosGeneroEtario_Acumulado.csv",
@@ -1112,15 +1114,20 @@ def minSal3Carpeta():
         "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/ReporteDiario/PCR.csv",
         "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/ReporteDiario/PCREstablecimiento.csv",
         "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/ReporteDiario/PacientesCriticos.csv",
+        "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/ReporteDiario/PacientesVMI.csv",
         "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/ReporteDiario/UCI.csv"
         ]
     ruta = "Chile/MinCiencia/Input-minCiencia/"
     #ruta = ""
     for i in minsalud:
-        print(i)
-        data = pd.read_csv(i)
+        #print(i)
         archivo = ruta + i.split("/")[-2] + "/" + i.split("/")[-1]
-        data.to_csv(archivo, index=False)
+        try:
+            data = pd.read_csv(i)    
+            data.to_csv(archivo, index=False)
+        except:
+            print("Error en " + archivo)
+        
     url = "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/Cuarentenas/Cuarentenas-Geo.geojson"
     urllib.request.urlretrieve(url, ruta + "Cuarentenas/Cuarentenas-Geo.geojson")
     #print(i.split("/")[-2] + "/" + i.split("/")[-1])
