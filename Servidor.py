@@ -34,7 +34,9 @@ def Ciclo():
     if(hora == "17"):
         UpdateDatabase() 
     if(hora == "18"):
-        UpdateDatabase()   
+        UpdateDatabase()
+    if(hora == "20"):
+        UpdateDatabase()    
     time.sleep(600)
     Ciclo()
 #************************************Ciclo****************************************************************
