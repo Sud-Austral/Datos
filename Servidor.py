@@ -968,6 +968,22 @@ def guardarDataCovid():
     url = "https://onedrive.live.com/download?cid=9f999e057ad8c646&page=view&resid=9F999E057AD8C646!62381&parId=9F999E057AD8C646!62371&authkey=!Au8PrBa4C6_6k_M&app=Excel"
     urllib.request.urlretrieve(url, "datacovidhn/Tabla_INSTALACIONES_Honduras_v1.xlsx")
 
+    #Datos economicos
+    url = "https://onedrive.live.com/download?cid=9f999e057ad8c646&page=view&resid=9F999E057AD8C646!63142&parId=9F999E057AD8C646!63151&authkey=!AkePW7UW1KXQkMM&app=Excel"
+    urllib.request.urlretrieve(url, "datacovidChile/IndicadoresEconomicos/DOLAR_OBS_ADO.xlsx")
+
+    url = "https://onedrive.live.com/download?cid=9f999e057ad8c646&page=view&resid=9F999E057AD8C646!63145&parId=9F999E057AD8C646!63151&authkey=!AkePW7UW1KXQkMM&app=Excel"
+    urllib.request.urlretrieve(url, "datacovidChile/IndicadoresEconomicos/ID_SERIE2.xlsx")
+
+    url = "https://onedrive.live.com/download?cid=9f999e057ad8c646&page=view&resid=9F999E057AD8C646!63144&parId=9F999E057AD8C646!63151&authkey=!AkePW7UW1KXQkMM&app=Excel"
+    urllib.request.urlretrieve(url, "datacovidChile/IndicadoresEconomicos/IGPA.xlsx")
+
+    url = "https://onedrive.live.com/download?cid=9f999e057ad8c646&page=view&resid=9F999E057AD8C646!63143&parId=9F999E057AD8C646!63151&authkey=!AkePW7UW1KXQkMM&app=Excel"
+    urllib.request.urlretrieve(url, "datacovidChile/IndicadoresEconomicos/IPSA.xlsx")
+
+    url = "https://onedrive.live.com/download?cid=9f999e057ad8c646&page=view&resid=9F999E057AD8C646!63141&parId=9F999E057AD8C646!63151&authkey=!AkePW7UW1KXQkMM&app=Excel"
+    urllib.request.urlretrieve(url, "datacovidChile/IndicadoresEconomicos/UF_IVP_DIARIO.xlsx")
+
     return
 #************************************Actualizar Datos de la organizacion*******************************************
 #************************************Actualizar Datos Productos avanzados*******************************************
