@@ -1124,10 +1124,10 @@ def minSal3Carpeta():
         #"https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/InformeEpidemiologico/FechaInicioSintomas_reportadosSEREMI.csv",
         #InformeSituacionCOVID19
         #"https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/InformeSituacionCOVID19/HospitalizadosEtario_Acumulado_Post20200422.csv",
-        "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/InformeSituacionCOVID19/HospitalizadosGeneroEtario_Acumulado.csv",
-        "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/InformeSituacionCOVID19/HospitalizadosUCI_Acumulado.csv",
-        "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/InformeSituacionCOVID19/SintomasCasosConfirmados.csv",
-        "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/InformeSituacionCOVID19/SintomasHospitalizados.csv",
+        #"https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/InformeSituacionCOVID19/HospitalizadosGeneroEtario_Acumulado.csv",
+        #"https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/InformeSituacionCOVID19/HospitalizadosUCI_Acumulado.csv",
+        #"https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/InformeSituacionCOVID19/SintomasCasosConfirmados.csv",
+        #"https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/InformeSituacionCOVID19/SintomasHospitalizados.csv",
         #ReporteDiario
         "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/ReporteDiario/CamasHospital_Diario.csv",
         "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/ReporteDiario/FallecidosEtario.csv",
@@ -1155,8 +1155,8 @@ def minSal3Carpeta():
 
     
         
-    url = "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/Cuarentenas/Cuarentenas-Geo.geojson"
-    urllib.request.urlretrieve(url, ruta + "Cuarentenas/Cuarentenas-Geo.geojson")
+    #url = "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/input/Cuarentenas/Cuarentenas-Geo.geojson"
+    #urllib.request.urlretrieve(url, ruta + "Cuarentenas/Cuarentenas-Geo.geojson")
     #print(i.split("/")[-2] + "/" + i.split("/")[-1])
 #************************************Actualizar Datos MinSal 3 carpetas*******************************************
 #************************************Analisis Twitter*******************************************
