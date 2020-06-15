@@ -428,7 +428,8 @@ def worldometersInfo():
     url  = 'https://www.worldometers.info/coronavirus/'
     response = requests.get(url)
     #print(response.content)
-    data = pd.read_html(response.content)
+    #data = pd.read_html(response.content)    
+    data = pd.read_html(str(response.content).replace("display:none;",""))
     data_hoy = data[0]     #.to_csv("worldometers.csv", index=False)
     getWorld(data_hoy)
 
