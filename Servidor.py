@@ -1004,10 +1004,15 @@ def descargarProductos():
 #************************************Actualizar Datos Twiter*******************************************
 def APITWEET():
     # Declaramos nuestras Twitter API Keys:
-    ACCESS_TOKEN = '1230251564616515586-2KqPsCG2mIJp3irRjENgHpCfQUxTUg'
-    ACCESS_TOKEN_SECRET = '6PJfMtYGY7w6csiIX9m1S5jFEKNZ3hE9PVkHKeN1S14iM'
-    CONSUMER_KEY = 'koO4XqTuWFr5ADGcE8kjIkVoU'
-    CONSUMER_SECRET = '3F4sk9qU8zbKBROuLPUUj1uvE2YuhseXPe0ahMQoivg4icN5bL'
+    keys = getKeys()
+    #ACCESS_TOKEN = '1230251564616515586-2KqPsCG2mIJp3irRjENgHpCfQUxTUg'
+    #ACCESS_TOKEN_SECRET = '6PJfMtYGY7w6csiIX9m1S5jFEKNZ3hE9PVkHKeN1S14iM'
+    #CONSUMER_KEY = 'koO4XqTuWFr5ADGcE8kjIkVoU'
+    #CONSUMER_SECRET = '3F4sk9qU8zbKBROuLPUUj1uvE2YuhseXPe0ahMQoivg4icN5bL'  
+    ACCESS_TOKEN = keys['twitter']['token_acceso']
+    ACCESS_TOKEN_SECRET = keys['twitter']['secreto_token_acceso']
+    CONSUMER_KEY = keys['twitter']['clave_api']
+    CONSUMER_SECRET = keys['twitter']['clave_secreta_api']
     auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
     auth.set_access_token(ACCESS_TOKEN, ACCESS_TOKEN_SECRET)
     api = tweepy.API(auth)
@@ -1194,4 +1199,11 @@ def sentiment_analysis_example(client = authenticate_client()):
 def guardarAnalisisTwitter():
     sentiment_analysis_example().to_csv("AnalisisTweet.csv", index=False)
     return
+#************************************Analisis Twitter*******************************************
+#************************************Analisis Twitter*******************************************
+def getKeys():
+    f = open('C://key.json','r')
+    keys = f.read()
+    jkeys = json.loads(keys)
+    return jkeys
 #************************************Analisis Twitter*******************************************
