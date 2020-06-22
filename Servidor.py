@@ -145,6 +145,13 @@ def UpdateDatabase():
     print("**************************************************************************")
     return
 #************************************Actualizar Database**************************************************
+#************************************Analisis Twitter*******************************************
+def getKeys():
+    f = open('C://key.json','r')
+    keys = f.read()
+    jkeys = json.loads(keys)
+    return jkeys
+#************************************Analisis Twitter*******************************************
 
 #************************************Actualizar Verifica Columnas*****************************************
 def verificarColumnas(data, referencia):
@@ -1200,10 +1207,4 @@ def guardarAnalisisTwitter():
     sentiment_analysis_example().to_csv("AnalisisTweet.csv", index=False)
     return
 #************************************Analisis Twitter*******************************************
-#************************************Analisis Twitter*******************************************
-def getKeys():
-    f = open('C://key.json','r')
-    keys = f.read()
-    jkeys = json.loads(keys)
-    return jkeys
-#************************************Analisis Twitter*******************************************
+
