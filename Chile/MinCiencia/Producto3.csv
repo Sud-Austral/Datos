@@ -114,6 +114,7 @@ Arica y Parinacota,2020-06-22,1420
 Arica y Parinacota,2020-06-23,1443
 Arica y Parinacota,2020-06-24,1473
 Arica y Parinacota,2020-06-25,1511
+Arica y Parinacota,2020-06-26,1549
 Tarapacá,2020-03-03,0
 Tarapacá,2020-03-04,0
 Tarapacá,2020-03-05,0
@@ -229,6 +230,7 @@ Tarapacá,2020-06-22,5355
 Tarapacá,2020-06-23,5442
 Tarapacá,2020-06-24,5504
 Tarapacá,2020-06-25,5577
+Tarapacá,2020-06-26,5712
 Antofagasta,2020-03-03,0
 Antofagasta,2020-03-04,0
 Antofagasta,2020-03-05,0
@@ -344,6 +346,7 @@ Antofagasta,2020-06-22,6708
 Antofagasta,2020-06-23,6991
 Antofagasta,2020-06-24,7227
 Antofagasta,2020-06-25,7515
+Antofagasta,2020-06-26,7742
 Atacama,2020-03-03,0
 Atacama,2020-03-04,0
 Atacama,2020-03-05,0
@@ -459,6 +462,7 @@ Atacama,2020-06-22,718
 Atacama,2020-06-23,747
 Atacama,2020-06-24,785
 Atacama,2020-06-25,837
+Atacama,2020-06-26,887
 Coquimbo,2020-03-03,0
 Coquimbo,2020-03-04,0
 Coquimbo,2020-03-05,0
@@ -574,6 +578,7 @@ Coquimbo,2020-06-22,2428
 Coquimbo,2020-06-23,2485
 Coquimbo,2020-06-24,2539
 Coquimbo,2020-06-25,2637
+Coquimbo,2020-06-26,2705
 Valparaíso,2020-03-03,0
 Valparaíso,2020-03-04,0
 Valparaíso,2020-03-05,0
@@ -689,6 +694,7 @@ Valparaíso,2020-06-22,9615
 Valparaíso,2020-06-23,9901
 Valparaíso,2020-06-24,10187
 Valparaíso,2020-06-25,10482
+Valparaíso,2020-06-26,10797
 Metropolitana,2020-03-03,0
 Metropolitana,2020-03-04,1
 Metropolitana,2020-03-05,2
@@ -804,6 +810,7 @@ Metropolitana,2020-06-22,198392
 Metropolitana,2020-06-23,200861
 Metropolitana,2020-06-24,203211
 Metropolitana,2020-06-25,206246
+Metropolitana,2020-06-26,208862
 O’Higgins,2020-03-03,0
 O’Higgins,2020-03-04,0
 O’Higgins,2020-03-05,0
@@ -919,6 +926,7 @@ O’Higgins,2020-06-22,4186
 O’Higgins,2020-06-23,4361
 O’Higgins,2020-06-24,4610
 O’Higgins,2020-06-25,4868
+O’Higgins,2020-06-26,5136
 Maule,2020-03-03,1
 Maule,2020-03-04,2
 Maule,2020-03-05,2
@@ -1034,6 +1042,7 @@ Maule,2020-06-22,4355
 Maule,2020-06-23,4504
 Maule,2020-06-24,4657
 Maule,2020-06-25,4832
+Maule,2020-06-26,5013
 Ñuble,2020-03-03,0
 Ñuble,2020-03-04,0
 Ñuble,2020-03-05,0
@@ -1149,6 +1158,7 @@ Maule,2020-06-25,4832
 Ñuble,2020-06-23,2195
 Ñuble,2020-06-24,2219
 Ñuble,2020-06-25,2233
+Ñuble,2020-06-26,2274
 Biobío,2020-03-03,0
 Biobío,2020-03-04,0
 Biobío,2020-03-05,0
@@ -1264,6 +1274,7 @@ Biobío,2020-06-22,5158
 Biobío,2020-06-23,5328
 Biobío,2020-06-24,5464
 Biobío,2020-06-25,5702
+Biobío,2020-06-26,5958
 Araucanía,2020-03-03,0
 Araucanía,2020-03-04,0
 Araucanía,2020-03-05,0
@@ -1379,6 +1390,7 @@ Araucanía,2020-06-22,3009
 Araucanía,2020-06-23,3027
 Araucanía,2020-06-24,3037
 Araucanía,2020-06-25,3064
+Araucanía,2020-06-26,3105
 Los Ríos,2020-03-03,0
 Los Ríos,2020-03-04,0
 Los Ríos,2020-03-05,0
@@ -1494,6 +1506,7 @@ Los Ríos,2020-06-22,621
 Los Ríos,2020-06-23,625
 Los Ríos,2020-06-24,629
 Los Ríos,2020-06-25,641
+Los Ríos,2020-06-26,652
 Los Lagos,2020-03-03,0
 Los Lagos,2020-03-04,0
 Los Lagos,2020-03-05,0
@@ -1609,6 +1622,7 @@ Los Lagos,2020-06-22,1437
 Los Lagos,2020-06-23,1466
 Los Lagos,2020-06-24,1483
 Los Lagos,2020-06-25,1505
+Los Lagos,2020-06-26,1541
 Aysén,2020-03-03,0
 Aysén,2020-03-04,0
 Aysén,2020-03-05,0
@@ -1724,6 +1738,7 @@ Aysén,2020-06-22,28
 Aysén,2020-06-23,28
 Aysén,2020-06-24,28
 Aysén,2020-06-25,29
+Aysén,2020-06-26,30
 Magallanes,2020-03-03,0
 Magallanes,2020-03-04,0
 Magallanes,2020-03-05,0
@@ -1839,6 +1854,7 @@ Magallanes,2020-06-22,1352
 Magallanes,2020-06-23,1363
 Magallanes,2020-06-24,1363
 Magallanes,2020-06-25,1385
+Magallanes,2020-06-26,1397
 Total,2020-03-03,1
 Total,2020-03-04,3
 Total,2020-03-05,4
@@ -1954,3 +1970,4 @@ Total,2020-06-22,246963
 Total,2020-06-23,250767
 Total,2020-06-24,254416
 Total,2020-06-25,259064
+Total,2020-06-26,263360
