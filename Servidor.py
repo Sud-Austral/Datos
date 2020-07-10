@@ -977,10 +977,12 @@ def guardarDataCovid():
     urllib.request.urlretrieve(url, "datacovidhn/Tabla_INSTALACIONES_Honduras_v1.xlsx")
 
     #Datos economicos
-    url = "https://onedrive.live.com/download?cid=9f999e057ad8c646&page=view&resid=9F999E057AD8C646!63142&parId=9F999E057AD8C646!63151&authkey=!AkePW7UW1KXQkMM&app=Excel"
+    #url = "https://onedrive.live.com/download?cid=9f999e057ad8c646&page=view&resid=9F999E057AD8C646!63142&parId=9F999E057AD8C646!63151&authkey=!AkePW7UW1KXQkMM&app=Excel"
+    url = "https://onedrive.live.com/download?cid=9f999e057ad8c646&page=view&resid=9F999E057AD8C646!63164&parId=9F999E057AD8C646!63151&authkey=!AkePW7UW1KXQkMM&app=Excel"
     urllib.request.urlretrieve(url, "datacovidChile/IndicadoresEconomicos/DOLAR_OBS_ADO.xlsx")
 
-    url = "https://onedrive.live.com/download?cid=9f999e057ad8c646&page=view&resid=9F999E057AD8C646!63145&parId=9F999E057AD8C646!63151&authkey=!AkePW7UW1KXQkMM&app=Excel"
+    #url = "https://onedrive.live.com/download?cid=9f999e057ad8c646&page=view&resid=9F999E057AD8C646!63145&parId=9F999E057AD8C646!63151&authkey=!AkePW7UW1KXQkMM&app=Excel"
+    url = "https://onedrive.live.com/edit.aspx?cid=9f999e057ad8c646&page=view&resid=9F999E057AD8C646!63164&parId=9F999E057AD8C646!63151&authkey=!AkePW7UW1KXQkMM&app=Excel"
     urllib.request.urlretrieve(url, "datacovidChile/IndicadoresEconomicos/ID_SERIE2.xlsx")
 
     url = "https://onedrive.live.com/download?cid=9f999e057ad8c646&page=view&resid=9F999E057AD8C646!63144&parId=9F999E057AD8C646!63151&authkey=!AkePW7UW1KXQkMM&app=Excel"
