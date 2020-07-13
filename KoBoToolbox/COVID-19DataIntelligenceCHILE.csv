@@ -1,22 +1,6 @@
-start,Registro_de_Instalaciones_Chile,Nombre_de_la_Instalaci_n,Categor_a,Subcategor_a,Localizaci_n,_Localizaci_n_latitude,_Localizaci_n_longitude,_Localizaci_n_altitude,_Localizaci_n_precision,__version__,meta/instanceID,_uuid,_submission_time,_tags,_notes
-2020-03-31T20:08:51.074-06:00,Prueba AJ,HospitaL NNNN,salud,Hospital,13.707846 -89.255274 0 0,13.707846,-89.255274,0,0,vLwquML7EthUDwVLVUmLqJ,uuid:58a8c06f-d627-49e6-99aa-7d3969191b07,58a8c06f-d627-49e6-99aa-7d3969191b07,2020-04-01T02:11:00,,
-2020-03-31T23:26:16.978-03:00,test,test,residencial,test,-29.351525 -67.34514 0 0,-29.351525,-67.34514,0,0,vLwquML7EthUDwVLVUmLqJ,uuid:271776a1-6433-439c-9d8b-90030f388550,271776a1-6433-439c-9d8b-90030f388550,2020-04-01T02:27:10,,
-2020-03-31T23:52:49.390-03:00,test2,test2,salud,test,9.864962 11.454764 0 0,9.864962,11.454763999999999,0,0,vLwquML7EthUDwVLVUmLqJ,uuid:9c82a144-907b-4406-b0cd-d09f2c0949e2,9c82a144-907b-4406-b0cd-d09f2c0949e2,2020-04-01T02:53:29,,
-2020-03-31T23:53:24.155-03:00,asdas,asdas,salud,asdas,-11.109411 -70.159422 0 0,-11.109411,-70.15942199999999,0,0,vLwquML7EthUDwVLVUmLqJ,uuid:8040486b-2696-4950-8c60-d8854450af78,8040486b-2696-4950-8c60-d8854450af78,2020-04-01T02:59:36,,
-2020-04-01T10:49:06.970-06:00,Prueba-,fffghh,salud,Farmacia,13.709889 -89.258385 0 0,13.709889000000002,-89.258385,0,0,vLwquML7EthUDwVLVUmLqJ,uuid:7072c244-9910-4cc6-9a55-a34c261c0082,7072c244-9910-4cc6-9a55-a34c261c0082,2020-04-01T16:49:55,,
-2020-04-03T18:54:33.038-03:00,,Hospital Clínico Universidad de Los Andes,salud,hospital,-33.406112 -70.503618 0 0,-33.406112,-70.503618,0,0,vLwquML7EthUDwVLVUmLqJ,uuid:ca8c5654-0f64-4fc8-ba9b-736c14634efb,ca8c5654-0f64-4fc8-ba9b-736c14634efb,2020-04-03T21:56:21,,
-2020-04-04T22:19:24.033-03:00,,Jumbo,alimentos,Supermercados,-18.469213 -70.307119 0 0,-18.469213,-70.307119,0,0,vLwquML7EthUDwVLVUmLqJ,uuid:fd169705-39c1-49e6-abae-3b2bbdd4e544,fd169705-39c1-49e6-abae-3b2bbdd4e544,2020-04-05T02:35:22,,
-2020-04-03T19:05:45.266-03:00,,Hospital de Lolol,,,-34.728217 -71.646665 0 0,-34.728217,-71.646665,0,0,vLwquML7EthUDwVLVUmLqJ,uuid:e5fc29da-d1b7-4a26-a53c-54f1601d369c,e5fc29da-d1b7-4a26-a53c-54f1601d369c,2020-04-03T22:08:09,,
-2020-04-03T19:08:10.464-03:00,,Hospital de Lonquimay,salud,Hospital,-38.455032 -71.369175 0 0,-38.455032,-71.369175,0,0,vLwquML7EthUDwVLVUmLqJ,uuid:093c007e-d16e-4ac7-87e3-f1e1ab5690d8,093c007e-d16e-4ac7-87e3-f1e1ab5690d8,2020-04-03T22:09:17,,
-2020-04-03T18:48:39.918-03:00,,Hospital Clínico San Borja Arriarán,salud,Hospital,-33.460498 -70.64232 0 0,-33.460498,-70.64232,0,0,vLwquML7EthUDwVLVUmLqJ,uuid:3fcc9f69-6b48-42e1-9c72-7e049731fa15,3fcc9f69-6b48-42e1-9c72-7e049731fa15,2020-04-03T21:54:30,,
-2020-04-03T18:56:24.105-03:00,,Hospital Comunitario Cristina Calderón de Puerto Williams,salud,hospital,-54.935209 -67.600393 0 0,-54.93520899999999,-67.60039300000001,0,0,vLwquML7EthUDwVLVUmLqJ,uuid:822ce5f1-bb6c-4c33-a16d-3fe5b64b602c,822ce5f1-bb6c-4c33-a16d-3fe5b64b602c,2020-04-03T21:57:27,,
-2020-04-03T18:57:29.481-03:00,,Hospital Comunitario de Salud Familiar de Quirihue,salud,hospital,-36.286435 -72.547541 0 0,-36.286435,-72.54754100000001,0,0,vLwquML7EthUDwVLVUmLqJ,uuid:57698209-8fcf-4bd4-9ccf-f66216833c91,57698209-8fcf-4bd4-9ccf-f66216833c91,2020-04-03T21:59:07,,
-2020-04-03T18:59:10.035-03:00,,Hospital de Collipulli,salud,hospital,-37.960078 -72.435982 0 0,-37.960078,-72.435982,0,0,vLwquML7EthUDwVLVUmLqJ,uuid:cbdc3e45-23ec-4086-9893-3e7a4d6cd0f4,cbdc3e45-23ec-4086-9893-3e7a4d6cd0f4,2020-04-03T22:01:01,,
-2020-04-03T19:01:02.137-03:00,,"Hospital de Enfermedades Infecciosas Dr. Lucio Córdova (Santiago, San Miguel)",salud,Hospital,-33.485344 -70.645169 0 0,-33.485344,-70.645169,0,0,vLwquML7EthUDwVLVUmLqJ,uuid:504a3e08-fe55-42be-a5f0-3a5e15a3a944,504a3e08-fe55-42be-a5f0-3a5e15a3a944,2020-04-03T22:05:44,,
-2020-04-03T19:09:18.227-03:00,,Hospital Hanga Roa (Isla De Pascua),salud,hospital,-27.150245 -109.421012 0 0,-27.150245,-109.421012,0,0,vLwquML7EthUDwVLVUmLqJ,uuid:0754c981-19f8-4a57-afd8-08b60253994a,0754c981-19f8-4a57-afd8-08b60253994a,2020-04-03T22:13:10,,
-2020-04-03T23:52:09.465-03:00,,Red Salud Providencia ex Avansalud,salud,Hospital,-33.434452 -70.625812 0 0,-33.434452,-70.625812,0,0,vLwquML7EthUDwVLVUmLqJ,uuid:371cfd92-47ce-4abe-aa9c-b4494047066f,371cfd92-47ce-4abe-aa9c-b4494047066f,2020-04-04T02:54:41,,
-2020-04-03T23:54:42.524-03:00,,Clinica Vespucio,salud,hospital,-33.518922 -70.596532 0 0,-33.518921999999996,-70.596532,0,0,vLwquML7EthUDwVLVUmLqJ,uuid:a8ae87a2-783b-4a31-8341-23c2ad30ff3d,a8ae87a2-783b-4a31-8341-23c2ad30ff3d,2020-04-04T02:59:26,,
-2020-04-03T23:59:28.251-03:00,,Clinica San Agustin Melipilla,salud,Hospital,-33.686244 -71.213219 0 0,-33.686244,-71.213219,0,0,vLwquML7EthUDwVLVUmLqJ,uuid:1d6be5f0-fdc8-4561-97bf-df3c088bad27,1d6be5f0-fdc8-4561-97bf-df3c088bad27,2020-04-04T03:12:02,,
-2020-04-04T00:12:03.821-03:00,,Clinica El Loa,salud,Hospital,-22.451634 -68.929123 0 0,-22.451634,-68.929123,0,0,vLwquML7EthUDwVLVUmLqJ,uuid:d57a7e3a-d951-482f-8b76-9cfcc838d573,d57a7e3a-d951-482f-8b76-9cfcc838d573,2020-04-04T03:29:35,,
-2020-04-04T00:29:36.680-03:00,,Red Salud Temuco ex Megasalud,salud,Hospital,-38.742247 -72.590074 0 0,-38.742247,-72.590074,0,0,vLwquML7EthUDwVLVUmLqJ,uuid:353483f9-5026-406f-a0dd-877e3fa277ca,353483f9-5026-406f-a0dd-877e3fa277ca,2020-04-04T03:50:39,,
-2020-04-04T00:50:40.994-03:00,,Clinica Red Salud Rancagua ex Clinica Integral,salud,hospital,-34.165374 -70.743132 0 0,-34.165374,-70.74313199999999,0,0,vLwquML7EthUDwVLVUmLqJ,uuid:40ba9c8e-0e49-48dd-a54c-4a78de51759e,40ba9c8e-0e49-48dd-a54c-4a78de51759e,2020-04-04T03:57:07,,
+<html>
+<head><title>502 Bad Gateway</title></head>
+"<body bgcolor=""white"">"
+<center><h1>502 Bad Gateway</h1></center>
+</body>
+</html>
