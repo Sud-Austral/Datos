@@ -108,6 +108,7 @@ def UpdateDatabase():
     except:
         print("Error a cargar a Hopkins Serie")
     gc.collect()
+    """
     try:
         ecdcEuropa()
         print("ECDC Europa completo...")
@@ -138,6 +139,7 @@ def UpdateDatabase():
     except:
         print("Error a cargar a KoBoToolbox")
     gc.collect()
+    """
     print("**************************************************************************")
     print("**************************************************************************")
     print("                            Ciclo completo")
