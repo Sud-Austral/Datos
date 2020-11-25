@@ -2849,7 +2849,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 18159.0,Tipton,Indiana,US,2020-08-08 04:34:53,40.31123252,-86.05234925,133,6,0,127.0,"Tipton, Indiana, US",878.003696857671,4.511278195488722
 47167.0,Tipton,Tennessee,US,2020-08-08 04:34:53,35.501942,-89.73694895,1183,9,0,1174.0,"Tipton, Tennessee, US",1920.4857221708146,0.7607776838546071
 28141.0,Tishomingo,Mississippi,US,2020-08-08 04:34:53,34.74023475,-88.23917219,363,5,0,358.0,"Tishomingo, Mississippi, US",1872.7751122117318,1.3774104683195592
-48449.0,Titus,Texas,US,2020-08-08 04:34:53,33.21339719,-94.96797273,1289,15,0,1274.0,"Titus, Texas, US",3935.877862595421,1.1636927851047325
+48449.0,Titus,Texas,US,2020-08-08 04:34:53,33.21339719,-94.96797273,1196,15,0,1274.0,"Titus, Texas, US",3935.877862595421,1.1636927851047325
 72135.0,Toa Alta,Puerto Rico,US,2020-08-08 04:34:53,18.362406,-66.246616,540,0,0,540.0,"Toa Alta, Puerto Rico, US",729.0794696621933,0.0
 72137.0,Toa Baja,Puerto Rico,US,2020-08-08 04:34:53,18.431446,-66.213553,494,0,0,494.0,"Toa Baja, Puerto Rico, US",551.2839112142752,0.0
 21219.0,Todd,Kentucky,US,2020-08-08 04:34:53,36.8381152,-87.17878374,34,0,0,34.0,"Todd, Kentucky, US",276.55767040832933,0.0
@@ -2915,7 +2915,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 90017.0,Unassigned,Illinois,US,2020-08-08 04:34:53,,,1365,209,0,1156.0,"Unassigned, Illinois, US",,15.311355311355312
 90018.0,Unassigned,Indiana,US,2020-08-08 04:34:53,,,0,202,0,-202.0,"Unassigned, Indiana, US",,
 90019.0,Unassigned,Iowa,US,2020-08-08 04:34:53,,,1,0,0,1.0,"Unassigned, Iowa, US",,0.0
-90020.0,Unassigned,Kansas,US,2020-08-08 04:34:53,,,0,1,0,,"Unassigned, Kansas, US",,
+90020.0,Unassigned,Kansas,US,2020-08-08 04:34:53,,,0,2,0,,"Unassigned, Kansas, US",,
 90021.0,Unassigned,Kentucky,US,2020-08-08 04:34:53,,,0,0,0,0.0,"Unassigned, Kentucky, US",,
 90022.0,Unassigned,Louisiana,US,2020-08-08 04:34:53,,,213,118,0,95.0,"Unassigned, Louisiana, US",,55.399061032863855
 90024.0,Unassigned,Maryland,US,2020-08-08 04:34:53,,,0,19,0,-19.0,"Unassigned, Maryland, US",,
