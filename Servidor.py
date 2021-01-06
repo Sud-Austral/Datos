@@ -27,6 +27,7 @@ from azure.core.credentials import AzureKeyCredential
 #from datetime import datetime
 #************************************Ciclo****************************************************************
 def Ciclo():
+    print("Tranquilo que estoy funcionando")
     now = datetime.datetime.now()
     hora = now.strftime("%H")
     if(hora == "17"):
