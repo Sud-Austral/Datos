@@ -45,6 +45,11 @@ def Ciclo():
 def UpdateDatabase():
     print("Comenzo...")
     try:
+        DescargadorGenerico("https://onedrive.live.com/download.aspx?resid=9F999E057AD8C646!88254&ithint=file%2cxlsx&authkey=!ABP2hO7qmQ1gWqc","datacovidChile\IndicadoresEconomicos\DOLAR_OBS_ADO.xlsx")
+        print("Dolar completos...")
+    except:
+        print("Error a cargar Dolar")
+    try:
         datasetFinalTweet()
         print("Twiter completos...")
     except:
@@ -1212,4 +1217,8 @@ def guardarAnalisisTwitter():
     sentiment_analysis_example().to_csv("AnalisisTweet.csv", index=False)
     return
 #************************************Analisis Twitter*******************************************
+
+def DescargadorGenerico(url,ruta):
+    urllib.request.urlretrieve(url, ruta)
+    return
 
