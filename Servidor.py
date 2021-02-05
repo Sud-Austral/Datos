@@ -45,6 +45,12 @@ def Ciclo():
 def UpdateDatabase():
     print("Comenzo...")
     try:
+        worldometersInfo()
+        print("WORLDMETER completo...")
+    except:
+        print("Error a cargar a Hopkins Worldmeter")
+    gc.collect()
+    try:
         DescargadorGenerico("https://onedrive.live.com/download.aspx?resid=9F999E057AD8C646!88254&ithint=file%2cxlsx&authkey=!ABP2hO7qmQ1gWqc","datacovidChile\IndicadoresEconomicos\DOLAR_OBS_ADO.xlsx")
         print("Dolar completos...")
     except:
@@ -121,12 +127,7 @@ def UpdateDatabase():
     except:
         print("Error a cargar a Hopkins Serie")
     gc.collect()
-    try:
-        worldometersInfo()
-        print("WORLDMETER completo...")
-    except:
-        print("Error a cargar a Hopkins Worldmeter")
-    gc.collect()
+    
     try:
         ourWorldInData()
         print("OurWorldInData completo...")
