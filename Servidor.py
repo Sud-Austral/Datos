@@ -336,7 +336,7 @@ def johnsHopkinsCovid19Series():
     data_salida_death["Country/Region"] = data_death["Country/Region"]
 
     columna_anterior = ""
-    for columna in data_confirmed.columns[4:len(data_confirmed)]:
+    for columna in data_confirmed.columns[4:len(data_confirmed.columns)]:
         if(columna_anterior == ""):
             #print("no se hace nada")
             pass
