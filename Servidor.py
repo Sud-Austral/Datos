@@ -155,11 +155,11 @@ def UpdateDatabase():
     return
 #************************************Actualizar Database**************************************************
 #************************************Analisis Twitter*******************************************
-def getKeys():
+""" def getKeys():
     f = open('C://key.json','r')
     keys = f.read()
     jkeys = json.loads(keys)
-    return jkeys
+    return jkeys """
 #************************************Analisis Twitter*******************************************
 
 #************************************Actualizar Verifica Columnas*****************************************
@@ -1020,7 +1020,7 @@ def descargarProductos():
     return
 #************************************Actualizar Datos Productos avanzados*******************************************
 #************************************Actualizar Datos Twiter*******************************************
-def APITWEET():
+""" def APITWEET():
     # Declaramos nuestras Twitter API Keys:
     keys = getKeys()
     #ACCESS_TOKEN = '1230251564616515586-2KqPsCG2mIJp3irRjENgHpCfQUxTUg'
@@ -1122,7 +1122,7 @@ def datasetFinalTweet():
     del data["FechaAux"]
     data.to_csv("Twitter/Tweet.csv", index=False)
     return data
-
+ """
 
 #tweepy.Cursor(api.search, q='#मराठी OR #माझाक्लिक OR #म')
 #tweepy.Cursor(api.friends)
@@ -1184,7 +1184,7 @@ def minSal3Carpeta():
     #print(i.split("/")[-2] + "/" + i.split("/")[-1])
 #************************************Actualizar Datos MinSal 3 carpetas*******************************************
 #************************************Analisis Twitter*******************************************
-def authenticate_client():
+""" def authenticate_client():
     key = "3f6e681ce10c430fadc5fa12b5899774"
     endpoint = "https://tweetstopowerbi8.cognitiveservices.azure.com/"
     ta_credential = AzureKeyCredential(key)
@@ -1222,7 +1222,7 @@ def guardarAnalisisTwitter():
 def DescargadorGenerico(url,ruta):
     urllib.request.urlretrieve(url, ruta)
     return
-
+ """
 
 if __name__ == '__main__':
     print("Empezando proceso")
