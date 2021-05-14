@@ -202,7 +202,7 @@ def verificarColumnas(data, referencia):
 #************************************Actualizar Verifica Columnas*****************************************
 
 #************************************Actualizar repositorio***********************************************
-def guardarRepositorio():
+""" def guardarRepositorio():
     #repoLocal = git.Repo( 'C:/Users/mario1/Documents/GitHub/Python/Datos' )
     repoLocal = git.Repo('C:/Users/datos/Documents/GitHub/Datos')
     #print(repoLocal.git.status())
@@ -215,7 +215,7 @@ def guardarRepositorio():
     except:
         print("Error de GITHUB")
 
-    return
+    return """
 #************************************Actualizar repositorio***********************************************
 
 #************************************Actualizar Chile*****************************************************
@@ -244,7 +244,7 @@ def Chile():
     data = verificarColumnas(data, "covid19_chile.csv")
     data.to_csv("Chile/covid19_chile.csv", index=False)
 
-    guardarRepositorio()
+    #guardarRepositorio()
     return
 
 def cambiaFecha(texto):
@@ -279,7 +279,7 @@ def EarlyAlert():
     #data.head()
     now = datetime.datetime.now()
     data.to_csv("EarlyAlert/Current_Coronavirus_Cases_and_Deaths.csv", index=False)
-    guardarRepositorio()
+    #guardarRepositorio()
     return
 #************************************Actualizar EarlyAlert************************************************
 
@@ -312,7 +312,7 @@ def johnsHopkinsCovid19Diario():
             pass
     ultimo = verificarColumnas(ultimo,"ultimoRegistro.csv")
     ultimo.to_csv("Johns_Hopkins-covid19/diario/ultimoRegistro.csv", index=False)
-    guardarRepositorio()
+    #guardarRepositorio()
     return
 #DATO SERIE
 def johnsHopkinsCovid19Series():
@@ -420,7 +420,7 @@ def johnsHopkinsCovid19Series():
     merged_left.to_csv("Johns_Hopkins-covid19/series/acumulado.csv", index=False)
 
 
-    guardarRepositorio()
+    #guardarRepositorio()
     return
 #************************************Actualizar johnsHopkins*********************************************
 #************************************Actualizar worldmeter***********************************************
@@ -470,7 +470,7 @@ def worldometersInfo():
 
     data.to_csv("worldometers.info/Poblacion/worldometersPoblacion.csv", index=False)
 
-    guardarRepositorio()
+    #guardarRepositorio()
     return
 
 def getWorld(data):
@@ -492,7 +492,7 @@ def KoBoToolbox():
     #data = pd.read_csv("data_aux.txt")
     data = pd.read_csv("data_aux.txt",encoding='latin-1')
     data.to_csv("KoBoToolbox/COVID-19DataIntelligenceCHILE.csv",index=False)
-    guardarRepositorio()
+    #guardarRepositorio()
     return
 #************************************KoBoToolbox*********************************************************
 
@@ -619,7 +619,7 @@ def ourWorldInData():
             verificarColumnas(pd.read_csv(folder  + i),i)
         except:
             pass
-    guardarRepositorio()
+    #guardarRepositorio()
     return
 #************************************Actualizar ourWorldInData*******************************************
 

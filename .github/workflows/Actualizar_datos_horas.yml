@@ -1,12 +1,12 @@
-name: Actualización de datos / hora.
+name: Actualización de datos / push prueba.
 
 on:
-    #push
-    schedule:
+    push
+    #schedule:
       # run every day at 15:00 chilito
       # OBS: Cada 3/ horas
       # At minute 0 past every 3rd hour
-      - cron:  '0 */12 * * *'
+      #- cron:  '0 */12 * * *'
   
 jobs:
   build:
