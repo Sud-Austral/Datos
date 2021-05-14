@@ -49,7 +49,7 @@ def UpdateDatabase():
         print("WORLDMETER completo...")
     except Exception as e:
         print("Error a cargar a Hopkins Worldmeter")
-        print("El error es : "+ e)
+        print("El error es : "+ str(e))
     gc.collect()
     try:
         DescargadorGenerico("https://onedrive.live.com/download.aspx?resid=9F999E057AD8C646!88254&ithint=file%2cxlsx&authkey=!ABP2hO7qmQ1gWqc","datacovidChile\IndicadoresEconomicos\DOLAR_OBS_ADO.xlsx")
