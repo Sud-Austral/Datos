@@ -47,7 +47,7 @@ def UpdateDatabase():
     try:
         worldometersInfo()
         print("WORLDMETER completo...")
-    except e:
+    except Exception as e:
         print("Error a cargar a Hopkins Worldmeter")
         print("El error es : "+ e)
     gc.collect()
