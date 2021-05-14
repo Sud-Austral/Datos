@@ -1223,3 +1223,9 @@ def DescargadorGenerico(url,ruta):
     urllib.request.urlretrieve(url, ruta)
     return
 
+
+if __name__ == '__main__':
+    print("Empezando proceso")
+    UpdateDatabase()
+    print("Proceso finalizado")
+
