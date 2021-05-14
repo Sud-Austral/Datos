@@ -24,6 +24,7 @@ import tweepy
 import gc
 from azure.ai.textanalytics import TextAnalyticsClient
 from azure.core.credentials import AzureKeyCredential
+import lxml
 #from datetime import datetime
 #************************************Ciclo****************************************************************
 def Ciclo():
@@ -106,20 +107,24 @@ def UpdateDatabase():
     try:
         Chile()
         print("Chile completo...")
-    except:
+        
+    except Exception as e:
         print("Error a cargar a Chile")
+        print("El error es : "+ str(e))
     gc.collect()
     try:
         johnsHopkinsCovid19Diario()
         print("Hopkins diario completo...")
-    except:
+    except Exception as e:
         print("Error a cargar a Hopkins diario")
+        print("El error es : "+ str(e))
     gc.collect()
     try:
         johnsHopkinsCovid19Series()
         print("Hopkins serie (acumulado) completo...")
-    except:
+    except Exception as e:
         print("Error a cargar a Hopkins Serie")
+        print("El error es : "+ str(e))
     gc.collect()
     """
     try:
