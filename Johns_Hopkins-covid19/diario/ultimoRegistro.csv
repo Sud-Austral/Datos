@@ -595,7 +595,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Slovenia,2021-06-04 04:23:37,46.1512,14.9955,254692,4383,246433.0,3876.0,Slovenia
 ,,,Solomon Islands,2021-06-04 04:23:37,-9.6457,160.1562,20,0,20.0,0.0,Solomon Islands
 ,,,Somalia,2021-06-04 04:23:37,5.152149,46.199616,14699,771,6891.0,7037.0,Somalia
-,,,South Africa,2021-06-04 04:23:37,-30.5595,22.9375,1669231,56601,1563719.0,48911.0,South Africa
+,,,South Africa,2021-06-04 04:23:37,-30.5595,22.9375,1680373,56765,1567635.0,48911.0,South Africa
 ,,,South Sudan,2021-06-04 04:23:37,6.8770000000000024,31.307,10688,115,10514.0,59.0,South Sudan
 ,,Andalusia,Spain,2021-06-04 04:23:37,37.5443,-4.7278,589198,9918,10671.0,568609.0,"Andalusia, Spain"
 ,,Aragon,Spain,2021-06-04 04:23:37,41.5976,-0.9057,124671,3511,3772.0,117388.0,"Aragon, Spain"
@@ -2434,7 +2434,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 31169.0,Thayer,Nebraska,US,2021-06-04 04:23:37,40.17626377,-97.59504381,495,4,,,"Thayer, Nebraska, US"
 31171.0,Thomas,Nebraska,US,2021-06-04 04:23:37,41.91358968,-100.5556632,53,1,,,"Thomas, Nebraska, US"
 31173.0,Thurston,Nebraska,US,2021-06-04 04:23:37,42.15725356,-96.54157099,848,11,,,"Thurston, Nebraska, US"
-90031.0,Unassigned,Nebraska,US,2021-06-04 04:23:37,,,2199,19,,,"Unassigned, Nebraska, US"
+90031.0,Unassigned,Nebraska,US,2021-06-04 04:23:37,,,2282,19,,,"Unassigned, Nebraska, US"
 31175.0,Valley,Nebraska,US,2021-06-04 04:23:37,41.56730777,-98.98197724,327,2,,,"Valley, Nebraska, US"
 31177.0,Washington,Nebraska,US,2021-06-04 04:23:37,41.52815707,-96.22019892,2198,25,,,"Washington, Nebraska, US"
 31179.0,Wayne,Nebraska,US,2021-06-04 04:23:37,42.20934475,-97.11926964,1090,7,,,"Wayne, Nebraska, US"
