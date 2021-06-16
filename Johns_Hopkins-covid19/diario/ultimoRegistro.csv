@@ -361,7 +361,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Yamagata,Japan,2021-06-15 04:22:22,38.448396,140.102154,2019,47,1907.0,65.0,"Yamagata, Japan"
 ,,Yamaguchi,Japan,2021-06-15 04:22:22,34.201190000000004,131.573293,3070,71,2829.0,170.0,"Yamaguchi, Japan"
 ,,Yamanashi,Japan,2021-06-15 04:22:22,35.612364,138.61148899999998,1851,20,1537.0,294.0,"Yamanashi, Japan"
-,,,Jordan,2021-06-15 04:22:22,31.24,36.51,739847,9530,726932.0,3385.0,Jordan
+,,,Jordan,2021-06-15 04:22:22,31.24,36.51,743877,9602,726932.0,3385.0,Jordan
 ,,,Kazakhstan,2021-06-15 04:22:22,48.0196,66.9237,459212,3502,430412.0,25298.0,Kazakhstan
 ,,,Kenya,2021-06-15 04:22:22,-0.0236,37.9062,175681,3421,120359.0,51901.0,Kenya
 ,,,Kiribati,2021-06-15 04:22:22,-3.3704,-168.734,2,0,0.0,2.0,Kiribati
@@ -984,7 +984,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 10005.0,Sussex,Delaware,US,2021-06-15 04:22:22,38.66143781,-75.39031349,26135,497,,,"Sussex, Delaware, US"
 90010.0,Unassigned,Delaware,US,2021-06-15 04:22:22,,,227,0,,,"Unassigned, Delaware, US"
 88888.0,,Diamond Princess,US,2020-08-04 02:27:56,,,49,0,,,"Diamond Princess, US"
-11001.0,District of Columbia,District of Columbia,US,2021-06-15 04:22:22,38.90417773,-77.01655992,49158,1137,,,"District of Columbia, District of Columbia ,US"
+11001.0,District of Columbia,District of Columbia,US,2021-06-15 04:22:22,38.90417773,-77.01655992,49200,1138,,,"District of Columbia, District of Columbia ,US"
 12001.0,Alachua,Florida,US,2021-06-15 04:22:22,29.67866525,-82.35928158,25609,285,,,"Alachua, Florida, US"
 12003.0,Baker,Florida,US,2021-06-15 04:22:22,30.33060121,-82.28467476,3576,62,,,"Baker, Florida, US"
 12005.0,Bay,Florida,US,2021-06-15 04:22:22,30.26548745,-85.62122584,20674,394,,,"Bay, Florida, US"
