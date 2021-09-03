@@ -213,8 +213,8 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Reunion,France,2021-09-02 04:21:15,-21.1151,55.5364,50346,342,,,"Reunion, France"
 ,,Saint Barthelemy,France,2021-09-02 04:21:15,17.9,-62.8333,1592,1,,,"Saint Barthelemy, France"
 ,,Saint Pierre and Miquelon,France,2021-09-02 04:21:15,46.8852,-56.3159,30,0,,,"Saint Pierre and Miquelon, France"
-,,St Martin,France,2021-09-02 04:21:15,18.0708,-63.0501,3273,42,,,"St Martin, France"
-,,Wallis and Futuna,France,2021-09-02 04:21:15,-14.2938,-178.1165,445,7,,,"Wallis and Futuna, France"
+,,St Martin,France,2021-09-02 04:21:15,18.0708,-63.0501,3356,17,,,"St Martin, France"
+,,Wallis and Futuna,France,2021-09-02 04:21:15,-14.2938,-178.1165,454,7,,,"Wallis and Futuna, France"
 ,,,France,2021-09-02 04:21:15,46.2276,2.2137,6635813,124184,,,France
 ,,,Gabon,2021-09-02 04:21:15,-0.8037,11.6094,25888,166,,,Gabon
 ,,,Gambia,2021-09-02 04:21:15,13.4432,-15.3101,9715,322,,,Gambia
@@ -585,12 +585,12 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Saint Lucia,2021-09-02 04:21:15,13.9094,-60.9789,8322,106,,,Saint Lucia
 ,,,Saint Vincent and the Grenadines,2021-09-02 04:21:15,12.9843,-61.2872,2348,12,,,Saint Vincent and the Grenadines
 ,,,Samoa,2021-09-02 04:21:15,-13.759,-172.1046,3,0,,,Samoa
-,,,San Marino,2021-09-02 04:21:15,43.9424,12.4578,5321,90,,,San Marino
+,,,San Marino,2021-09-02 04:21:15,43.9424,12.4578,5331,90,,,San Marino
 ,,,Sao Tome and Principe,2021-09-02 04:21:15,0.1864,6.6131,2627,37,,,Sao Tome and Principe
 ,,,Saudi Arabia,2021-09-02 04:21:15,23.885942,45.079162,543318,8512,,,Saudi Arabia
 ,,,Senegal,2021-09-02 04:21:15,14.4974,-14.4524,72920,1774,,,Senegal
 ,,,Serbia,2021-09-02 04:21:15,44.0165,21.0059,766279,7307,,,Serbia
-,,,Seychelles,2021-09-02 04:21:15,-4.6796,55.492,19976,104,,,Seychelles
+,,,Seychelles,2021-09-02 04:21:15,-4.6796,55.492,20128,102,,,Seychelles
 ,,,Sierra Leone,2021-09-02 04:21:15,8.460555000000001,-11.779889,6368,121,,,Sierra Leone
 ,,,Singapore,2021-09-02 04:21:15,1.2833,103.8333,67800,55,,,Singapore
 ,,,Slovakia,2021-09-02 04:21:15,48.669,19.699,395122,12548,,,Slovakia
@@ -647,7 +647,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Switzerland,2021-09-02 04:21:15,46.8182,8.2275,782869,10996,,,Switzerland
 ,,,Syria,2021-09-02 04:21:15,34.802075,38.99681500000001,28045,2018,,,Syria
 ,,,Taiwan*,2021-09-02 04:21:15,23.7,121.0,16001,836,,,Taiwan*
-,,,Tajikistan,2021-09-02 04:21:15,38.861,71.2761,16852,124,,,Tajikistan
+,,,Tajikistan,2021-09-02 04:21:15,38.861,71.2761,17252,125,,,Tajikistan
 ,,,Tanzania,2021-09-02 04:21:15,-6.369028,34.888822,1367,50,,,Tanzania
 ,,,Thailand,2021-09-02 04:21:15,15.870032,100.992541,1213954,11841,,,Thailand
 ,,,Timor-Leste,2021-09-02 04:21:15,-8.874217,125.727539,16941,72,,,Timor-Leste
