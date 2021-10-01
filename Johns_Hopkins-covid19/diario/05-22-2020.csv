@@ -2445,7 +2445,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 48421.0,Sherman,Texas,US,2020-05-23 02:32:42,36.27751473,-101.8933156,23,0,0,23,"Sherman, Texas, US"
 26155.0,Shiawassee,Michigan,US,2020-05-23 02:32:42,42.95392800000001,-84.14585902,247,22,0,225,"Shiawassee, Michigan, US"
 27143.0,Sibley,Minnesota,US,2020-05-23 02:32:42,44.5796592,-94.23164924,12,0,0,12,"Sibley, Minnesota, US"
-6091.0,Sierra,California,US,2020-05-23 02:32:42,39.57713498,-120.52007009999998,1,0,0,1,"Sierra, California, US"
+6091.0,Sierra,California,US,2020-05-23 02:32:42,39.57713498,-120.52007009999998,0,0,0,1,"Sierra, California, US"
 35051.0,Sierra,New Mexico,US,2020-05-23 02:32:42,33.13028233,-107.1925893,1,0,0,1,"Sierra, New Mexico, US"
 30093.0,Silver Bow,Montana,US,2020-05-23 02:32:42,45.90018933,-112.6620092,11,0,0,11,"Silver Bow, Montana, US"
 21213.0,Simpson,Kentucky,US,2020-05-23 02:32:42,36.74058474,-86.58047435,44,3,0,41,"Simpson, Kentucky, US"
