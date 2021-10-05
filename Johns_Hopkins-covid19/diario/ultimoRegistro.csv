@@ -507,7 +507,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Tacna,Peru,2021-10-04 04:21:31,-17.644160999999997,-70.27756,29722,1949,,,"Tacna, Peru"
 ,,Tumbes,Peru,2021-10-04 04:21:31,-3.857496,-80.54525500000003,18729,1562,,,"Tumbes, Peru"
 ,,Ucayali,Peru,2021-10-04 04:21:31,-9.621718,-73.444929,32074,3091,,,"Ucayali, Peru"
-,,Unknown,Peru,2021-10-04 04:21:31,,,0,0,,,"Unknown, Peru"
+,,Unknown,Peru,2021-10-04 04:21:31,,,1656,62,,,"Unknown, Peru"
 ,,,Philippines,2021-10-04 04:21:31,12.879721,121.774017,2593399,38768,,,Philippines
 ,,,Poland,2021-10-04 04:21:31,51.9194,19.1451,2910866,75695,,,Poland
 ,,,Portugal,2021-10-04 04:21:31,39.3999,-8.2245,1071114,17993,,,Portugal
@@ -670,7 +670,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Togo,2021-10-04 04:21:31,8.6195,0.8248,25535,233,,,Togo
 ,,,Trinidad and Tobago,2021-10-04 04:21:31,10.6918,-61.2225,51243,1505,,,Trinidad and Tobago
 ,,,Tunisia,2021-10-04 04:21:31,33.886917,9.537499,707983,24921,,,Tunisia
-,,,Turkey,2021-10-04 04:21:31,38.9637,35.2433,7208851,64434,,,Turkey
+,,,Turkey,2021-10-04 04:21:31,38.9637,35.2433,7238237,64661,,,Turkey
 1001.0,Autauga,Alabama,US,2021-10-04 04:21:31,32.53952745,-86.64408227,9780,142,,,"Autauga, Alabama, US"
 1003.0,Baldwin,Alabama,US,2021-10-04 04:21:31,30.72774991,-87.72207058,36579,518,,,"Baldwin, Alabama, US"
 1005.0,Barbour,Alabama,US,2021-10-04 04:21:31,31.868263,-85.3871286,3519,71,,,"Barbour, Alabama, US"
