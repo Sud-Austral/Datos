@@ -375,7 +375,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Lesotho,2021-10-12 04:21:09,-29.61,28.2336,21460,652,,,Lesotho
 ,,,Liberia,2021-10-12 04:21:09,6.4280550000000005,-9.429499,5801,286,,,Liberia
 ,,,Libya,2021-10-12 04:21:09,26.3351,17.228331,346813,4792,,,Libya
-,,,Liechtenstein,2021-10-12 04:21:09,47.14,9.55,3567,60,,,Liechtenstein
+,,,Liechtenstein,2021-10-12 04:21:09,47.14,9.55,3567,58,,,Liechtenstein
 ,,,Lithuania,2021-10-12 04:21:09,55.1694,23.8813,353289,5248,,,Lithuania
 ,,,Luxembourg,2021-10-12 04:21:09,49.8153,6.1296,79196,837,,,Luxembourg
 ,,,MS Zaandam,2021-10-12 04:21:09,,,9,2,,,MS Zaandam
@@ -2766,7 +2766,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 38101.0,Ward,North Dakota,US,2021-10-12 04:21:09,48.22390169,-101.5436763,12298,210,,,"Ward, North Dakota, US"
 38103.0,Wells,North Dakota,US,2021-10-12 04:21:09,47.58614526,-99.65904998,546,9,,,"Wells, North Dakota, US"
 38105.0,Williams,North Dakota,US,2021-10-12 04:21:09,48.34522353,-103.4793387,6410,46,,,"Williams, North Dakota, US"
-69.0,,Northern Mariana Islands,US,2021-10-12 04:21:09,15.0979,145.6739,273,2,,,"Northern Mariana Islands, US"
+69.0,,Northern Mariana Islands,US,2021-10-12 04:21:09,15.0979,145.6739,281,3,,,"Northern Mariana Islands, US"
 39001.0,Adams,Ohio,US,2021-10-12 04:21:09,38.84541072,-83.4718964,4012,82,,,"Adams, Ohio, US"
 39003.0,Allen,Ohio,US,2021-10-12 04:21:09,40.77285242,-84.10802343,15365,266,,,"Allen, Ohio, US"
 39005.0,Ashland,Ohio,US,2021-10-12 04:21:09,40.84772277,-82.27280781,6606,120,,,"Ashland, Ohio, US"
