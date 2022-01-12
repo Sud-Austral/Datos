@@ -361,7 +361,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Yamagata,Japan,2022-01-11 04:22:01,38.448396,140.102154,3653,56,,,"Yamagata, Japan"
 ,,Yamaguchi,Japan,2022-01-11 04:22:01,34.201190000000004,131.573293,6892,93,,,"Yamaguchi, Japan"
 ,,Yamanashi,Japan,2022-01-11 04:22:01,35.612364,138.61148899999998,5304,29,,,"Yamanashi, Japan"
-,,,Jordan,2022-01-11 04:22:01,31.24,36.51,1047953,12372,,,Jordan
+,,,Jordan,2022-01-11 04:22:01,31.24,36.51,1082570,12893,,,Jordan
 ,,,Kazakhstan,2022-01-11 04:22:01,48.0196,66.9237,1083988,18284,,,Kazakhstan
 ,,,Kenya,2022-01-11 04:22:01,-0.0236,37.9062,312572,5454,,,Kenya
 ,,,Kiribati,2022-01-11 04:22:01,-3.3704,-168.734,2,0,,,Kiribati
@@ -510,7 +510,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Unknown,Peru,2022-01-11 04:22:01,,,46096,133,,,"Unknown, Peru"
 ,,,Philippines,2022-01-11 04:22:01,12.879721,121.774017,2998530,52293,,,Philippines
 ,,,Poland,2022-01-11 04:22:01,51.9194,19.1451,4220984,99761,,,Poland
-,,,Portugal,2022-01-10 23:22:22,39.3999,-8.2245,1499976,19029,,,Portugal
+,,,Portugal,2022-01-10 23:22:22,39.3999,-8.2245,1660058,19133,,,Portugal
 ,,,Qatar,2022-01-11 04:22:01,25.3548,51.1839,274529,619,,,Qatar
 ,,,Romania,2022-01-11 04:22:01,45.9432,24.9668,1848641,59027,,,Romania
 ,,Adygea Republic,Russia,2022-01-11 04:22:01,44.6939006,40.1520421,27925,762,,,"Adygea Republic, Russia"
@@ -780,7 +780,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 4009.0,Graham,Arizona,US,2022-01-11 04:22:01,32.93166885,-109.8882178,9276,159,,,"Graham, Arizona, US"
 4011.0,Greenlee,Arizona,US,2022-01-11 04:22:01,33.21498827,-109.2405279,1557,30,,,"Greenlee, Arizona, US"
 4012.0,La Paz,Arizona,US,2022-01-11 04:22:01,33.72854224,-113.9810029,3833,111,,,"La Paz, Arizona, US"
-4013.0,Maricopa,Arizona,US,2022-01-11 04:22:01,33.34835867,-112.4918154,949357,13952,,,"Maricopa, Arizona, US"
+4013.0,Maricopa,Arizona,US,2022-01-11 04:22:01,33.34835867,-112.4918154,947357,13952,,,"Maricopa, Arizona, US"
 4015.0,Mohave,Arizona,US,2022-01-11 04:22:01,35.70471703,-113.7577902,41370,1203,,,"Mohave, Arizona, US"
 4017.0,Navajo,Arizona,US,2022-01-11 04:22:01,35.3997715,-110.3218983,28843,765,,,"Navajo, Arizona, US"
 80004.0,Out of AZ,Arizona,US,2022-01-11 04:22:01,,,0,0,,,"Out of AZ, Arizona, US"
