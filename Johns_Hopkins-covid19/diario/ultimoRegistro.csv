@@ -403,7 +403,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Malta,2022-01-17 04:21:08,35.9375,14.3754,63710,506,,,Malta
 ,,,Marshall Islands,2022-01-17 04:21:08,7.1315,171.1845,7,0,,,Marshall Islands
 ,,,Mauritania,2022-01-17 04:21:08,21.0079,-10.9408,54991,908,,,Mauritania
-,,,Mauritius,2022-01-17 04:21:08,-20.348404,57.552152,22586,240,,,Mauritius
+,,,Mauritius,2022-01-17 04:21:08,-20.348404,57.552152,24850,240,,,Mauritius
 ,,Aguascalientes,Mexico,2022-01-17 04:21:08,21.8853,-102.2916,43433,3091,,,"Aguascalientes, Mexico"
 ,,Baja California,Mexico,2022-01-17 04:21:08,30.8406,-115.2838,105109,11313,,,"Baja California, Mexico"
 ,,Baja California Sur,Mexico,2022-01-17 04:21:08,26.0444,-111.6661,75481,2444,,,"Baja California Sur, Mexico"
@@ -507,7 +507,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Tacna,Peru,2022-01-17 04:21:08,-17.644160999999997,-70.27756,34636,1984,,,"Tacna, Peru"
 ,,Tumbes,Peru,2022-01-17 04:21:08,-3.857496,-80.54525500000003,19965,1600,,,"Tumbes, Peru"
 ,,Ucayali,Peru,2022-01-17 04:21:08,-9.621718,-73.444929,32780,3091,,,"Ucayali, Peru"
-,,Unknown,Peru,2022-01-17 04:21:08,,,49745,74,,,"Unknown, Peru"
+,,Unknown,Peru,2022-01-17 04:21:08,,,93337,162,,,"Unknown, Peru"
 ,,,Philippines,2022-01-17 04:21:08,12.879721,121.774017,3205396,52907,,,Philippines
 ,,,Poland,2022-01-17 04:21:08,51.9194,19.1451,4313036,102305,,,Poland
 ,,,Portugal,2022-01-17 04:21:08,39.3999,-8.2245,1884974,19303,,,Portugal
@@ -1238,11 +1238,11 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 13321.0,Worth,Georgia,US,2022-01-17 04:21:08,31.55162306,-83.85090513,3752,97,,,"Worth, Georgia, US"
 99999.0,,Grand Princess,US,2020-08-04 02:27:56,,,103,3,,,"Grand Princess, US"
 66.0,,Guam,US,2022-01-17 04:21:08,13.4443,144.7937,23318,274,,,"Guam, US"
-15001.0,Hawaii,Hawaii,US,2022-01-17 04:21:08,19.60121157,-155.5210167,17576,159,,,"Hawaii, Hawaii, US"
-15003.0,Honolulu,Hawaii,US,2022-01-17 04:21:08,21.45803166,-157.97121819999995,118177,825,,,"Honolulu, Hawaii, US"
-15007.0,Kauai,Hawaii,US,2022-01-17 04:21:08,22.03935037,-159.5966786,6283,20,,,"Kauai, Hawaii, US"
-15009.0,Maui,Hawaii,US,2022-01-17 04:21:08,20.86399628,-156.56890969999995,19730,108,,,"Maui, Hawaii, US"
-80015.0,Out of HI,Hawaii,US,2022-01-17 04:21:08,,,4192,11,,,"Out of HI, Hawaii, US"
+15001.0,Hawaii,Hawaii,US,2022-01-17 04:21:08,19.60121157,-155.5210167,18161,159,,,"Hawaii, Hawaii, US"
+15003.0,Honolulu,Hawaii,US,2022-01-17 04:21:08,21.45803166,-157.97121819999995,120462,828,,,"Honolulu, Hawaii, US"
+15007.0,Kauai,Hawaii,US,2022-01-17 04:21:08,22.03935037,-159.5966786,6513,20,,,"Kauai, Hawaii, US"
+15009.0,Maui,Hawaii,US,2022-01-17 04:21:08,20.86399628,-156.56890969999995,20486,108,,,"Maui, Hawaii, US"
+80015.0,Out of HI,Hawaii,US,2022-01-17 04:21:08,,,4264,11,,,"Out of HI, Hawaii, US"
 90015.0,Unassigned,Hawaii,US,2022-01-17 04:21:08,,,0,0,,,"Unassigned, Hawaii, US"
 16001.0,Ada,Idaho,US,2022-01-17 04:21:08,43.4526575,-116.24155159999998,94384,889,,,"Ada, Idaho, US"
 16003.0,Adams,Idaho,US,2022-01-17 04:21:08,44.89333571,-116.4545247,587,14,,,"Adams, Idaho, US"
