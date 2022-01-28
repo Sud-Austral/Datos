@@ -3221,7 +3221,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Northwest Territories,Canada,2020-03-26 23:53:11,64.8255,-124.8457,1,0,0,1,",Northwest Territories,Canada"
 ,,Nova Scotia,Canada,2020-03-26 23:53:11,44.682,-63.7443,73,0,0,73,"Nova Scotia, Canada"
 ,,Nunavut,Canada,2020-03-26 23:53:11,70.2998,-83.1076,0,0,0,0,"Nunavut, Canada"
-,,Ontario,Canada,2020-03-26 23:53:11,51.2538,-85.3232,858,13,0,845,"Ontario, Canada"
+,,Ontario,Canada,2020-03-26 23:53:11,51.2538,-85.3232,858,15,0,845,"Ontario, Canada"
 ,,Prince Edward Island,Canada,2020-03-26 23:53:11,46.5107,-63.4168,5,0,0,5,"Prince Edward Island, Canada"
 ,,Puerto Rico,US,2020-03-26 23:48:35,18.2208,-66.5901,64,2,0,62,"Puerto Rico, US"
 ,,Qinghai,China,2020-02-23 11:19:02,35.7452,95.9956,18,0,18,0,"Qinghai, China"
@@ -3305,7 +3305,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Eswatini,2020-03-26 23:48:18,-26.5225,31.4659,6,0,0,6,Eswatini
 ,,,Ethiopia,2020-03-26 23:48:18,9.145,40.4897,12,0,0,12,Ethiopia
 ,,,Fiji,2020-03-26 23:48:18,-17.7134,178.065,5,0,0,5,Fiji
-,,,Finland,2020-03-26 23:48:18,61.92411,25.748151,958,5,10,943,Finland
+,,,Finland,2020-03-26 23:48:18,61.92411,25.748151,1188,21,10,943,Finland
 ,,,France,2020-03-26 23:48:18,46.2276,2.2137,28856,1695,4948,22213,France
 ,,,Gabon,2020-03-26 23:48:18,-0.8037,11.6094,7,1,0,6,Gabon
 ,,,Gambia,2020-03-26 23:48:18,13.4432,-15.3101,3,1,0,2,Gambia

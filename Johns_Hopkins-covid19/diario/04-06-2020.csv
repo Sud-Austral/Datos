@@ -2596,7 +2596,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Northwest Territories,Canada,4/6/20 23:28,64.8255,-124.8457,5,0,0,5,",Northwest Territories,Canada"
 ,,Nova Scotia,Canada,4/6/20 23:28,44.681999999999995,-63.7443,293,0,0,293,"Nova Scotia, Canada"
 ,,Nunavut,Canada,4/6/20 23:28,70.2998,-83.1076,0,0,0,0,"Nunavut, Canada"
-,,Ontario,Canada,4/6/20 23:28,51.2538,-85.3232,4347,150,0,4197,"Ontario, Canada"
+,,Ontario,Canada,4/6/20 23:28,51.2538,-85.3232,4347,132,0,4197,"Ontario, Canada"
 ,,Prince Edward Island,Canada,4/6/20 23:28,46.5107,-63.4168,22,0,0,22,"Prince Edward Island, Canada"
 72.0,,Puerto Rico,US,4/6/20 23:22,18.2208,-66.5901,513,21,0,492,"Puerto Rico, US"
 ,,Qinghai,China,2/23/20 11:19,35.7452,95.9956,18,0,18,0,"Qinghai, China"
@@ -2685,7 +2685,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Eswatini,4/6/20 23:21,-26.5225,31.4659,10,0,4,6,Eswatini
 ,,,Ethiopia,4/6/20 23:21,9.145,40.4897,44,2,4,38,Ethiopia
 ,,,Fiji,4/6/20 23:21,-17.7134,178.065,14,0,0,14,Fiji
-,,,Finland,4/6/20 23:21,61.92411,25.748151,2176,27,300,1849,Finland
+,,,Finland,4/6/20 23:21,61.92411,25.748151,2509,84,300,1849,Finland
 ,,,France,4/6/20 23:21,46.2276,2.2137,73554,8899,17250,47405,France
 ,,,Gabon,4/6/20 23:21,-0.8037,11.6094,24,1,1,22,Gabon
 ,,,Gambia,4/6/20 23:21,13.4432,-15.3101,4,1,2,1,Gambia

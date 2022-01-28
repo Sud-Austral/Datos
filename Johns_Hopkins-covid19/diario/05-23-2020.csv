@@ -3148,7 +3148,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Nuevo Leon,Mexico,2020-05-24 02:32:43,25.5922,-99.9962,1120,62,719,339,"Nuevo Leon, Mexico"
 ,,OHiggins,Chile,2020-05-24 02:32:43,-48.4674,-72.5592,518,11,0,507,"OHiggins, Chile"
 ,,Oaxaca,Mexico,2020-05-24 02:32:43,17.0732,-96.7266,964,93,437,434,"Oaxaca, Mexico"
-,,Ontario,Canada,2020-05-24 02:32:43,51.2538,-85.3232,26560,2157,19146,5257,"Ontario, Canada"
+,,Ontario,Canada,2020-05-24 02:32:43,51.2538,-85.3232,25040,2048,19146,5257,"Ontario, Canada"
 ,,P.A. Bolzano,Italy,2020-05-24 02:32:43,46.49933453,11.35662422,2590,291,2085,214,"P.A. Bolzano, Italy"
 ,,P.A. Trento,Italy,2020-05-24 02:32:43,46.06893511,11.12123097,4395,456,3374,565,"P.A. Trento, Italy"
 ,,Pais Vasco,Spain,2020-05-24 02:32:43,42.9896,-2.6189,13467,1494,0,11973,"Pais Vasco, Spain"
@@ -3284,7 +3284,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Eswatini,2020-05-24 02:32:43,-26.5225,31.4659,238,2,119,117,Eswatini
 ,,,Ethiopia,2020-05-24 02:32:43,9.145,40.4897,494,5,151,338,Ethiopia
 ,,,Fiji,2020-05-24 02:32:43,-17.7134,178.065,18,0,15,3,Fiji
-,,,Finland,2020-05-24 02:32:43,61.92411,25.748151,6568,306,4800,1462,Finland
+,,,Finland,2020-05-24 02:32:43,61.92411,25.748151,6785,303,4800,1462,Finland
 ,,,France,2020-05-24 02:32:43,46.2276,2.2137,181311,28284,62216,90811,France
 ,,,Gabon,2020-05-24 02:32:43,-0.8037,11.6094,1934,12,459,1463,Gabon
 ,,,Gambia,2020-05-24 02:32:43,13.4432,-15.3101,25,1,13,11,Gambia
