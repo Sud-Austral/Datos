@@ -1418,7 +1418,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 55081.0,Monroe,Wisconsin,US,4/2/20 23:25,43.94641218,-90.61881899999999,3,0,0,3,"Monroe, Wisconsin, US"
 48337.0,Montague,Texas,US,4/2/20 23:25,33.67521893,-97.72500958,1,0,0,1,"Montague, Texas, US"
 26117.0,Montcalm,Michigan,US,4/2/20 23:25,43.31082541,-85.15252824,10,0,0,10,"Montcalm, Michigan, US"
-6053.0,Monterey,California,US,4/2/20 23:25,36.21862405,-121.24133970000001,51,2,0,48,"Monterey, California, US"
+6053.0,Monterey,California,US,4/2/20 23:25,36.21862405,-121.24133970000001,52,2,0,48,"Monterey, California, US"
 8083.0,Montezuma,Colorado,US,4/2/20 23:25,37.33859579,-108.59588570000001,1,0,0,1,"Montezuma, Colorado, US"
 1101.0,Montgomery,Alabama,US,4/2/20 23:25,32.2206831,-86.20969272,47,1,0,46,"Montgomery, Alabama, US"
 17135.0,Montgomery,Illinois,US,4/2/20 23:25,39.23198845,-89.47809254,2,0,0,2,"Montgomery, Illinois, US"
@@ -1741,7 +1741,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 8105.0,Rio Grande,Colorado,US,4/2/20 23:25,37.5836865,-106.3847838,5,0,0,5,"Rio Grande, Colorado, US"
 18137.0,Ripley,Indiana,US,4/2/20 23:25,39.10235626,-85.26212744,39,1,0,38,"Ripley, Indiana, US"
 29181.0,Ripley,Missouri,US,4/2/20 23:25,36.65460667,-90.85990261,2,0,0,2,"Ripley, Missouri, US"
-6065.0,Riverside,California,US,4/2/20 23:25,33.74314981,-115.9933578,445,13,0,430,"Riverside, California, US"
+6065.0,Riverside,California,US,4/2/20 23:25,33.74314981,-115.9933578,447,13,0,430,"Riverside, California, US"
 47145.0,Roane,Tennessee,US,4/2/20 23:25,35.84923189,-84.52458689,3,0,0,3,"Roane, Tennessee, US"
 54087.0,Roane,West Virginia,US,4/2/20 23:25,38.71622686,-81.35243568,2,0,0,2,"Roane, West Virginia, US"
 51161.0,Roanoke,Virginia,US,4/2/20 23:25,37.26865804,-80.06396753,4,0,0,4,"Roanoke, Virginia, US"
@@ -1797,7 +1797,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 35045.0,San Juan,New Mexico,US,4/2/20 23:25,36.3882,-108.2378,52,0,0,52,"San Juan,New Mexico,US"
 49037.0,San Juan,Utah,US,4/2/20 23:25,37.62762978,-109.80337140000002,11,0,0,11,"San Juan,Utah,US"
 53055.0,San Juan,Washington,US,4/2/20 23:25,48.60182783,-122.96745,6,0,0,6,"San Juan, Washington, US"
-6079.0,San Luis Obispo,California,US,4/2/20 23:25,35.38822029,-120.4039028,79,0,0,79,"San Luis Obispo, California, US"
+6079.0,San Luis Obispo,California,US,4/2/20 23:25,35.38822029,-120.4039028,80,0,0,79,"San Luis Obispo, California, US"
 6081.0,San Mateo,California,US,4/2/20 23:25,37.422880799999994,-122.32755459999998,425,13,0,412,"San Mateo, California, US"
 8113.0,San Miguel,Colorado,US,4/2/20 23:25,38.00450883,-108.4020725,4,0,0,4,"San Miguel, Colorado, US"
 35047.0,San Miguel,New Mexico,US,4/2/20 23:25,35.48014807,-104.8163562,1,0,0,1,"San Miguel, New Mexico, US"
@@ -1806,7 +1806,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 39143.0,Sandusky,Ohio,US,4/2/20 23:25,41.35624126,-83.137872,5,0,0,5,"Sandusky, Ohio, US"
 17167.0,Sangamon,Illinois,US,4/2/20 23:25,39.75836914,-89.65872023,18,2,0,16,"Sangamon, Illinois, US"
 26151.0,Sanilac,Michigan,US,4/2/20 23:25,43.42406072,-82.82055898,8,1,0,7,"Sanilac, Michigan, US"
-6083.0,Santa Barbara,California,US,4/2/20 23:25,34.65329488,-120.0188492,125,1,0,124,"Santa Barbara, California, US"
+6083.0,Santa Barbara,California,US,4/2/20 23:25,34.65329488,-120.0188492,126,1,0,124,"Santa Barbara, California, US"
 6085.0,Santa Clara,California,US,4/2/20 23:25,37.23104908,-121.6970462,906,38,0,868,"Santa Clara, California, US"
 4023.0,Santa Cruz,Arizona,US,4/2/20 23:25,31.52508998,-110.8479088,3,0,0,3,"Santa Cruz, Arizona, US"
 6087.0,Santa Cruz,California,US,4/2/20 23:25,37.05580291,-122.0066524,49,1,0,48,"Santa Cruz, California, US"
@@ -2025,7 +2025,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 47169.0,Trousdale,Tennessee,US,4/2/20 23:25,36.39026213,-86.16087954,6,1,0,5,"Trousdale, Tennessee, US"
 39155.0,Trumbull,Ohio,US,4/2/20 23:25,41.31735028,-80.76109643,63,4,0,59,"Trumbull, Ohio, US"
 54093.0,Tucker,West Virginia,US,4/2/20 23:25,39.11240885,-79.57053576,3,0,0,3,"Tucker, West Virginia, US"
-6107.0,Tulare,California,US,4/2/20 23:25,36.22026558,-118.8020203,67,1,0,65,"Tulare, California, US"
+6107.0,Tulare,California,US,4/2/20 23:25,36.22026558,-118.8020203,69,1,0,65,"Tulare, California, US"
 40143.0,Tulsa,Oklahoma,US,4/2/20 23:25,36.11939621,-95.94013939,151,5,0,146,"Tulsa, Oklahoma, US"
 28143.0,Tunica,Mississippi,US,4/2/20 23:25,34.64967704,-90.37481167,14,1,0,13,"Tunica, Mississippi, US"
 6109.0,Tuolumne,California,US,4/2/20 23:25,38.02644018,-119.95250929999999,1,0,0,1,"Tuolumne, California, US"
@@ -2498,7 +2498,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Mali,4/2/20 23:25,17.570692,-3.9961660000000006,36,3,0,33,Mali
 ,,,Malta,4/2/20 23:25,35.9375,14.3754,196,0,2,194,Malta
 ,,,Mauritania,4/2/20 23:25,21.0079,-10.9408,6,1,2,3,",,Mauritania"
-,,,Mauritius,4/2/20 23:25,-20.348404000000002,57.552152,169,7,0,162,Mauritius
+,,,Mauritius,4/2/20 23:25,-20.348404000000002,57.552152,154,5,0,162,Mauritius
 ,,,Mexico,4/2/20 23:25,23.6345,-102.5528,1378,37,35,1306,Mexico
 ,,,Moldova,4/2/20 23:25,47.4116,28.3699,505,6,23,476,Moldova
 ,,,Monaco,4/2/20 23:25,43.7333,7.4167,60,1,2,57,Monaco

@@ -23,7 +23,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 27001.0,Aitkin,Minnesota,US,2020-05-25 02:32:44,46.60962049,-93.41168259999999,6,0,0,6,"Aitkin, Minnesota, US"
 12001.0,Alachua,Florida,US,2020-05-25 02:32:44,29.67866525,-82.35928158,361,7,0,354,"Alachua, Florida, US"
 37001.0,Alamance,North Carolina,US,2020-05-25 02:32:44,36.0434701,-79.39976137,278,20,0,258,"Alamance, North Carolina, US"
-6001.0,Alameda,California,US,2020-05-25 02:32:44,37.64629437,-121.8929271,2833,92,0,2740,"Alameda, California, US"
+6001.0,Alameda,California,US,2020-05-25 02:32:44,37.64629437,-121.8929271,2835,92,0,2740,"Alameda, California, US"
 8003.0,Alamosa,Colorado,US,2020-05-25 02:32:44,37.57250606,-105.7885451,58,2,0,56,"Alamosa, Colorado, US"
 36001.0,Albany,New York,US,2020-05-25 02:32:44,42.60060306,-73.97723916,1782,76,0,1706,"Albany, New York, US"
 56001.0,Albany,Wyoming,US,2020-05-25 02:32:44,41.65498705,-105.72354150000001,17,0,0,17,"Albany, Wyoming, US"
@@ -1410,7 +1410,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 51101.0,King William,Virginia,US,2020-05-25 02:32:44,37.70965316,-77.09384941,20,0,0,20,"King William, Virginia, US"
 51097.0,King and Queen,Virginia,US,2020-05-25 02:32:44,37.71044922,-76.88689628,7,0,0,7,"King and Queen, Virginia, US"
 40073.0,Kingfisher,Oklahoma,US,2020-05-25 02:32:44,35.94530008,-97.94193268,11,0,0,11,"Kingfisher, Oklahoma, US"
-6031.0,Kings,California,US,2020-05-25 02:32:44,36.07409056,-119.8159973,448,2,0,446,"Kings, California, US"
+6031.0,Kings,California,US,2020-05-25 02:32:44,36.07409056,-119.8159973,449,2,0,446,"Kings, California, US"
 46077.0,Kingsbury,South Dakota,US,2020-05-25 02:32:44,44.36956169,-97.4913945,0,0,0,0,"Kingsbury, South Dakota, US"
 20097.0,Kiowa,Kansas,US,2020-05-25 02:32:44,37.55848695,-99.2856537,2,0,0,2,"Kiowa, Kansas, US"
 40075.0,Kiowa,Oklahoma,US,2020-05-25 02:32:44,34.91671958,-98.97720696,6,0,0,6,"Kiowa, Oklahoma, US"
@@ -1850,7 +1850,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 55081.0,Monroe,Wisconsin,US,2020-05-25 02:32:44,43.94641218,-90.61881899999999,16,1,0,15,"Monroe, Wisconsin, US"
 48337.0,Montague,Texas,US,2020-05-25 02:32:44,33.67521893,-97.72500958,4,1,0,8,"Montague, Texas, US"
 26117.0,Montcalm,Michigan,US,2020-05-25 02:32:44,43.31082541,-85.15252824,65,1,0,64,"Montcalm, Michigan, US"
-6053.0,Monterey,California,US,2020-05-25 02:32:44,36.21862405,-121.24133970000001,406,8,0,397,"Monterey, California, US"
+6053.0,Monterey,California,US,2020-05-25 02:32:44,36.21862405,-121.24133970000001,408,8,0,397,"Monterey, California, US"
 8083.0,Montezuma,Colorado,US,2020-05-25 02:32:44,37.33859579,-108.5958857,35,3,0,32,"Montezuma, Colorado, US"
 1101.0,Montgomery,Alabama,US,2020-05-25 02:32:44,32.2206831,-86.20969272,1193,30,0,1163,"Montgomery, Alabama, US"
 5097.0,Montgomery,Arkansas,US,2020-05-25 02:32:44,34.53704874,-93.65824478,1,0,0,1,"Montgomery, Arkansas, US"
@@ -2292,7 +2292,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 18137.0,Ripley,Indiana,US,2020-05-25 02:32:44,39.10235626,-85.26212744,112,6,0,106,"Ripley, Indiana, US"
 29181.0,Ripley,Missouri,US,2020-05-25 02:32:44,36.65460667,-90.85990261,7,0,0,7,"Ripley, Missouri, US"
 54085.0,Ritchie,West Virginia,US,2020-05-25 02:32:44,39.18094587,-81.06356878,1,0,0,1,"Ritchie, West Virginia, US"
-6065.0,Riverside,California,US,2020-05-25 02:32:44,33.74314981,-115.9933578,6582,284,0,6296,"Riverside, California, US"
+6065.0,Riverside,California,US,2020-05-25 02:32:44,33.74314981,-115.9933578,6584,284,0,6296,"Riverside, California, US"
 47145.0,Roane,Tennessee,US,2020-05-25 02:32:44,35.84923189,-84.52458689,15,0,0,15,"Roane, Tennessee, US"
 54087.0,Roane,West Virginia,US,2020-05-25 02:32:44,38.71622686,-81.35243568,8,0,0,8,"Roane, West Virginia, US"
 51161.0,Roanoke,Virginia,US,2020-05-25 02:32:44,37.26865804,-80.06396753,90,5,0,85,"Roanoke, Virginia, US"
@@ -2362,7 +2362,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 35045.0,San Juan,New Mexico,US,2020-05-25 02:32:44,36.50838318,-108.32043700000001,1558,108,0,1450,"San Juan, New Mexico, US"
 49037.0,San Juan,Utah,US,2020-05-25 02:32:44,37.62762978,-109.80337140000002,264,4,0,260,"San Juan, Utah, US"
 53055.0,San Juan,Washington,US,2020-05-25 02:32:44,48.60182783,-122.96745,15,0,0,15,"San Juan, Washington, US"
-6079.0,San Luis Obispo,California,US,2020-05-25 02:32:44,35.38822029,-120.4039028,259,1,0,258,"San Luis Obispo, California, US"
+6079.0,San Luis Obispo,California,US,2020-05-25 02:32:44,35.38822029,-120.4039028,261,1,0,258,"San Luis Obispo, California, US"
 6081.0,San Mateo,California,US,2020-05-25 02:32:44,37.422880799999994,-122.32755459999998,1927,71,0,1856,"San Mateo, California, US"
 8113.0,San Miguel,Colorado,US,2020-05-25 02:32:44,38.00450883,-108.4020725,23,0,0,23,"San Miguel, Colorado, US"
 35047.0,San Miguel,New Mexico,US,2020-05-25 02:32:44,35.48014807,-104.8163562,11,0,0,11,"San Miguel, New Mexico, US"
@@ -2373,8 +2373,8 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 39143.0,Sandusky,Ohio,US,2020-05-25 02:32:44,41.35624126,-83.137872,65,10,0,55,"Sandusky, Ohio, US"
 17167.0,Sangamon,Illinois,US,2020-05-25 02:32:44,39.75836914,-89.65872023,329,26,0,303,"Sangamon, Illinois, US"
 26151.0,Sanilac,Michigan,US,2020-05-25 02:32:44,43.42406072,-82.82055898,40,5,0,35,"Sanilac, Michigan, US"
-6083.0,Santa Barbara,California,US,2020-05-25 02:32:44,34.65329488,-120.0188492,1579,9,0,1568,"Santa Barbara, California, US"
-6085.0,Santa Clara,California,US,2020-05-25 02:32:44,37.23104908,-121.6970462,2627,139,0,2485,"Santa Clara, California, US"
+6083.0,Santa Barbara,California,US,2020-05-25 02:32:44,34.65329488,-120.0188492,1581,9,0,1568,"Santa Barbara, California, US"
+6085.0,Santa Clara,California,US,2020-05-25 02:32:44,37.23104908,-121.6970462,2628,139,0,2485,"Santa Clara, California, US"
 4023.0,Santa Cruz,Arizona,US,2020-05-25 02:32:44,31.52508998,-110.8479088,169,0,0,169,"Santa Cruz, Arizona, US"
 6087.0,Santa Cruz,California,US,2020-05-25 02:32:44,37.05580291,-122.0066524,185,2,0,183,"Santa Cruz, California, US"
 35049.0,Santa Fe,New Mexico,US,2020-05-25 02:32:44,35.50708973,-105.9774716,132,3,0,129,"Santa Fe, New Mexico, US"
@@ -2662,7 +2662,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 47169.0,Trousdale,Tennessee,US,2020-05-25 02:32:44,36.39026213,-86.16087954,1393,4,0,1389,"Trousdale, Tennessee, US"
 39155.0,Trumbull,Ohio,US,2020-05-25 02:32:44,41.31735028,-80.76109643,525,47,0,478,"Trumbull, Ohio, US"
 54093.0,Tucker,West Virginia,US,2020-05-25 02:32:44,39.11240885,-79.57053576,4,0,0,4,"Tucker, West Virginia, US"
-6107.0,Tulare,California,US,2020-05-25 02:32:44,36.22026558,-118.8020203,1688,74,0,1614,"Tulare, California, US"
+6107.0,Tulare,California,US,2020-05-25 02:32:44,36.22026558,-118.8020203,1692,74,0,1614,"Tulare, California, US"
 40143.0,Tulsa,Oklahoma,US,2020-05-25 02:32:44,36.11939621,-95.94013939,915,44,0,871,"Tulsa, Oklahoma, US"
 28143.0,Tunica,Mississippi,US,2020-05-25 02:32:44,34.64967704,-90.37481167,48,3,0,45,"Tunica, Mississippi, US"
 6109.0,Tuolumne,California,US,2020-05-25 02:32:44,38.02644018,-119.95250929999999,2,0,0,2,"Tuolumne, California, US"
@@ -3336,7 +3336,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Mali,2020-05-25 02:32:44,17.570692,-3.996166000000001,1030,65,597,368,Mali
 ,,,Malta,2020-05-25 02:32:44,35.9375,14.3754,610,6,476,128,Malta
 ,,,Mauritania,2020-05-25 02:32:44,21.0079,-10.9408,237,6,15,216,Mauritania
-,,,Mauritius,2020-05-25 02:32:44,-20.348404000000002,57.552152,334,10,322,2,Mauritius
+,,,Mauritius,2020-05-25 02:32:44,-20.348404000000002,57.552152,332,10,322,2,Mauritius
 ,,,Moldova,2020-05-25 02:32:44,47.4116,28.3699,7093,250,3713,3130,Moldova
 ,,,Monaco,2020-05-25 02:32:44,43.7333,7.4167,98,4,90,4,Monaco
 ,,,Mongolia,2020-05-25 02:32:44,46.8625,103.8467,141,0,32,109,Mongolia
