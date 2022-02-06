@@ -285,7 +285,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Uttar Pradesh,India,2022-02-05 04:21:05,26.925425,80.560982,2038222,23286,,,"Uttar Pradesh, India"
 ,,Uttarakhand,India,2022-02-05 04:21:05,30.156447,79.197608,428110,7596,,,"Uttarakhand, India"
 ,,West Bengal,India,2022-02-05 04:21:05,23.814082,87.979803,2003692,20758,,,"West Bengal, India"
-,,,Indonesia,2022-02-05 04:21:05,-0.7893,113.9213,4353370,144320,,,Indonesia
+,,,Indonesia,2022-02-05 04:21:05,-0.7893,113.9213,4446694,144453,,,Indonesia
 ,,,Iran,2022-02-05 04:21:05,32.427908,53.68804599999999,6520707,132681,,,Iran
 ,,,Iraq,2022-02-05 04:21:05,33.223191,43.679291,2240294,24476,,,Iraq
 ,,,Ireland,2022-02-05 04:21:05,53.1424,-7.6921,1205914,6228,,,Ireland
@@ -615,25 +615,25 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Somalia,2022-02-05 04:21:05,5.152149,46.199616,26067,1335,,,Somalia
 ,,,South Africa,2022-02-05 04:21:05,-30.5595,22.9375,3616075,95545,,,South Africa
 ,,,South Sudan,2022-02-05 04:21:05,6.877000000000002,31.307,16833,137,,,South Sudan
-,,Andalusia,Spain,2022-02-05 04:21:05,37.5443,-4.7278,1261809,12135,,,"Andalusia, Spain"
-,,Aragon,Spain,2022-02-05 04:21:05,41.5976,-0.9057,373622,4517,,,"Aragon, Spain"
-,,Asturias,Spain,2022-02-05 04:21:05,43.3614,-5.8593,178165,2327,,,"Asturias, Spain"
-,,Baleares,Spain,2022-02-05 04:21:05,39.710358,2.995148,234666,1139,,,"Baleares, Spain"
-,,C. Valenciana,Spain,2022-02-05 04:21:05,39.484,-0.7533,1166528,8616,,,"C. Valenciana, Spain"
-,,Canarias,Spain,2022-02-05 04:21:05,28.2916,-16.6291,260871,1450,,,"Canarias, Spain"
-,,Cantabria,Spain,2022-02-05 04:21:05,43.1828,-3.9878,115372,689,,,"Cantabria, Spain"
-,,Castilla - La Mancha,Spain,2022-02-05 04:21:05,39.2796,-3.0977,440139,6882,,,"Castilla - La Mancha, Spain"
-,,Castilla y Leon,Spain,2022-02-05 04:21:05,41.8357,-4.3976,611843,7970,,,"Castilla y Leon, Spain"
-,,Catalonia,Spain,2022-02-05 04:21:05,41.5912,1.5209,2093572,16311,,,"Catalonia, Spain"
-,,Ceuta,Spain,2022-02-05 04:21:05,35.8894,-5.3213,17933,141,,,"Ceuta, Spain"
-,,Extremadura,Spain,2022-02-05 04:21:05,39.4937,-6.0679,216411,2147,,,"Extremadura, Spain"
-,,Galicia,Spain,2022-02-05 04:21:05,42.5751,-8.1339,464296,2947,,,"Galicia, Spain"
-,,La Rioja,Spain,2022-02-05 04:21:05,42.2871,-2.5396,83941,888,,,"La Rioja, Spain"
-,,Madrid,Spain,2022-02-05 04:21:05,40.4168,-3.7038,1496183,16634,,,"Madrid, Spain"
-,,Melilla,Spain,2022-02-05 04:21:05,35.2923,-2.9381,19441,134,,,"Melilla, Spain"
-,,Murcia,Spain,2022-02-05 04:21:05,37.9922,-1.1307,335078,2008,,,"Murcia, Spain"
-,,Navarra,Spain,2022-02-05 04:21:05,42.6954,-1.6761,211932,1426,,,"Navarra, Spain"
-,,Pais Vasco,Spain,2022-02-05 04:21:05,42.9896,-2.6189,617914,5679,,,"Pais Vasco, Spain"
+,,Andalusia,Spain,2022-02-05 04:21:05,37.5443,-4.7278,1266759,12154,,,"Andalusia, Spain"
+,,Aragon,Spain,2022-02-05 04:21:05,41.5976,-0.9057,375866,4533,,,"Aragon, Spain"
+,,Asturias,Spain,2022-02-05 04:21:05,43.3614,-5.8593,179772,2338,,,"Asturias, Spain"
+,,Baleares,Spain,2022-02-05 04:21:05,39.710358,2.995148,236773,1150,,,"Baleares, Spain"
+,,C. Valenciana,Spain,2022-02-05 04:21:05,39.484,-0.7533,1179308,8646,,,"C. Valenciana, Spain"
+,,Canarias,Spain,2022-02-05 04:21:05,28.2916,-16.6291,262335,1461,,,"Canarias, Spain"
+,,Cantabria,Spain,2022-02-05 04:21:05,43.1828,-3.9878,116468,692,,,"Cantabria, Spain"
+,,Castilla - La Mancha,Spain,2022-02-05 04:21:05,39.2796,-3.0977,441748,6893,,,"Castilla - La Mancha, Spain"
+,,Castilla y Leon,Spain,2022-02-05 04:21:05,41.8357,-4.3976,615176,7990,,,"Castilla y Leon, Spain"
+,,Catalonia,Spain,2022-02-05 04:21:05,41.5912,1.5209,2114734,16321,,,"Catalonia, Spain"
+,,Ceuta,Spain,2022-02-05 04:21:05,35.8894,-5.3213,18007,142,,,"Ceuta, Spain"
+,,Extremadura,Spain,2022-02-05 04:21:05,39.4937,-6.0679,217874,2154,,,"Extremadura, Spain"
+,,Galicia,Spain,2022-02-05 04:21:05,42.5751,-8.1339,469429,2953,,,"Galicia, Spain"
+,,La Rioja,Spain,2022-02-05 04:21:05,42.2871,-2.5396,84479,891,,,"La Rioja, Spain"
+,,Madrid,Spain,2022-02-05 04:21:05,40.4168,-3.7038,1503524,16655,,,"Madrid, Spain"
+,,Melilla,Spain,2022-02-05 04:21:05,35.2923,-2.9381,19543,136,,,"Melilla, Spain"
+,,Murcia,Spain,2022-02-05 04:21:05,37.9922,-1.1307,338782,2017,,,"Murcia, Spain"
+,,Navarra,Spain,2022-02-05 04:21:05,42.6954,-1.6761,212995,1430,,,"Navarra, Spain"
+,,Pais Vasco,Spain,2022-02-05 04:21:05,42.9896,-2.6189,621081,5679,,,"Pais Vasco, Spain"
 ,,Unknown,Spain,2021-04-25 23:20:49,,,0,0,,,"Unknown, Spain"
 ,,,Sri Lanka,2022-02-05 04:21:05,7.873054,80.77179699999998,615902,15544,,,Sri Lanka
 ,,,Sudan,2022-02-05 04:21:05,12.8628,30.2176,58874,3588,,,Sudan
