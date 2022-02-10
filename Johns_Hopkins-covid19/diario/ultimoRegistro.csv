@@ -194,7 +194,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Djibouti,2022-02-09 04:21:04,11.8251,42.5903,15525,189,,,Djibouti
 ,,,Dominica,2022-02-09 04:21:04,15.415,-61.371,10073,53,,,Dominica
 ,,,Dominican Republic,2022-02-09 04:21:04,18.7357,-70.1627,564467,4332,,,Dominican Republic
-,,,Ecuador,2022-02-09 04:21:04,-1.8312,-78.1834,732038,34533,,,Ecuador
+,,,Ecuador,2022-02-09 04:21:04,-1.8312,-78.1834,769149,34739,,,Ecuador
 ,,,Egypt,2022-02-09 04:21:04,26.820553000000004,30.802498,444117,23053,,,Egypt
 ,,,El Salvador,2022-02-09 04:21:04,13.7942,-88.8965,135109,3960,,,El Salvador
 ,,,Equatorial Guinea,2022-02-09 04:21:04,1.6508,10.2679,15850,182,,,Equatorial Guinea
@@ -4006,3 +4006,4 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Yemen,2022-02-09 04:21:04,15.552727,48.516388,11553,2088,,,Yemen
 ,,,Zambia,2022-02-09 04:21:04,-13.133897,27.849332,307636,3933,,,Zambia
 ,,,Zimbabwe,2022-02-09 04:21:04,-19.015438,29.154857,230603,5366,,,Zimbabwe
+,,,Antarctica,2022-02-09 04:21:04,-71.9499,23.346999999999998,11,0,0.0,0.0,Antarctica
