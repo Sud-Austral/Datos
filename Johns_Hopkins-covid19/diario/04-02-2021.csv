@@ -3960,7 +3960,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Bermuda,United Kingdom,2021-04-03 04:20:44,32.3078,-64.7505,1292,12,743.0,537.0,"Bermuda, United Kingdom",2074.735439114865,0.9287925696594428
 ,,British Virgin Islands,United Kingdom,2021-04-03 04:20:44,18.4207,-64.64,166,1,131.0,34.0,"British Virgin Islands, United Kingdom",548.9962628567649,0.6024096385542169
 ,,Cayman Islands,United Kingdom,2021-04-03 04:20:44,19.3133,-81.2546,501,2,477.0,22.0,"Cayman Islands, United Kingdom",762.3250152160683,0.3992015968063872
-,,Channel Islands,United Kingdom,2021-04-03 04:20:44,49.3723,-2.3644,4050,86,3956.0,8.0,"Channel Islands, United Kingdom",2375.3805007654005,2.123456790123457
+,,Channel Islands,United Kingdom,2021-04-03 04:20:44,49.3723,-2.3644,0,0,3956.0,8.0,"Channel Islands, United Kingdom",2375.3805007654005,2.123456790123457
 ,,England,United Kingdom,2021-04-03 04:20:44,52.3555,-1.1743,3807387,111577,0.0,3695810.0,"England, United Kingdom",6801.674610377083,2.9305400265326327
 ,,Falkland Islands (Malvinas),United Kingdom,2021-04-03 04:20:44,-51.7963,-59.5236,54,0,54.0,0.0,"Falkland Islands (Malvinas), United Kingdom",1550.387596899225,0.0
 ,,Gibraltar,United Kingdom,2021-04-03 04:20:44,36.1408,-5.3536,4275,94,4169.0,12.0,"Gibraltar, United Kingdom",12688.848653943189,2.198830409356725

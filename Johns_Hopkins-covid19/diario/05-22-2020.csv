@@ -3048,7 +3048,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Cayman Islands,United Kingdom,2020-05-23 02:32:42,19.3133,-81.2546,129,1,61,67,"Cayman Islands, United Kingdom"
 ,,Ceara,Brazil,2020-05-23 02:32:42,-5.4984,-39.3206,34573,2251,0,32322,"Ceara, Brazil"
 ,,Ceuta,Spain,2020-05-23 02:32:42,35.8894,-5.3213,124,4,0,120,"Ceuta, Spain"
-,,Channel Islands,United Kingdom,2020-05-23 02:32:42,49.3723,-2.3644,558,45,508,5,"Channel Islands, United Kingdom"
+,,Channel Islands,United Kingdom,2020-05-23 02:32:42,49.3723,-2.3644,0,0,508,5,"Channel Islands, United Kingdom"
 ,,Chiapas,Mexico,2020-05-23 02:32:42,16.7569,-93.1292,971,67,485,419,"Chiapas, Mexico"
 ,,Chihuahua,Mexico,2020-05-23 02:32:42,28.63300000000001,-106.0691,1121,245,760,116,"Chihuahua, Mexico"
 ,,Chongqing,China,2020-05-23 02:32:42,30.0572,107.874,579,6,573,0,"Chongqing, China"
