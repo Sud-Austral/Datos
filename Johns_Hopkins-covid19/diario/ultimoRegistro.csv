@@ -90,7 +90,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Prince Edward Island,Canada,2022-02-24 04:21:14,46.5107,-63.4168,12657,15,,,"Prince Edward Island, Canada"
 ,,Quebec,Canada,2022-02-24 04:21:14,52.9399,-73.5491,915760,13903,,,"Quebec, Canada"
 ,,Repatriated Travellers,Canada,2022-02-24 04:21:14,,,13,0,,,"Repatriated Travellers, Canada"
-,,Saskatchewan,Canada,2022-02-24 04:21:14,52.9399,-106.4509,123258,1012,,,"Saskatchewan, Canada"
+,,Saskatchewan,Canada,2022-02-24 04:21:14,52.9399,-106.4509,125780,1054,,,"Saskatchewan, Canada"
 ,,Yukon,Canada,2022-02-24 04:21:14,64.2823,-135.0,3412,20,,,"Yukon, Canada"
 ,,,Central African Republic,2022-02-24 04:21:14,6.6111,20.9394,14187,113,,,Central African Republic
 ,,,Chad,2022-02-24 04:21:14,15.4542,18.7322,7248,190,,,Chad
@@ -773,7 +773,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 2275.0,Wrangell,Alaska,US,2022-02-24 04:21:14,56.3202004,-132.05837309999998,453,1,,,"Wrangell, Alaska, US"
 2282.0,Yakutat,Alaska,US,2022-02-24 04:21:14,59.8909808,-140.36014509999998,474,5,,,"Yakutat, Alaska, US"
 2290.0,Yukon-Koyukuk,Alaska,US,2022-02-24 04:21:14,65.50815459,-151.3907387,1316,9,,,"Yukon-Koyukuk, Alaska, US"
-60.0,,American Samoa,US,2022-02-24 04:21:14,-14.271,-170.132,18,0,,,"American Samoa, US"
+60.0,,American Samoa,US,2022-02-24 04:21:14,-14.271,-170.132,72,0,,,"American Samoa, US"
 4001.0,Apache,Arizona,US,2022-02-24 04:21:14,35.39465006,-109.4892383,21750,581,,,"Apache, Arizona, US"
 4003.0,Cochise,Arizona,US,2022-02-24 04:21:14,31.87934684,-109.7516088,30817,541,,,"Cochise, Arizona, US"
 4005.0,Coconino,Arizona,US,2022-02-24 04:21:14,35.83883429,-111.7707178,42910,453,,,"Coconino, Arizona, US"
