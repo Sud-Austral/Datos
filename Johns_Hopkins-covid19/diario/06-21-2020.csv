@@ -3756,7 +3756,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Zimbabwe,2020-06-22 04:33:20,-19.015438,29.154857,489,6,64,419,Zimbabwe,3.290065274491357,1.2269938650306749
 2066.0,Copper River,Alaska,US,2021-04-02 15:13:53,60.3886,-162.8905196,0,0,0,0,"Copper River, Alaska, US",0.0,
 2063.0,Chugach,Alaska,US,2021-04-02 15:13:53,61.16666,-149.9,14,0,0,14,"Chugach, Alaska, US",207.37668493556512,0.0
-,,Unknown,China,2020-06-22 04:33:20,,,0,0,0,0,"Unknown, China",,
+,,Unknown,China,2020-06-22 04:33:20,,,1950,0,0,0,"Unknown, China",,
 ,,,Kiribati,2020-06-22 04:33:20,-3.3704,-168.734,0,0,0,0,Kiribati,0.0,
 ,,,Palau,2020-06-22 04:33:20,7.515,134.5825,0,0,0,0,Palau,0.0,
 ,,Cook Islands,New Zealand,2020-06-22 04:33:20,-21.2367,-159.7777,0,0,0,0,"Cook Islands, New Zealand",0.0,
