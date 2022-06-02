@@ -141,7 +141,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Sichuan,China,2022-06-01 04:20:55,30.6171,102.7103,2334,3,,,"Sichuan, China"
 ,,Tianjin,China,2022-06-01 04:20:55,39.3054,117.323,1975,3,,,"Tianjin, China"
 ,,Tibet,China,2022-06-01 04:20:55,31.6927,88.0924,1,0,,,"Tibet, China"
-,,Unknown,China,2022-06-01 04:20:55,,,990016,0,,,"Unknown, China"
+,,Unknown,China,2022-06-01 04:20:55,,,659861,0,,,"Unknown, China"
 ,,Xinjiang,China,2022-06-01 04:20:55,41.1129,85.2401,1008,3,,,"Xinjiang, China"
 ,,Yunnan,China,2022-06-01 04:20:55,24.974,101.48700000000001,2149,2,,,"Yunnan, China"
 ,,Zhejiang,China,2022-06-01 04:20:55,29.1832,120.0934,3137,1,,,"Zhejiang, China"
@@ -379,7 +379,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Libya,2022-06-01 04:20:55,26.3351,17.228331,502016,6430,,,Libya
 ,,,Liechtenstein,2022-06-01 04:20:55,47.14,9.55,17469,84,,,Liechtenstein
 ,,,Lithuania,2022-06-01 04:20:55,55.1694,23.8813,1062524,9144,,,Lithuania
-,,,Luxembourg,2022-06-01 04:20:55,49.8153,6.1296,244182,1073,,,Luxembourg
+,,,Luxembourg,2022-06-01 04:20:55,49.8153,6.1296,247935,1078,,,Luxembourg
 ,,,MS Zaandam,2022-06-01 04:20:55,,,9,2,,,MS Zaandam
 ,,,Madagascar,2022-06-01 04:20:55,-18.766947000000002,46.869107,64377,1395,,,Madagascar
 ,,,Malawi,2022-06-01 04:20:55,-13.2543,34.3015,85985,2640,,,Malawi
@@ -1382,7 +1382,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 17175.0,Stark,Illinois,US,2022-06-01 04:20:55,41.09309773,-89.79745866,1560,33,,,"Stark, Illinois, US"
 17177.0,Stephenson,Illinois,US,2022-06-01 04:20:55,42.35129217,-89.662598,12001,157,,,"Stephenson, Illinois, US"
 17179.0,Tazewell,Illinois,US,2022-06-01 04:20:55,40.50716185,-89.51404662,38728,472,,,"Tazewell, Illinois, US"
-90017.0,Unassigned,Illinois,US,2022-06-01 04:20:55,,,78,4321,,,"Unassigned, Illinois, US"
+90017.0,Unassigned,Illinois,US,2022-06-01 04:20:55,,,85,4321,,,"Unassigned, Illinois, US"
 17181.0,Union,Illinois,US,2022-06-01 04:20:55,37.47119609,-89.25548938,5482,65,,,"Union, Illinois, US"
 17183.0,Vermilion,Illinois,US,2022-06-01 04:20:55,40.18417171,-87.73384359,28655,297,,,"Vermilion, Illinois, US"
 17185.0,Wabash,Illinois,US,2022-06-01 04:20:55,38.44272901,-87.84922065,3754,28,,,"Wabash, Illinois, US"
