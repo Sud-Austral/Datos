@@ -509,7 +509,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Tacna,Peru,2022-07-12 04:20:51,-17.644160999999997,-70.27756,54868,2148,,,"Tacna, Peru"
 ,,Tumbes,Peru,2022-07-12 04:20:51,-3.857496,-80.54525500000001,27785,1696,,,"Tumbes, Peru"
 ,,Ucayali,Peru,2022-07-12 04:20:51,-9.621718,-73.444929,39746,3273,,,"Ucayali, Peru"
-,,Unknown,Peru,2022-07-12 04:20:51,,,0,0,,,"Unknown, Peru"
+,,Unknown,Peru,2022-07-12 04:20:51,,,8061,10,,,"Unknown, Peru"
 ,,,Philippines,2022-07-12 04:20:51,12.879721,121.77401699999999,3720054,60640,,,Philippines
 ,,,Poland,2022-07-12 04:20:51,51.9194,19.1451,6022454,116453,,,Poland
 ,,,Portugal,2022-07-12 04:20:51,39.3999,-8.2245,5257536,24346,,,Portugal
@@ -3957,7 +3957,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Cherkasy Oblast,Ukraine,2022-03-01 23:21:04,49.4444,32.0598,163768,2973,,,"Cherkasy Oblast, Ukraine"
 ,,Chernihiv Oblast,Ukraine,2022-03-01 23:21:04,51.4982,31.2893,126202,2751,,,"Chernihiv Oblast, Ukraine"
 ,,Chernivtsi Oblast,Ukraine,2022-03-01 23:21:04,48.2917,25.9352,150465,3290,,,"Chernivtsi Oblast, Ukraine"
-,,Crimea Republic*,Ukraine,2022-03-01 23:21:04,45.2835,34.2008,157596,4866,,,"Crimea Republic*, Ukraine"
+,,Crimea Republic*,Ukraine,2022-03-01 23:21:04,45.2835,34.2008,184229,5328,,,"Crimea Republic*, Ukraine"
 ,,Dnipropetrovsk Oblast,Ukraine,2022-03-01 23:21:04,48.4647,35.0462,303551,9454,,,"Dnipropetrovsk Oblast, Ukraine"
 ,,Donetsk Oblast,Ukraine,2022-03-01 23:21:04,48.0159,37.8028,216052,5607,,,"Donetsk Oblast, Ukraine"
 ,,Ivano-Frankivsk Oblast,Ukraine,2022-03-01 23:21:04,48.9226,24.7111,181629,3476,,,"Ivano-Frankivsk Oblast, Ukraine"
@@ -3973,7 +3973,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Odessa Oblast,Ukraine,2022-03-01 23:21:04,46.4846,30.7326,325462,5917,,,"Odessa Oblast, Ukraine"
 ,,Poltava Oblast,Ukraine,2022-03-01 23:21:04,49.5883,34.5514,179994,4181,,,"Poltava Oblast, Ukraine"
 ,,Rivne Oblast,Ukraine,2022-03-01 23:21:04,50.6199,26.2516,171031,2530,,,"Rivne Oblast, Ukraine"
-,,Sevastopol*,Ukraine,2022-03-01 23:21:04,44.6054,33.522,73298,2088,,,"Sevastopol*, Ukraine"
+,,Sevastopol*,Ukraine,2022-03-01 23:21:04,44.6054,33.522,85155,2397,,,"Sevastopol*, Ukraine"
 ,,Sumy Oblast,Ukraine,2022-03-01 23:21:04,50.9077,34.7981,182268,3208,,,"Sumy Oblast, Ukraine"
 ,,Ternopil Oblast,Ukraine,2022-03-01 23:21:04,49.5535,25.5948,146363,2391,,,"Ternopil Oblast, Ukraine"
 ,,Vinnytsia Oblast,Ukraine,2022-03-01 23:21:04,49.2331,28.4682,149845,3546,,,"Vinnytsia Oblast, Ukraine"
@@ -4010,3 +4010,4 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Yemen,2022-07-12 04:20:51,15.552726999999999,48.516388,11832,2149,,,Yemen
 ,,,Zambia,2022-07-12 04:20:51,-13.133897,27.849332,327102,4008,,,Zambia
 ,,,Zimbabwe,2022-07-12 04:20:51,-19.015438,29.154857,255953,5565,,,Zimbabwe
+,,Unknown,Ukraine,2022-07-12 04:20:51,,,247991,3937,0.0,0.0,"Unknown, Ukraine"
