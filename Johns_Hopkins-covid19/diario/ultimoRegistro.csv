@@ -509,7 +509,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Tacna,Peru,2022-08-21 04:20:44,-17.644160999999997,-70.27756,57983,2159,,,"Tacna, Peru"
 ,,Tumbes,Peru,2022-08-21 04:20:44,-3.857496,-80.54525500000001,30278,1704,,,"Tumbes, Peru"
 ,,Ucayali,Peru,2022-08-21 04:20:44,-9.621718,-73.444929,42009,3276,,,"Ucayali, Peru"
-,,Unknown,Peru,2022-08-21 04:20:44,,,85118,515,,,"Unknown, Peru"
+,,Unknown,Peru,2022-08-21 04:20:44,,,100247,623,,,"Unknown, Peru"
 ,,,Philippines,2022-08-21 04:20:44,12.879721,121.77401699999999,3852170,61308,,,Philippines
 ,,,Poland,2022-08-21 04:20:44,51.9194,19.1451,6142917,116881,,,Poland
 ,,,Portugal,2022-08-21 04:20:44,39.3999,-8.2245,5391747,24772,,,Portugal
@@ -2291,7 +2291,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 29181.0,Ripley,Missouri,US,2022-08-21 04:20:44,36.65460667,-90.85990261,2934,63,,,"Ripley, Missouri, US"
 29195.0,Saline,Missouri,US,2022-08-21 04:20:44,39.13734288,-93.20259964,6761,110,,,"Saline, Missouri, US"
 29197.0,Schuyler,Missouri,US,2022-08-21 04:20:44,40.46921489,-92.52311943,817,27,,,"Schuyler, Missouri, US"
-29199.0,Scotland,Missouri,US,2022-08-21 04:20:44,40.45214695,-92.14709064,681,18,,,"Scotland, Missouri, US"
+29199.0,Scotland,Missouri,US,2022-08-21 04:20:44,40.45214695,-92.14709064,731,18,,,"Scotland, Missouri, US"
 29201.0,Scott,Missouri,US,2022-08-21 04:20:44,37.05588075,-89.56474493,12457,164,,,"Scott, Missouri, US"
 29203.0,Shannon,Missouri,US,2022-08-21 04:20:44,37.15772072,-91.40190382,1726,41,,,"Shannon, Missouri, US"
 29205.0,Shelby,Missouri,US,2022-08-21 04:20:44,39.79742518,-92.07634971,1831,15,,,"Shelby, Missouri, US"
@@ -2306,7 +2306,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 29211.0,Sullivan,Missouri,US,2022-08-21 04:20:44,40.2099105,-93.11150106,1839,24,,,"Sullivan, Missouri, US"
 29213.0,Taney,Missouri,US,2022-08-21 04:20:44,36.65465345,-93.04075153,14842,239,,,"Taney, Missouri, US"
 29215.0,Texas,Missouri,US,2022-08-21 04:20:44,37.31728859,-91.96564727,5116,107,,,"Texas, Missouri, US"
-90029.0,Unassigned,Missouri,US,2022-08-21 04:20:44,,,124622,762,,,"Unassigned, Missouri, US"
+90029.0,Unassigned,Missouri,US,2022-08-21 04:20:44,,,0,0,,,"Unassigned, Missouri, US"
 29217.0,Vernon,Missouri,US,2022-08-21 04:20:44,37.8457799,-94.34127305,5609,111,,,"Vernon, Missouri, US"
 29219.0,Warren,Missouri,US,2022-08-21 04:20:44,38.76529479,-91.16124662,8989,107,,,"Warren, Missouri, US"
 29221.0,Washington,Missouri,US,2022-08-21 04:20:44,37.96130078,-90.87948158,6541,147,,,"Washington, Missouri, US"
