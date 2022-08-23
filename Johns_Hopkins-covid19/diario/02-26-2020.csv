@@ -45,7 +45,7 @@ Taiwan,Taiwan,2020-02-26T12:23:04,32,1,5
 Qinghai,Mainland China,2020-02-21T04:43:02,18,0,18
 ,Vietnam,2020-02-25T08:53:02,16,0,16
 ,Spain,2020-02-26T20:43:02,13,0,2
-,UK,2020-02-24T08:33:02,13,0,8
+Unknown,United Kingdom,2020-02-24T08:33:02,13,0,8
 ,United Arab Emirates,2020-02-22T14:53:02,13,0,4
 Macau,Macau,2020-02-25T15:23:04,10,0,7
 From Diamond Princess,Australia,2020-02-22T17:03:05,7,0,0
@@ -131,3 +131,7 @@ Jersey,United Kingdom,2020-02-26T14:13:10,0,0,0
 Guernsey,United Kingdom,2020-02-26T14:13:10,0,0,0
 ,"Korea, North",2020-02-26T14:13:10,0,0,0
 Unknown,Ukraine,2020-02-26T14:13:10,0,0,0
+England,United Kingdom,2020-02-26T14:13:10,0,3,0
+Northern Ireland,United Kingdom,2020-02-26T14:13:10,0,0,0
+Scotland,United Kingdom,2020-02-26T14:13:10,0,0,0
+Wales,United Kingdom,2020-02-26T14:13:10,0,0,0

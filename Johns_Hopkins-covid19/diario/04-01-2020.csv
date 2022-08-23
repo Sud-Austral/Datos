@@ -2476,7 +2476,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Uganda,2020-04-01 21:58:34,1.373333,32.290275,44,0,0,44,Uganda
 ,,,Ukraine,2020-04-01 21:58:34,48.3794,31.1656,794,20,13,761,Ukraine
 ,,,United Arab Emirates,2020-04-01 21:58:34,23.424076,53.847818,814,8,61,745,United Arab Emirates
-,,,United Kingdom,2020-04-01 21:58:34,55.3781,-3.4360000000000004,29474,2352,135,26987,United Kingdom
+,,Unknown,United Kingdom,2020-04-01 21:58:34,55.3781,-3.4360000000000004,29474,0,135,26987,United Kingdom
 ,,,Uruguay,2020-04-01 21:58:34,-32.5228,-55.7658,338,2,41,295,Uruguay
 ,,,Uzbekistan,2020-04-01 21:58:34,41.377491,64.585262,181,2,12,167,Uzbekistan
 ,,,Venezuela,2020-04-01 21:58:34,6.4238,-66.5897,143,3,41,99,Venezuela
@@ -2513,3 +2513,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Guernsey,United Kingdom,2020-04-01 21:58:49,49.448196,-2.58949,79,1,0,0,"Guernsey, United Kingdom"
 ,,,"Korea, North",2020-04-01 21:58:49,40.3399,127.5101,0,0,0,0,"Korea, North"
 ,,Unknown,Ukraine,2020-04-01 21:58:49,,,0,0,0,0,"Unknown, Ukraine"
+82601.0,,England,United Kingdom,2020-04-01 21:58:49,52.3555,-1.1743,0,5430,0,0,"England, United Kingdom"
+82602.0,,Northern Ireland,United Kingdom,2020-04-01 21:58:49,54.7877,-6.4923,0,59,0,0,"Northern Ireland, United Kingdom"
+82603.0,,Scotland,United Kingdom,2020-04-01 21:58:49,56.4907,-4.2026,0,362,0,0,"Scotland, United Kingdom"
+82604.0,,Wales,United Kingdom,2020-04-01 21:58:49,52.1307,-3.7837,0,198,0,0,"Wales, United Kingdom"

@@ -48,7 +48,7 @@ California,US,1/31/2020 23:59,2.0,,
 Ontario,Canada,1/31/2020 23:59,3.0,,
 Queensland,Australia,1/31/2020 23:59,2.0,,
 ,Italy,1/31/2020 23:59,2.0,,
-,UK,1/31/2020 23:59,2.0,,
+Unknown,United Kingdom,1/31/2020 23:59,2.0,0.0,
 ,Russia,1/31/2020 23:59,2.0,,
 Washington,US,1/31/2020 23:59,1.0,,
 Arizona,US,1/31/2020 23:59,1.0,,
@@ -89,3 +89,7 @@ Jersey,United Kingdom,1/31/2020 23:59,0.0,0.0,0.0
 Guernsey,United Kingdom,1/31/2020 23:59,0.0,0.0,0.0
 ,"Korea, North",1/31/2020 23:59,0.0,0.0,0.0
 Unknown,Ukraine,1/31/2020 23:59,0.0,0.0,0.0
+England,United Kingdom,1/31/2020 23:59,0.0,1.0,0.0
+Northern Ireland,United Kingdom,1/31/2020 23:59,0.0,0.0,0.0
+Scotland,United Kingdom,1/31/2020 23:59,0.0,0.0,0.0
+Wales,United Kingdom,1/31/2020 23:59,0.0,0.0,0.0
