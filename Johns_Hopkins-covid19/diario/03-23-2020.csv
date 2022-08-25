@@ -3407,7 +3407,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Uganda,2020-03-23 23:19:21,1.373333,32.290275,9,0,0,9,Uganda
 ,,,Ukraine,2020-03-23 23:19:21,48.3794,31.1656,73,3,1,69,Ukraine
 ,,,United Arab Emirates,2020-03-23 23:19:21,23.424076,53.847818,198,2,41,155,United Arab Emirates
-,,Unknown,United Kingdom,2020-03-23 23:19:21,55.3781,-3.4360000000000004,6650,0,135,6180,United Kingdom
+,,Unknown,United Kingdom,2020-03-23 23:19:21,55.3781,-3.4360000000000004,6650,5,135,6180,United Kingdom
 ,,,Uruguay,2020-03-23 23:19:21,-32.5228,-55.7658,158,0,0,158,Uruguay
 ,,,Uzbekistan,2020-03-23 23:19:21,41.377491,64.585262,46,0,0,46,Uzbekistan
 ,,,Venezuela,2020-03-23 23:19:21,6.4238,-66.5897,77,0,15,62,Venezuela

@@ -3985,7 +3985,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,British Virgin Islands,United Kingdom,2022-01-11 04:22:01,18.4207,-64.64,4207,40,,,"British Virgin Islands, United Kingdom",15755.531302708601,0.9507962918944616
 ,,Cayman Islands,United Kingdom,2022-01-11 04:22:01,19.3133,-81.2546,10618,12,,,"Cayman Islands, United Kingdom",16156.421180766887,0.1130156338293464
 ,,Channel Islands,United Kingdom,2022-01-11 04:22:01,49.3723,-2.3644,0,0,,,"Channel Islands, United Kingdom",20031.789042750985,0.34549393921649
-,,England,United Kingdom,2022-01-11 04:22:01,52.3555,-1.1743,12370121,152822,,,"England, United Kingdom",22098.49903174864,1.0560284737715986
+,,England,United Kingdom,2022-01-11 04:22:01,52.3555,-1.1743,12370121,152840,,,"England, United Kingdom",22098.49903174864,1.0560284737715986
 ,,Falkland Islands (Malvinas),United Kingdom,2022-01-11 04:22:01,-51.7963,-59.5236,85,0,,,"Falkland Islands (Malvinas), United Kingdom",2440.424921045076,0.0
 ,,Gibraltar,United Kingdom,2022-01-11 04:22:01,36.1408,-5.3536,9969,100,,,"Gibraltar, United Kingdom",29589.504615475944,1.0031096398836392
 ,,Isle of Man,United Kingdom,2022-01-11 04:22:01,54.2361,-4.5481,18701,68,,,"Isle of Man, United Kingdom",21992.89679179603,0.3636169188813432
@@ -3994,7 +3994,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,"Saint Helena, Ascension and Tristan da Cunha",United Kingdom,2022-01-11 04:22:01,-7.9467,-14.3559,4,0,,,"Saint Helena, Ascension and Tristan da Cunha, United Kingdom",70.65889418830595,0.0
 ,,Scotland,United Kingdom,2022-01-11 04:22:01,56.4907,-4.2026,1056837,12722,,,"Scotland, United Kingdom",19344.297402668715,0.9399746602361576
 ,,Turks and Caicos Islands,United Kingdom,2022-01-11 04:22:01,21.69400000000001,-71.7979,4011,27,,,"Turks and Caicos Islands, United Kingdom",10359.522702618935,0.6731488406881077
-,,Unknown,United Kingdom,2022-01-11 04:22:01,,,0,0,,,"Unknown, United Kingdom",,
+,,Unknown,United Kingdom,2022-01-11 04:22:01,,,0,259,,,"Unknown, United Kingdom",,
 ,,Wales,United Kingdom,2022-01-11 04:22:01,52.1307,-3.7837,727486,9395,,,"Wales, United Kingdom",23178.678391639583,0.9141069381403903
 ,,,Uruguay,2022-01-11 04:22:01,-32.5228,-55.7658,456179,6199,,,Uruguay,13132.263991960219,1.3588963981244204
 ,,,Uzbekistan,2022-01-11 04:22:01,41.377491,64.585262,200730,1497,,,Uzbekistan,599.7454555156818,0.7457779106262143

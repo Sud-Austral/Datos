@@ -3961,7 +3961,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,British Virgin Islands,United Kingdom,2021-05-18 04:20:33,18.4207,-64.64,248,1,209.0,38.0,"British Virgin Islands, United Kingdom",820.1871878823957,0.4032258064516129
 ,,Cayman Islands,United Kingdom,2021-05-18 04:20:33,19.3133,-81.2546,565,2,547.0,16.0,"Cayman Islands, United Kingdom",859.7078514911748,0.3539823008849557
 ,,Channel Islands,United Kingdom,2021-05-18 04:20:33,49.3723,-2.3644,0,0,3956.0,17.0,"Channel Islands, United Kingdom",2380.6591241004344,2.1187484602118754
-,,England,United Kingdom,2021-05-18 04:20:33,52.3555,-1.1743,3889132,132817,0.0,3776822.0,"England, United Kingdom",6947.707280821477,2.8877909003859985
+,,England,United Kingdom,2021-05-18 04:20:33,52.3555,-1.1743,3889132,132824,0.0,3776822.0,"England, United Kingdom",6947.707280821477,2.8877909003859985
 ,,Falkland Islands (Malvinas),United Kingdom,2021-05-18 04:20:33,-51.7963,-59.5236,63,0,63.0,0.0,"Falkland Islands (Malvinas), United Kingdom",1808.7855297157626,0.0
 ,,Gibraltar,United Kingdom,2021-05-18 04:20:33,36.1408,-5.3536,4286,94,4192.0,0.0,"Gibraltar, United Kingdom",12721.498322994272,2.1931871208586093
 ,,Isle of Man,United Kingdom,2021-05-18 04:20:33,54.2361,-4.5481,1591,29,1558.0,4.0,"Isle of Man, United Kingdom",1871.0603067080629,1.8227529855436837
@@ -3970,7 +3970,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,"Saint Helena, Ascension and Tristan da Cunha",United Kingdom,2021-05-18 04:20:33,-7.9467,-14.3559,4,0,4.0,0.0,"Saint Helena, Ascension and Tristan da Cunha, United Kingdom",70.65889418830595,0.0
 ,,Scotland,United Kingdom,2021-05-18 04:20:33,56.4907,-4.2026,229774,10132,0.0,222110.0,"Scotland, United Kingdom",4205.7730675599,3.3354513565503496
 ,,Turks and Caicos Islands,United Kingdom,2021-05-18 04:20:33,21.69400000000001,-71.7979,2404,17,2365.0,22.0,"Turks and Caicos Islands, United Kingdom",6208.998398677619,0.7071547420965059
-,,Unknown,United Kingdom,2021-05-18 04:20:33,,,0,0,0.0,0.0,"Unknown, United Kingdom",,
+,,Unknown,United Kingdom,2021-05-18 04:20:33,,,0,184,0.0,0.0,"Unknown, United Kingdom",,
 ,,Wales,United Kingdom,2021-05-18 04:20:33,52.1307,-3.7837,212240,7925,0.0,206680.0,"Wales, United Kingdom",6762.250685018797,2.6196758386732
 ,,,Uruguay,2021-05-18 04:20:33,-32.5228,-55.7658,242906,3521,212051.0,27334.0,Uruguay,6992.66234796229,1.4495319176965575
 ,,,Uzbekistan,2021-05-18 04:20:33,41.377491,64.585262,96893,670,92303.0,3920.0,Uzbekistan,289.49901071728664,0.6914844209592024

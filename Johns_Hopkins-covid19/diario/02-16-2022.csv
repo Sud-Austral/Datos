@@ -3986,7 +3986,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,British Virgin Islands,United Kingdom,2022-02-17 04:20:56,18.4207,-64.64,5997,61,,,"British Virgin Islands, United Kingdom",19833.31679730132,1.0171752542938135
 ,,Cayman Islands,United Kingdom,2022-02-17 04:20:56,19.3133,-81.2546,17687,16,,,"Cayman Islands, United Kingdom",26912.659768715763,0.09046192118505116
 ,,Channel Islands,United Kingdom,2022-02-17 04:20:56,49.3723,-2.3644,0,0,,,"Channel Islands, United Kingdom",0.0,
-,,England,United Kingdom,2022-02-17 04:20:56,52.3555,-1.1743,15727107,158779,,,"England, United Kingdom",28095.55854883774,0.8863550047697901
+,,England,United Kingdom,2022-02-17 04:20:56,52.3555,-1.1743,15727107,158809,,,"England, United Kingdom",28095.55854883774,0.8863550047697901
 ,,Falkland Islands (Malvinas),United Kingdom,2022-02-17 04:20:56,-51.7963,-59.5236,105,0,,,"Falkland Islands (Malvinas), United Kingdom",3014.6425495262706,0.0
 ,,Gibraltar,United Kingdom,2022-02-17 04:20:56,36.1408,-5.3536,14706,101,,,"Gibraltar, United Kingdom",43649.639369564575,0.6867945056439548
 ,,Guernsey,United Kingdom,2022-02-17 04:20:56,49.448196,-2.58949,12779,31,,,"Guernsey, United Kingdom",20284.126984126986,0.2425854918225213
@@ -3997,7 +3997,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,"Saint Helena, Ascension and Tristan da Cunha",United Kingdom,2022-02-17 04:20:56,-7.9467,-14.3559,4,0,,,"Saint Helena, Ascension and Tristan da Cunha, United Kingdom",70.65889418830595,0.0
 ,,Scotland,United Kingdom,2022-02-17 04:20:56,56.4907,-4.2026,1319373,13279,,,"Scotland, United Kingdom",24149.744659820986,0.7991674833424665
 ,,Turks and Caicos Islands,United Kingdom,2022-02-17 04:20:56,21.69400000000001,-71.7979,5832,35,,,"Turks and Caicos Islands, United Kingdom",15062.76150627615,0.6001371742112482
-,,Unknown,United Kingdom,2022-02-17 04:20:56,,,0,0,,,"Unknown, United Kingdom",,
+,,Unknown,United Kingdom,2022-02-17 04:20:56,,,0,272,,,"Unknown, United Kingdom",,
 ,,Wales,United Kingdom,2022-02-17 04:20:56,52.1307,-3.7837,804484,9734,,,"Wales, United Kingdom",25631.93780666539,0.8615460344767578
 ,,,Uruguay,2022-02-17 04:20:56,-32.5228,-55.7658,795316,6820,,,Uruguay,22895.17857908811,0.8575207841914408
 ,,,Uzbekistan,2022-02-17 04:20:56,41.377491,64.585262,234359,1609,,,Uzbekistan,700.2229124156813,0.6865535353880158

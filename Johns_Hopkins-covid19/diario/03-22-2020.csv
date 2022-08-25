@@ -3240,7 +3240,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,France,3/22/20 23:45,46.2276,2.2137,16533,674,2200,13659,France
 ,,,"Korea, South",3/22/20 23:45,35.907757000000004,127.766922,8897,104,2909,5884,"Korea, South"
 ,,,Switzerland,3/22/20 23:45,46.8182,8.2275,7474,113,131,7230,Switzerland
-,,Unknown,United Kingdom,3/22/20 23:45,55.3781,-3.4360000000000004,5683,0,93,5309,United Kingdom
+,,Unknown,United Kingdom,3/22/20 23:45,55.3781,-3.4360000000000004,5683,3,93,5309,United Kingdom
 ,,,Netherlands,3/22/20 23:45,52.1326,5.2913,4204,179,2,4023,Netherlands
 ,,,Austria,3/22/20 23:45,47.5162,14.5501,2907,20,9,3555,Austria
 ,,,Belgium,3/22/20 23:45,50.8333,4.469936,3401,75,263,3063,Belgium
