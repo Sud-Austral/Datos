@@ -509,7 +509,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Tacna,Peru,2022-08-30 04:21:03,-17.644160999999997,-70.27756,59833,2173,,,"Tacna, Peru"
 ,,Tumbes,Peru,2022-08-30 04:21:03,-3.857496,-80.54525500000001,31338,1716,,,"Tumbes, Peru"
 ,,Ucayali,Peru,2022-08-30 04:21:03,-9.621718,-73.444929,42932,3287,,,"Ucayali, Peru"
-,,Unknown,Peru,2022-08-30 04:21:03,,,0,0,,,"Unknown, Peru"
+,,Unknown,Peru,2022-08-30 04:21:03,,,1138,46,,,"Unknown, Peru"
 ,,,Philippines,2022-08-30 04:21:03,12.879721,121.77401699999999,3877110,61720,,,Philippines
 ,,,Poland,2022-08-30 04:21:03,51.9194,19.1451,6167759,117030,,,Poland
 ,,,Portugal,2022-08-30 04:21:03,39.3999,-8.2245,5413173,24839,,,Portugal
@@ -667,7 +667,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Taiwan*,2022-08-30 04:21:03,23.7,121.0,5242009,9866,,,Taiwan*
 ,,,Tajikistan,2022-08-30 04:21:03,38.861,71.2761,17786,125,,,Tajikistan
 ,,,Tanzania,2022-08-30 04:21:03,-6.369028,34.888822,38712,841,,,Tanzania
-,,,Thailand,2022-08-30 04:21:03,15.870032,100.992541,4647685,32248,,,Thailand
+,,,Thailand,2022-08-30 04:21:03,15.870032,100.992541,4648679,32275,,,Thailand
 ,,,Timor-Leste,2022-08-30 04:21:03,-8.874217,125.727539,23161,138,,,Timor-Leste
 ,,,Togo,2022-08-30 04:21:03,8.6195,0.8248,38451,282,,,Togo
 ,,,Tonga,2022-08-30 04:21:03,-21.179000000000002,-175.1982,15235,12,,,Tonga
@@ -2298,7 +2298,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 29183.0,St. Charles,Missouri,US,2022-08-30 04:21:03,38.77875681,-90.66662425,108515,982,,,"St. Charles, Missouri, US"
 29185.0,St. Clair,Missouri,US,2022-08-30 04:21:03,38.03699437,-93.77631447,2354,41,,,"St. Clair, Missouri, US"
 29187.0,St. Francois,Missouri,US,2022-08-30 04:21:03,37.81214171,-90.47598685,21124,306,,,"St. Francois, Missouri, US"
-29189.0,St. Louis,Missouri,US,2022-08-30 04:21:03,38.63770039999999,-90.4458375,258895,3434,,,"St. Louis, Missouri, US"
+29189.0,St. Louis,Missouri,US,2022-08-30 04:21:03,38.63770039999999,-90.4458375,264306,3475,,,"St. Louis, Missouri, US"
 29510.0,St. Louis City,Missouri,US,2022-08-30 04:21:03,38.63555736,-90.24349225,68609,809,,,"St. Louis City, Missouri, US"
 29186.0,Ste. Genevieve,Missouri,US,2022-08-30 04:21:03,37.89090059,-90.1949941,4233,39,,,"Ste. Genevieve, Missouri, US"
 29207.0,Stoddard,Missouri,US,2022-08-30 04:21:03,36.85571651,-89.9444155,6701,140,,,"Stoddard, Missouri, US"
