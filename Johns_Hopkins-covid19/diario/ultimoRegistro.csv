@@ -215,7 +215,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Saint Barthelemy,France,2022-11-01 04:22:36,17.9,-62.8333,5323,6,,,"Saint Barthelemy, France"
 ,,Saint Pierre and Miquelon,France,2022-11-01 04:22:36,46.8852,-56.3159,3231,1,,,"Saint Pierre and Miquelon, France"
 ,,St Martin,France,2022-11-01 04:22:36,18.0708,-63.0501,12026,63,,,"St Martin, France"
-,,Wallis and Futuna,France,2022-11-01 04:22:36,-14.2938,-178.1165,761,7,,,"Wallis and Futuna, France"
+,,Wallis and Futuna,France,2022-11-01 04:22:36,-14.2938,-178.1165,3415,7,,,"Wallis and Futuna, France"
 ,,,France,2022-11-01 04:22:36,46.2276,2.2137,35825887,153457,,,France
 ,,,Gabon,2022-11-01 04:22:36,-0.8037,11.6094,48945,306,,,Gabon
 ,,,Gambia,2022-11-01 04:22:36,13.4432,-15.3101,12580,372,,,Gambia
@@ -511,7 +511,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Tacna,Peru,2022-11-01 04:22:36,-17.644160999999997,-70.27756,60678,2195,,,"Tacna, Peru"
 ,,Tumbes,Peru,2022-11-01 04:22:36,-3.857496,-80.54525500000001,31604,1729,,,"Tumbes, Peru"
 ,,Ucayali,Peru,2022-11-01 04:22:36,-9.621718,-73.444929,43054,3295,,,"Ucayali, Peru"
-,,Unknown,Peru,2022-11-01 04:22:36,,,0,0,,,"Unknown, Peru"
+,,Unknown,Peru,2022-11-01 04:22:36,,,846,7,,,"Unknown, Peru"
 ,,,Philippines,2022-11-01 04:22:36,12.879721,121.77401699999999,4004465,64074,,,Philippines
 ,,,Poland,2022-11-01 04:22:36,51.9194,19.1451,6340435,118124,,,Poland
 ,,,Portugal,2022-11-01 04:22:36,39.3999,-8.2245,5520731,25228,,,Portugal
