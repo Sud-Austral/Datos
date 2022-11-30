@@ -511,7 +511,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Tacna,Peru,2022-11-29 04:21:05,-17.644160999999997,-70.27756,61241,2199,,,"Tacna, Peru"
 ,,Tumbes,Peru,2022-11-29 04:21:05,-3.857496,-80.54525500000001,31817,1732,,,"Tumbes, Peru"
 ,,Ucayali,Peru,2022-11-29 04:21:05,-9.621718,-73.444929,43886,3295,,,"Ucayali, Peru"
-,,Unknown,Peru,2022-11-29 04:21:05,,,0,0,,,"Unknown, Peru"
+,,Unknown,Peru,2022-11-29 04:21:05,,,1733,16,,,"Unknown, Peru"
 ,,,Philippines,2022-11-29 04:21:05,12.879721,121.77401699999999,4034658,64608,,,Philippines
 ,,,Poland,2022-11-29 04:21:05,51.9194,19.1451,6351408,118306,,,Poland
 ,,,Portugal,2022-11-29 04:21:05,39.3999,-8.2245,5542265,25450,,,Portugal
@@ -610,7 +610,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Saudi Arabia,2022-11-29 04:21:05,23.885942,45.079162,825497,9459,,,Saudi Arabia
 ,,,Senegal,2022-11-29 04:21:05,14.4974,-14.4524,88859,1968,,,Senegal
 ,,,Serbia,2022-11-29 04:21:05,44.0165,21.0059,2422181,17374,,,Serbia
-,,,Seychelles,2022-11-29 04:21:05,-4.6796,55.492,49862,298,,,Seychelles
+,,,Seychelles,2022-11-29 04:21:05,-4.6796,55.492,49862,171,,,Seychelles
 ,,,Sierra Leone,2022-11-29 04:21:05,8.460555000000001,-11.779889,7758,126,,,Sierra Leone
 ,,,Singapore,2022-11-29 04:21:05,1.2833,103.8333,2164689,1702,,,Singapore
 ,,,Slovakia,2022-11-29 04:21:05,48.669,19.699,2649580,20729,,,Slovakia
@@ -4001,7 +4001,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Northern Ireland,United Kingdom,2022-11-29 04:21:05,54.7877,-6.4923,713294,4947,,,"Northern Ireland, United Kingdom"
 ,,Pitcairn Islands,United Kingdom,2022-11-29 04:21:05,-24.3768,-128.3242,4,0,,,"Pitcairn Islands, United Kingdom"
 ,,"Saint Helena, Ascension and Tristan da Cunha",United Kingdom,2022-11-29 04:21:05,-7.9467,-14.3559,2162,0,,,"Saint Helena, Ascension and Tristan da Cunha, United Kingdom"
-,,Scotland,United Kingdom,2022-11-29 04:21:05,56.4907,-4.2026,2125838,16000,,,"Scotland, United Kingdom"
+,,Scotland,United Kingdom,2022-11-29 04:21:05,56.4907,-4.2026,2125838,16048,,,"Scotland, United Kingdom"
 ,,Turks and Caicos Islands,United Kingdom,2022-11-29 04:21:05,21.694000000000003,-71.7979,6446,36,,,"Turks and Caicos Islands, United Kingdom"
 ,,Unknown,United Kingdom,2022-11-29 04:21:05,,,0,324,,,"Unknown, United Kingdom"
 ,,Wales,United Kingdom,2022-11-29 04:21:05,52.1307,-3.7837,889924,11046,,,"Wales, United Kingdom"
