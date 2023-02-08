@@ -3991,7 +3991,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,British Virgin Islands,United Kingdom,2022-10-01 04:23:01,18.4207,-64.64,7305,64,,,"British Virgin Islands, United Kingdom",24159.14277210041,0.8761122518822724
 ,,Cayman Islands,United Kingdom,2022-10-01 04:23:01,19.3133,-81.2546,30661,32,,,"Cayman Islands, United Kingdom",46653.98660986001,0.10436711131404716
 ,,Channel Islands,United Kingdom,2022-10-01 04:23:01,49.3723,-2.3644,0,0,,,"Channel Islands, United Kingdom",0.0,
-,,England,United Kingdom,2022-10-01 04:23:01,52.3555,-1.1743,19968866,176614,,,"England, United Kingdom",35673.213379733184,0.8789983367107577
+,,England,United Kingdom,2022-10-01 04:23:01,52.3555,-1.1743,19968866,176630,,,"England, United Kingdom",35673.213379733184,0.8789983367107577
 ,,Falkland Islands (Malvinas),United Kingdom,2022-10-01 04:23:01,-51.7963,-59.5236,1930,0,,,"Falkland Islands (Malvinas), United Kingdom",55412.001148435265,0.0
 ,,Gibraltar,United Kingdom,2022-10-01 04:23:01,36.1408,-5.3536,20095,108,,,"Gibraltar, United Kingdom",59645.009052862784,0.5374471261507838
 ,,Guernsey,United Kingdom,2022-10-01 04:23:01,49.448196,-2.58949,31309,63,,,"Guernsey, United Kingdom",49696.8253968254,0.20122009645788752
@@ -4001,10 +4001,10 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Northern Ireland,United Kingdom,2022-10-01 04:23:01,54.7877,-6.4923,713294,4880,,,"Northern Ireland, United Kingdom",37908.90731292517,0.6802244235897119
 ,,Pitcairn Islands,United Kingdom,2022-10-01 04:23:01,-24.3768,-128.3242,4,0,,,"Pitcairn Islands, United Kingdom",5970.1492537313425,0.0
 ,,"Saint Helena, Ascension and Tristan da Cunha",United Kingdom,2022-10-01 04:23:01,-7.9467,-14.3559,1521,0,,,"Saint Helena, Ascension and Tristan da Cunha, United Kingdom",26868.04451510334,0.0
-,,Scotland,United Kingdom,2022-10-01 04:23:01,56.4907,-4.2026,2105010,15798,,,"Scotland, United Kingdom",38530.0093350173,0.7457446757972647
+,,Scotland,United Kingdom,2022-10-01 04:23:01,56.4907,-4.2026,2105010,15799,,,"Scotland, United Kingdom",38530.0093350173,0.7457446757972647
 ,,Turks and Caicos Islands,United Kingdom,2022-10-01 04:23:01,21.694000000000003,-71.7979,6380,36,,,"Turks and Caicos Islands, United Kingdom",16478.123870034608,0.5642633228840125
-,,Unknown,United Kingdom,2022-10-01 04:23:01,,,0,320,,,"Unknown, United Kingdom",,
-,,Wales,United Kingdom,2022-10-01 04:23:01,52.1307,-3.7837,885682,10850,,,"Wales, United Kingdom",28219.014847384184,1.2181573070244174
+,,Unknown,United Kingdom,2022-10-01 04:23:01,,,0,321,,,"Unknown, United Kingdom",,
+,,Wales,United Kingdom,2022-10-01 04:23:01,52.1307,-3.7837,885682,10851,,,"Wales, United Kingdom",28219.014847384184,1.2181573070244174
 ,,,Uruguay,2022-10-01 04:23:01,-32.5228,-55.7658,985422,7485,,,Uruguay,28367.859650456125,0.7595730560105214
 ,,,Uzbekistan,2022-10-01 04:23:01,41.377491,64.585262,244218,1637,,,Uzbekistan,729.6798468346973,0.6703027622861542
 ,,,Vanuatu,2022-10-01 04:23:01,-15.3767,166.9592,11950,14,,,Vanuatu,4082.957496241629,0.11715481171548114
