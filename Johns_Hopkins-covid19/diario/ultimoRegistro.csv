@@ -511,7 +511,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Tacna,Peru,2023-02-24 04:20:54,-17.644160999999997,-70.27756,66032,2256,,,"Tacna, Peru"
 ,,Tumbes,Peru,2023-02-24 04:20:54,-3.857496,-80.54525500000001,33866,1752,,,"Tumbes, Peru"
 ,,Ucayali,Peru,2023-02-24 04:20:54,-9.621718,-73.444929,45826,3301,,,"Ucayali, Peru"
-,,Unknown,Peru,2023-02-24 04:20:54,,,0,34,,,"Unknown, Peru"
+,,Unknown,Peru,2023-02-24 04:20:54,,,0,43,,,"Unknown, Peru"
 ,,,Philippines,2023-02-24 04:20:54,12.879721,121.77401699999999,4075812,66063,,,Philippines
 ,,,Poland,2023-02-24 04:20:54,51.9194,19.1451,6409609,118850,,,Poland
 ,,,Portugal,2023-02-24 04:20:54,39.3999,-8.2245,5566708,26117,,,Portugal
@@ -2496,7 +2496,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 33015.0,Rockingham,New Hampshire,US,2023-02-24 04:20:54,42.98499744,-71.12883377,84238,650,,,"Rockingham, New Hampshire, US"
 33017.0,Strafford,New Hampshire,US,2023-02-24 04:20:54,43.291833000000004,-71.02336013,36940,249,,,"Strafford, New Hampshire, US"
 33019.0,Sullivan,New Hampshire,US,2023-02-24 04:20:54,43.36094111,-72.22203125,11852,82,,,"Sullivan, New Hampshire, US"
-90033.0,Unassigned,New Hampshire,US,2023-02-24 04:20:54,,,2315,1,,,"Unassigned, New Hampshire, US"
+90033.0,Unassigned,New Hampshire,US,2023-02-24 04:20:54,,,2310,1,,,"Unassigned, New Hampshire, US"
 34001.0,Atlantic,New Jersey,US,2023-02-24 04:20:54,39.47538693,-74.65848483,91266,1081,,,"Atlantic, New Jersey, US"
 34003.0,Bergen,New Jersey,US,2023-02-24 04:20:54,40.96010917,-74.07164325,325329,3723,,,"Bergen, New Jersey, US"
 34005.0,Burlington,New Jersey,US,2023-02-24 04:20:54,39.87681124,-74.66927768,141219,1374,,,"Burlington, New Jersey, US"
