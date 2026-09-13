@@ -1,7 +1,7 @@
 pandas==1.0.3
 openpyxl==3.0.3
 xlrd==1.2.0
-urllib3==1.25.8
+urllib3==1.26.18
 tweepy==3.9.0
 azure-ai-formrecognizer
 azure-ai-textanalytics
